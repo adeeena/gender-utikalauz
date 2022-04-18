@@ -47,9 +47,7 @@ namespace TranszInfo.Logic.BusinessLogic
                     .SetSlidingExpiration(TimeSpan.FromMinutes(20));
 
                 List<Category>? categories =
-                    _context.Categories
-                    .Where(q => q.LanguageCode == languageCode)
-                    .OrderBy(q => q.Order).ToList();
+                    null;
 
                 cacheValue = _mapper.MapCollection<Category, CategoryModel>(categories);
 

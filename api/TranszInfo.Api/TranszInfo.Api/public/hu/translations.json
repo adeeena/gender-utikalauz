@@ -1,6 +1,26 @@
-[
+﻿[
   {
-    "key": "test",
-    "value": "demo"
+    "key": "general.lineWelcome",
+    "value": "👋 Üdvözlet a"
+  },
+  {
+    "key": "general.title",
+    "value": "Transz Wiki"
+  },
+  {
+    "key": "general.lineExplain",
+    "value": "oldalán, ahol rengeteg információt találhatsz az tranzíció előtt, vagy alatt lévő transz embereknek, családjaiknak és támogatóiknak."
+  },
+  {
+    "key": "general.intro",
+    "value": "Bevezető"
+  },
+  {
+    "key": "general.allArticle",
+    "value": "Minden cikk"
+  },
+  {
+    "key": "sidebar.title",
+    "value": "Dokumentumtár"
   }
 ]

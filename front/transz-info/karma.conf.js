@@ -25,7 +25,7 @@ module.exports = function (config) {
       suppressAll: true // removes the duplicated traces
     },
     coverageReporter: {
-      dir: require('path').join(__dirname, './coverage/transz-wiki'),
+      dir: require('path').join(__dirname, './coverage/transz-info'),
       subdir: '.',
       reporters: [
         { type: 'html' },

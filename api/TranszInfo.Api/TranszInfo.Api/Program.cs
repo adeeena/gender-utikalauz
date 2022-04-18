@@ -19,11 +19,6 @@ builder.Services.AddScoped<ITranslationLogic, TranslationLogic>();
 builder.Services.AddScoped<ICategoryLogic, CategoryLogic>();
 builder.Services.AddScoped<IEntryLogic, EntryLogic>();
 
-
-string? connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
-builder.Services.AddDbContext<MikroagressziContext>(options =>
-   options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
-
 builder.Services.AddCors(opt =>
 {
     opt.AddPolicy("CorsPolicy", builder => builder

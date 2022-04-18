@@ -13,8 +13,6 @@ namespace TranszInfo.Logic.BusinessLogic
     {
         #region Properties
 
-        private readonly MikroagressziContext _context;
-
         private readonly IMapper _mapper;
 
         private readonly IMemoryCache _memoryCache;
@@ -23,9 +21,8 @@ namespace TranszInfo.Logic.BusinessLogic
 
         #region ctor
 
-        public EntryLogic(MikroagressziContext context, IMapper mapper, IMemoryCache memoryCache)
+        public EntryLogic(IMapper mapper, IMemoryCache memoryCache)
         {
-            _context = context;
             _mapper = mapper;
             _memoryCache = memoryCache;
         }
@@ -43,15 +40,15 @@ namespace TranszInfo.Logic.BusinessLogic
                 MemoryCacheEntryOptions? cacheEntryOptions = new MemoryCacheEntryOptions()
                     .SetSlidingExpiration(TimeSpan.FromMinutes(20));
 
-                Category? category = _context.Categories.SingleOrDefault(q => q.Id == categoryId);
-                List<Entry>? entries = _context.Entries
-                    .Where(q => q.DeletedAt == null && q.Categories.Any(w => w.Id == categoryId)).ToList();
+                //Category? category = _context.Categories.SingleOrDefault(q => q.Id == categoryId);
+                //List<Entry>? entries = _context.Entries
+                //    .Where(q => q.DeletedAt == null && q.Categories.Any(w => w.Id == categoryId)).ToList();
 
                 cacheValue = new CategoryEntriesResultModel
                 {
-                    Name = category.Name,
-                    Description = category.Description,
-                    Entries = _mapper.MapCollection<Entry, EntryModel>(entries)
+                    //Name = category.Name,
+                    //Description = category.Description,
+                    //Entries = _mapper.MapCollection<Entry, EntryModel>(entries)
                 };
 
                 _memoryCache.Set(CACHE_KEY, cacheValue, cacheEntryOptions);
@@ -89,12 +86,12 @@ namespace TranszInfo.Logic.BusinessLogic
                 MemoryCacheEntryOptions? cacheEntryOptions = new MemoryCacheEntryOptions()
                     .SetSlidingExpiration(TimeSpan.FromMinutes(20));
 
-                List<Entry>? entries = _context.Entries
-                    .Where(q => q.DeletedAt == null && (q.Description.Contains(query) || q.Title.Contains(query))).ToList();
+                //List<Entry>? entries = _context.Entries
+                //    .Where(q => q.DeletedAt == null && (q.Description.Contains(query) || q.Title.Contains(query))).ToList();
 
                 cacheValue = new SearchResultModel
                 {
-                    Entries = _mapper.MapCollection<Entry, EntryModel>(entries)
+                    //Entries = _mapper.MapCollection<Entry, EntryModel>(entries)
                 };
 
                 _memoryCache.Set(CACHE_KEY, cacheValue, cacheEntryOptions);

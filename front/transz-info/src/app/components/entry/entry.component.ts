@@ -5,6 +5,8 @@ import {MatDialog, MatDialogRef, MAT_DIALOG_DATA} from '@angular/material/dialog
 import {fadeInUpOnEnterAnimation} from "angular-animations";
 import {Title} from "@angular/platform-browser";
 import {TranslateService} from "@ngx-translate/core";
+import {Utf8EmojisToImagesPipe} from "../../lib/pipes/utf8-emojis-to-images.pipe";
+import {MarkdownService} from "ngx-markdown";
 
 export interface DialogData {
   link: string;
@@ -24,6 +26,7 @@ export interface DialogData {
 })
 export class EntryComponent implements OnInit {
   public entryId: string = '';
+  public metadata: any;
   public entry: any;
   private innerWidth: number = 0;
 
@@ -31,7 +34,8 @@ export class EntryComponent implements OnInit {
               private entryService: EntryService,
               private titleService: Title,
               private translate: TranslateService,
-              public dialog: MatDialog) { }
+              public dialog: MatDialog,
+              private markdownService: MarkdownService) { }
 
   ngOnInit(): void {
     this.route.queryParamMap.subscribe(params => {
@@ -40,7 +44,9 @@ export class EntryComponent implements OnInit {
       if (this.entryId) {
         this.entryService.getById(this.entryId)
           .subscribe((data: any) => {
-            this.entry = data;
+            const values = data.split('---');
+            this.metadata = values[1];
+            this.entry = this.markdownService.compile(values[2]);
 
             console.dir(data);
             this.titleService.setTitle(

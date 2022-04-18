@@ -1,8 +1,6 @@
 <div class="content">
   <div class="entry-content" *ngIf="entry">
-    <markdown [@enter1]>
-      {{entry}}
-    </markdown>
+    <div [@enter1] [innerHTML]="entry | utf8EmojisToImages"></div>
 
     <div class="entry-actions" [@enter3]>
       <div class="back-to-home">
@@ -25,11 +23,11 @@
     </div>
 
     <div class="disclaimer" [@enter4]>
-      <b>{{ 'general.missingSomethingTitle' | translate }} </b>
-      <span [innerHTML]="'general.missingSomethingText' | translate:{
-                  'linkHungarian': 'https://link.adena.dev/mawform',
-                  'linkFrench': 'https://link.adena.dev/mawformfr'
-               }"></span>
+<!--      <b>{{ 'general.missingSomethingTitle' | translate }} </b>-->
+<!--      <span [innerHTML]="'general.missingSomethingText' | translate:{-->
+<!--                  'linkHungarian': 'https://link.adena.dev/mawform',-->
+<!--                  'linkFrench': 'https://link.adena.dev/mawformfr'-->
+<!--               }"></span>-->
     </div>
   </div>
 </div>

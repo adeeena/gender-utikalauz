@@ -1,9 +1,23 @@
 @use '@angular/material' as mat;
 @import '../../../styles';
 
+::ng-deep .header-image {
+  text-align: center;
+  
+  img {
+    width: 30vw;
+  }
+}
+
+::ng-deep h1 {
+  text-align: center;
+}
+
 .content {
   background: map-get(mat.$gray-palette, 100);
   min-height: 90vh;
+
+
 
   .entry-content {
     .entry-title {

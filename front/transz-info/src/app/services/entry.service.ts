@@ -28,7 +28,7 @@ export class EntryService {
   }
 
   getById(entryId: string) {
-    return this.http.get<Entry>(this.baseUrl + this.entryByUrl + entryId);
+    return this.http.get(this.baseUrl + this.entryByUrl + entryId, {responseType: 'text'});
   }
 
   searchBy(query: string) {

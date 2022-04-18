@@ -11,8 +11,10 @@
         </div>
 
         <div class="buttons">
-          <button class="close-button" mat-stroked-button color="primary">{{ 'general.intro' | translate }}</button>
-
+          <a routerLink="/intro">
+            <button class="close-button" mat-stroked-button
+                         color="primary">{{ 'general.intro' | translate }}</button>
+          </a>
           <button class="close-button" mat-flat-button color="primary">{{ 'general.allArticle' | translate }}</button>
         </div>
       </div>

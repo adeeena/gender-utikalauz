@@ -27,4 +27,10 @@
     <ProjectReference Include="..\TranszInfo.Logic\TranszInfo.Logic.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="public\hu\mit-jelent-a-transzidentitas.md">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

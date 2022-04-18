@@ -3,12 +3,17 @@
     {{ 'sidebar.title' | translate }}
   </div>
 
+  <a [routerLink]="['/']" class="back-to-home" (click)="linkClicked()">
+    {{ 'general.backToHome' | translate }}
+  </a>
+
   <div class="sidebar-item-container">
     <div class="category" *ngFor="let category of categories">
       <div class="category-title" [innerHTML]="category.title | utf8EmojisToImages:'apple':14">
       </div>
 
-      <a [routerLink]="[subcategory.id]"
+      <a [routerLink]="[subcategory.id ? subcategory.id : '/entry']"
+         [queryParams]="{ id: subcategory.id ? '' : subcategory.id2}"
          (click)="linkClicked()"
          class="sidebar-item" *ngFor="let subcategory of category.children">
         <button>

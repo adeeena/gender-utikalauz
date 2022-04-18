@@ -35,13 +35,13 @@ namespace TranszInfo.Logic.BusinessLogic
         {
             string CACHE_KEY = "TRANSLATION_" + languageCode;
 
-            if (true || !_memoryCache.TryGetValue(CACHE_KEY, out object cacheValue))
+            if (!_memoryCache.TryGetValue(CACHE_KEY, out object cacheValue))
             {
                 MemoryCacheEntryOptions? cacheEntryOptions = new MemoryCacheEntryOptions()
                     .SetSlidingExpiration(TimeSpan.FromMinutes(20));
 
                 var runDir = Path.GetDirectoryName(Assembly.GetEntryAssembly().Location);
-                var translationsFile = File.ReadAllText($"{runDir}/public/{languageCode}/translations.json");
+                var translationsFile = File.ReadAllText($"{runDir}/public/{languageCode}/_translations.json");
 
                 List<Translation> translations = JsonConvert.DeserializeObject<List<Translation>>(translationsFile);
 

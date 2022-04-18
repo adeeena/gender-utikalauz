@@ -32,6 +32,7 @@ import {Utf8EmojisToImagesModule} from "./lib/utf8-emojis-to-images.module";
 import { PickerModule } from '@ctrl/ngx-emoji-mart';
 import { IntroComponent } from './components/intro/intro.component';
 import { HeaderComponent } from './components/header/header.component';
+import { MarkdownModule } from 'ngx-markdown';
 
 export function HttpLoaderFactory(http: HttpClient): TranslationLoader {
   return new TranslationLoader(http);
@@ -76,6 +77,7 @@ export function initConfig(appConfig: AppConfigService) {
     MatExpansionModule,
     PickerModule,
     Utf8EmojisToImagesModule,
+    MarkdownModule.forRoot(),
     TranslateModule.forRoot({
       loader: {
         provide: TranslateLoader,

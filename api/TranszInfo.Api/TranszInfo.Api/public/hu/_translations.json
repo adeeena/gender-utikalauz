@@ -42,5 +42,9 @@
   {
     "key": "footer.emailOr",
     "value": "vagy TODO EMAIL@gmail.com"
+  },
+  {
+    "key": "general.backToHome",
+    "value":  "Vissza a fooldalra"
   }
 ]

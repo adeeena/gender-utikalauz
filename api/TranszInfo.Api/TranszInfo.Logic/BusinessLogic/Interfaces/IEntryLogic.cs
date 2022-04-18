@@ -6,7 +6,7 @@ namespace TranszInfo.Logic.BusinessLogic.Interfaces
     {
         CategoryEntriesResultModel GetBy(string categoryId);
 
-        EntryModel GetById(string entryId);
+        string GetById(string entryId);
 
         SearchResultModel SearchBy(string query);
     }

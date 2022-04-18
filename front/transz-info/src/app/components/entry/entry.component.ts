@@ -41,8 +41,6 @@ export class EntryComponent implements OnInit {
         this.entryService.getById(this.entryId)
           .subscribe((data: any) => {
             this.entry = data;
-            this.entry.examples = data.resources.filter((q: any) => q.type === 'EXAMPLE');
-            this.entry.moreResources = data.resources.filter((q: any) => q.type === 'RESOURCE');
 
             console.dir(data);
             this.titleService.setTitle(

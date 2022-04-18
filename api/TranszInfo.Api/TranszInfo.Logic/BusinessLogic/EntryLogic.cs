@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Caching.Memory;
+using System.Reflection;
 using TranszInfo.Core.Extensions;
 using TranszInfo.Domain.Models;
 using TranszInfo.Logic.BusinessLogic.Interfaces;
@@ -59,55 +60,19 @@ namespace TranszInfo.Logic.BusinessLogic
             return cacheValue;
         }
 
-        public EntryModel GetById(string entryId)
+        public string GetById(string entryId)
         {
             string CACHE_KEY = "ENTRY_BY_ID_" + entryId;
 
-            if (!_memoryCache.TryGetValue(CACHE_KEY, out EntryModel cacheValue))
+            if (!_memoryCache.TryGetValue(CACHE_KEY, out string cacheValue))
             {
                 MemoryCacheEntryOptions? cacheEntryOptions = new MemoryCacheEntryOptions()
                     .SetSlidingExpiration(TimeSpan.FromMinutes(20));
 
-                Entry? entry = _context.Entries
-                    .Where(q => q.DeletedAt == null)
-                    .Include(q => q.Categories)
-                    .Include(q => q.Entryresources)
-                    .SingleOrDefault(q => q.Id == entryId);
+                var runDir = Path.GetDirectoryName(Assembly.GetEntryAssembly().Location);
+                var markdownFileContent = File.ReadAllText($"{runDir}/public/hu/{entryId}.md");
 
-                List<string>? entryRelatedKeywords = entry.Description.Split(' ',
-                    StringSplitOptions.TrimEntries | StringSplitOptions.RemoveEmptyEntries)
-                    .OrderByDescending(q => q.Length).Take(3).ToList();
-
-                List<Entry> relatedEntries = new List<Entry>();
-
-                var languageCode = entry.Categories.First().LanguageCode;
-
-                for (int i = 0; i < entryRelatedKeywords.Count(); i++)
-                {
-                    string? keyword = entryRelatedKeywords[i];
-
-                    if (keyword.Length > 5)
-                    {
-                        keyword = keyword.Substring(0, 5);
-                    }
-
-                    relatedEntries.AddRange(_context.Entries
-                        .Where(q =>
-                            q.DeletedAt == null && q.Id != entry.Id &&
-                            (q.Title.Contains(keyword) || q.Description.Contains(keyword))
-                            && q.Categories.Any(w => w.LanguageCode == languageCode))
-                        .Take(6).ToList());
-                }
-
-                relatedEntries = relatedEntries.DistinctBy(q => q.Id).Take(6).ToList();
-
-                entry.Entryresources =
-                    entry.Entryresources.Where(q => !q.DeletedAt.HasValue).ToList();
-
-                // euh do it in correct way TODO
-                IList<EntryModel>? relatedEntryModels = _mapper.MapCollection<Entry, EntryModel>(relatedEntries);
-                cacheValue = _mapper.Map<Entry, EntryModel>(entry);
-                cacheValue.RelatedEntries = relatedEntryModels;
+                cacheValue = markdownFileContent;
 
                 _memoryCache.Set(CACHE_KEY, cacheValue, cacheEntryOptions);
             }

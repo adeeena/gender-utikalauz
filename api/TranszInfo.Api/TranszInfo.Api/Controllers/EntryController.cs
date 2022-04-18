@@ -43,15 +43,15 @@ namespace TranszInfo.Api.Controllers
         }
 
         [HttpGet("getById")]
-        public EntryDto GetById([FromQuery] string entryId)
+        public string GetById([FromQuery] string entryId)
         {
             if (string.IsNullOrEmpty(entryId))
             {
                 throw new ArgumentNullException(nameof(entryId));
             }
 
-            EntryModel? entry = _entryLogic.GetById(entryId);
-            return _mapper.Map<EntryModel, EntryDto>(entry);
+            string entry = _entryLogic.GetById(entryId);
+            return entry;
         }
 
         [HttpGet("searchBy")]

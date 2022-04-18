@@ -4,6 +4,16 @@
 .sidebar-container {
   font-size: .8rem;
   margin-top: 5rem;
+  width: calc(100vw - 40px);
+
+  .sidebar-title {
+    color: white;
+    font-size: 1.4rem;
+    font-weight: bold;
+    left: 4rem;
+    position: absolute;
+    top: 1.5rem;
+  }
 
   .back-to-home {
     color: map-get(mat.$gray-palette, 500);
@@ -18,7 +28,7 @@
     .sidebar-item {
       height: 3rem;
       text-decoration: none;
-      width: 14rem;
+      width: 30rem;
 
       button {
         background: transparent;

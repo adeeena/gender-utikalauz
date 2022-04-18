@@ -1,28 +1,21 @@
 <div class="content">
-  <div class="pale-yellow-box header-card">
+  <div class="trans-background header-card">
     <div class="header-card-content">
-      <div class="logo">
-        <span class="light" [@enter1]>{{ 'general.titleFirst' | translate }}</span>
-        <span class="normal" [@enter2]>{{ 'general.titleSecond' | translate }}</span>
-        <span class="normal" [@enter3]>&nbsp;{{ 'general.titleThird' | translate }}</span>
+
+      <div class="home-box" [@enter1]>
+        <div class="home-box-line-welcome"
+             [innerHTML]="'general.lineWelcome' | translate | utf8EmojisToImages:'apple':16"></div>
+        <div class="home-box-title">{{ 'general.title' | translate }}</div>
+        <div class="home-box-explain">
+          {{ 'general.lineExplain' | translate }}
+        </div>
+
+        <div class="buttons">
+          <button class="close-button" mat-stroked-button color="primary">{{ 'general.intro' | translate }}</button>
+
+          <button class="close-button" mat-flat-button color="primary">{{ 'general.allArticle' | translate }}</button>
+        </div>
       </div>
-
-      <p [@enter4] [innerHTML]="'home.secondaryLine' | translate"></p>
-
-      <div class="search-bar" [@enter5]>
-        <p [innerHTML]="'home.searchTitle' | translate"></p>
-
-        <form class="search-bar-form">
-          <mat-form-field class="example-full-width" appearance="fill">
-            <mat-label>
-              {{ 'search.title' | translate }}
-            </mat-label>
-
-            <input matInput #message maxlength="256" (keydown)="searchUpdated($event)"
-                   (keydown.enter)="searchClicked()"
-                   placeholder="{{'home.searchExample' | translate}}">
-          </mat-form-field>
-        </form>
       </div>
     </div>
   </div>

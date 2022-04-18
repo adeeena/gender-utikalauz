@@ -1,20 +1,20 @@
 <div class="sidebar-container">
-  <a [routerLink]="['/']" class="back-to-home" (click)="linkClicked()">
-    {{ 'general.backToHome' | translate }}
-  </a>
+  <div class="sidebar-title">
+    {{ 'sidebar.title' | translate }}
+  </div>
+
+<!--  <a [routerLink]="['/']" class="back-to-home" (click)="linkClicked()">-->
+<!--    {{ 'general.backToHome' | translate }}-->
+<!--  </a>-->
 
   <div class="sidebar-item-container">
     <a [routerLink]="['/category']"
-       [queryParams]="{ id: category.id}"
+       [queryParams]="{ id: category }"
        (click)="linkClicked()"
        class="sidebar-item" *ngFor="let category of categories">
       <button>
-        <div class="icon">
-          <mat-icon>{{category.icon}}</mat-icon>
-        </div>
-
         <div class="text">
-          {{category.name}}
+          {{category}}
         </div>
       </button>
     </a>

@@ -1,4 +1,4 @@
-import {Component, OnInit} from '@angular/core';
+import {Component, EventEmitter, OnInit, Output} from '@angular/core';
 import {fadeInUpOnEnterAnimation} from "angular-animations";
 import {Router} from "@angular/router";
 import {Title} from "@angular/platform-browser";
@@ -8,11 +8,7 @@ import {Title} from "@angular/platform-browser";
   templateUrl: './home.component.html',
   styleUrls: ['./home.component.scss'],
   animations: [
-    fadeInUpOnEnterAnimation({ anchor: 'enter1', duration: 1000, delay: 100, translate: '30px' }),
-    fadeInUpOnEnterAnimation({ anchor: 'enter2', duration: 1000, delay: 300, translate: '30px' }),
-    fadeInUpOnEnterAnimation({ anchor: 'enter3', duration: 1000, delay: 500, translate: '30px' }),
-    fadeInUpOnEnterAnimation({ anchor: 'enter4', duration: 1000, delay: 900, translate: '30px' }),
-    fadeInUpOnEnterAnimation({ anchor: 'enter5', duration: 1000, delay: 1500, translate: '30px' }),
+    fadeInUpOnEnterAnimation({ anchor: 'enter1', duration: 1000, delay: 100, translate: '30px' })
   ]
 })
 export class HomeComponent implements OnInit {

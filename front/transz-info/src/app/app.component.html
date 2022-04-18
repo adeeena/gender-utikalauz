@@ -9,7 +9,7 @@
 </button>
 
 <mat-sidenav-container disableClose (backdropClick)="closeSidenav()">
-  <mat-sidenav mode="over" fixedInViewport [opened]="isOpened">
+  <mat-sidenav mode="over" [opened]="isOpened">
     <app-sidebar (closing)="closeSidenav()"></app-sidebar>
   </mat-sidenav>
   <mat-sidenav-content>

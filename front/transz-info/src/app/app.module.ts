@@ -28,6 +28,8 @@ import {TranslationLoader} from "./i18n/TranslationLoader";
 import { AddNewEntryComponent } from './components/add-new-entry/add-new-entry.component';
 import {AppConfigService} from "./services/app-config.service";
 import { HomeExplainComponent } from './components/home-explain/home-explain.component';
+import {Utf8EmojisToImagesModule} from "./lib/utf8-emojis-to-images.module";
+import { PickerModule } from '@ctrl/ngx-emoji-mart';
 
 export function HttpLoaderFactory(http: HttpClient): TranslationLoader {
   return new TranslationLoader(http);
@@ -68,6 +70,8 @@ export function initConfig(appConfig: AppConfigService) {
     FormsModule,
     MatDialogModule,
     MatExpansionModule,
+    PickerModule,
+    Utf8EmojisToImagesModule,
     TranslateModule.forRoot({
       loader: {
         provide: TranslateLoader,

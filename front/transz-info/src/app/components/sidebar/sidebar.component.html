@@ -8,8 +8,7 @@
       <div class="category-title" [innerHTML]="category.title | utf8EmojisToImages:'apple':14">
       </div>
 
-      <a [routerLink]="['/category']"
-         [queryParams]="{ id: subcategory.id }"
+      <a [routerLink]="[subcategory.id]"
          (click)="linkClicked()"
          class="sidebar-item" *ngFor="let subcategory of category.children">
         <button>

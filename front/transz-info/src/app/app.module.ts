@@ -30,6 +30,8 @@ import {AppConfigService} from "./services/app-config.service";
 import { HomeExplainComponent } from './components/home-explain/home-explain.component';
 import {Utf8EmojisToImagesModule} from "./lib/utf8-emojis-to-images.module";
 import { PickerModule } from '@ctrl/ngx-emoji-mart';
+import { IntroComponent } from './components/intro/intro.component';
+import { HeaderComponent } from './components/header/header.component';
 
 export function HttpLoaderFactory(http: HttpClient): TranslationLoader {
   return new TranslationLoader(http);
@@ -51,7 +53,9 @@ export function initConfig(appConfig: AppConfigService) {
     SearchComponent,
     EntryPreviewItemComponent,
     AddNewEntryComponent,
-    HomeExplainComponent
+    HomeExplainComponent,
+    IntroComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule,

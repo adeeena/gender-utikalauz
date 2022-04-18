@@ -1,0 +1,259 @@
+.intro-container {
+  .intro-base-container {
+    background-color: #eeb8c5;
+    background-image: url('/assets/images/trans-hand.jpg');
+    background-size: cover;
+    background-position: -70%;
+    color: #122167;
+    height: 90vh;
+    padding: 2rem 30vw 2rem 10vw;
+
+    .prelude, .after {
+      font-size: 2rem;
+    }
+
+    .title {
+      font-weight: bold;
+      font-size: 3rem;
+    }
+
+    .subtitle {
+      font-style: italic;
+      margin-top: 1rem;
+      margin-bottom: 2rem;
+    }
+
+    p {
+      margin-bottom: 2rem;
+    }
+  }
+
+  .dictionary-container {
+    background: #ffefea;
+    color: #122167;
+    padding: 2rem;
+
+    .title {
+      font-size: 2rem;
+      font-weight: bold;
+      margin-bottom: 1rem;
+      text-align: center;
+    }
+
+    .block {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      margin-bottom: 2rem;
+
+      img {
+        height: 45vh;
+        padding: 0 5vw;
+        text-align: center;
+      }
+
+      .right {
+        width: 50vw;
+
+        .category-title {
+          font-size: 1.3rem;
+        }
+
+        p {
+          font-size: 1.2rem;
+          margin: 2rem 0;
+        }
+
+        .pink {
+          color: #eb387d;
+          font-weight: bold;
+        }
+      }
+    }
+  }
+
+  .transex-or-transgender-container {
+    background: #F6FCFF;
+    color: #122167;
+    padding: 2rem 10vw;
+
+    .title {
+      font-weight: bold;
+      font-size: 3rem;
+      margin-bottom: 1rem;
+    }
+
+    .subtitle {
+      font-weight: bold;
+      font-size: 1.6rem;
+      margin-bottom: 1rem;
+    }
+
+    .margin-top {
+      margin-top: 2rem;
+    }
+  }
+
+  .to-avoid-container {
+    background: #FFF4F9;
+    padding: 2rem 10vw;
+
+    .title, .prelude {
+      color: #eb387d;
+      font-weight: bold;
+      text-align: center;
+    }
+
+    .title {
+      font-size: 3rem;
+    }
+
+    .prelude {
+      font-size: 1.8rem;
+    }
+
+    .sentence-container {
+      display: flex;
+      flex-direction: row;
+      flex-flow: wrap;
+      justify-content: space-between;
+      margin-top: 2rem;
+
+      .sentence-block {
+        margin-bottom: 2rem;
+        width: 45%;
+
+        .sentence {
+          background: white;
+          border: 1px solid #eb387d;
+          box-shadow: 5px 5px 0px 0px #FFCADE;
+          color: #eb387d;
+          font-weight: bold;
+          margin-bottom: 1rem;
+          padding: 1rem;
+          transform: rotate(-1.5deg);
+        }
+
+        .why-avoid {
+          color: #4054b2;
+        }
+      }
+    }
+
+    .explain {
+      color: #4054b2;
+      font-size: 1.4rem;
+      font-weight: bold;
+      text-align: center;
+    }
+
+    .sub-explain {
+      color: #4054b2;
+      text-align: center;
+    }
+  }
+
+  .dysphoria-container {
+    background: #f0fcff;
+    color: #4054b2;
+    padding: 2rem 10vw;
+
+    .block {
+      display: flex;
+      flex-direction: row;
+
+      img {
+        height: 45vh;
+        margin: 0 1rem;
+      }
+
+      .title {
+        color: #2770f1;
+        font-size: 2rem;
+        font-weight: bold;
+        margin-bottom: 1rem;
+      }
+    }
+  }
+
+  .detransition-container {
+    background: #FFF8DD;
+    padding: 2rem 10vw;
+
+    .block {
+      display: flex;
+      flex-direction: row;
+
+      img {
+        height: 45vh;
+        margin: 0 1rem;
+      }
+
+      .title {
+        font-size: 1.4rem;
+        font-weight: bold;
+        margin-bottom: 1rem;
+        text-transform: uppercase;
+      }
+
+      .subtitle {
+        font-size: 1.2rem;
+        font-weight: bold;
+      }
+
+      .number {
+        font-size: 2rem;
+        font-weight: bold;
+      }
+
+      .pink {
+        color: #eb387d;
+      }
+    }
+
+  .content {
+    margin-top: 1rem;
+  }
+  }
+
+  .remains-visible-container {
+    background: #BDEBFF;
+    color: #4054b2;
+    padding: 2rem 10vw;
+
+    .block {
+      display: flex;
+      flex-direction: row;
+
+      img {
+        height: 30vh;
+        margin: 0 1rem;
+      }
+
+      .title {
+        font-size: 1.4rem;
+        font-weight: bold;
+        margin-bottom: 1rem;
+        text-transform: uppercase;
+      }
+
+      .subtitle {
+        font-size: 1.2rem;
+        font-weight: bold;
+      }
+
+      .number {
+        font-size: 2rem;
+        font-weight: bold;
+      }
+
+      .blue {
+        color: #4054b2;
+      }
+    }
+
+    .content {
+      margin-top: 1rem;
+    }
+  }
+}

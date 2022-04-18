@@ -34,10 +34,20 @@ export class AppComponent implements OnInit {
 
   toggleSidenav() {
     this.isOpened = !this.isOpened;
+
+    if (this.isOpened) {
+      document.body.style.overflow = "hidden"; // ADD THIS LINE
+      document.body.style.height = "100%"; // ADD THIS LINE
+    } else {
+      document.body.style.overflow = "auto"; // ADD THIS LINE
+      document.body.style.height = "auto"; // ADD THIS LINE
+    }
   }
 
   closeSidenav() {
     this.isOpened = false;
+    document.body.style.overflow = "auto"; // ADD THIS LINE
+    document.body.style.height = "auto"; // ADD THIS LINE
   }
 
 

@@ -20,72 +20,107 @@ export class SidebarComponent implements OnInit {
     //   .subscribe((data: Category[]) => {this.categories = data;});
 
     this.categories = [
-      '💡 Bevezetés',
-      '    Az alapvető tudnivalók',
-      '    Transzidentitás, mi az?',
-      '      Mi az a nem-binaritás?',
-      '      Mi az interszex?',
-      '      Lexikon',
-      '      Szövetségesek és rokonok',
-      '📚 Brosúrák',
-      '    Szülőknek',
-      '    Rokonok számára',
-      '👩👩👦👦👦 Közösségek',
-      '    A francia egyesületek térképe',
-      '    Online közösségek',
-      '🔍 Kérdések',
-      '    Honnan tudom, hogy transz vagyok-e?',
-      '      Transzneműnek és melegnek / leszbikusnak / homoszexuálisnak lenni',
-      '    Félek, hogy nem lesz belépőm.',
-      '      Félek attól, hogy túl fiatal / túl öreg leszek',
-      '    Határátlépés',
-      '🔊 Coming-out',
-      '    Felkészülés a coming-outra',
-      '    Minta coming-out levelek',
-      '📊 Hormonális kezelések',
-      '    Hormonkezelés megkezdése',
-      '    Feminizáló HRT',
-      '    A HRT maszkulinizálása',
-      '    Orvos keresése',
-      '    Kiskorúak',
-      '    Pszichológus igazoló levele',
-      '    Hormonérték-táblázatok',
-      '    Finanszírozás és visszatérítés',
-      '    Pénzügyi támogatás',
-      '    Útmutató a visszatérítéshez',
-      '    ALD',
-      '    A CPAM általi ALD elutasítása esetén',
-      '🏥 Orvosi',
-      '    Termékenység',
-      '    PMA',
-      '    Különböző források',
-      '🏛️ Adminisztratív',
-      '    Az iskolában',
-      '    Keresztnév',
-      '    Gender',
-      '    Társadalombiztosítási szám',
-      '    Testvérek',
-      '    Ajánlólevél',
-      '👩🏼 Női átmenet',
-      '    Női passzolás',
-      '    Diszfória',
-      '    Mellnagyobbítás',
-      '    Orchidectomia',
-      '    Ádámcsutkaműtét',
-      '    Az arc feminizálása',
-      '    Voice (folyamatban)',
-      '👨🏽 Férfi átmenet',
-      '    Férfi passzolás',
-      '    Diszfória',
-      '    Testépítés',
-      '    Elrejtve a mellkasát',
-      '    Lágyék púp',
-      '    Mammectomia',
-      '    Szexuális kockázatok',
-      '🧑🏻 Nem-binaritás',
-      '    Mi az a nem-binaritás?',
-      '      Hogyan beszélsz egy nem bináris személyről?'
-      ]
+      {
+        title: '💡 Bevezetés',
+        children: [
+          { id: 'intro', title: 'Az alapvető tudnivalók' },
+          { id: '', title: 'Mit jelent a transzidentitás?' },
+          { id: '', title: 'Mit jelent nem-binárisnak lenni?' },
+          { id: '', title: 'Mit jelent az interszex?' },
+          { id: '', title: 'Lexikon' },
+          { id: '', title: 'Szövetségesek és rokonok' }
+        ]
+      },
+      {
+        title: '📚 Brosúrák',
+        children: [
+          { id: '', title: 'Szülőknek' },
+          { id: '', title: 'Rokonoknak' }
+        ]
+      },
+      {
+        title: '👩‍👩‍👦‍👦 Közösségek',
+        children: [
+          { id: '', title: 'Magyar egyesületek térképe' },
+          { id: '', title: 'Online közösségek' }
+        ]
+      },
+      {
+        title: '🔍 Kérdések',
+        children: [
+          { id: '', title: 'Honnan tudom, hogy transz vagyok?' },
+          { id: '', title: 'Transzneműnek és melegnek lenni' },
+          { id: '', title: 'Félek, hogy sosem leszek passing' },
+          { id: '', title: 'Félek, mert túl fiatal / öreg vagyok' },
+          { id: '', title: 'Detranzicio' },
+        ]
+      },
+      {
+        title: '🔊 Kibujas',
+        children: [
+          { id: '', title: 'Felkészülés a kibujasra' },
+          { id: '', title: 'Minta coming-out levelek' }
+        ]
+      },
+      {
+        title: '📊 Hormonális kezelések',
+        children: [
+          { id: '', title: 'Hormonkezelés megkezdése' },
+          { id: '', title: 'Feminizáló HRT' },
+          { id: '', title: 'Maszkulinizalo HRT' },
+          { id: '', title: 'Megfelelo orvos keresese' },
+          { id: '', title: 'Kiskoruak' },
+          { id: '', title: 'Pszichologusi igazolo level' },
+          { id: '', title: 'Hormonérték-táblázat' },
+          { id: '', title: 'Finanszirozas' },
+        ]
+      },
+      {
+        title: '🏥 Egészségügy',
+        children: [
+          { id: '', title: 'Termékenység' },
+          { id: '', title: 'Egyeb források' },
+        ]
+      },
+      {
+        title: '️🏛️ Adminisztratív',
+        children: [
+          { id: '', title: 'Iskola' },
+          { id: '', title: 'Keresztnév' },
+          { id: '', title: 'Gender' },
+        ]
+      },
+      {
+        title: '👩🏼 Női hormointerapia',
+        children: [
+          { id: '', title: 'Passing' },
+          { id: '', title: 'Diszfória' },
+          { id: '', title: 'Mellnagyobbítás' },
+          { id: '', title: 'Orchidectomia' },
+          { id: '', title: 'Ádámcsutkaműtét' },
+          { id: '', title: 'Az arc feminizálása' },
+          { id: '', title: 'Hanggyakorlatok (folyamatban)' },
+        ]
+      },
+      {
+        title: '👨🏽 Férfi hormointerapia',
+        children: [
+          { id: '', title: 'Passing' },
+          { id: '', title: 'Diszfória' },
+          { id: '', title: 'Testépítés' },
+          { id: '', title: 'Mellkas elrejtese' },
+          { id: '', title: 'Dudor a lagyeknal' },
+          { id: '', title: 'Mammectomia' },
+          { id: '', title: 'zexuális kockázatok' },
+        ]
+      },
+      {
+        title: '🧑🏻 Nem binaris',
+        children: [
+          { id: '', title: 'Mi az a nem-binaris?' },
+        ]
+      }
+    ];
   }
 
   linkClicked(): void {

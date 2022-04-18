@@ -11,5 +11,5 @@ RUN dotnet publish -c Release -o out
 # Build runtime image
 FROM mcr.microsoft.com/dotnet/aspnet:6.0
 WORKDIR /source/TranszInfo/api/TranszInfo.Api
-COPY --from=build-env /source/transz-info/api/TranszInfo.Api/out/ .
+COPY --from=build-env /source/TranszInfo/api/TranszInfo.Api/out/ .
 ENTRYPOINT ["dotnet", "TranszInfo.Api.dll"]

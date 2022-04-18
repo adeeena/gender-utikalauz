@@ -1,0 +1,170 @@
+@use '@angular/material' as mat;
+@import '../../../styles';
+
+.content {
+  .category-card-content {
+    display: flex;
+    justify-content: space-between;
+    min-height: 90vh;
+
+    a {
+      color: map-get(mat.$gray-palette, 500);
+    }
+
+    .category-card-side-content {
+      background: map-get(mat.$gray-palette, 900);
+      padding-top: 5rem;
+
+      .back-to-home {
+        margin-bottom: 1rem;
+
+        a {
+          font-size: .8rem;
+        }
+      }
+
+      .category-card-title {
+        color: map-get(mat.$gray-palette, 200);
+        //font-family: Merriweather;
+        font-size: 1.8rem;
+        line-height: 2.5rem;
+        margin-bottom: 2vh;
+        text-transform: uppercase;
+      }
+
+      .category-card-description {
+        color: map-get(mat.$gray-palette, 600);
+        font-size: .8rem;
+      }
+
+      .add-new {
+        .add-new-title {
+          color: map-get(mat.$gray-palette, 200);
+        }
+
+        .add-new-description {
+          color: map-get(mat.$gray-palette, 600);
+          font-size: .8rem;
+        }
+      }
+    }
+
+    .category-card-result-set {
+      display: flex;
+      flex-flow: wrap;
+      justify-content: center;
+
+      .no-result {
+        display: block;
+        height: 40vw;
+        width: 40vw;
+      }
+
+      .no-result-text {
+        text-align: center;
+      }
+    }
+  }
+}
+
+@media (min-width: 901px) {
+  .category-card-content {
+    flex-direction: row;
+
+    .category-card-side-content {
+      width: 19rem;
+
+      .back-to-home {
+        a {
+          margin-left: 1.5rem;
+        }
+      }
+
+      .category-card-title {
+        margin-left: 1.5rem;
+      }
+
+      .category-card-description {
+        margin: 0 1.5rem;
+      }
+
+      .add-new {
+        margin: 2rem 1.5rem 0;
+      }
+    }
+  }
+
+  .category-card-result-set {
+    margin: 1.5rem 0;
+    width: calc(100% - 21rem);
+  }
+}
+
+// iPad Mini 6
+@media (max-width: 900px) {
+  .category-card-content {
+    flex-direction: row;
+
+    .category-card-side-content {
+      width: 19rem;
+
+      .back-to-home {
+        a {
+          margin-left: 1.5rem;
+        }
+      }
+
+      .category-card-title {
+        margin-left: 1.5rem;
+      }
+
+      .category-card-description {
+        margin: 0 1.5rem;
+      }
+
+      .add-new {
+        margin: 2rem 1.5rem 0;
+      }
+    }
+  }
+
+  .category-card-result-set {
+    margin: 1.5rem 0;
+    width: calc(100% - 20.5rem);
+  }
+}
+
+// iPhone XS Max
+@media (max-width: 600px) {
+  .category-card-content {
+    flex-direction: column;
+
+    .category-card-side-content {
+      padding-bottom: 2rem;
+      width: 100%;
+
+      .back-to-home {
+        a {
+          margin-left: 2rem;
+        }
+      }
+
+      .category-card-title {
+        margin-left: 2rem;
+      }
+
+      .category-card-description {
+        margin: 0 2rem;
+      }
+
+      .add-new {
+        margin: 2rem 2rem 0;
+      }
+    }
+  }
+
+  .category-card-result-set {
+    margin: 1.5rem 0 0;
+    width: calc(100%);
+  }
+}

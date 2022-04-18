@@ -1,0 +1,118 @@
+@use '@angular/material' as mat;
+@import '../../../styles';
+
+.content {
+  background: map-get(mat.$gray-palette, 100);
+  min-height: 90vh;
+
+  .entry-content {
+    .entry-title {
+      //font-family: Merriweather;
+      font-size: 2rem;
+      line-height: 3rem;
+    }
+
+    .entry-categories {
+      mat-chip {
+        background: map-get(mat.$amber-palette, 500);
+        cursor: pointer;
+      }
+    }
+
+    .examples-list {
+      margin-bottom: 4vh;
+    }
+
+    .separator {
+      background: map-get(mat.$gray-palette, 600);
+      height: 1px;
+      width: 100%;
+    }
+
+    .top-margin {
+      margin-top: 2vh;
+    }
+
+    .entry-description {
+      color: map-get(mat.$gray-palette, 600);
+      font-weight: 500;
+      line-height: 1.4rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .entry-actions {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 1vh;
+
+      .back-to-home {
+        align-self: center;
+      }
+
+      a, button {
+        color: map-get(mat.$gray-palette, 500);
+      }
+    }
+
+    .disclaimer {
+      color: map-get(mat.$gray-palette, 500);
+      margin: 2rem 0;
+
+      a {
+        color: map-get(mat.$gray-palette, 500);
+      }
+    }
+
+    .might-interest-you {
+      margin: 2rem auto 0;
+
+      .might-interest-you-result-set {
+        display: flex;
+        flex-wrap: wrap;
+      }
+    }
+  }
+}
+
+.mat-dialog-content {
+  overflow: hidden;
+
+  input {
+    padding: .5rem;
+    width: calc(100% - 1rem);
+  }
+}
+
+.close-button-container {
+  display: flex;
+  justify-content: flex-end;
+
+  .close-button {
+    border: 0;
+    border-radius: 5px;
+    background: map-get(mat.$gray-palette, 200);
+    margin-top: 1rem;
+  }
+}
+
+@media (min-width: 601px) {
+  .entry-content {
+    padding: 5rem 15vw;
+
+    .entry-title, .entry-categories, .separator {
+      margin-bottom: 2rem;
+    }
+  }
+}
+
+@media (max-width: 600px) {
+  .entry-content {
+    padding: 5rem 1.5rem;
+
+    .entry-title, .entry-categories, .separator {
+      margin-bottom: 1.5rem;
+    }
+  }
+}
+
+

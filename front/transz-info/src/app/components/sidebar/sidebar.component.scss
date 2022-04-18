@@ -1,0 +1,78 @@
+@use '@angular/material' as mat;
+@import '../../../styles';
+
+.sidebar-container {
+  font-size: .8rem;
+  margin-top: 5rem;
+
+  .back-to-home {
+    color: map-get(mat.$gray-palette, 500);
+    margin: 0 1.5rem;
+  }
+
+  .sidebar-item-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+
+    .sidebar-item {
+      height: 3rem;
+      text-decoration: none;
+      width: 14rem;
+
+      button {
+        background: transparent;
+        border: 0;
+        border-radius: 0;
+        cursor: pointer;
+        height: 3rem;
+        display: flex;
+        flex-direction: row;
+        width: 14rem;
+
+        .icon, .text {
+          color: black;
+        }
+
+        .icon {
+          align-self: center;
+          margin-left: 1rem;
+        }
+
+        .text {
+          align-self: center;
+          font-size: .8rem;
+          margin-left: .5rem;
+        }
+      }
+
+      &:nth-child(1) {
+        background: map-get($my-accent, 900);
+      }
+
+      &:nth-child(2) {
+        background: map-get($my-accent, 800);
+      }
+
+      &:nth-child(3) {
+        background: map-get($my-accent, 700);
+      }
+
+      &:nth-child(4) {
+        background: map-get($my-accent, 600);
+      }
+
+      &:nth-child(5) {
+        background: map-get($my-accent, 500);
+      }
+
+      &:nth-child(6) {
+        background: map-get($my-accent, 400);
+      }
+
+      &:nth-child(7) {
+        background: map-get($my-accent, 300);
+      }
+    }
+  }
+}

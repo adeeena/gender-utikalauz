@@ -1,0 +1,32 @@
+<div class="content">
+  <div class="pale-yellow-box header-card">
+    <div class="header-card-content">
+      <div class="logo">
+        <span class="light" [@enter1]>{{ 'general.titleFirst' | translate }}</span>
+        <span class="normal" [@enter2]>{{ 'general.titleSecond' | translate }}</span>
+        <span class="normal" [@enter3]>&nbsp;{{ 'general.titleThird' | translate }}</span>
+      </div>
+
+      <p [@enter4] [innerHTML]="'home.secondaryLine' | translate"></p>
+
+      <div class="search-bar" [@enter5]>
+        <p [innerHTML]="'home.searchTitle' | translate"></p>
+
+        <form class="search-bar-form">
+          <mat-form-field class="example-full-width" appearance="fill">
+            <mat-label>
+              {{ 'search.title' | translate }}
+            </mat-label>
+
+            <input matInput #message maxlength="256" (keydown)="searchUpdated($event)"
+                   (keydown.enter)="searchClicked()"
+                   placeholder="{{'home.searchExample' | translate}}">
+          </mat-form-field>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <div class="black-box explain-card">
+    <app-home-explain></app-home-explain>
+</div>

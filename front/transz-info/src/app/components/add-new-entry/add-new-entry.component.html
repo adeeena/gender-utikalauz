@@ -1,0 +1,12 @@
+<div class="add-new">
+  <div class="add-new-title">
+    {{ 'general.missingSomethingTitle' | translate }}
+  </div>
+
+  <div class="add-new-description"
+       [innerHTML]="'general.missingSomethingText' | translate:{
+                  'linkHungarian': 'https://link.adena.dev/mawform',
+                  'linkFrench': 'https://link.adena.dev/mawformfr'
+               }">
+  </div>
+</div>

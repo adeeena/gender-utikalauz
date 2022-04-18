@@ -1,0 +1,57 @@
+<div class="dark-black-box content">
+  <div class="footer-content">
+    <div class="mini-logo">
+      <span class="light">{{ 'general.titleFirst' | translate }}</span>
+      <span class="normal white">{{ 'general.titleLast' | translate }}</span>
+    </div>
+
+    <div class="idea-from" [innerHTML]="'general.ideaFrom' | translate: {'source': 'http://themicropedia.org'}">
+
+    </div>
+
+    <div class="links">
+      <div class="link-title">
+        {{ 'footer.supportAt' | translate }}
+      </div>
+
+      <div class="link-list">
+        <a href="https://www.patreon.com/mikroagressziwiki" target="_blank">
+          <fa-icon [icon]="faPatreon"></fa-icon>
+        </a>
+
+        <a href="https://paypal.me/thisisadena" target="_blank">
+          <fa-icon [icon]="faPaypal"></fa-icon>
+        </a>
+
+        <a href="https://ko-fi.com/adeeena" target="_blank">
+          <fa-icon [icon]="faMugSaucer"></fa-icon>
+        </a>
+      </div>
+    </div>
+
+    <div class="links">
+      <div class="link-title">
+        {{ 'footer.linksAt' | translate }}
+      </div>
+
+      <div class="link-list">
+        <a href="https://link.adena.dev/ghmaw" target="_blank">
+          <fa-icon [icon]="faGithub"></fa-icon>
+        </a>
+
+        <a href="https://discord.gg/4FJkVFvYmu" target="_blank">
+          <fa-icon [icon]="faDiscord"></fa-icon>
+        </a>
+
+        <a href="https://link.adena.dev/contact" target="_blank">
+          <fa-icon [icon]="faDev"></fa-icon>
+        </a>
+      </div>
+    </div>
+
+    <div class="email">
+      <span [innerHTML]="'footer.emailOr' | translate:{'address':
+      '&#109;&#105;&#107;&#114;&#111;&#97;&#103;&#114;&#101;&#115;&#115;&#122;&#105;&#46;&#119;&#105;&#107;&#105;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'}"></span>
+    </div>
+  </div>
+</div>

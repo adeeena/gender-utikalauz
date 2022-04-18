@@ -1,0 +1,7 @@
+<h2 mat-dialog-title>{{ 'entry.share' | translate }}</h2>
+<div mat-dialog-content>
+  <input matInput readonly onfocus="this.select()" value="{{data.link}}"/>
+</div>
+<div class="close-button-container">
+  <button class="close-button" mat-button (click)="onClick()">{{ 'general.close' | translate }}</button>
+</div>

@@ -1,0 +1,96 @@
+<div class="content">
+  <div class="entry-content" *ngIf="entry">
+    <div class="entry-title" [@enter1]>
+      {{entry.title}}
+    </div>
+
+    <div class="entry-categories" [@enter2]>
+      <mat-chip-list
+        class="example-chip">
+        <mat-chip
+          [routerLink]="['/category']"
+          [queryParams]="{ id: category.id}"
+          class="chip-box"
+          *ngFor="let category of entry.categories">
+          {{ category.name }}
+        </mat-chip>
+      </mat-chip-list>
+    </div>
+
+    <div class="separator" [@enter2]></div>
+
+    <div class="entry-description" [@enter3]>
+      <span class="def">
+        {{ 'general.def' | translate }}
+      </span>
+
+      {{entry.description}}
+    </div>
+
+    <div class="entry-actions" [@enter3]>
+      <div class="back-to-home">
+        <a [routerLink]="['/']">
+          {{ 'general.backToHome' | translate }}
+        </a>
+      </div>
+
+      <div class="actions">
+        <button mat-icon-button (click)="openShareDialog()">
+          <mat-icon>share</mat-icon>
+        </button>
+      </div>
+    </div>
+
+    <div class="separator top-margin" [@enter4] *ngIf="entry.examples && entry.examples.length"></div>
+
+    <div [@enter4] *ngIf="entry.examples && entry.examples.length" class="examples-list">
+      <h3>{{ 'entry.examples' | translate }}</h3>
+
+      <div *ngFor="let example of entry.examples">
+
+        <a href="example.link" target="_blank" *ngIf="example.link">
+          {{example.title}}
+        </a>
+      </div>
+    </div>
+
+    <div [@enter4] *ngIf="entry.moreResources && entry.moreResources.length" class="examples-list">
+      <h3>{{ 'entry.resources' | translate }}</h3>
+
+      <div *ngFor="let resource of entry.moreResources">
+
+        <a href="resource.link" target="_blank" *ngIf="resource.link">
+          {{resource.title}}
+        </a>
+      </div>
+    </div>
+
+    <div class="separator top-margin" [@enter4] *ngIf="entry.examples && entry.examples.length"></div>
+
+    <div class="might-interest-you" [@enter5]>
+      <h3>{{ 'entry.mightInterestYou' | translate }}</h3>
+
+      <div class="might-interest-you-result-set">
+        <app-entry-preview-item [entry]="entry"
+                                [mode]="'compact'"
+                                *ngFor="let entry of entry.relatedEntries; let i = index"
+        ></app-entry-preview-item>
+      </div>
+    </div>
+
+
+    <div class="disclaimer" [@enter4]>
+      <b>{{ 'entry.foundErrorTitle' | translate }} </b>
+      <span [innerHTML]="'entry.foundErrorText' | translate:{'address':
+      '&#109;&#105;&#107;&#114;&#111;&#97;&#103;&#114;&#101;&#115;&#115;&#122;&#105;&#46;&#119;&#105;&#107;&#105;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'}"></span>
+    </div>
+
+    <div class="disclaimer" [@enter4]>
+      <b>{{ 'general.missingSomethingTitle' | translate }} </b>
+      <span [innerHTML]="'general.missingSomethingText' | translate:{
+                  'linkHungarian': 'https://link.adena.dev/mawform',
+                  'linkFrench': 'https://link.adena.dev/mawformfr'
+               }"></span>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,71 @@
+@use '@angular/material' as mat;
+@import '../../../styles';
+
+.content {
+  border-top: .3rem solid $yellow-color;
+  min-height: 10rem;
+  padding: 4vh 0 2vh;
+
+  a {
+    color: white;
+  }
+
+  .footer-content {
+    color: white;
+
+    @media (min-width: 601px) {
+      margin: 0 15vw;
+    }
+
+    @media (max-width: 600px) {
+      margin: 0 2rem;
+    }
+
+
+
+    .idea-from {
+      font-size: .8rem;
+      margin-top: .5rem;
+    }
+
+    .links {
+      margin-top: 2rem;
+
+      .link-title {
+        margin-bottom: .3rem;
+        text-transform: uppercase;
+      }
+
+      .link-list {
+        display: flex;
+
+        a {
+          background: map-get(mat.$amber-palette, 400);
+          border-radius: 50px;
+          justify-content: center;
+          display: flex;
+          height: 2.5rem;
+          margin-right: 1rem;
+          width: 2.5rem;
+
+          fa-icon {
+            align-self: center;
+            color: map-get(mat.$gray-palette, 900);
+            font-size: 1.3rem;
+          }
+        }
+      }
+    }
+
+    .email {
+      margin: 1rem 0;
+
+      a {
+        font-weight: bold;
+        text-decoration: none;
+      }
+    }
+
+  }
+}
+

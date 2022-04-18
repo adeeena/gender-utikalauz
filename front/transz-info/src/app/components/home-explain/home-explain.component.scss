@@ -1,0 +1,42 @@
+@use '@angular/material' as mat;
+@import '../../../styles';
+
+.explain-card-content {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: center;
+  padding: 5rem 0;
+
+  h3 {
+    color: white;
+    font-size: 1.7rem;
+    margin-bottom: 0;
+  }
+
+  h4 {
+    color: map-get(mat.$gray-palette, 300);
+    font-size: 1.2rem;
+    margin-top: 2rem;
+    margin-bottom: 0;
+  }
+
+  p, ul {
+    color: #909090;
+    line-height: 1.6rem;
+  }
+
+  a {
+    color: white;
+  }
+
+  ul {
+    margin: 0;
+    padding-left: 1.5rem;
+  }
+
+  .learn-more-button {
+    margin-top: 1rem;
+    width: 40%;
+  }
+}

@@ -1,0 +1,23 @@
+<mat-card
+  class="card"
+  [ngClass]="{'compact': mode === 'compact'}"
+  [routerLink]="['/entry']"
+  [queryParams]="{ id: entry.id}">
+  <mat-card-title>
+    {{ entry.title }}
+  </mat-card-title>
+
+  <div class="separator"></div>
+
+  <div class="card-content">
+    <div>{{ entry.description }}</div>
+
+    <div class="content-fade-out"></div>
+  </div>
+
+  <mat-card-actions>
+    <button mat-icon-button>
+      <mat-icon>call_made</mat-icon>
+    </button>
+  </mat-card-actions>
+</mat-card>

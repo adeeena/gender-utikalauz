@@ -1,0 +1,17 @@
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Logic\bin\Debug\net6.0\MikroagressziWiki.Logic.deps.json
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Logic\bin\Debug\net6.0\MikroagressziWiki.Logic.dll
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Logic\bin\Debug\net6.0\MikroagressziWiki.Logic.pdb
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Logic\bin\Debug\net6.0\MikroagressziWiki.Core.dll
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Logic\bin\Debug\net6.0\MikroagressziWiki.Domain.dll
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Logic\bin\Debug\net6.0\MikroagressziWiki.Core.pdb
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Logic\bin\Debug\net6.0\MikroagressziWiki.Domain.pdb
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Logic\obj\Debug\net6.0\MikroagressziWiki.Logic.csproj.AssemblyReference.cache
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Logic\obj\Debug\net6.0\MikroagressziWiki.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Logic\obj\Debug\net6.0\MikroagressziWiki.Logic.AssemblyInfoInputs.cache
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Logic\obj\Debug\net6.0\MikroagressziWiki.Logic.AssemblyInfo.cs
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Logic\obj\Debug\net6.0\MikroagressziWiki.Logic.csproj.CoreCompileInputs.cache
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Logic\obj\Debug\net6.0\MikroagressziWiki.Logic.csproj.CopyComplete
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Logic\obj\Debug\net6.0\MikroagressziWiki.Logic.dll
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Logic\obj\Debug\net6.0\refint\MikroagressziWiki.Logic.dll
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Logic\obj\Debug\net6.0\MikroagressziWiki.Logic.pdb
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Logic\obj\Debug\net6.0\ref\MikroagressziWiki.Logic.dll

@@ -1,0 +1,12 @@
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Core\bin\Debug\net6.0\MikroagressziWiki.Core.deps.json
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Core\bin\Debug\net6.0\MikroagressziWiki.Core.dll
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Core\bin\Debug\net6.0\MikroagressziWiki.Core.pdb
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Core\obj\Debug\net6.0\MikroagressziWiki.Core.csproj.AssemblyReference.cache
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Core\obj\Debug\net6.0\MikroagressziWiki.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Core\obj\Debug\net6.0\MikroagressziWiki.Core.AssemblyInfoInputs.cache
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Core\obj\Debug\net6.0\MikroagressziWiki.Core.AssemblyInfo.cs
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Core\obj\Debug\net6.0\MikroagressziWiki.Core.csproj.CoreCompileInputs.cache
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Core\obj\Debug\net6.0\MikroagressziWiki.Core.dll
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Core\obj\Debug\net6.0\refint\MikroagressziWiki.Core.dll
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Core\obj\Debug\net6.0\MikroagressziWiki.Core.pdb
+C:\Github\mikroagresszi-wiki\api\MikroagressziWiki.Api\MikroagressziWiki.Core\obj\Debug\net6.0\ref\MikroagressziWiki.Core.dll

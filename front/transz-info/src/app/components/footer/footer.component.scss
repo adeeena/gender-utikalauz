@@ -2,7 +2,7 @@
 @import '../../../styles';
 
 .content {
-  border-top: .3rem solid $yellow-color;
+  border-top: .3rem solid $blue-color;
   min-height: 10rem;
   padding: 4vh 0 2vh;
 
@@ -21,8 +21,6 @@
       margin: 0 2rem;
     }
 
-
-
     .idea-from {
       font-size: .8rem;
       margin-top: .5rem;
@@ -40,7 +38,7 @@
         display: flex;
 
         a {
-          background: map-get(mat.$amber-palette, 400);
+          background: map-get(mat.$blue-palette, 400);
           border-radius: 50px;
           justify-content: center;
           display: flex;
@@ -50,7 +48,7 @@
 
           fa-icon {
             align-self: center;
-            color: map-get(mat.$gray-palette, 900);
+            color: white;
             font-size: 1.3rem;
           }
         }

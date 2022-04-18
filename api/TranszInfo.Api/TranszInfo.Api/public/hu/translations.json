@@ -16,11 +16,31 @@
     "value": "Bevezető"
   },
   {
+    "key": "general.titleFirst",
+    "value": "Transz"
+  },
+  {
+    "key": "general.titleLast",
+    "value": "Info"
+  },
+  {
     "key": "general.allArticle",
     "value": "Minden cikk"
   },
   {
     "key": "sidebar.title",
     "value": "Dokumentumtár"
+  },
+  {
+    "key": "footer.supportAt",
+    "value": "ITT TÁMOGATHATSZ MINKET:"
+  },
+  {
+    "key": "footer.linksAt",
+    "value": "ITT ÉRHETSZ EL MINKET:"
+  },
+  {
+    "key": "footer.emailOr",
+    "value": "vagy TODO EMAIL@gmail.com"
   }
 ]

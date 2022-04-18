@@ -1,11 +1,69 @@
 .intro-container {
-  .intro-base-container {
+  .pink-container {
     background-color: #eeb8c5;
-    background-image: url('/assets/images/trans-hand.jpg');
-    background-size: cover;
-    background-position: -70%;
+  }
+
+  .lightgray-container {
+    background-color: #ffefea;
+  }
+
+  .lightblue-container {
+    background-color: #F6FCFF;
+  }
+
+  .lightred-container {
+    background-color: #FFF4F9;
+  }
+
+  .lightyellow-container {
+    background-color: #FFF8DD;
+  }
+
+  .midblue-container {
+    background-color: #BDEBFF;
+  }
+
+  .darkblue-container {
+    background-color: #4054B2;
+  }
+
+  .blue-color {
     color: #122167;
-    height: 90vh;
+  }
+
+  .pink-text-color {
+    color: #eb387d;
+    font-weight: bold;
+  }
+
+  p.explain {
+    font-size: 1rem;
+  }
+
+  .block {
+    display: flex;
+    margin-bottom: 2rem;
+
+    img {
+      text-align: center;
+    }
+
+    .block-text {
+      .category-title {
+        font-size: 1.5rem;
+      }
+
+      p {
+        &:not(.explain) {
+          font-size: 1.2rem;
+        }
+      }
+    }
+  }
+
+  .intro-base-container {
+    background-image: url('/assets/images/trans-hand.jpg');
+    background-repeat: no-repeat;
     padding: 2rem 30vw 2rem 10vw;
 
     .prelude, .after {
@@ -29,8 +87,6 @@
   }
 
   .dictionary-container {
-    background: #ffefea;
-    color: #122167;
     padding: 2rem;
 
     .title {
@@ -39,42 +95,9 @@
       margin-bottom: 1rem;
       text-align: center;
     }
-
-    .block {
-      display: flex;
-      flex-direction: row;
-      justify-content: space-between;
-      margin-bottom: 2rem;
-
-      img {
-        height: 45vh;
-        padding: 0 5vw;
-        text-align: center;
-      }
-
-      .right {
-        width: 50vw;
-
-        .category-title {
-          font-size: 1.3rem;
-        }
-
-        p {
-          font-size: 1.2rem;
-          margin: 2rem 0;
-        }
-
-        .pink {
-          color: #eb387d;
-          font-weight: bold;
-        }
-      }
-    }
   }
 
   .transex-or-transgender-container {
-    background: #F6FCFF;
-    color: #122167;
     padding: 2rem 10vw;
 
     .title {
@@ -95,12 +118,9 @@
   }
 
   .to-avoid-container {
-    background: #FFF4F9;
     padding: 2rem 10vw;
 
     .title, .prelude {
-      color: #eb387d;
-      font-weight: bold;
       text-align: center;
     }
 
@@ -121,12 +141,11 @@
 
       .sentence-block {
         margin-bottom: 2rem;
-        width: 45%;
 
         .sentence {
           background: white;
           border: 1px solid #eb387d;
-          box-shadow: 5px 5px 0px 0px #FFCADE;
+          box-shadow: 5px 5px 0 0 #FFCADE;
           color: #eb387d;
           font-weight: bold;
           margin-bottom: 1rem;
@@ -154,19 +173,10 @@
   }
 
   .dysphoria-container {
-    background: #f0fcff;
     color: #4054b2;
     padding: 2rem 10vw;
 
     .block {
-      display: flex;
-      flex-direction: row;
-
-      img {
-        height: 45vh;
-        margin: 0 1rem;
-      }
-
       .title {
         color: #2770f1;
         font-size: 2rem;
@@ -177,18 +187,9 @@
   }
 
   .detransition-container {
-    background: #FFF8DD;
     padding: 2rem 10vw;
 
     .block {
-      display: flex;
-      flex-direction: row;
-
-      img {
-        height: 45vh;
-        margin: 0 1rem;
-      }
-
       .title {
         font-size: 1.4rem;
         font-weight: bold;
@@ -217,19 +218,10 @@
   }
 
   .remains-visible-container {
-    background: #BDEBFF;
     color: #4054b2;
     padding: 2rem 10vw;
 
     .block {
-      display: flex;
-      flex-direction: row;
-
-      img {
-        height: 30vh;
-        margin: 0 1rem;
-      }
-
       .title {
         font-size: 1.4rem;
         font-weight: bold;
@@ -254,6 +246,141 @@
 
     .content {
       margin-top: 1rem;
+    }
+  }
+
+  .brochures-container {
+    color: white;
+    padding: 2rem 10vw;
+
+    .title {
+      font-size: 2rem;
+      font-weight: bold;
+      text-align: center;
+    }
+
+    .subtitle {
+      text-align: center;
+    }
+  }
+}
+
+@media (max-width: 600px) {
+  .block {
+    flex-direction: column;
+
+    .image-container {
+      flex-grow: 1;
+      order: 1;
+      text-align: center;
+
+      img {
+        height: 20vh;
+      }
+    }
+
+    .block-text {
+      order: 2;
+      width: 100%;
+
+      .category-title, p {
+        margin-top: 1rem;
+      }
+    }
+  }
+
+  .intro-base-container {
+    background-size: cover;
+    background-position: 40vw;
+  }
+
+  .to-avoid-container {
+    .sentence-container {
+      .sentence-block {
+        width: 100%;
+      }
+    }
+  }
+
+  .dysphoria-container, .detransition-container, .remains-visible-container {
+    .block {
+      .title {
+        margin-top: 1rem;
+      }
+    }
+  }
+}
+
+@media (min-width: 601px) and (max-width: 900px) {
+  .block {
+    flex-direction: row;
+    justify-content: space-between;
+
+    .image-container {
+      flex-grow: 1;
+      text-align: center;
+
+      img {
+        height: 20vh;
+      }
+    }
+
+    .block-text {
+      margin: 0 1rem;
+      width: 55vw;
+
+      .category-title, p {
+      }
+    }
+  }
+
+  .intro-base-container {
+    background-size: cover;
+    background-position: 40vw;
+  }
+
+  .to-avoid-container {
+    .sentence-container {
+      .sentence-block {
+        width: 45%;
+      }
+    }
+  }
+
+  .dysphoria-container, .detransition-container, .remains-visible-container {
+    .block {
+      .title {
+        margin-top: 1rem;
+      }
+    }
+  }
+}
+
+@media (min-width: 901px) {
+  .block {
+    flex-direction: row;
+    justify-content: space-between;
+
+    img {
+      height: 45vh;
+      padding: 0 5vw;
+    }
+
+    .block-text {
+      width: 45vw;
+    }
+  }
+
+  .intro-base-container {
+    background-size: contain;
+    background-position: 68vw;
+  }
+
+  .to-avoid-container {
+    .sentence-container {
+      .sentence-block {
+        width: 45%;
+      }
     }
   }
 }

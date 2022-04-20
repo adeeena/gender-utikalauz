@@ -40,40 +40,41 @@ Tranzíciónak nevezhetünk mindent, amit egy transz személy megtehet annak ér
 
 **Mindezek az elemek opcionálisak, és egyéni döntés és lehetőség kérdése.**
 
-## Quelques définitions
+## Néhány definíció
 
-**Une femme trans** est une personne assignée garçon à la naissance, et qui plus tard s’identifie en tant que fille / femme. **On utilise des pronoms féminins pour parler d’elle.**
+** Egy transz nő** az a személy, akit születésekor fiúnak jelöltek ki, és később lányként/nőként azonosítja magát. **Nőnemű névmásokkal hivatkozunk rá.**
 
-**Un homme trans** est une personne assignée fille à la naissance, et qui plus tard s’identifie en tant que garçon / homme. **On utilise des pronoms masculins pour parler de lui.**
+**A transz férfi** az a személy, akit születésekor lánynak jelöltek ki, és később fiúként/férfiként azonosítja magát. **Hímnemű névmásokkal hivatkozunk rá.**
 
-**Une personne non binaire** a un genre qui sort d’une vision binaire du genre. La non-binarité est un terme parapluie : elle regroupe les multiples et différentes façons de ressentir et de vivre son genre en-dehors de la binarité (accéder à un lexique des termes les plus courants.) Le pronom « iel » est le pronom neutre le plus connu en France.
+**A nem bináris személy** neme kívül esik a nemek bináris felfogásán. A nem-binaritás egy gyűjtőfogalom: a nemiség érzésének és megélésének számos különböző módját foglalja magában a binaritáson kívül.
 
-Certaines personnes peuvent se définir comme « femmes trans non binaires » ou « hommes trans non binaires », ce qui semble contradictoire. Mais ces expressions peuvent revêtir plusieurs sens : la plupart du temps, cela veut dire que la personne a un parcours transféminin (Mt*) / transmasculin (Ft*), se reconnaît dans le vécu des femmes ou des hommes trans, tout en précisant que son genre n’est pas à 100 % féminin ou masculin.
+Egyesek "nem bináris transz nőként" vagy "nem bináris transz férfiként" definiálják magukat, ami ellentmondásosnak tűnik. Ezeknek a kifejezéseknek azonban több jelentése is lehet: legtöbbször azt jelenti, hogy az illető transzfeminin / transzmaszkulin háttérrel rendelkezik, felismeri magát a transz nők vagy férfiak tapasztalataiban, ugyanakkor pontosítja, hogy neme nem 100%-ban nő vagy férfi.
 
-Le contraire de trans (« de l’autre côté » en latin) est **cis** (« du même côté » en latin), ou **cisgenre**.
 
-Les personnes intersexes sont des personnes nées avec des caractéristiques sexuelles primaires et / ou secondaires considérées comme ne correspondant pas aux définitions sociales et médicales typiques du féminin et du masculin. (définition du Collectif Intersexes et Allié.e.s). Les personnes intersexes peuvent être cis ou trans. L’intersexuation relevant du biologique tandis que la transidentité concerne le social, il s’agit de deux choses différentes.
+A transz ("a másik oldalon" latinul) ellentéte a **cisz** ("ugyanazon az oldalon" latinul), vagy **cisznemű**.
 
-## Ça vient d’où, être trans ?
+Az interszexuális emberek olyan elsődleges és/vagy másodlagos nemi jellegzetességekkel születnek, amelyek nem tartoznak a nő és a férfi tipikus társadalmi és orvosi meghatározásába. Az interszexuális emberek lehetnek cisz vagy transz szemelyek. Az interszex egy biológiai állapot, míg a transz-identitás egy társadalmi állapot, tehát két különböző dologról van szó.
 
-Beaucoup cherchent à **comprendre pourquoi il y a des personnes trans**. Comment cela est arrivé ? pourquoi suis-je trans ? pourquoi mon enfant est trans ? qu’est-ce qui s’est mal passé ? Parce que comprendre d’où vient la transidentité permettrait hypothétiquement de **résoudre un problème… qui n’en est pas un.**
+## Honnan ered a transzneműség?
 
-Dans tous les cas, chercher à comprendre à tout prix d’où ça vient est **une voie sans issue.**
+Sokan igyekeznek **megérteni, hogy honnan es miért vannak transz emberek**. Hogyan történhetett ez? miért vagyok transz? miért transz a gyermekem? mit csinaltam rosszul? Mert a transzidentitás eredetének megértése hipotetikusan **megoldana egy problémát... ami nem probléma.**
 
-Sachez simplement que les personnes trans existent dans tous les types de familles, dans tous les environnements, à toutes les époques, et que **ni vous, ni vos parents, ni votre environnement n’êtes responsables de votre propre transidentité.**
+Mindenesetre az, hogy mindenáron megpróbáljuk megérteni, honnan származik, az egy **zsákutca**.
 
-## À quoi ressemblent les personnes trans ?
+Csak tudd, hogy transz emberek mindenféle családban, minden környezetben, minden időben léteznek, és hogy **nem te, nem a szüleid, nem a környezeted felelős a saját transz-ságodért**.
 
-Vous avez peut-être en tête des exemples de personnes trans célèbres ou bien de gens dont la transidentité « se voit ».
+## Hogy néznek ki a transz emberek?
 
-Il s’agit dans plupart des cas de **personnes trans en début de transition**. En effet, pour la plupart des personnes qui transitionnent, il y une période de quelques mois ou années durant laquelle les changements sont en cours. Comme lors de la puberté des personnes cisgenres, les personnes trans essaient de trouver leurs marques dans leur genre d’arrivée. De même, leur corps change si elles prennent des hormones et / ou réalisent des opérations. Durant cette période de transition, souvent marquée par de nombreux coming out, des démarches administratives, les personnes peuvent subir plus de violence et ont particulièrement besoin d’aide pour avancer.
+Lehet, hogy olyan híres transznemű emberekre probalsz gondolni; vagy olyan emberekre, akik "láthatóan" transzneműek.
 
-**Après quelques années, de nombreuses personnes trans retournent à une vie « normale », où leur transidentité n’est plus visible par elles-mêmes et par les autres.**
+A legtöbb esetben ezek a **transz emberek az átmenet korai szakaszában** vannak. Valójában a legtöbb ember számára, aki hormonalis tranzíciót hajt végre, van egy néhány hónapos vagy éves időszak, amely alatt ezek a változások zajlanak le. Ahogy a ciszgender embereknél a pubertás, úgy a transz emberek is próbálnak új nemükben megvetni a lábukat. Hasonlóképpen a testük is megváltozik, ha hormonokat szednek és/vagy műtétnek vetik alá magukat. Mivel ebben az átmeneti időszakban a legtobbek kibujnak, elkezdik a tarsadalmi tranziciot, a transz emberek több erőszakot tapasztalhatnak, és különösen nagy szükségük van segítségre a továbblépéshez.
 
-À l’inverse, on pourrait s’attendre à ce que les personnes non binaires, du fait de leur identité de genre, cherchent un physique androgyne ou restent dans un espèce d’« entre-deux » visible. C’est une idée reçue dans la mesure ou elle suppose déjà une conception binaire de ce à quoi devrait ressembler un homme ou une femme. **Les personnes non binaires peuvent être féminines, masculines ou androgynes.** On ne devine pas la non-binarité d’une personne à son apparence (son expression de genre), mais par exemple à sa façon de parler (elle utilise les accords neutres ou alternés quand elle parle d’elle-même). On obtient la certitude de sa non-binarité seulement si elle réalise son coming out.
+**Néhány év elteltével sok transz ember visszatér a "normális" élethez, ahol transz-identitásuk már nem látható sem maguk, sem mások számára.**
 
-Puisque les personnes non binaires ne peuvent pas espérer être perçues comme non binaires grâce à leur apparence, les transitions vers des genres non binaires impliquent à l’heure actuelle un dévoilement constant. Il faut, à répétition, se demander à qui parler de sa non-binarité, prendre en compte les risques de rejet, le degré de proximité avec telle ou telle personne, voir si cela vaut la peine de corriger les autres lors d’interactions quotidiennes (dans les commerces par exemple). C’est parfois risquer de se faire genrer par l’autre genre binaire qui n’est pas le bon non plus. Dévoiler sa non-binarité est obligatoire si l’on veut vivre en accord avec son genre, là où les femmes et les hommes trans qui ont un passing peuvent vivre dans leur genre sans avoir à en parler à qui que ce soit. **En cela, les personnes non binaires sont plus exposées, et plus longtemps, au risque de se faire mégenrer, discriminer, de subir des violences.**
+Ezzel szemben a nem-bináris emberek nemi identitásuk miatt elvárható lenne, hogy gendersemleges testalkatra törekedjenek, vagy hogy egyfajta látható "köztes állapotban" maradjanak. Ez egy gyakori tévhit, mivel már eleve feltételez egy bináris elképzelést arról, hogy egy férfinak vagy nőnek hogyan kell kinéznie. **A nem-bináris emberek lehetnek nőiesek, férfiasak vagy gendersemlegesen is nézhetnek ki.** Nem a kinézetükből, hanem például abból, ahogyan beszéduk hangmagassagabol vagy dallamossagabol lehet megállapítani, hogy valaki nem-bináris. Csak akkor lehetunk biztosak valaki a nem-binaritásában, ha kibujik es elmondja nekunk.
 
-La population trans en Occident est estimée à 0,3 à 1,6 %. **Vous avez donc probablement rencontré des tonnes de personnes trans (femmes, hommes ou non binaires).** Votre voisine, votre collègue de bureau, le prof de votre enfant sont peut-être trans **sans que vous sachiez. Ce sont des gens comme les autres, normaux et qui aspirent à une vie tranquille.**
+Mivel a nem-bináris nemű emberek nem számíthatnak arra, hogy megjelenésük alapján nem-binárisnak érzékelik őket, a mindennapokban nem-bináriskent elni folyamatos kibujassal jár. Az embernek többször is fel kell tennie a kérdést, hogy kivel beszéljen a nem-binaritásáról, mérlegelnie kell a folyamatos elutasítás kockázatát, és azt, hogy érdemes-e másokat kijavítani a mindennapi interakciókban (pl. üzletekben). A nem-binaritás felfedése kötelező, ha valaki a nemének megfelelően akar élni, míg a transz nők és férfiak a tranziciojuk vege fele ugy élhetnek a mindennapokban, hogy bárkinek is ki kellene bujniuk. **Így a nem bináris emberek hosszabb ideig vannak kitéve a megszégyenítés, a diszkrimináció és a bántalmazás kockázatának.**
 
-💡 Une galerie de personnes trans / non binaires publiques (connues ou se revendiquant publiquement comme trans et / ou non binaires) [est disponible sur le site](/#/entry?id=mit-jelent-a-transzidentitas).
+A transzneműek aránya nyugaton a becslések szerint 0,3-1,6%-ra teheto. **Szóval valószínűleg rengeteg transz emberrel találkoztál már (transz nővel, férfival vagy nem bináris szemellyel).** A szomszédod, az irodai munkatársad, a gyermeked tanára lehet, hogy transz **anélkül, hogy tudnál róla. Ők csak normális emberek, akik nyugodt életet akarnak élni.**
+
+💡 A nyilvános transz/nem-bináris emberek (akikről köztudott vagy nyilvánosan azt állítják, hogy transz és/vagy nem-bináris) [galériája elérhető itt](/#/TODO).

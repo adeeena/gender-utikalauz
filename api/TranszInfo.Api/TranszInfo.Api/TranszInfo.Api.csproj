@@ -28,7 +28,19 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Content Update="public\hu\_translations.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
     <None Update="public\hu\mit-jelent-a-transzidentitas.md">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="public\hu\mit-jelent-nem-binarisnak-lenni.md">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="public\hu\mit-jelent-nem-interszexnek-lenni.md">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>

@@ -37,6 +37,9 @@
     <None Update="public\hu\mit-jelent-a-transzidentitas.md">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="public\hu\mit-jelent-interszexnek-lenni.md">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="public\hu\mit-jelent-nem-binarisnak-lenni.md">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

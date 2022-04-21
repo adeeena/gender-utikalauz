@@ -25,8 +25,8 @@ export class SidebarComponent implements OnInit {
         children: [
           { id: '/intro', title: 'A legalapvetőbb tudnivalók' },
           { id2: 'mit-jelent-a-transzidentitas', title: 'Mit jelent a transzidentitás?' },
-          { id: '', title: 'Mit jelent nem-binárisnak lenni?' },
-          { id: '', title: 'Mit jelent az interszex?' },
+          { id: 'mit-jelent-nem-binarisnak-lenni', title: 'Mit jelent nem-binárisnak lenni?' },
+          { id: 'mit-jelent-interszexnek-lenni', title: 'Mit jelent az interszex?' },
           { id: '', title: 'Lexikon' },
           { id: '', title: 'Szövetségesek és rokonok' }
         ]

@@ -1,0 +1,27 @@
+<div class="container">
+  <div class="header-container">
+    <div class="title">Lexikon</div>
+    <div class="subtitle">a transzidentitásról</div>
+  </div>
+
+  <div class="entries">
+    <div class="category" *ngFor="let entry of entries">
+      <div class="letter">
+        {{ entry.letter }}
+      </div>
+      <div class="category-entries">
+        <div class="entry" *ngFor="let e of entry.entries">
+          <div class="title">
+            {{ e.title }}
+          </div>
+          <div class="subtitle">
+            {{ e.subtitle }}
+          </div>
+          <div class="explain">
+            {{ e.explain }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

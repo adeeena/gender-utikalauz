@@ -27,8 +27,8 @@ export class SidebarComponent implements OnInit {
           { id2: 'mit-jelent-a-transzidentitas', title: 'Mit jelent a transzidentitás?' },
           { id2: 'mit-jelent-nem-binarisnak-lenni', title: 'Mit jelent nem-binárisnak lenni?' },
           { id2: 'mit-jelent-interszexnek-lenni', title: 'Mit jelent az interszex?' },
-          { id: '', title: 'Lexikon' },
-          { id: '', title: 'Szövetségesek és rokonok' }
+          { id: '/lexikon', title: 'Lexikon' },
+          { id: '/szovetsegesek', title: 'Szövetségesek és rokonok' }
         ]
       },
       {
@@ -103,7 +103,7 @@ export class SidebarComponent implements OnInit {
         ]
       },
       {
-        title: '👨🏽 Férfi hormointerapia',
+        title: '👨🏽 Férfi hormonterapia',
         children: [
           { id: '', title: 'Passing' },
           { id: '', title: 'Diszfória' },
@@ -111,13 +111,7 @@ export class SidebarComponent implements OnInit {
           { id: '', title: 'Mellkas elrejtese' },
           { id: '', title: 'Dudor a lagyeknal' },
           { id: '', title: 'Mammectomia' },
-          { id: '', title: 'zexuális kockázatok' },
-        ]
-      },
-      {
-        title: '🧑🏻 Nem binaris',
-        children: [
-          { id: '', title: 'Mi az a nem-binaris?' },
+          { id: '', title: 'Szexuális kockázatok' },
         ]
       }
     ];

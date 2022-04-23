@@ -33,6 +33,8 @@ import { PickerModule } from '@ctrl/ngx-emoji-mart';
 import { IntroComponent } from './components/intro/intro.component';
 import { HeaderComponent } from './components/header/header.component';
 import { MarkdownModule } from 'ngx-markdown';
+import { LexikonComponent } from './components/lexikon/lexikon.component';
+import { SzovetsegesekComponent } from './components/szovetsegesek/szovetsegesek.component';
 
 export function HttpLoaderFactory(http: HttpClient): TranslationLoader {
   return new TranslationLoader(http);
@@ -56,7 +58,9 @@ export function initConfig(appConfig: AppConfigService) {
     AddNewEntryComponent,
     HomeExplainComponent,
     IntroComponent,
-    HeaderComponent
+    HeaderComponent,
+    LexikonComponent,
+    SzovetsegesekComponent
   ],
   imports: [
     BrowserModule,

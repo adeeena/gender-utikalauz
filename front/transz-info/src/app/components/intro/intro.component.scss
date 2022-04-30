@@ -42,7 +42,9 @@
 
   .block {
     display: flex;
-    margin-bottom: 2rem;
+    width: 80%;
+    justify-content: center;
+    margin: 0 auto 2rem;
 
     img {
       text-align: center;
@@ -380,6 +382,57 @@
     .sentence-container {
       .sentence-block {
         width: 45%;
+      }
+    }
+  }
+
+  .brochures-container {
+
+    .brochures {
+      display: flex;
+      justify-content: center;
+      margin-top: 1rem;
+
+      .brochure {
+
+        color: white;
+
+        border-radius: 5px;
+        box-shadow: 2px 2px 5px black, -2px -2px 5px black;
+        height: 14rem;
+        padding: 1rem;
+        position: relative;
+
+        width: 18rem;
+
+        &.transidentity {
+          background-color: #2d3b7e;
+
+
+          .image {
+            background-image: url('/assets/images/undraw_discoverable.svg');
+            background-size: cover;
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            z-index: 3;
+          }
+        }
+
+        .brochure-title {
+          font-size: 1.6rem;
+          font-weight: bold;
+          margin-top: 5rem;
+          position: relative;
+          z-index: 4;
+        }
+
+        .brochure-description {
+          position: relative;
+          z-index: 4;
+        }
       }
     }
   }

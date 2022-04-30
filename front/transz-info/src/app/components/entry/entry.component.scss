@@ -3,7 +3,7 @@
 
 ::ng-deep .header-image {
   text-align: center;
-  
+
   img {
     width: 30vw;
   }
@@ -20,6 +20,20 @@
 
 
   .entry-content {
+    .entry-markdown {
+        ::ng-deep .center-button {
+          background: #4054b2;
+          border-radius: 30px;
+          color: white;
+          display: block;
+          font-weight: bold;
+          margin: 0 auto;
+          padding: 1rem;
+          text-align: center;
+          width: 8rem;
+      }
+    }
+
     .entry-title {
       //font-family: Merriweather;
       font-size: 2rem;

@@ -46,6 +46,7 @@ $blue-color: map-get(mat.$blue-palette, 400);
 
 a {
   color: map-get(mat.$gray-palette, 500);
+  text-decoration: none;
 }
 
 .gray-box, .black-box, .trans-background {

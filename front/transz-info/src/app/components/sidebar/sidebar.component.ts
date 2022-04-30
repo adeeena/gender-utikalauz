@@ -34,7 +34,7 @@ export class SidebarComponent implements OnInit {
       {
         title: '📚 Brosúrák',
         children: [
-          { id: '', title: 'Szülőknek' },
+          { id2: 'brosura-szuloknek', title: 'Szülőknek' },
           { id: '', title: 'Rokonoknak' }
         ]
       },

@@ -257,8 +257,7 @@ export class LexikonComponent implements OnInit {
           {
             'title': 'Homofóbia',
             'subtitle': '- homophobia',
-            'explain': 'A transz emberek orvosi tranzíciójával összefüggésben a hormonok a hormonpótló terápiára' +
-              ' (HRT) utalnak, amelynek célja a testalkat "feminizálása" vagy "maszkulinizálása": progeszteron és ösztrogén a transzfeminin emberek esetében, és tesztoszteron a transzmaszkulin emberek esetében.'
+            'explain': 'A transz emberek orvosi tranzíciójával összefüggésben a hormonok a hormonpótló terápiára (HRT) utalnak, amelynek célja a testalkat "feminizálása" vagy "maszkulinizálása": progeszteron és ösztrogén a transzfeminin emberek esetében, és tesztoszteron a transzmaszkulin emberek esetében.'
           },
           {
             'title': 'HRT',

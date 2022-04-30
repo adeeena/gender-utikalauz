@@ -11,12 +11,13 @@
       </div>
       <div class="category-entries">
         <div class="entry" *ngFor="let e of entry.entries">
-          <div class="title">
-            {{ e.title }}
+          <div class="title" [innerHTML]="e.title | utf8EmojisToImages">
           </div>
+
           <div class="subtitle">
             {{ e.subtitle }}
           </div>
+
           <div class="explain">
             {{ e.explain }}
           </div>

@@ -7,12 +7,19 @@
   width: 25rem;
 
   .sidebar-title {
+    background: #212121;
     color: white;
     font-size: 1.4rem;
     font-weight: bold;
-    left: 4rem;
+    height: 3rem;
+    padding: 1.5rem 0 0 4rem;
     position: absolute;
-    top: 1.5rem;
+    top: 0;
+    width: 100%;
+  }
+
+  .back-to-home {
+    margin-left: .5rem;
   }
 
   .sidebar-item-container {
@@ -43,13 +50,14 @@
         border: 0;
         border-radius: 0;
         cursor: pointer;
-        height: 1.5rem;
         display: flex;
         flex-direction: row;
+        height: 1.5rem;
+        transition: 0.3s;
         width: 100%;
 
         &:hover {
-          background: blue;
+          background: #4054b2;
         }
 
         .text {

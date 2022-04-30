@@ -21,16 +21,20 @@
 
   .entry-content {
     .entry-markdown {
-        ::ng-deep .center-button {
-          background: #4054b2;
-          border-radius: 30px;
-          color: white;
-          display: block;
-          font-weight: bold;
-          margin: 0 auto;
-          padding: 1rem;
-          text-align: center;
-          width: 8rem;
+      ::ng-deep h1, ::ng-deep h2, ::ng-deep h3, ::ng-deep h4, ::ng-deep h5, ::ng-deep h6 {
+        margin-top: 4rem;
+      }
+
+      ::ng-deep .center-button {
+        background: #4054b2;
+        border-radius: 30px;
+        color: white;
+        display: block;
+        font-weight: bold;
+        margin: 0 auto;
+        padding: 1rem;
+        text-align: center;
+        width: 8rem;
       }
     }
 

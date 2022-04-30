@@ -35,7 +35,7 @@ Szülőként az az egyik feladatod, hogy megadj a gyermekednek minden lehetősé
 * Hogy néznek ki a transz emberek?
 * 1 – "El fogom veszíteni a fiamat / lányomat"
 * 2 - "Mi lenne, ha csak nőiesebbé/férfiasabbá válnál?"
-* 3 - "Mi van, ha csak meleg lennél?""
+* 3 - "Mi van, ha csak meleg lennél?"
 * 4 – "De te soha nem mutattad semmi jelét ennek!”
 * 5 – "Ez majd elmúlik"
 * 6 - "Soha nem fogsz úgy kinézni, mint egy férfi / nő"

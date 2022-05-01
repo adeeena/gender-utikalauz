@@ -1,7 +1,9 @@
 import { Meta, Title } from '@angular/platform-browser';
-import { Component, OnInit } from '@angular/core';
+import {Component, OnInit, ViewChild} from '@angular/core';
 import {TranslateService} from "@ngx-translate/core";
 import {AppConfigService} from "./services/app-config.service";
+import {SidenavService} from "./services/sidenav-service.service";
+import {MatSidenav} from "@angular/material/sidenav";
 
 @Component({
   selector: 'app-root',
@@ -10,21 +12,28 @@ import {AppConfigService} from "./services/app-config.service";
 })
 export class AppComponent implements OnInit {
   public isOpened: boolean = false;
+  // @ts-ignore
+  @ViewChild('sidenav') public sidenav: MatSidenav;
 
   constructor(private translate: TranslateService,
               private appConfigService: AppConfigService,
               private meta: Meta,
-              private title: Title) {
+              private title: Title,
+              private sidenavService: SidenavService) {
     translate.setDefaultLang(appConfigService.getConfig().languageCode);
   }
 
+  ngAfterViewInit(): void {
+    this.sidenavService.setSidenav(this.sidenav);
+  }
+
   ngOnInit() {
-    this.translate.get('generic.title').subscribe((translated: string) => {
+    this.translate.get('general.title').subscribe((translated: string) => {
       this.title.setTitle(translated);
     });
 
 
-    this.translate.get('generic.seoDescription').subscribe((translated: string) => {
+    this.translate.get('general.seoDescription').subscribe((translated: string) => {
       this.meta.updateTag({
         name: 'description',
         content: translated
@@ -33,22 +42,10 @@ export class AppComponent implements OnInit {
   }
 
   toggleSidenav() {
-    this.isOpened = !this.isOpened;
-
-    if (this.isOpened) {
-      document.body.style.overflow = "hidden"; // ADD THIS LINE
-      document.body.style.height = "100%"; // ADD THIS LINE
-    } else {
-      document.body.style.overflow = "auto"; // ADD THIS LINE
-      document.body.style.height = "auto"; // ADD THIS LINE
-    }
+    this.sidenavService.toggle();
   }
 
   closeSidenav() {
-    this.isOpened = false;
-    document.body.style.overflow = "auto"; // ADD THIS LINE
-    document.body.style.height = "auto"; // ADD THIS LINE
+    this.sidenavService.close();
   }
-
-
 }

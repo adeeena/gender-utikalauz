@@ -46,7 +46,7 @@ Tranzíciónak nevezhetünk mindent, amit egy transz személy megtehet annak ér
 
 **A transz férfi** az a személy, akit születésekor lánynak jelöltek ki, és később fiúként/férfiként azonosítja magát. **Hímnemű névmásokkal hivatkozunk rá.**
 
-**A nem bináris személy** neme kívül esik a nemek bináris felfogásán. A nem-binaritás egy gyűjtőfogalom: a nemiség érzésének és megélésének számos különböző módját foglalja magában a binaritáson kívül.
+**A nem bináris személy** neme kívül esik a nemek bináris felfogásán. A nem-binaritás egy gyűjtőfogalom: a nemiség érzésének és megélésének számos különböző módját foglalja magában a binaritáson kívül. További definíciókat találhatsz a [lexikonunkban](/#/lexikon).
 
 Egyesek "nem bináris transz nőként" vagy "nem bináris transz férfiként" definiálják magukat, ami ellentmondásosnak tűnik. Ezeknek a kifejezéseknek azonban több jelentése is lehet: legtöbbször azt jelenti, hogy az illető transzfeminin / transzmaszkulin háttérrel rendelkezik, felismeri magát a transz nők vagy férfiak tapasztalataiban, ugyanakkor pontosítja, hogy neme nem 100%-ban nő vagy férfi.
 

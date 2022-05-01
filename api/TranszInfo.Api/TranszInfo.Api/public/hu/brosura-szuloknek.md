@@ -16,7 +16,7 @@ Nyomtasd ki (körülbelül 20 oldalas), és add oda a családodnak, amikor kibú
 
 Ráadásul a kinyomtatással ez az egész még kézzelfoghatóbbá és valóságosabbá válik.
 
-<a class="center-button" href="#">Letöltés</a>
+<a class="center-button" href="/assets/10-tevhit-a-transzidentitasrol.pdf">Letöltés</a>
 
 ### Összefoglaló
 

@@ -34,16 +34,16 @@ namespace TranszInfo.Api.Controllers
         #region Exposed endpoints
 
         [HttpGet("getBy")]
-        public IEnumerable<CategoryDto> GetBy([FromQuery] string languageCode)
+        public string GetBy([FromQuery] string languageCode)
         {
             if (string.IsNullOrEmpty(languageCode))
             {
                 throw new ArgumentNullException(nameof(languageCode));
             }
 
-            IList<CategoryModel> categories = _categoryLogic.GetBy(languageCode);
+            string categories = _categoryLogic.GetBy(languageCode);
 
-            return _mapper.MapCollection<CategoryModel, CategoryDto>(categories);
+            return categories;//  _mapper.MapCollection<CategoryModel, CategoryDto>(categories);
         }
 
         #endregion

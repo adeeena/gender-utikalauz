@@ -25,6 +25,27 @@
         margin-top: 4rem;
       }
 
+      ::ng-deep a {
+        color: #4054b2;
+        font-weight: bold;
+        text-decoration: underline;
+      }
+
+      ::ng-deep .flex {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 4vh;
+
+        .flex-item {
+          text-align: center;
+          width: 45%;
+
+          img {
+            height: 30vh;
+          }
+        }
+      }
+
       ::ng-deep .center-button {
         background: #4054b2;
         border-radius: 30px;

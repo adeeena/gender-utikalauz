@@ -35,6 +35,7 @@ import { HeaderComponent } from './components/header/header.component';
 import { MarkdownModule } from 'ngx-markdown';
 import { LexikonComponent } from './components/lexikon/lexikon.component';
 import { SzovetsegesekComponent } from './components/szovetsegesek/szovetsegesek.component';
+import {SidenavService} from "./services/sidenav-service.service";
 
 export function HttpLoaderFactory(http: HttpClient): TranslationLoader {
   return new TranslationLoader(http);
@@ -95,7 +96,7 @@ export function initConfig(appConfig: AppConfigService) {
     useFactory: initConfig,
     deps: [AppConfigService],
     multi: true,
-  }],
+  }, SidenavService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

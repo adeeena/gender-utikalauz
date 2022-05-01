@@ -3,6 +3,7 @@ using Microsoft.Extensions.Caching.Memory;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using TranszInfo.Core.Extensions;
@@ -26,9 +27,8 @@ namespace TranszInfo.Logic.BusinessLogic
 
         #region ctor
 
-        public CategoryLogic(MikroagressziContext context, IMapper mapper, IMemoryCache memoryCache)
+        public CategoryLogic(IMapper mapper, IMemoryCache memoryCache)
         {
-            _context = context;
             _mapper = mapper;
             _memoryCache = memoryCache;
         }
@@ -37,19 +37,19 @@ namespace TranszInfo.Logic.BusinessLogic
 
         #region Additional methods
 
-        public IList<CategoryModel> GetBy(string languageCode)
+        public string GetBy(string languageCode)
         {
             string CACHE_KEY = "CATEGORIES_BY_" + languageCode;
 
-            if (!_memoryCache.TryGetValue(CACHE_KEY, out IList<CategoryModel> cacheValue))
+            if (!_memoryCache.TryGetValue(CACHE_KEY, out string cacheValue))
             {
                 MemoryCacheEntryOptions? cacheEntryOptions = new MemoryCacheEntryOptions()
                     .SetSlidingExpiration(TimeSpan.FromMinutes(20));
 
-                List<Category>? categories =
-                    null;
+                var runDir = Path.GetDirectoryName(Assembly.GetEntryAssembly().Location);
+                var markdownFileContent = File.ReadAllText($"{runDir}/public/hu/_sidebar.json");
 
-                cacheValue = _mapper.MapCollection<Category, CategoryModel>(categories);
+                cacheValue = markdownFileContent;
 
                 _memoryCache.Set(CACHE_KEY, cacheValue, cacheEntryOptions);
             }

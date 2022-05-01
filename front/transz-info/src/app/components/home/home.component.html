@@ -15,7 +15,9 @@
             <button class="close-button" mat-stroked-button
                          color="primary">{{ 'general.intro' | translate }}</button>
           </a>
-          <button class="close-button" mat-flat-button color="primary">{{ 'general.allArticle' | translate }}</button>
+          <button class="close-button" mat-flat-button color="primary" (click)="sidenavToggle()">
+            {{ 'general.allArticle' | translate }}
+          </button>
         </div>
       </div>
       </div>

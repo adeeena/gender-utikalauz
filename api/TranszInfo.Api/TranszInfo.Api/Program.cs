@@ -16,7 +16,7 @@ builder.Services.AddMemoryCache();
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddScoped<ITranslationLogic, TranslationLogic>();
-//builder.Services.AddScoped<ICategoryLogic, CategoryLogic>();
+builder.Services.AddScoped<ICategoryLogic, CategoryLogic>();
 builder.Services.AddScoped<IEntryLogic, EntryLogic>();
 
 builder.Services.AddCors(opt =>

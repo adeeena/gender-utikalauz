@@ -30,6 +30,12 @@ export class LexikonComponent implements OnInit {
             'explain': 'Olyan személy, aki nem azonosítja magát semmilyen nemi identitással, vagy akinek nincs nemi identitása.'
           },
           {
+            'title': 'Alsó műtét',
+            'subtitle': '– bottom surgery',
+            'explain': 'Minden olyan, genitáliákat érintő műtéti beavatkozás, melynek célja a veleszületett nemi' +
+              ' szervek igazítása a genderidentitáshoz.'
+          },
+          {
             'title': 'Androgün',
             'subtitle': 'Androgynous',
             'explain': 'Aki ránézésre és testi adottságai alapján hagyományosan férfi és női nemi jegyekként' +
@@ -93,6 +99,15 @@ export class LexikonComponent implements OnInit {
             'explain': 'Ellenségesség, elutasítás és erőszak a biszexuálisokkal, biromantikusokkal és pánokkal szemben.'
           },
           {
+            'title': 'Bigender',
+            'explain': 'Olyan személy, aki mindkét nemmel azonosul. Gyakran használják úgy, hogy valaki "egyszerre' +
+              ' férfi és nő", de a jelentés lehet tágabb is, amennyiben két nemről van szó.'
+          },
+          {
+            'title': 'Bioférfi, Bionő 🚫',
+            'explain': 'Cisz férfi/nő. Elkerülendő kifejezés.'
+          },
+          {
             'title': 'Biszexuális',
             'subtitle': '– (bisexual)',
             'explain': 'Olyan személy, aki szexuális vagy romantikus vonzalmat érezhet egynél több nemhez.' +
@@ -137,6 +152,11 @@ export class LexikonComponent implements OnInit {
             'subtitle': '– cissexist',
             'explain': 'A cisznemű emberek felsőbbrendűnek tekintése a transznemű emberekhez képest, vagy a cisznemű emberek identitásának legitimebbnek tekintése a transznemű emberek identitásánál, vagy a transzneműség létezésének tagadása. A cisz-szexizmus lehet tudatos vagy tudattalan (az egyének kondicionálása a cisznormatív társadalom által).'
           },
+          {
+            'title': 'Crossdresser',
+            'explain': 'olyasvalaki, aki nem a neméhez illőnek tartott öltözékben szeret járni. A crosdresser' +
+              ' öndefiníciója alapján nem transzgender, csak szeret a másik nem ruháiban járni. Idejétmúlt kifejezéssel: transzvesztita 🚫.'
+          },
         ]
       },
       {
@@ -148,8 +168,18 @@ export class LexikonComponent implements OnInit {
           },
           {
             'title': 'Dekonstrukció',
-            'subtitle': '– (decosntruction)',
+            'subtitle': '– (deconstruction)',
             'explain': 'A társadalom által közvetített elnyomó eszmék dekonstruálásának folyamata. A valóságban senkit sem lehet 100%-ban dekonstruálni.'
+          },
+          {
+            'title': 'Demilány',
+            'subtitle': '– (demigirl)',
+            'explain': 'Olyan nembináris személy, aki csak részben azonosul a női nemmel.'
+          },
+          {
+            'title': 'Demifiú',
+            'subtitle': '– (demiboy)',
+            'explain': 'Olyan nembináris személy, aki csak részben azonosul a férfi nemmel.'
           },
           {
             'title': 'Dicklit',
@@ -161,7 +191,7 @@ export class LexikonComponent implements OnInit {
             'subtitle': '- dysphoria',
             'explain': 'Kellemetlenség, szorongás vagy elutasítás érzése. A diszfória kapcsolódhat a testhez és/vagy' +
               ' a társadalmi normákhoz. Ezzel az orvosi eredetű kifejezéssel gyakran visszaélnek, mint a transzneműség kritériumával. Egy transz személy azonban nem feltétlenül tapasztal diszfóriát. A diszfóriát azonban olyan helyzetek is kiválthatják, amelyek mások számára ártalmatlannak tűnhetnek.'
-          },
+          }
         ]
       },
       {
@@ -199,7 +229,14 @@ export class LexikonComponent implements OnInit {
           {
             'title': 'Falloplasztika',
             'explain': 'Műtéti beavatkozás (neo)pénisz építésére egy AFAB személynél. A húgycső az alkar bőrének befelé tekeredő részéből alakul ki. A (neo)pénisz a bőr egy másik, kifelé tekeredő részéből épül fel.'
-          },{
+          },
+          {
+            'title': 'Felső műtét',
+            'subtitle': '– (top surgery)',
+            'explain': 'a felsőtesten végrehajtott kozmetikai beavatkozás, melynek célja a külső illesztése a' +
+              ' nemi identitáshoz.'
+          },
+          {
             'title': 'Femis / Ladyck',
             'explain': 'A hormonkezelés következtében megváltozott pénisz. Néhány transz nő és nem bináris személy,' +
               ' akár hormonkezelés alatt vannak, akár nem, szintén ezt a kifejezést használja a péniszére.'
@@ -436,6 +473,10 @@ export class LexikonComponent implements OnInit {
               ' vagy ciszgender nő (transz nők esetében) léthez kapcsolódnak.\n' +
               '\n' +
               'Ez lehet túlélési stratégia, vagy az az igény, hogy egy kicsit "normálisabb" életet éljenek.\n'
+          },
+          {
+            'title': 'Polygender',
+            'explain': 'Olyan személy, aki egyszerre több nemmel azonosul.'
           }
         ]
       },
@@ -465,6 +506,14 @@ export class LexikonComponent implements OnInit {
             'title': 'Szivárvány zászló',
             'subtitle': '- rainbow flag',
             'explain': 'Az 1978-ban létrehozott szivárványszínű zászló neve, amely az LMBTQIA+ büszkeséget szimbolizálja. A zászlónak azóta más, inkluzívabb változatai is készültek.'
+          },
+          {
+            'title': 'Szövetséges',
+            'subtitle': '- ally',
+            'explain': 'Azokra az emberekre használják, akik elutasítják a heteroszexizmust, homofóbiát, bifóbiát,' +
+              ' transzfóbiát, transz*fóbiát, a heteroszexuális és ciszgender privilégiumokat; és úgy gondolják, hogy' +
+              ' a homo-, bi-, transzfóbia és a heteroszexizmus kérdése a társadalmi igazságosság problémakörébe' +
+              ' tartozik.'
           }
         ]
       },

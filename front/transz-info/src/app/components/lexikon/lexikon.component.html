@@ -11,7 +11,7 @@
       </div>
       <div class="category-entries">
         <div class="entry" *ngFor="let e of entry.entries">
-          <div class="title" [innerHTML]="e.title | utf8EmojisToImages">
+          <div class="title" [innerHTML]="e.title | utf8EmojisToImages:'apple':20">
           </div>
 
           <div class="subtitle">

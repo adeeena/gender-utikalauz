@@ -18,13 +18,13 @@ Ha valaki neme nem kizárólagosan férfi vagy kizárólagosan női, akkor azt n
 
 Vagyis egy nem-bináris személy nem kizárólag férfi vagy kizárólag nő: lehet valahol a kettő között, a kettő keveréke vagy egyik sem. A nem-binaritás azt is jelentheti, hogy az egyén neme az idő múlásával megváltozhat.
 
-A nem-binaritás minden társadalmi osztalyban és minden életkorban elofordulhat.
+A nem-binaritás minden társadalmi osztályban és minden életkorban előfordulhat.
 
-A nem-binaritást minden egyes szemely nagyon különböző módon fejezhet ki.
+A nem-binaritást minden egyes érintett személy különböző módokon fejezhet ki.
 
 ## Ne tévesszük össze
 
-A nem-binaritás nem tévesztendő össze az interszexualitással, amely anatómiai, hormonális és/vagy kromoszómális eltérés. Az interszex az olyan elsődleges vagy másodlagos nemi jellegzetességekre utal, amelyek nem tartoznak szigorúan a férfiként vagy szigorúan a nőként meghatározott kategóriába.
+A nem-binaritás nem tévesztendő össze az [interszexualitással](/#/entry?id=mit-jelent-interszexnek-lenni), amely anatómiai, hormonális és/vagy kromoszómális eltérés. Az interszex az olyan elsődleges vagy másodlagos nemi jellegzetességekre utal, amelyek nem tartoznak szigorúan a férfiként vagy szigorúan a nőként meghatározott kategóriába.
 
 A nem-binaritás társadalmi tényező, amelynek semmi köze sincs a biológiához.
 
@@ -36,7 +36,7 @@ A nem-bináris nemi identitás, bár mindig is létezett, egyre inkább társada
 
 * Jogi elismerés: Ausztráliában, Németországban és Kanadában a személyazonossági okmányokban a szokásos M és F jelölés helyett X jelölést lehet feltüntetni.
 * Nyilvános elismerés: egyre több közszereplő vallja magát nem-binárisnak, mint peldaul Sam Smith, vagy Jack Monroe, a Guardian újságírója; vagy Miley Cirus énekesnő.
-* Elismerés az interneten: Facebook, Google, Tinder... A webóriások, amikor nemet vagy névmást kérdeznek, mostantól lehetőséget adnak a férfin és nőn kívüli nem választásra. A Facebook például 52 megnevezést kínál a nemi identitás megnevezésére. A Google lehetővé teszi a semleges emojik kiválasztását is.
+* Elismerés az interneten: Facebook, [Google](https://time.com/3630012/google-infinite-gender-options/), [Tinder](https://blog.gotinder.com/genders/)... A webóriások, amikor nemet vagy névmást kérdeznek, mostantól lehetőséget adnak a férfin és nőn kívüli nem választásra. A Facebook például 52 megnevezést kínál a nemi identitás megnevezésére. A Google lehetővé teszi a [semleges nemű emojik](https://blog.emojipedia.org/googles-three-gender-emoji-future/) kiválasztását is.
 
 
 ## Gyakori kérdések
@@ -55,11 +55,18 @@ Ezért soha nem lehet egy személy nem-binaritására következtetni a megjelen�
 
 David Bowie például megtörte a nemi sztereotípiákat, de ciszgender férfi volt. Míg Sam Smith, bár inkább megfelel a férfi fizikai sztereotípiáknak, nem binárisnak vallja magát.
 
-
-David Bowie, egy ciszgender férfi
-
-Sam Smith, egy nem bináris személy
-
+<div class="flex">
+	<div class="flex-item">
+	<img src="https://cdn.artphotolimited.com/images/5ff5a529bd40b83c5a537440/300x300/le-chanteur-anglais-david-bowie.jpg" />
+	<br />
+	David Bowie, egy ciszgender férfi
+	</div>
+<div class="flex-item">
+	<img src="https://resize-elle.ladmedia.fr/r/625,,forcex/crop/625,804,center-middle,forcex,ffffff/img/var/plain_site/storage/images/people/la-vie-des-people/news/sam-smith-devaste-le-chanteur-a-rompu-avec-l-acteur-de-13-reasons-why-brandon-flynn-3699095/88089416-1-fre-FR/Sam-Smith-devaste-le-chanteur-a-rompu-avec-l-acteur-de-13-Reasons-Why-Brandon-Flynn.jpg" />
+	<br />
+	Sam Smith, egy nem bináris személy
+	</div>
+</div>
 
 A nemiséggel és annak kifejezésével kapcsolatos előítéletek lebontása alapvető fontosságú annak megértéséhez, hogy miről is szól a nem-binaritás.
 
@@ -161,6 +168,6 @@ Ha tehát úgy teszünk, mintha semmi sem történt volna, és továbbra is pont
 
 ### Nem-bináris lexikon
 
-Idővel kialakult egy alkategóriákból álló lexikon, amely a különböző nem-bináris tapasztalatokat írja le. Például: gendersemleges, genderqueer, demiboy vagy demigirl, genderfluid, xenogender...
+Idővel kialakult egy alkategóriákból álló lexikon, amely a különböző nem-bináris tapasztalatokat írja le. Például: gendersemleges, genderqueer, demiboy vagy demigirl, genderfluid...
 
-További információért [tekintsd meg a nem-binaritással kapcsolatos kifejezések szójegyzékét.](/TODO)
+További információért [tekintsd meg a nem-binaritással kapcsolatos kifejezések szójegyzékét.](/#/lexikon)

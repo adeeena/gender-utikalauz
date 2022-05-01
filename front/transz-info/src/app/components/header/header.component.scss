@@ -1,3 +1,19 @@
 .header {
   background: #4054b2;
+  padding: 1rem;
+
+  .image {
+    margin-left: 4rem;
+    margin-top: .2rem;
+
+    img {
+      height: 2rem;
+    }
+
+    span {
+      color: white;
+      font-size: 2rem;
+      font-weight: bold;
+    }
+  }
 }

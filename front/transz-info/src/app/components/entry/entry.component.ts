@@ -45,12 +45,17 @@ export class EntryComponent implements OnInit {
         this.entryService.getById(this.entryId)
           .subscribe((data: any) => {
             const values = data.split('---');
-            this.metadata = values[1];
+            this.metadata = values[1].split('\n');
+            let title = this.metadata
+              .filter(
+                (q:string) => q.startsWith('title'))
+              [0].split(': ')[1]
+              .replace(/['"]+/g, '');
+
             this.entry = this.markdownService.compile(values[2]);
 
-            console.dir(data);
             this.titleService.setTitle(
-              data.title + ' | ' + this.translate.instant('general.title'));
+              title + ' | ' + this.translate.instant('general.title'));
           });
       }
     });

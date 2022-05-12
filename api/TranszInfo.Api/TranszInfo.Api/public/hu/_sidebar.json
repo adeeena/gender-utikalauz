@@ -7,8 +7,8 @@
         "title": "A legalapvetőbb tudnivalók"
       },
       {
-        "id2": "mit-jelent-a-transzidentitas",
-        "title": "Mit jelent a transzidentitás?"
+        "id2": "mit-jelent-transznak-lenni",
+        "title": "Mit jelent transznak lenni?"
       },
       {
         "id2": "mit-jelent-nem-binarisnak-lenni",
@@ -55,18 +55,18 @@
     ]
   },
   {
-    "title": "🔍 Kérdések",
+    "title": "🔍 Bizonytalanoknak",
     "children": [
       {
-        "id": "",
+        "id2": "honnan-tudom-hogy-transz-vagyok",
         "title": "Honnan tudom, hogy transz vagyok?"
       },
       {
-        "id": "",
-        "title": "Transzneműnek és melegnek lenni"
+        "id2": "transznak-es-melegnek-lenni",
+        "title": "Transznak és melegnek lenni"
       },
       {
-        "id": "",
+        "id": "sosem-leszek-passing",
         "title": "Félek, hogy sosem leszek passing"
       },
       {
@@ -75,7 +75,7 @@
       },
       {
         "id": "",
-        "title": "Detranzicio"
+        "title": "Detranzició"
       }
     ]
   },

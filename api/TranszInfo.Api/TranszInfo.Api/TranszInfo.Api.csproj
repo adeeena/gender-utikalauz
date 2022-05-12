@@ -37,13 +37,22 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="public\hu\mit-jelent-a-transzidentitas.md">
+    <None Update="public\hu\sosem-leszek-passing.md">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="public\hu\transznak-es-melegnek-lenni.md">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="public\hu\mit-jelent-transznak-lenni.md">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="public\hu\mit-jelent-interszexnek-lenni.md">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="public\hu\brosura-szuloknek.md">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="public\hu\honnan-tudom-hogy-transz-vagyok.md">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="public\hu\mit-jelent-nem-binarisnak-lenni.md">

@@ -1,6 +1,6 @@
 ﻿---
 date: "2020-01-26T20:41:55.827Z"
-title: "Mit jelent a transzidentitás?"
+title: "Mit jelent transznak lenni?"
 lang: hu
 ---
 
@@ -14,7 +14,7 @@ lang: hu
 
 Az a személy, akinek születésekor azt mondták, hogy lány, és aki férfinak tartja magát, az egy transz férfi. Az a személy, akiről születésekor azt mondták, hogy fiú, és aki magát nőnek tartja, az transz nő.
 
-Az a személy, aki nem azonosítja magát sem kizárólag férfiként, sem kizárólag nőként, transz és nem-bináris (azaz a neme érzése túlmutat a férfi és a nő bináris és szembeállított fogalmán). A nem-binaritás vonatkozhat olyan emberekre, akiknek a neme képlékeny; vagy a férfias és a nőies nemek keveréke, vagy akik mindezeken kívül esnek. (Lásd a ["Mit jelent a nem-bináris?"](/#/entry?id=mit-jelent-a-nem-binaris) című cikkünket.)
+Az a személy, aki nem azonosítja magát sem kizárólag férfiként, sem kizárólag nőként, transz és nem-bináris (azaz a neme érzése túlmutat a férfi és a nő bináris és szembeállított fogalmán). A nem-binaritás vonatkozhat olyan emberekre, akiknek a neme képlékeny; vagy a férfias és a nőies nemek keveréke, vagy akik mindezeken kívül esnek. (Lásd a ["Mit jelent nem-binárisnak lenni?"](/#/entry?id=mit-jelent-nem-binarisnak-lenni) című cikkünket.)
 
 Csak az érintett személy állíthatja, hogy transznemű, rajta kívül kivétel nélkül senki más. Az ember egyszerűen attól transz, hogy nem azonosul a születésekor hozzárendelt nemmel (és így a nemével), és **nem az elvégzett műtétek vagy a szenvedés (diszfória) alapján.** Lehet valaki transz, aki nem hajtott végre, vagy nem akar/nem képes társadalmi, adminisztratív vagy orvosi tranzíciót végrehajtani.
 

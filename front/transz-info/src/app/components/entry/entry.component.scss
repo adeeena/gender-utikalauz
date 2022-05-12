@@ -5,7 +5,16 @@
   text-align: center;
 
   img {
-    width: 30vw;
+    height: 30vh;
+  }
+}
+
+::ng-deep .graph-image {
+  margin: 1rem 0;
+  text-align: center;
+
+  img {
+    width: 100%;
   }
 }
 

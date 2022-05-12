@@ -359,12 +359,24 @@
 }
 
 @media (min-width: 901px) {
+  .dictionary-container {
+    img {
+      width: 30vh;
+    }
+  }
+
+  .dysphoria-container, .detransition-container, .remains-visible-container {
+    img {
+      height: 45vh;
+    }
+  }
+
   .block {
     flex-direction: row;
     justify-content: space-between;
 
     img {
-      height: 45vh;
+
       padding: 0 5vw;
     }
 

@@ -37,6 +37,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="public\hu\tul-fiatal-vagy-oreg-vagyok.md">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="public\hu\sosem-leszek-passing.md">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

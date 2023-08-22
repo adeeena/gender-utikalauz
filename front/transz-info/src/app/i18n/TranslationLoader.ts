@@ -6,7 +6,7 @@ declare let process: any;
 
 export class TranslationLoader implements TranslateLoader {
   private readonly baseUrl : string = '';
-  private translationUrl : string = '/translation/getBy?languageCode=';
+  private translationUrl : string = '/translations?languageCode=';
 
   constructor(private http: HttpClient) {
     const env = process.env.NODE_ENV;

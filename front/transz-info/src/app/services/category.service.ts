@@ -10,7 +10,7 @@ declare let process: any;
 })
 export class CategoryService {
   private readonly baseUrl:string = '';
-  private categoriesUrl:string = '/category/getBy';
+  private categoriesUrl:string = '/categories';
 
   constructor(private http: HttpClient,
               private appConfigService: AppConfigService) {

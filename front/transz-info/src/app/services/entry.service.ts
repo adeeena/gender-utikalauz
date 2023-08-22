@@ -9,8 +9,8 @@ declare let process: any;
 })
 export class EntryService {
   private readonly baseUrl:string = '';
-  private entryUrl:string = '/entry/getBy?categoryId=';
-  private entryByUrl:string = '/entry/getById?entryId=';
+  private entryUrl:string = '/entry?languageCode=hu&id=';
+  private entryByUrl:string = '/entry?languageCode=hu&id=';
   private searchByUrl:string = '/entry/searchBy?query=';
 
   constructor(private http: HttpClient) {

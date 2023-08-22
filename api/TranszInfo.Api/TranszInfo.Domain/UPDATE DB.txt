@@ -1,1 +1,0 @@
-﻿dotnet ef dbcontext scaffold "Server=localhost;Database=dev_db;UId=adena;Password=MySqlDev;" Pomelo.EntityFrameworkCore.MySql -o Models -c "MikroagressziContext" -f -d --no-onconfiguring

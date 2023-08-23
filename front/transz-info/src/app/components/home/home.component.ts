@@ -21,7 +21,7 @@ export class HomeComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    this.titleService.setTitle('Interaktív Mikroagresszió Mini-Enciklopédia');
+    this.titleService.setTitle('Transz Infó');
   }
 
   searchClicked(): void {

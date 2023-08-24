@@ -31,6 +31,7 @@
     "angular-animations": "^0.11.0",
     "ngx-markdown": "^13.1.0",
     "ngx-translate": "^0.0.1-security",
+    "npm": "^9.8.1",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"

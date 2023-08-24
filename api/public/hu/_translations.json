@@ -1,14 +1,16 @@
 ﻿{
   "general.lineWelcome": "👋 Üdvözlet a",
-  "general.title": "Transz Infó",
+  "general.title": "Gender útikalauz",
   "general.lineExplain": "oldalán, ahol rengeteg információt találhatsz az tranzíció előtt, vagy alatt lévő transz embereknek, családjaiknak és támogatóiknak.",
   "general.intro": "Bevezető",
-  "general.titleFirst": "Transz",
-  "general.titleLast": "Info",
+  "general.titleFirst": "Gender",
+  "general.titleLast": "útikalauz",
   "general.allArticle": "Minden cikk",
   "sidebar.title": "Dokumentumtár",
   "footer.supportAt": "ITT TÁMOGATHATSZ MINKET:",
   "footer.linksAt": "ITT ÉRHETSZ EL MINKET:",
   "footer.emailOr": "vagy transzinfohu@gmail.com",
-  "general.backToHome": "Vissza a főoldalra"
+  "general.backToHome": "Vissza a főoldalra",
+  "entry.foundErrorTitle": "Elgépelést találtál? Helyesírási hiba szúrja a szemed? Esetleg tárgyi tévedést vétettünk?",
+  "entry.foundErrorText": "Jelentsd számunkra a <a href='mailto:transzinfohu@gmail.com'>transzinfohu@gmail.com</a> címen, hogy javíthassuk!"
 }

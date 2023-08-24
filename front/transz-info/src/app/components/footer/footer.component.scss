@@ -3,11 +3,14 @@
 
 .content {
   border-top: .3rem solid $blue-color;
+  color: white;
   min-height: 10rem;
-  padding: 4vh 0 2vh;
+  display: flex;
+  gap: 1rem;
+  padding: 4vh 15vw 2vh;
 
   a {
-    color: white;
+    color: $blue-color;
   }
 
   .footer-content {

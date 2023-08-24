@@ -412,7 +412,8 @@
     </div>
 
     <div class="brochures">
-      <a href="#">
+      <a [routerLink]="'/entry'"
+         [queryParams]="{ id: 'brosura-szuloknek'}">
         <div class="brochure transidentity">
           <div class="image"></div>
           <div class="brochure-title">10 tévhit a transzidentitásról</div>

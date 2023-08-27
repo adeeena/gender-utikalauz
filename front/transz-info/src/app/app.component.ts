@@ -1,7 +1,9 @@
 import { Meta, Title } from '@angular/platform-browser';
 import {Component, OnInit, ViewChild} from '@angular/core';
 import {TranslateService} from "@ngx-translate/core";
+import { Router, NavigationEnd } from '@angular/router';
 import {AppConfigService} from "./services/app-config.service";
+import { filter } from 'rxjs/operators';
 import {SidenavService} from "./services/sidenav-service.service";
 import {MatSidenav} from "@angular/material/sidenav";
 
@@ -12,6 +14,7 @@ import {MatSidenav} from "@angular/material/sidenav";
 })
 export class AppComponent implements OnInit {
   public isOpened: boolean = false;
+  public isHeaderVisible: boolean = false;
   // @ts-ignore
   @ViewChild('sidenav') public sidenav: MatSidenav;
 
@@ -19,8 +22,15 @@ export class AppComponent implements OnInit {
               private appConfigService: AppConfigService,
               private meta: Meta,
               private title: Title,
+              private router: Router,
               private sidenavService: SidenavService) {
     translate.setDefaultLang(appConfigService.getConfig().languageCode);
+
+    this.router.events.pipe(filter((event: any) => {
+        return event instanceof NavigationEnd;
+      })).subscribe((event: any) => {
+        this.isHeaderVisible = this.router.url !== '/';
+      });
   }
 
   ngAfterViewInit(): void {

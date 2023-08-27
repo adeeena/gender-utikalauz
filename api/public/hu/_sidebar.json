@@ -21,10 +21,6 @@
       {
         "id": "/lexikon",
         "title": "Lexikon"
-      },
-      {
-        "id": "/szovetsegesek",
-        "title": "TODO Szövetségesek és rokonok"
       }
     ]
   },
@@ -34,20 +30,12 @@
       {
         "entryId": "brosura-szuloknek",
         "title": "Szülőknek"
-      },
-      {
-        "id": "",
-        "title": "TODO Rokonoknak"
       }
     ]
   },
   {
     "title": "👩‍👩‍👦‍👦 Közösségek",
     "children": [
-      {
-        "id": "",
-        "title": "TODO Magyar egyesületek térképe"
-      },
       {
         "entryId": "online-terek",
         "title": "Online közösségek"
@@ -80,165 +68,11 @@
     ]
   },
   {
-    "title": "🔊 TODO Kibujás",
-    "children": [
-      {
-        "id": "",
-        "title": "TODO Felkészülés a kibujásra"
-      },
-      {
-        "id": "",
-        "title": "TODO Minta coming-out levelek"
-      }
-    ]
-  },
-  {
-    "title": "📊 TODO Hormonális kezelések",
-    "children": [
-      {
-        "id": "",
-        "title": "TODO Hormonkezelés megkezdése"
-      },
-      {
-        "id": "",
-        "title": "TODO Feminizáló HRT"
-      },
-      {
-        "id": "",
-        "title": "TODO Maszkulinizáló HRT"
-      },
-      {
-        "id": "",
-        "title": "TODO Megfelelő orvos keresése"
-      },
-      {
-        "id": "",
-        "title": "TODO Kiskorúak lehetőségei"
-      },
-      {
-        "id": "",
-        "title": "TODO Pszichológiai tanúsító levél"
-      },
-      {
-        "id": "",
-        "title": "TODO Hormonérték-táblázat"
-      },
-      {
-        "id": "",
-        "title": "TODO Finanszírozás"
-      }
-    ]
-  },
-  {
-    "title": "🏥 TODO Egészségügy",
-    "children": [
-      {
-        "id": "",
-        "title": "TODO Termékenység"
-      },
-      {
-        "id": "",
-        "title": "TODO Egyéb források"
-      }
-    ]
-  },
-  {
-    "title": "️🏛️ TODO Adminisztratív",
-    "children": [
-      {
-        "id": "",
-        "title": "TODO Iskola"
-      },
-      {
-        "id": "",
-        "title": "TODO Keresztnév"
-      },
-      {
-        "id": "",
-        "title": "TODO Gender"
-      }
-    ]
-  },
-  {
-    "title": "👩🏼 TODO Feminizáló hormonterápia",
-    "children": [
-      {
-        "id": "",
-        "title": "TODO Passing"
-      },
-      {
-        "id": "",
-        "title": "TODO Diszfória"
-      },
-      {
-        "id": "",
-        "title": "TODO Mellnagyobbítás"
-      },
-      {
-        "id": "",
-        "title": "TODO Orchidectomia"
-      },
-      {
-        "id": "",
-        "title": "TODO Ádámcsutkaműtét"
-      },
-      {
-        "id": "",
-        "title": "TODO Az arc feminizálása"
-      },
-      {
-        "id": "",
-        "title": "TODO Hanggyakorlatok"
-      }
-    ]
-  },
-  {
-    "title": "👨🏽 TODO Maszkulinizáló hormonterápia",
-    "children": [
-      {
-        "id": "",
-        "title": "TODO Passing"
-      },
-      {
-        "id": "",
-        "title": "TODO Diszfória"
-      },
-      {
-        "id": "",
-        "title": "TODO Testépítés"
-      },
-      {
-        "id": "",
-        "title": "TODO Mellkas elrejtése"
-      },
-      {
-        "id": "",
-        "title": "TODO Dudor a lágyéknál"
-      },
-      {
-        "id": "",
-        "title": "TODO Mammectómia"
-      },
-      {
-        "id": "",
-        "title": "TODO Szexuális kockázatok"
-      }
-    ]
-  },
-  {
-    "title": "👨🏽 TODO Nem-binárisok",
+    "title": "👨🏽 Nem-binárisok",
     "children": [
       {
         "entryId": "mit-jelent-nem-binarisnak-lenni",
         "title": "Mit jelent nem-binárisnak lenni?"
-      },
-      {
-        "entryId": "",
-        "title": "TODO Nem-bináris passing"
-      },
-      {
-        "entryId": "",
-        "title": "TODO Hogyan hivatkozzunk egy nem-bináris személyre?"
       }
     ]
   }

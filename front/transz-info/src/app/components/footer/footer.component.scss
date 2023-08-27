@@ -9,6 +9,11 @@
   gap: 1rem;
   padding: 4vh 15vw 2vh;
 
+  @media (max-width: 600px) {
+    flex-direction: column;
+  }
+
+
   a {
     color: $blue-color;
   }

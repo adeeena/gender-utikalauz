@@ -87,7 +87,7 @@ Bár néhány esetben a detranzícionáló emberek olyan kezeléseket vagy műt�
 
 💡 A **"retranzíció"** kifejezést használják időnként a "detranzíció" helyett, hogy kiemeljék azt az elképzelést, hogy a tranzíciót nem "visszavonjuk", hanem hogy ez a saját utunk részét alkotja.
 
- `"A [tranzíció] lehetővé tette számomra, hogy rájöjjek, valószínűleg rossz irányba mentem, anélkül, hogy később megbántam volna, hogy legalább kicsit nem jártam erre az úton."`
+ > "A [tranzíció] lehetővé tette számomra, hogy rájöjjek, valószínűleg rossz irányba mentem, anélkül, hogy később megbántam volna, hogy legalább kicsit nem jártam erre az úton."
 
 ## A detranzíció bejelentése
 

@@ -59,7 +59,7 @@ Az interszexuális emberek olyan elsődleges és/vagy másodlagos nemi jellegzet
 
 Sokan igyekeznek **megérteni, hogy honnan es miért vannak transz emberek**. Hogyan történhetett ez? miért vagyok transz? miért transz a gyermekem? mit csinaltam rosszul? Mert a transzidentitás eredetének megértése hipotetikusan **megoldana egy problémát... ami nem probléma.**
 
-Mindenesetre az, hogy mindenáron megpróbáljuk megérteni, honnan származik, az egy **zsákutca**.
+Mindenesetre az, hogy mindenáron megpróbáljuk megérteni, honnan származik, az egy **zsákutca**. Az aktuális tudományos megértés szerint a genetikai, hormonális és idegrendszeri tényezők együttesen játszanak szerepet. Azt gondolják, hogy a magzati fejlődés során az agy nemi azonossága függetlenül alakulhat ki a külső fizikai jegyektől. Ennek eredményeként ellentmondás alakulhat ki valakinek a megtapasztalt nemük és a hozzájuk rendelt nemi azonosság között.
 
 Csak tudd, hogy transz emberek mindenféle családban, minden környezetben, minden időben léteznek, és hogy **nem te, nem a szüleid, nem a környezeted felelős a saját transz-ságodért**.
 
@@ -77,4 +77,8 @@ Mivel a nem-bináris nemű emberek nem számíthatnak arra, hogy megjelenésük 
 
 A transzneműek aránya nyugaton a becslések szerint 0,3-1,6%-ra tehető. **Szóval valószínűleg rengeteg transz emberrel találkoztál már (transz nővel, férfival vagy nem bináris személlyel).** A szomszédod, az irodai munkatársad, a gyermeked tanára lehet, hogy transz **anélkül, hogy tudnál róla. Ők csak normális emberek, akik nyugodt életet akarnak élni.**
 
-💡 A nyilvános transz/nem-bináris emberek (akikről köztudott vagy nyilvánosan azt állítják, hogy transz és/vagy nem-bináris) [galériája elérhető itt](/#/TODO).
+💡 A nyilvános transz/nem-bináris emberek (akikről köztudott vagy nyilvánosan azt állítják, hogy transz és/vagy nem-bináris) [TODO ADENA galériája elérhető itt](/#/TODO).
+
+## Támogatás és elfogadás
+
+Az elfogadás és támogatás környezetének kialakítása kulcsfontosságú a transznemű egyének számára. A társadalmi sztereotípiák és diszkrimináció súlyosbíthatják a nemi diszforia által okozott szorongást; míg a barátok, család és közösségi támogatás jelentősen javíthatja az egyének jólétét.

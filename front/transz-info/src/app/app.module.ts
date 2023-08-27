@@ -11,7 +11,6 @@ import { HomeComponent } from './components/home/home.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { SidebarComponent } from './components/sidebar/sidebar.component';
 import {HttpClient, HttpClientModule} from "@angular/common/http";
-import { CategoryComponent } from './components/category/category.component';
 import {MatCardModule} from "@angular/material/card";
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import {DialogElementsExampleDialog, EntryComponent} from './components/entry/entry.component';
@@ -21,11 +20,8 @@ import {MatInputModule} from "@angular/material/input";
 import {FormsModule} from "@angular/forms";
 import {MatDialogModule} from "@angular/material/dialog";
 import {MatExpansionModule} from "@angular/material/expansion";
-import { SearchComponent } from './components/search/search.component';
-import { EntryPreviewItemComponent } from './components/entry-preview-item/entry-preview-item.component';
 import { TranslateModule, TranslateLoader } from '@ngx-translate/core';
 import {TranslationLoader} from "./i18n/TranslationLoader";
-import { AddNewEntryComponent } from './components/add-new-entry/add-new-entry.component';
 import {AppConfigService} from "./services/app-config.service";
 import { HomeExplainComponent } from './components/home-explain/home-explain.component';
 import {Utf8EmojisToImagesModule} from "./lib/utf8-emojis-to-images.module";
@@ -36,6 +32,7 @@ import { MarkdownModule } from 'ngx-markdown';
 import { LexikonComponent } from './components/lexikon/lexikon.component';
 import { SzovetsegesekComponent } from './components/szovetsegesek/szovetsegesek.component';
 import {SidenavService} from "./services/sidenav-service.service";
+import { GaleryComponent } from './components/galery/galery.component';
 
 export function HttpLoaderFactory(http: HttpClient): TranslationLoader {
   return new TranslationLoader(http);
@@ -51,17 +48,14 @@ export function initConfig(appConfig: AppConfigService) {
     HomeComponent,
     FooterComponent,
     SidebarComponent,
-    CategoryComponent,
     EntryComponent,
     DialogElementsExampleDialog,
-    SearchComponent,
-    EntryPreviewItemComponent,
-    AddNewEntryComponent,
     HomeExplainComponent,
     IntroComponent,
     HeaderComponent,
     LexikonComponent,
-    SzovetsegesekComponent
+    SzovetsegesekComponent,
+    GaleryComponent
   ],
   imports: [
     BrowserModule,

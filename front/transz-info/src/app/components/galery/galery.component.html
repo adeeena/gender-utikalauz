@@ -1,1 +1,28 @@
-<p>galery works!</p>
+<div class="galery-container">
+	<div class="galery-top">
+		<div class="left-side">
+			<h2>Galéria</h2>
+
+			<p>
+				A transznemű emberek láthatóságának hiánya és negatív képe miatt gyakran sztereotípiáknak esnek áldozatul.
+			</p>
+			<p>
+				Ezekben a pillanatokban fontos látni, hogy olyan <b>transznemű emberek léteztek mielőttünk is, akik már elkezdték a tranzíciójukat és sikeresen boldogultak az életben</b>, ráadásul nyilvános területen is (írók, ügyvédek, képviselők, újságírók, üzletemberek stb.).
+			</p>
+			<p>
+				Ez az oldal tiszteletet fejez ki irántuk, és lehetővé teszi számodra, hogy lássad: <b>igen, lehetséges transzneműnek lenni és pozitívan tekinteni a jövődre</b>.
+			</p>
+		</div>
+
+		<div class="right-side">
+			<img src="assets/images/undraw_awards.svg" />
+		</div>
+	</div>
+
+	<div class="galery-items">
+		<div class="galery-item" *ngFor="let item of galery">
+			<h5>{{item.name}}</h5>
+
+		</div>
+	</div>
+</div>

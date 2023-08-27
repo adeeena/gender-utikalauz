@@ -16,7 +16,7 @@ export class EntryService {
   constructor(private http: HttpClient) {
     const env = process.env.NODE_ENV;
 
-    if (env  === 'production') {
+    if (env === 'production') {
       this.baseUrl = myGlobals.URL_LIVE;
     } else {
       this.baseUrl = myGlobals.URL_DEV;

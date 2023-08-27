@@ -16,6 +16,9 @@ app.use(cors());
 app.use(express.static(path.join(__dirname, 'public')));
 
 // API routes
+// Serve static files from the 'images' directory
+app.use('/images', express.static(path.join(__dirname, 'public', 'images')));
+
 
 app.get('/translations', (req, res) => {
   const { languageCode } = req.query;
@@ -26,6 +29,18 @@ app.get('/translations', (req, res) => {
     res.status(200).json(translations);
   } catch (error) {
     res.status(404).json({ error: 'Translations not found.' });
+  }
+});
+
+app.get('/galery', (req, res) => {
+  const { languageCode } = req.query;
+  const filePath = path.join(__dirname, 'public', languageCode, '_galery.json');
+
+  try {
+    const galery = require(filePath);
+    res.status(200).json(galery);
+  } catch (error) {
+    res.status(404).json({ error: 'Galery not found.' });
   }
 });
 

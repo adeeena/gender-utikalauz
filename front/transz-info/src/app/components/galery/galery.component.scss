@@ -1,0 +1,17 @@
+.galery-container {
+	.galery-top {
+		display: flex;
+		margin: 1rem auto 0;
+		width: 80vw;
+
+		.left-side {
+
+		}
+
+		.right-side {
+			img {
+				width: 25vw;
+			}
+		}
+	}
+}

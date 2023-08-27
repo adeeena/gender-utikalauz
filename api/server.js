@@ -7,10 +7,10 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 // Allow CORS connections from http://localhost:4200
-const corsOptions = {
-  origin: 'http://localhost:4200',
-};
-app.use(cors(corsOptions));
+// const corsOptions = {
+//   origin: 'http://localhost:4200',
+// };
+app.use(cors());
 
 // Serve static files from the 'public' directory
 app.use(express.static(path.join(__dirname, 'public')));

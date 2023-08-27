@@ -21,7 +21,7 @@ export class HomeComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    this.titleService.setTitle('Gender Úikalauz');
+    this.titleService.setTitle('Gender Útikalauz');
   }
 
   searchClicked(): void {

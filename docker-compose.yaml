@@ -1,0 +1,12 @@
+version: "3"
+
+services:
+  websites-gender-utikalauz-front:
+    image: httpd
+    restart: always
+    volumes:
+      - /home/adena/docker/websites-utikalauz-front/front:/usr/local/apache2/htdocs
+    ports:
+      - 4201:80
+    container_name: websites-gender-utikalauz-front
+  # todo api.

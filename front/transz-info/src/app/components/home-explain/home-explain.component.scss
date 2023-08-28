@@ -2,41 +2,30 @@
 @import '../../../styles';
 
 .explain-card-content {
+  border-top: 4px solid #eb387d;
   display: flex;
   flex-direction: column;
   height: 100%;
   justify-content: center;
-  padding: 5rem 0;
+  padding: 5rem 15vw;
 
   h3 {
     color: white;
     font-size: 1.7rem;
-    margin-bottom: 0;
+    margin-bottom: 1rem;
   }
 
-  h4 {
-    color: map-get(mat.$gray-palette, 300);
-    font-size: 1.2rem;
-    margin-top: 2rem;
-    margin-bottom: 0;
-  }
+  .recommendation-items {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
 
-  p, ul {
-    color: #909090;
-    line-height: 1.6rem;
-  }
+    .recommendation-item {
+      background: white;
 
-  a {
-    color: white;
-  }
-
-  ul {
-    margin: 0;
-    padding-left: 1.5rem;
-  }
-
-  .learn-more-button {
-    margin-top: 1rem;
-    width: 40%;
+      img {
+        width: 4rem;
+      }
+    }
   }
 }

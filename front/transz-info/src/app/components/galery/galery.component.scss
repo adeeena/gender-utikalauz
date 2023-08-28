@@ -1,8 +1,9 @@
 .galery-container {
 	.galery-top {
+		background: #ecedf7;
 		display: flex;
-		margin: 1rem auto 0;
-		width: 80vw;
+		margin: 0 auto 1rem;
+		padding: 1rem 10vw 1rem;
 
 		.left-side {
 
@@ -12,6 +13,36 @@
 			img {
 				width: 25vw;
 			}
+		}
+	}
+
+	.galery-items {
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		gap: 1rem;
+		padding: 1rem 10vw 1rem;
+
+		img {
+			border-radius: .5rem;
+			width: 100%;
+		}
+
+		h5 {
+			color: #eb387d;
+			font-size: 1.2rem;
+			margin-top: .5rem;
+			margin-bottom: 0;
+		}
+
+		.gender {
+			color: #808084;
+			font-size: .75rem;
+			margin-bottom: .5rem;
+			text-transform: uppercase;
+		}
+
+		.description {
+			font-size: .75rem;
 		}
 	}
 }

@@ -21,8 +21,19 @@
 
 	<div class="galery-items">
 		<div class="galery-item" *ngFor="let item of galery">
+			<a href="{{ item.link }}">
+				<img src="{{ baseUrl }}/images/{{ item.image }}" />
+			</a>
+
 			<h5>{{item.name}}</h5>
 
+			<div class="gender">
+				{{item.gender}}
+			</div>
+
+			<div class="description">
+				{{ item.description }}
+			</div>
 		</div>
 	</div>
 </div>

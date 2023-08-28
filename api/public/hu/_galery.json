@@ -1,9 +1,45 @@
 [
 	{
+		"name": "Chaz Bono",
+		"gender": "transz férfi",
+		"link": "https://hu.wikipedia.org/wiki/Chaz_Bono",
+		"image": "chaz-bono.png",
+		"description": "Amerikai zenész, színész és rendező. Cher énekesnő gyermeke."
+	}, {
+		"name": "Lana Wachowski",
+		"gender": "transz nõ",
+		"link": "https://hu.wikipedia.org/wiki/Wachowski_testv%C3%A9rek",
+		"image": "lana-wachowski.png",
+		"description": "Amerikai rendező és producer, aki a nővére, (szintén transz) Lilly oldalán állva készítette a Mátrixot, a V mint vérbosszút és a Sense8 című sorozatot, amelyben több LGBT+ szereplő is szerepel."
+	}, {
+		"name": "Laverne Cox",
+		"gender": "transz nõ",
+		"link": "https://en.wikipedia.org/wiki/Laverne_Cox#new_tab",
+		"image": "laverne-cox.png",
+		"description": "Énekesnő és színésznő, akit a nagyközönség a Netflix sorozatában, az Orange Is The New Black-ben ismerhet meg, ahol egy transz nőt alakít."
+	}, {
+		"name": "Thomas Beatie",
+		"gender": "transz férfi",
+		"link": "https://en.wikipedia.org/wiki/Thomas_Beatie",
+		"image": "thomas-beatie.png",
+		"description": "Egyesült Államokbeli aktivista, egyik elsőként felkapott transz férfi a média által, aki hosszú idővel a hormonkezelés megkezdése után szült gyermeket."
+	}, {
 		"name": "Jamie Clayton",
 		"gender": "transz nô",
 		"link": "https://en.wikipedia.org/wiki/Jamie_Clayton",
 		"image": "jamie-clayton.jpg",
 		"description": "Amerikai színésznõ, aki a Netflix eredeti sorozatában, a Sense8-ban játszott, ahol egy transz nőt alakított."
+	}, {
+		"name": "Tiq Milan",
+		"gender": "transz férfi",
+		"link": "https://en.wikipedia.org/wiki/Tiq_Milan",
+		"image": "tiq-milan.png",
+		"description": "Médiastratégia tanácsadó, író, előadó és amerikai aktivista."
+	}, {
+		"name": "Laura Jane Grace",
+		"gender": "transz nõ",
+		"link": "https://en.wikipedia.org/wiki/Laura_Jane_Grace",
+		"image": "laura-jane-grace.png",
+		"description": "Egyesült Államokbeli énekesnő-zenész egy általa alapított zenekarban."
 	}
 ]

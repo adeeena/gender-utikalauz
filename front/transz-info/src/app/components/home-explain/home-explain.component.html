@@ -1,33 +1,14 @@
 <div class="explain-card-content">
-  <h3>{{ 'explain.whatIs.title' | translate }}</h3>
+  <h3>{{ 'home.recommendations' | translate }}</h3>
 
-  <p>
-    <span class="def">{{ 'general.def' | translate }}   </span>
+  <div class="recommendation-items">
+    <a routerLink="/galery">
+      <div class="recommendation-item">
+        <img src="assets/images/undraw_selfie.svg" />
+        <h4>Galéria</h4>
+        <span>Híres transz és nembináris emberekrõl</span>
+      </div>
+    </a>
+  </div>
 
-    <span [innerHTML]="'explain.whatIs.text' | translate"></span>
-  </p>
-
-  <h4>{{ 'explain.avoid.title' | translate }}</h4>
-
-  <p>
-    {{ 'explain.react.text' | translate }}
-  </p>
-
-  <ul [innerHTML]="'explain.avoid.examples' | translate"></ul>
-
-  <h4>{{ 'explain.react.title' | translate }}</h4>
-
-  <p>
-    {{ 'explain.react.text' | translate }}
-  </p>
-
-  <ul [innerHTML]="'explain.react.examples' | translate"></ul>
-
-  <h4>{{ 'explain.responsible.title' | translate }}</h4>
-
-  <p>
-    {{ 'explain.responsible.text' | translate }}
-  </p>
-
-  <ul [innerHTML]="'explain.responsible.examples' | translate"></ul>
 </div>

@@ -21,8 +21,9 @@
 
 	<div class="galery-items">
 		<div class="galery-item" *ngFor="let item of galery">
-			<a href="{{ item.link }}">
-				<img src="{{ baseUrl }}/images/{{ item.image }}" />
+			<a href="{{ item.link }}" [ngStyle]="{
+				'background-image': 'url(' + baseUrl + '/images/' + item.image + ')'
+			}">
 			</a>
 
 			<h5>{{item.name}}</h5>

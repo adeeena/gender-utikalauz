@@ -21,10 +21,20 @@
     gap: 1rem;
 
     .recommendation-item {
+      border: 2px solid #eb387d;
+      box-shadow: 5px 5px #FFCADE;
       background: white;
+      padding: 1rem;
 
       img {
         width: 4rem;
+      }
+
+      h4 {
+        color: #262929;
+        font-size: 1.3rem;
+        font-weight: 500;
+        margin-bottom: .5rem;
       }
     }
   }

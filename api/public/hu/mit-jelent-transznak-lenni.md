@@ -77,7 +77,7 @@ Mivel a nem-bináris nemű emberek nem számíthatnak arra, hogy megjelenésük 
 
 A transzneműek aránya nyugaton a becslések szerint 0,3-1,6%-ra tehető. **Szóval valószínűleg rengeteg transz emberrel találkoztál már (transz nővel, férfival vagy nem bináris személlyel).** A szomszédod, az irodai munkatársad, a gyermeked tanára lehet, hogy transz **anélkül, hogy tudnál róla. Ők csak normális emberek, akik nyugodt életet akarnak élni.**
 
-💡 A nyilvános transz/nem-bináris emberek (akikről köztudott vagy nyilvánosan azt állítják, hogy transz és/vagy nem-bináris) [TODO ADENA galériája elérhető itt](/#/TODO).
+💡 A nyilvános transz/nem-bináris emberek (akikről köztudott vagy nyilvánosan azt állítják, hogy transz és/vagy nem-bináris) [galériája elérhető itt](/#/galery).
 
 ## Támogatás és elfogadás
 

@@ -12,6 +12,13 @@
 			<p>
 				Ez az oldal tiszteletet fejez ki irántuk, és lehetővé teszi számodra, hogy lássad: <b>igen, lehetséges transzneműnek lenni és pozitívan tekinteni a jövődre</b>.
 			</p>
+			<p>
+				<b>A fotókra kattintva több infót tudhatsz meg!</b>.
+			</p>
+			<p>
+				Még több embert találhatsz a <a href="https://w.wiki/YR2" target="_blank">nemzetközi Wikipédián</a>,
+				vagy a <a href="https://w.wiki/7Mah" target="_blank">magyar Wikipédián</a>.
+			</p>
 		</div>
 
 		<div class="right-side">
@@ -21,7 +28,7 @@
 
 	<div class="galery-items">
 		<div class="galery-item" *ngFor="let item of galery">
-			<a href="{{ item.link }}" [ngStyle]="{
+			<a href="{{ item.link }}" target="_blank" [ngStyle]="{
 				'background-image': 'url(' + baseUrl + '/images/' + item.image + ')'
 			}">
 			</a>

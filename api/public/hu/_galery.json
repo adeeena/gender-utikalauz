@@ -18,6 +18,18 @@
 		"image": "onodi-adel.png",
 		"description": "Magyar színésznő és énekesnő."
 	}, {
+		"name": "Laura Les",
+		"gender": "transz nõ",
+		"link": "https://en.wikipedia.org/wiki/Laura_Les",
+		"image": "laura-les.png",
+		"description": "Amerikai zenei producer, énekes és dalszerző, akit Dylan Brady mellett a 100 gecs kísérleti elektronikus duó egyik feleként ismert."
+	}, {
+		"name": "Evan Greer",
+		"gender": "nem-bináris személy",
+		"link": "https://en.wikipedia.org/wiki/Evan_Greer",
+		"image": "evan-greer.png",
+		"description": "Bostoni queer indie punk zenész, író és aktivista."
+	}, {
 		"name": "Laverne Cox",
 		"gender": "transz nõ",
 		"link": "https://en.wikipedia.org/wiki/Laverne_Cox#new_tab",

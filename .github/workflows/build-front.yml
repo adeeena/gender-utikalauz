@@ -19,7 +19,7 @@ jobs:
         node-version: 14  # You can adjust the Node.js version as needed
 
     - name: Go to the pwd
-      run: ls -la # cd front/TranszInfo
+      run: cd front/transz-info
 
     - name: Install dependencies
       run: npm install

@@ -18,19 +18,13 @@ jobs:
       with:
         node-version: 14  # You can adjust the Node.js version as needed
 
-    - name: Go to the pwd
-      run: cd front/transz-info
-
     - name: Install dependencies
       run: npm install
+      working-directory: front-transz-info
 
     - name: Build Angular project
       run: npm run build
+      working-directory: front-transz-info
 
-  #  - name: Call URL
-  #    run: |
-        # Use curl to call the URL
-   #     curl -X GET https://example.com/api/endpoint
-
-        # Alternatively, you can use wget
-        # wget https://example.com/api/endpoint
+    - name: Call URL
+      run: curl -X GET https://webhooks.adena.dev/hooks/gender-utikalauz-webhook

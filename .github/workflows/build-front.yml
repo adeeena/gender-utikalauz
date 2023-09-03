@@ -1,0 +1,36 @@
+name: Build and Deploy Angular 13
+
+on:
+  push:
+    branches:
+      - main  # Change this to your main branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: 14  # You can adjust the Node.js version as needed
+
+    - name: Install dependencies
+      run: npm install
+      working-directory: front/transz-info
+
+    - name: Build Angular project
+      run: npm run build
+      working-directory: front/transz-info
+
+    - name: Archive Build Artifacts
+      uses: actions/upload-artifact@v2
+      with:
+        name: angular-build
+        path: front/transz-info/dist
+
+    - name: Call URL
+      run: curl -X GET https://webhooks.adena.dev/hooks/gender-utikalauz-webhook

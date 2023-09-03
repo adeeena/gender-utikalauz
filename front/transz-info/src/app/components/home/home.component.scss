@@ -14,7 +14,6 @@
         border-radius: 5px;
         color: map-get(mat.$blue-palette, 700);
         padding: 1rem;
-        width: 70%;
 
         .home-box-line-welcome {
 
@@ -48,6 +47,10 @@
 
     .header-card-content {
       margin: 0 15vw;
+
+      .home-box {
+        width: 70%;
+      }
     }
   }
 }

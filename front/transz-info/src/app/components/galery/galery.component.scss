@@ -1,19 +1,12 @@
+@use '@angular/material' as mat;
+@import '../../../styles';
+
 .galery-container {
 	.galery-top {
-		background: #ecedf7;
+		background: map-get(mat.$indigo-palette, 50);
 		display: flex;
 		margin: 0 auto 1rem;
 		padding: 1rem 10vw 1rem;
-
-		.left-side {
-
-		}
-
-		.right-side {
-			img {
-				width: 25vw;
-			}
-		}
 	}
 
 	.galery-items {
@@ -28,14 +21,14 @@
 		}
 
 		h5 {
-			color: #eb387d;
+			color: $pink-color;
 			font-size: 1.2rem;
 			margin-top: .5rem;
 			margin-bottom: 0;
 		}
 
 		.gender {
-			color: #808084;
+			color: map-get(mat.$gray-palette, 700);
 			font-size: .75rem;
 			margin-bottom: .5rem;
 			text-transform: uppercase;
@@ -48,6 +41,27 @@
 }
 
 @media (max-width: 600px) {
+	.galery-top {
+		flex-direction: column;
+
+		.left-side {
+			order: 2;
+
+			h2 {
+				text-align: center;
+			}
+		}
+
+		.right-side {
+			order: 1;
+
+			img {
+				margin-bottom: 1rem;
+				width: 100%;
+			}
+		}
+	}
+
 	.galery-items {
 		display: flex;
 		flex-direction: column;
@@ -56,6 +70,12 @@
 }
 
 @media (min-width: 601px) and (max-width: 900px) {
+	.right-side {
+		img {
+			width: 25vw;
+		}
+	}
+
 	.galery-items {
 		display: grid;
 		grid-template-columns: repeat(3, 1fr);
@@ -64,6 +84,12 @@
 }
 
 @media (min-width: 901px) {
+	.right-side {
+		img {
+			width: 25vw;
+		}
+	}
+
 	.galery-items {
 		display: grid;
 		grid-template-columns: repeat(4, 1fr);

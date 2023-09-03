@@ -2,7 +2,7 @@
 @import '../../../styles';
 
 .explain-card-content {
-  border-top: 4px solid #eb387d;
+  border-top: 4px solid $pink-color;
   display: flex;
   flex-direction: column;
   height: 100%;
@@ -15,14 +15,16 @@
     margin-bottom: 1rem;
   }
 
+  a {
+    color: map-get(mat.$gray-palette, 600);
+  }
+
   .recommendation-items {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
     gap: 1rem;
 
     .recommendation-item {
-      border: 2px solid #eb387d;
-      box-shadow: 5px 5px #FFCADE;
+      border: 2px solid $pink-color;
+      box-shadow: 5px 5px $pink-light-color; //#FFCADE;
       background: white;
       padding: 1rem;
 
@@ -38,4 +40,25 @@
       }
     }
   }
+}
+
+@media (max-width: 600px) {
+    .recommendation-items {
+      display: grid;
+      grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+@media (min-width: 601px) and (max-width: 900px) {
+  .recommendation-items {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (min-width: 901px) {
+  .recommendation-items {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+    }
 }

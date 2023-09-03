@@ -26,5 +26,11 @@ jobs:
       run: npm run build
       working-directory: front/transz-info
 
+    - name: Archive Build Artifacts
+      uses: actions/upload-artifact@v2
+      with:
+        name: angular-build
+        path: front/transz-info/dist
+
     - name: Call URL
       run: curl -X GET https://webhooks.adena.dev/hooks/gender-utikalauz-webhook

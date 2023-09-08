@@ -67,6 +67,16 @@
       }
     ]
   },
+  ,
+  {
+    "title": "🔊 Kibújás",
+    "children": [
+      {
+        "entryId": "kibujas",
+        "title": "Felkészülés a kibújásra"
+      }
+    ]
+  }
   {
     "title": "👨🏽 Nem-binárisok",
     "children": [

@@ -22,43 +22,60 @@
   .recommendation-items {
     gap: 1rem;
 
+    a {
+      display: flex;
+    }
+
+    .item {
+      padding: 1rem;
+
+      h4 {
+        font-size: 1.3rem;
+        font-weight: 500;
+        margin-bottom: .5rem;
+      }
+    }
+
     .recommendation-item {
       border: 2px solid $pink-color;
       box-shadow: 5px 5px $pink-light-color; //#FFCADE;
       background: white;
-      padding: 1rem;
-
-      img {
-        width: 4rem;
-      }
+      
 
       h4 {
         color: #262929;
-        font-size: 1.3rem;
-        font-weight: 500;
-        margin-bottom: .5rem;
+      }
+    }
+
+    .etpc {
+      border: 2px solid #A4DCF1;
+      box-shadow: 5px 5px #495F8C;
+      background: #1A1626;
+
+      h4 {
+        color: #A4DCF1;
       }
     }
   }
 }
 
 @media (max-width: 600px) {
-    .recommendation-items {
-      display: grid;
-      grid-template-columns: repeat(1, 1fr);
-    }
+  .recommendation-items {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
 }
 
 @media (min-width: 601px) and (max-width: 900px) {
   .recommendation-items {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-    }
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 @media (min-width: 901px) {
   .recommendation-items {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-    }
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
 }

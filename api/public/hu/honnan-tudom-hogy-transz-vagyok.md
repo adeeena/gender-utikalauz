@@ -18,20 +18,20 @@ A transzidentitás az, hogy nem tudunk azonosulni azzal a nemmel, amelyet szüle
 
 Jogod van ahhoz, hogy annyiszor változtasd meg a véleményedet arról, hogy ki vagy, ahányszor csak szükséges. Soha nem lesz tilos megváltoztatni a véleményedet vagy a nézőpontodat.
 
-Részletes cikk: ["Mit jelent transznak lenni?"](/todo)
+Részletes cikk: ["Mit jelent transznak lenni?"](/#/entry?id=mit-jelent-transznak-lenni)
 
 ## Tévhitek
 
 Lehetsz transz és:
 
 * **Élvezheted a születéskori nemednek megfelelő sztereotip tevékenységeket** (egy transz nő szeretheti a videojátékokat és a focit, egy transz férfi pedig a sminket és a ruhákat).
-* **Meleg a társadalmi nemedben** (meleg transz férfi vagy leszbikus transz nő); [a transz embereknek csak 22%-a vallja magát heteroszexuálisnak.](/TODO)
+* **Meleg a társadalmi nemedben** (meleg transz férfi vagy leszbikus transz nő); [a transz embereknek csak 22%-a vallja magát heteroszexuálisnak.](/#/entry?id=transznak-es-melegnek-lenni)
 * "cisz" anyukája vagy apukája voltál a gyermekeidnek.
-* Bármely életkorban rájöhetsz, hogy transz vagy, még akkor is, ha egy életen át a születéskori nemedben éltél. [A transz emberek 67%-a 18 és 34 éves kora között kezdi meg a tranzíciót.](/TODO)
+* Bármely életkorban rájöhetsz, hogy transz vagy, még akkor is, ha egy életen át a születéskori nemedben éltél. [A transz emberek 67%-a 18 és 34 éves kora között kezdi meg a tranzíciót.](/#/entry?id=tul-fiatal-vagy-tul-oreg-vagyok)
 * Félhetsz az tranzíciótól, vagy nem akarod/nem tudod jelenleg elkezdeni az tranzíciót.
 * Élvezed a transzpornót (megjegyzés: ha ez az érdeklődés CSAK szexuális jellegű, akkor talán tedd fel magadnak a megfelelő kérdéseket ezzel kapcsolatban).
 
-További tévhitek a transz emberek szüleinek szóló kiadványunkban: [10 tévhit a transz identitásról](/#/entry?id=brosura-szuloknek).
+További tévhitek és válaszok a transz emberek szüleinek szóló kiadványunkban: [10 tévhit a transzidentitásról](/#/entry?id=brosura-szuloknek).
 
 
 # Miért most?
@@ -115,7 +115,7 @@ Az tranzíció megkezdésével kapcsolatos egyik leggyakoribb félelem, hogy maj
 
 ➡️ [Transpassing fórum (csak utána)](http://reddit.com/r/TransPassing)
 
-Ne feledd azonban, hogy nem minden transz személy végső célja a passing. [Bővebben erről itt.](/TODO)
+Ne feledd azonban, hogy nem minden transz személy végső célja a passing. [Bővebben erről itt.](/#/entry?id=sosem-leszek-passing)
 
 
 # Jellemző példák

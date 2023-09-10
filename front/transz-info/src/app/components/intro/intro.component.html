@@ -401,7 +401,7 @@
     </div>
   </div>
 
-  <div class="darkblue-container brochures-container">
+  <div class="black-box brochures-container">
     <div class="title">
       Töltsd le brosúráinkat
     </div>
@@ -411,35 +411,20 @@
       a kibújás kísérőjeként.
     </div>
 
-    <div class="brochures">
+    <div class="recommendation-items">
       <a [routerLink]="'/entry'"
          [queryParams]="{ id: 'brosura-szuloknek'}">
-        <div class="brochure transidentity">
-          <div class="image"></div>
-          <div class="brochure-title">⬇️ 10 tévhit a transzidentitásról</div>
-          <div class="brochure-description">
-            Bevezető a transzidentitásról, transz fiatalok szülei számára.
-          </div>
+        <div class="recommendation-item">
+          <h4>❌ 10 tévhit a transzidentitásról</h4>
+          <span>Bevezető a transzidentitásról, transz fiatalok szülei számára.</span>
         </div>
       </a>
 
-      <a href="https://publicfiles.adena.dev/feminizalo-hormonok.pdf">
-        <div class="brochure transidentity">
-          <div class="image"></div>
-          <div class="brochure-title">⬇️ Feminizáló hormonok</div>
-          <div class="brochure-description">
-            Kitölthetõ úmutató
-          </div>
-        </div>
-      </a>
-
-      <a href="https://publicfiles.adena.dev/maszkulinizalo-hormonok.pdf">
-        <div class="brochure transidentity">
-          <div class="image"></div>
-          <div class="brochure-title">⬇️ Masz&shy;ku&shy;li&shy;ni&shy;zá&shy;ló hor&shy;mo&shy;nok</div>
-          <div class="brochure-description">
-            Kitölthetõ úmutató
-          </div>
+      <a [routerLink]="'/entry'"
+         [queryParams]="{ id: 'brosura-hormonok-kitoltheto-utmutato'}">
+        <div class="recommendation-item">
+          <h4>💊 Hormonok</h4>
+          <span>Bõvebben a kitölthetõ útmutatókról + Letöltés</span>
         </div>
       </a>
     </div>

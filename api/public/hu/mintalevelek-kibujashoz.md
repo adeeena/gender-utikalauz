@@ -1,0 +1,20 @@
+---
+date: "2020-01-26T20:41:55.827Z"
+title: "Mintalevelek kibújáshoz"
+lang: hu
+---
+
+<div class="header-image"><img src="assets/images/undraw_reading.svg" /></div>
+
+# Mintalevelek kibújáshoz
+
+
+* [1. mintalevél](/#/entry?id=mintalevel-kibujashoz-1) - Elsõsorban a hozzátartozóknak címzendõ, hosszabb levél, tanácsokkal és kulturális utalásokkal.
+
+<!--
+* 2. mintalevél - A szülőknek címzendõ levél, a kibújásod kiegészítéseként. A szenvedésre összpontosítva, hogy jobban megértsék az okokat, amiért a tranzíciót elkezded.
+
+* 3. mintalevél - Az internetes barátoknak / közösségi médiára megosztható levél.
+
+* 4. mintalevél - A tágabb családi körnek, rokonságnak címzett levél. Humorral töltve, hogy segítsen lecsillapítani a kibújás okozta feszültséget.
+-->

@@ -9,8 +9,7 @@ lang: hu
 # Attól tartok, sose leszek *passing*.
 
 > Egy cisz-központú társadalomban élünk, ahol a nemi normáknak nem megfelelő embereket büntetik. Ez egy racionális és ijesztő félelem. Engem is évekig megbénított ez, és csak ennek a félelemnek a leküzdésével tudtam elkezdeni a tranzíciómat.
->
-> Ismeretlen
+
 
 # Mit jelent a *passing*?
 

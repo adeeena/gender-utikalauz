@@ -68,12 +68,3 @@ Ha úgy ítéled meg, hogy a kibújásod bárminemû veszélyekkel járhat, akko
 * kérd meg egy barátot/barátnõt, hogy kísérjen el a találkozóra, és aki segíthet a beszélgetésben
 * biztosítsd, hogy bármikor el tudj menni a találkozóról
 * ha a szüleidnek tervezed a kibújást, kérd meg elõtte egy barátodat/barátnõdet, hogy ha nem alakul jól a beszélgetés, tudj máshol aludni
-
-
-
-
-Azokban az esetekben, amelyeket azonosíthat olyanokként, akik potenciálisan kockázatot jelentenek, semmiképpen ne habozzon:
-
-Kísérje el egy szövetséges személy a coming-out alkalmával, aki megbízhatóbbá tehet egy bizonytalan személyt.
-Győződjön meg róla, hogy bármikor el tudjon menni.
-Ha a szüleinek mondja el a coming-out-ot, értesítse egy barátját, hogy esetleg nála kell aludnia

@@ -73,7 +73,11 @@ Számos tanulmány próbálja mérni a detranzícionáló arányát, és ez az a
     </tbody>
 </table>
 
+<div class="center">
+
 [Táblázat forrása, 108. oldal](https://transequality.org/sites/default/files/docs/usts/USTS-Full-Report-Dec17.pdf)
+
+</div>
 
 Ezen adatok között persze fontos megjegyezni, hogy **a detranzíció egy létezõ jelenség. Egyaránt érinti az MtF (férfiból nővé) és FtM (nőből férfivá) transzokat. Többségében ideiglenes, és szinte mindig a család vagy a társadalom elutasításával kapcsolatos.** A végleges detranzíció aránya körülbelül 1% körül mozog [ez a tanulmány](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8099405/) szerint.
 

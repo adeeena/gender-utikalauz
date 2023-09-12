@@ -11,8 +11,8 @@ lang: hu
 
 * [1. mintalevél](/#/entry?id=mintalevel-kibujashoz-1) - Elsõsorban a hozzátartozóknak címzendõ, hosszabb levél, tanácsokkal és kulturális utalásokkal.
 
+* [2. mintalevél](/#/entry?id=mintalevel-kibujashoz-2) - A szülőknek címzett levél, a kibújásod kiegészítéseként. A szenvedésre összpontosítva, hogy jobban megértsék az okokat, amiért a tranzíciót elkezded.
 <!--
-* 2. mintalevél - A szülőknek címzendõ levél, a kibújásod kiegészítéseként. A szenvedésre összpontosítva, hogy jobban megértsék az okokat, amiért a tranzíciót elkezded.
 
 * 3. mintalevél - Az internetes barátoknak / közösségi médiára megosztható levél.
 

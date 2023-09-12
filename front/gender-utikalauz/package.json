@@ -1,6 +1,6 @@
 {
-  "name": "transz-info",
-  "version": "0.0.0",
+  "name": "gender-utikalauz",
+  "version": "1.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",

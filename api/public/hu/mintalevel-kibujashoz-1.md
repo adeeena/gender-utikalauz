@@ -6,7 +6,7 @@ lang: hu
 
 <div class="header-image"><img src="assets/images/undraw_reading.svg" /></div>
 
-# Levél 1 - Nyilvános coming out
+# 1. mintalevél - Nyilvános coming out
 
 Szia, nagyon fontos üzenetem egy személyes témában, úgyhogy kérlek, legalább az elejét olvasd el 😉
 
@@ -71,3 +71,5 @@ Mindenkinek szép napot kívánok!
 Barátod, munkatársad vagy volt munkatársad, akit mindig ismertél, még autentikusabb formában,
 
 **{Választott Név}**
+
+[🔙 Vissza a mintalevelekhez](/#/entry?id=mintalevelek-kibujashoz)

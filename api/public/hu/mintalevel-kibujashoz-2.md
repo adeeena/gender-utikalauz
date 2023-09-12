@@ -6,7 +6,7 @@ lang: hu
 
 <div class="header-image"><img src="assets/images/undraw_reading.svg" /></div>
 
-# Levél 2 - Szülõknek címzett kisérõlevél kibújáshoz
+# 2. mintalevél - Szülõknek címzett kisérõlevél kibújáshoz
 
 *Ne felejtsd el, hogy a coming out egy személyes dolog. Mindenki szabadon dönthet arról, hogyan szeretné bejelenteni kibújását, én például egy levél formájában választottam, amit most veletek is megosztok, remélve, hogy segít majd nektek.*
 
@@ -74,3 +74,5 @@ Léteznek olyan szervezetek/weboldalak is, amelyek sok segítséget, magyarázat
 Ne feledjétek, hogy nagyon szeretlek titeket.
 
 A ti gyermeketek, aki végre önmagát vállalja.
+
+[🔙 Vissza a mintalevelekhez](/#/entry?id=mintalevelek-kibujashoz)

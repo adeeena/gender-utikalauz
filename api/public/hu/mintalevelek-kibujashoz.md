@@ -15,6 +15,4 @@ lang: hu
 
 * [3. mintalevél](/#/entry?id=mintalevel-kibujashoz-3) - Az internetes barátoknak / közösségi médiára megosztható levél.
 
-<!--
-* 4. mintalevél - A tágabb családi körnek, rokonságnak címzett levél. Humorral töltve, hogy segítsen lecsillapítani a kibújás okozta feszültséget.
--->
+* [4. mintalevél](/#/entry?id=mintalevel-kibujashoz-4) - A tágabb családi körnek, rokonságnak címzett levél. Humorral töltve, hogy segítsen lecsillapítani a kibújás okozta feszültséget.

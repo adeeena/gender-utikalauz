@@ -19,7 +19,7 @@ jobs:
         node-version: 14  # You can adjust the Node.js version as needed
 
     - name: Install dependencies
-      run: npm install
+      run: npm install --legacy-peer-deps
       working-directory: front/gender-utikalauz
 
     - name: Build Angular project

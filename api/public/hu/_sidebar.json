@@ -81,6 +81,15 @@
     ]
   },
   {
+    "title": "📊 Hormonok",
+    "children": [
+      {
+        "entryId": "hormonterapia-elkezdese",
+        "title": "Hormonterápia elkezdése"
+      }
+    ]
+  },
+  {
     "title": "👨🏽 Nem-binárisok",
     "children": [
       {

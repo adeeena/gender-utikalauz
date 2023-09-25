@@ -6,7 +6,7 @@ lang: hu
 
 <div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
 
-# Hormonok: Hogyan kezdjük el a hormonterápiát?
+# Hogyan kezdjük el a hormonterápiát?
 
 Hormonterápia, vagy hormonkezelés (angolul HRT vagy "hormone replacement therapy"), különböző, hormonokon alapuló kezelés.
 

@@ -64,7 +64,7 @@ app.get('/entry', (req, res) => {
     const content = fs.readFileSync(filePath, 'utf-8');
     res.status(200).send(content);
   } catch (error) {
-    res.status(404).json({ error: 'Entry not found.' });
+    res.status(404).json({ error: 'Entry ' + id + ' (lang:' + languageCode + ') not found.' });
   }
 });
 

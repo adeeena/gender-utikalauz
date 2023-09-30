@@ -1,0 +1,110 @@
+<div class="content">
+
+  <div class="entry-content">
+    <div class="floating-columns">
+
+      <div class="floating-bar">
+        <p>
+          <a [routerLink]="'/entry'"
+          [queryParams]="{ id: 'hormontablazat-es-kalkulatorok'}">
+          Hormontáblázat
+        </a>
+      </p>
+
+      <p>KALKULÁTOROK</p>
+      <p>
+        <a [routerLink]="'/osztrogen-kalkulator'">
+          Ösztrogén pg/ml - pmol/l váltó
+        </a>
+      </p>
+      <p>
+        <a [routerLink]="'/tesztoszteron-kalkulator'">
+          Tesztoszteron ng/dl - nmol/l váltó
+        </a>
+      </p>
+      <p>
+        <a [routerLink]="'/progeszteron-kalkulator'">
+          Progeszteron ng/ml - ng/dl - nmol/l váltó
+        </a>
+      </p>
+    </div>
+
+    <div class="wiki-content">
+     <h2>Progeszteron ng/ml - ng/dl - nmol/l váltó</h2>
+
+     <p>
+      Ez a kalkulátor lehetővé teszi a progeszteron szintek konvertálását ng/ml - ng/dl - nmol/l mértékegységek között.
+    </p>
+
+    <ul>
+      <li>
+        ng/ml-bõl nmol/l-be történő konvertáláshoz 3,18-tel kell szorozni.
+      </li>
+      <li>
+        nmol/l-ből ng/ml-be történő konvertáláshoz 0,3145-tel kell szorozni.
+      </li>
+
+      <li>
+        ng/dl-bõl nmol/l-be történő konvertáláshoz 0,0318-tel kell szorozni.
+      </li>
+      <li>
+        nmol/l-ből ng/dl-be történő konvertáláshoz 31,446-tal kell szorozni.
+      </li>
+    </ul>
+
+    <div>
+      A referenciatartományokat megtalálod a
+      <a [routerLink]="'/entry'"
+      [queryParams]="{ id: 'hormontablazat-es-kalkulatorok'}">
+    Hormontáblázatban</a>.
+  </div>
+
+  <br />
+  
+  <div class="calculator-container">
+    <mat-form-field>
+      <mat-label>nmol/l</mat-label>
+      <input matInput #leftInput type="text" [(ngModel)]="leftValue"
+      (input)="onLeftInputChange()" placeholder="nmol/l">
+    </mat-form-field>
+    
+    <span class="equal-sign">=</span>
+
+    <mat-form-field>
+      <mat-label>ng/dl</mat-label>
+      <input matInput type="text"
+      [(ngModel)]="middleValue" (input)="onMiddleInputChange()" placeholder="ng/dl">
+    </mat-form-field>
+
+    <span class="equal-sign">=</span>
+
+    <mat-form-field>
+      <mat-label>ng/ml</mat-label>
+      <input matInput type="text"
+      [(ngModel)]="rightValue" (input)="onRightInputChange()" placeholder="ng/ml">
+    </mat-form-field>
+  </div>
+
+  <div class="entry-actions" [@enter3]>
+    <div class="back-to-home">
+      <a [routerLink]="['/']">
+        {{ 'general.backToHome' | translate }}
+      </a>
+    </div>
+
+    <div class="actions">
+      <button mat-icon-button (click)="openShareDialog()">
+        <mat-icon>share</mat-icon>
+      </button>
+    </div>
+  </div>
+
+  <div class="disclaimer" [@enter4]>
+    <b>{{ 'entry.foundErrorTitle' | translate }} </b>
+    <span [innerHTML]="'entry.foundErrorText' | translate"></span>
+  </div>
+
+  <div class="disclaimer" [@enter4]>
+  </div>
+</div>
+</div>

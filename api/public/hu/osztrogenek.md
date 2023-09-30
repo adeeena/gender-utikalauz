@@ -28,7 +28,7 @@ BEVEZETÕ
 
 [✅Krémek és tapaszok](/#/entry?id=kremek-tapaszok)
 
-[✅Gyógyszerek](/#/entry?id=gyogyszerek)
+[✅Tabletták](/#/entry?id=tablettak)
 
 [✅Injekciók](/#/entry?id=injekciok)
 
@@ -44,7 +44,7 @@ T-BLOKKOLÓK ÉS PROGESZTATÍVOK
 
 [Bevezetõ a progesztatívokhoz](/#/entry?id=progesztativok)
 
-[✅Bicalutamid](/#/entry?id=bicalutamid)
+[✅Bicalutamide](/#/entry?id=bicalutamide)
 
 [✅Decapeptyl, Lupron, pubertásblokkolók](/#/entry?id=decapeptyl)
 
@@ -107,7 +107,7 @@ Többféle kezelés létezik az ösztrogének szedésére. Összesen 5 fõ utat 
             <td>Könnyû</td>
         </tr>
         <tr>
-            <td><a href="/#/entry?id=gyogyszerek">✅Tabletták</a></td>
+            <td><a href="/#/entry?id=osztrogen-tablettak">✅Tabletták</a></td>
             <td>Nagyon jó kezdéshez, de hosszú távon kissé kockázatosabb. Közepes hatékonyság.</td>
             <td>Közepes</td>
             <td>Könnyû</td>

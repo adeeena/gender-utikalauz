@@ -1,0 +1,158 @@
+@use '@angular/material' as mat;
+@import '../../../styles';
+
+.content {
+  background: map-get(mat.$gray-palette, 100);
+  min-height: 90vh;
+
+  a {
+    color: #4054b2;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+  .entry-content {
+
+    .entry-title {
+      //font-family: Merriweather;
+      font-size: 2rem;
+      line-height: 3rem;
+    }
+
+    .calculator-container {
+      background: #fde9f0;
+      border: 2px solid $pink-color;
+      padding: 1rem;
+      margin-bottom: 2rem;
+      display: flex;
+      justify-content: center;
+
+      span {
+        font-weight: bold;
+        display: block;
+
+        &.equal-sign {
+          font-size: 2rem;
+          margin: 0 1rem;
+        }
+      }
+    }
+
+    .entry-actions {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 1vh;
+
+      .back-to-home {
+        align-self: center;
+      }
+
+      a, button {
+        color: map-get(mat.$gray-palette, 500);
+      }
+    }
+
+    .disclaimer {
+      color: map-get(mat.$gray-palette, 500);
+      margin: 2rem 0;
+
+      a {
+        color: map-get(mat.$gray-palette, 500);
+      }
+    }
+
+    .might-interest-you {
+      margin: 2rem auto 0;
+
+      .might-interest-you-result-set {
+        display: flex;
+        flex-wrap: wrap;
+      }
+    }
+  }
+}
+
+.mat-dialog-content {
+  overflow: hidden;
+
+  input {
+    padding: .5rem;
+    width: calc(100% - 1rem);
+  }
+}
+
+.close-button-container {
+  display: flex;
+  justify-content: flex-end;
+
+  .close-button {
+    border: 0;
+    border-radius: 5px;
+    background: map-get(mat.$gray-palette, 200);
+    margin-top: 1rem;
+  }
+}
+
+@media (min-width: 601px) {
+  ::ng-deep {
+    .floating-columns {
+      display: flex;
+
+      .floating-bar {
+        margin-right: 1rem;
+        width: 15rem;
+      }
+
+      .wiki-content {
+        width: 100%;
+      }
+    }
+  }
+
+  .entry-content {
+    padding: 5rem;
+
+    .calculator-container {
+      flex-direction: row;
+    }
+
+    .entry-title, .entry-categories, .separator {
+      margin-bottom: 2rem;
+    }
+  }
+}
+
+@media (max-width: 600px) {
+  ::ng-deep {
+    .floating-columns {
+      display: flex;
+      flex-direction: column;
+
+      .floating-bar {
+        order: 2;
+      }
+
+      .wiki-content {
+        order: 1;
+      }
+    }
+  }
+
+  .entry-content {
+    padding: 1rem;
+
+    .calculator-container {
+      flex-direction: column;
+
+      span {
+        text-align: center;
+      }
+    }
+
+    .entry-title, .entry-categories, .separator {
+      margin-bottom: 1.5rem;
+    }
+  }
+}
+
+

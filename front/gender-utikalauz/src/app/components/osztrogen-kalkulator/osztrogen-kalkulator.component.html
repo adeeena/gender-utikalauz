@@ -1,0 +1,95 @@
+<div class="content">
+
+  <div class="entry-content">
+    <div class="floating-columns">
+
+      <div class="floating-bar">
+        <p>
+          <a [routerLink]="'/entry'"
+          [queryParams]="{ id: 'hormontablazat-es-kalkulatorok'}">
+          Hormontáblázat
+        </a>
+      </p>
+
+      <p>KALKULÁTOROK</p>
+      <p>
+        <a [routerLink]="'/osztrogen-kalkulator'">
+          Ösztrogén pg/ml - pmol/l váltó
+        </a>
+      </p>
+      <p>
+        <a [routerLink]="'/tesztoszteron-kalkulator'">
+          Tesztoszteron ng/dl - nmol/l váltó
+        </a>
+      </p>
+      <p>
+        <a [routerLink]="'/progeszteron-kalkulator'">
+          Progeszteron ng/ml - ng/dl - nmol/l váltó
+        </a>
+      </p>
+    </div>
+
+    <div class="wiki-content">
+     <h2>Ösztrogén pg/ml - pmol/l váltó</h2>
+
+     <p>
+      Ez a kalkulátor lehetővé teszi az ösztradiol szintek konvertálását pg/ml-ből pmol/l-be és pmol/l-ból pg/ml-be.
+    </p>
+
+    <ul>
+      <li>
+        pmol/l-ból pg/ml-be történő konvertáláshoz 3,67-tel kell szorozni.
+      </li>
+      <li>
+        pg/ml-ből pmol/l-be történő konvertáláshoz 0,27237-tel kell szorozni.
+      </li>
+    </ul>
+
+    <div>
+      A referenciatartományokat megtalálod a
+      <a [routerLink]="'/entry'"
+      [queryParams]="{ id: 'hormontablazat-es-kalkulatorok'}">
+    Hormontáblázatban</a>.
+  </div>
+
+  <br />
+  
+  <div class="calculator-container">
+    <mat-form-field>
+      <mat-label>pmol/l</mat-label>
+      <input matInput #leftInput type="text" [(ngModel)]="leftValue"
+      (input)="onLeftInputChange()" placeholder="pmol/l">
+    </mat-form-field>
+    
+    <span class="equal-sign">=</span>
+
+    <mat-form-field>
+      <mat-label>pg/ml</mat-label>
+      <input matInput type="text"
+      [(ngModel)]="rightValue" (input)="onRightInputChange()" placeholder="pg/ml">
+    </mat-form-field>
+  </div>
+
+  <div class="entry-actions" [@enter3]>
+    <div class="back-to-home">
+      <a [routerLink]="['/']">
+        {{ 'general.backToHome' | translate }}
+      </a>
+    </div>
+
+    <div class="actions">
+      <button mat-icon-button (click)="openShareDialog()">
+        <mat-icon>share</mat-icon>
+      </button>
+    </div>
+  </div>
+
+  <div class="disclaimer" [@enter4]>
+    <b>{{ 'entry.foundErrorTitle' | translate }} </b>
+    <span [innerHTML]="'entry.foundErrorText' | translate"></span>
+  </div>
+
+  <div class="disclaimer" [@enter4]>
+  </div>
+</div>
+</div>

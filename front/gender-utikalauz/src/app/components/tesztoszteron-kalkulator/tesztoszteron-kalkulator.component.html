@@ -1,0 +1,96 @@
+<div class="content">
+
+	<div class="entry-content">
+		<div class="floating-columns">
+
+			<div class="floating-bar">
+				<p>
+					<a [routerLink]="'/entry'"
+					[queryParams]="{ id: 'hormontablazat-es-kalkulatorok'}">
+					Hormontáblázat
+				</a>
+			</p>
+
+			<p>KALKULÁTOROK</p>
+			<p>
+				<a [routerLink]="'/osztrogen-kalkulator'">
+					Ösztrogén pg/ml - pmol/l váltó
+				</a>
+			</p>
+			<p>
+				<a [routerLink]="'/tesztoszteron-kalkulator'">
+					Tesztoszteron ng/dl - nmol/l váltó
+				</a>
+			</p>
+			<p>
+				<a [routerLink]="'/progeszteron-kalkulator'">
+					Progeszteron ng/ml - ng/dl - nmol/l váltó
+				</a>
+			</p>
+		</div>
+
+		<div class="wiki-content">
+			<h2>Tesztoszteron ng/dl - nmol/l váltó</h2>
+
+			<p>
+				Ez a kalkulátor lehetővé teszi a tesztoszteron szintek konvertálását ng/dl-ből nmol/l-be és nmol/l-ból ng/dl-be.
+			</p>
+
+			<ul>
+				<li>
+					nmol/l-ból ng/dl-be történő konvertáláshoz 28,842-tel kell szorozni.
+				</li>
+				<li>
+					ng/dl-ből nmol/l-be történő konvertáláshoz 0,0347-tel kell szorozni.
+				</li>
+			</ul>
+
+			<div>
+				A referenciatartományokat megtalálod a
+				<a [routerLink]="'/entry'"
+				[queryParams]="{ id: 'hormontablazat-es-kalkulatorok'}">
+			Hormontáblázatban</a>.
+		</div>
+
+		<br />
+
+		<div class="calculator-container">
+			<mat-form-field>
+				<mat-label>nmol/l</mat-label>
+				<input matInput #leftInput type="text" [(ngModel)]="leftValue"
+				(input)="onLeftInputChange()" placeholder="nmol/l">
+			</mat-form-field>
+
+			<span class="equal-sign">=</span>
+
+			<mat-form-field>
+				<mat-label>ng/dl</mat-label>
+				<input matInput type="text"
+				[(ngModel)]="rightValue" (input)="onRightInputChange()" placeholder="ng/dl">
+			</mat-form-field>
+		</div>
+
+		<div class="entry-actions" [@enter3]>
+			<div class="back-to-home">
+				<a [routerLink]="['/']">
+					{{ 'general.backToHome' | translate }}
+				</a>
+			</div>
+
+			<div class="actions">
+				<button mat-icon-button (click)="openShareDialog()">
+					<mat-icon>share</mat-icon>
+				</button>
+			</div>
+		</div>
+
+		<div class="disclaimer" [@enter4]>
+			<b>{{ 'entry.foundErrorTitle' | translate }} </b>
+			<span [innerHTML]="'entry.foundErrorText' | translate"></span>
+		</div>
+
+		<div class="disclaimer" [@enter4]>
+		</div>
+	</div>
+</div>
+</div>

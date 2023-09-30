@@ -28,7 +28,7 @@ BEVEZETÕ
 
 [✅Krémek és tapaszok](/#/entry?id=kremek-tapaszok)
 
-[✅Gyógyszerek](/#/entry?id=gyogyszerek)
+[✅Tabletták](/#/entry?id=tablettak)
 
 [✅Injekciók](/#/entry?id=injekciok)
 
@@ -44,7 +44,7 @@ T-BLOKKOLÓK ÉS PROGESZTATÍVOK
 
 [Bevezetõ a progesztatívokhoz](/#/entry?id=progesztativok)
 
-[✅Bicalutamid](/#/entry?id=bicalutamid)
+[✅Bicalutamide](/#/entry?id=bicalutamide)
 
 [✅Decapeptyl, Lupron, pubertásblokkolók](/#/entry?id=decapeptyl)
 

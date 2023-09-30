@@ -10,27 +10,11 @@ lang: hu
 
 KALKULÁTOROK
 
-<!-- [Bevezetõ a T-blokkolókhoz](/#/entry?id=t-blokkolok)
+[Ösztrogén pg/ml - pmol/l váltó](/#/osztrogen-kalkulator)
 
-[Bevezetõ a progesztatívokhoz](/#/entry?id=progesztativok)
+[Tesztoszteron ng/dl - nmol/l váltó](/#/tesztoszteron-kalkulator)
 
-[✅Bicalutamid](/#/entry?id=bicalutamid)
-
-[✅Decapeptyl, Lupron, pubertásblokkolók](/#/entry?id=decapeptyl)
-
-[✅Progeszteron](/#/entry?id=progeszteron)
-
-[😐Spironolactone](/#/entry?id=spironolactone)
-
-[😐Szintetikus progesztatívok](/#/entry?id=szintetikus-progesztativok)
-
-[⛔Finasteride](/#/entry?id=finasteride)
-
-[⛔Dutasteride](/#/entry?id=dutasteride)
-
-[⛔Flutamide](/#/entry?id=flutamide)
-
-[⛔Androcur](/#/entry?id=androcur)-->
+[Progeszteron ng/ml - ng/dl - nmol/l váltó](/#/progeszteron-kalkulator)
 
 </div>
 
@@ -38,193 +22,213 @@ KALKULÁTOROK
 
 <div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
 
-# Ösztrogének
+# Hormontáblázat
+
+## Ösztrogének
 
 Az alábbi táblázat összefoglalja az ösztrogének standard értékeit cisznemű férfiak és nők számára.
 
 <div class="podcast-episode">
 
-👩 Általánosságban elfogadott, hogy egy transznemű nő számára a jó ösztradiol szint 60 pg/mL (ez az alacsonyabb érték inkább csak a HRT kezdetén jellemző) és 200 pg/mL között van.
+👩 Általánosságban elfogadott, hogy egy transznemű nő számára a jó ösztradiol szint 60 pg/ml (220 pmol/l, ez az alacsonyabb érték inkább csak a HRT kezdetén jellemző) és 200 pg/ml (807 pmol/l) között van.
 
 </div>
-
-## Általánosságban a krémekrõl és tapaszokról
-
-Az ösztradiol krémeket és tapaszt a leggyakoribb és legelérhetőbb alkalmazási módnak tartják Európa szerte.
-
-Az ösztrogéneknek megvan az a kémiai tulajdonságuk, hogy képesek a bőrön keresztül felszívódni. Ez tette lehetővé egy másik alkalmazási mód kifejlesztését, ami eltér a tablettáktól és ugyanolyan praktikus: a tapaszok és a gél.
-
-Alapvetően nincs különbség a gél és a tapasz között. Ez inkább egy személyes preferencia kérdése, attól függően, hogy te előnyben részesíted-e a tapaszt és elfelejted azt a következő napokra; vagy ha a tapasz irritálja a bőrödet, akkor a napi gél alkalmazását részesíted előnyben. A tapaszokkal vagy a géllal elért hormonszintek kb. ugyanolyan stabilak lesznek.
-
-A tablettákkal összehasonlítva, ennek a módszernek a fő előnye, hogy elkerülhető a májon keresztüli feldolgozás, ezzel csökkentve az egészségügyi kockázatokat és jobb ösztrogénszintet biztosít, anélkül, hogy túl magasra ugrana az ösztrogénszint.
-
-Azonban az eredmények jelentősen eltérhetnek személyenként. Ha a bőröd rosszul szívja fel a hormonokat, akkor nagyon magas gél vagy tapasz adagokra lehet szükség ahhoz, hogy elegendő hormonszintet érj el. Ráadásul úgy tűnik, hogy egyes embereknél a krém felszívódásának hatékonysága a bőrön keresztül idővel csökkenhet.
-
-### Előnyök:
-
-* Könnyen alkalmazható, viszonylag széleskörben hozzá lehet férni
-* Stabil hormonszinteket biztosít
-* Nagyon alacsony a visszértrombózis kockázata
-* Viszonylag olcsó
-
-### Hátrányok:
-
-* A felszívódás nagymértékben eltér az emberek között, ami néha túl alacsony szintet eredményezhet
-* A krém esetében: Ügyelni kell arra, hogy a krém jól megszáradjon
-* A tapaszok esetében: Irritálhatja a bőrt
-* A tapaszok esetében: Izzadás és/vagy fizikai aktivitás esetén leeshet a tapasz.
-
-## Krémek
-
-<table>
-    <tbody>
-        <tr>
-            <td>Termékek</td>
-            <td>Átlagos adagolás</td>
-            <td>Ár</td>
-            <td>Miket kell vizsgálni vérvételkor</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://www.hazipatika.com/gyogyszerkereso/termek/divigel_1_mg_dozis_gel/6279">Divigel</a>
-                <a href="https://www.hazipatika.com/gyogyszerkereso/termek/ovestin_1_mg_g_krem/1232">Ovestin</a>
-                (+ Külföldön: <a href="https://reviews.webmd.com/drugs/drugreview-89430-estrogel-transdermal">Œstrodose / Estrogel</a>, <a href="https://www.drugs.com/sfx/estreva-side-effects.html">Estreva</a>)
-            </td>
-            <td>**Napi 2-6 mg**<br />Egyenletesen szétosztva reggel és este</td>
-            <td>havi kb. 4 000 - 10 000 Ft</td>
-            <td>
-                <a href="https://hu.wikipedia.org/wiki/%C3%96sztradiol">Ösztradiol</a>,
-                <a href="https://hu.wikipedia.org/wiki/Tesztoszteron">tesztoszteron</a>,
-                <a href="https://hu.wikipedia.org/wiki/Luteiniz%C3%A1l%C3%B3_hormon">LH</a>,
-                <a href="https://hu.wikipedia.org/wiki/Follikuluszstimul%C3%A1l%C3%B3_hormon">FSH</a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-## Adagolás
-
-Magyarországon főként két termék létezik: az Divigél és az Ovestin. Nem azonos méretűek és nem adnak le ugyanannyi ösztradiolt egyetlen adagban. Ezen táblázatra hivatkozva tudsz konverziót végezni, ha termékcsere történik (ami előfordulhat készlethiány esetén).
 
 <table>
     <thead>
         <tr>
-            <th>Termék</th>
-            <th>Ösztradiol egy adagban</th>
-            <th>Átlagos adagolás</th>
-            <th>Ûrtartalom</th>
+            <th></th>
+            <th>Ösztradiol-érték (pg/ml)</th>
+            <th>Ösztradiol-érték (pmol/l)</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://www.hazipatika.com/gyogyszerkereso/termek/divigel_1_mg_dozis_gel/6279">Divigel</a></td>
-            <td>0.5 mg / adag</td>
-            <td>2 - 12 adag / nap</td>
-            <td>91 db.</td>
+            <td>Gyerekkor</td>
+            <td><b>Átlag: 9 pg/ml</b><br />9 - 20 pg/ml között változhat</td>
+            <td><b>Átlag: 33 pmol/ml</b><br />33 - 73 pmol/l között változhat</td>
         </tr>
         <tr>
-            <td><a href="https://www.hazipatika.com/gyogyszerkereso/termek/ovestin_1_mg_g_krem/1232">Ovestin</a></td>
-            <td>1 mg / adag</td>
-            <td>1 - 6 adag / nap</td>
-            <td>15 db.</td>
+            <td>Kiskamasz lány<br />Tanner 2 (8-12 év között)</td>
+            <td><b>Átlag: 15 pg/ml</b><br />9 - 30 pg/ml között változhat</td>
+            <td><b>Átlag: 55 pmol/l</b><br />33 - 130 pmol/l között változhat</td>
+        </tr>
+        <tr>
+            <td>Kiskamasz lány<br />Tanner 3 (10-13 év között)</td>
+            <td><b>Átlag: 27 pg/ml</b><br />9 - 60 pg/ml között változhat</td>
+            <td><b>Átlag: 100 pmol/l</b><br />33 - 220 pmol/l között változhat</td>
+        </tr>
+        <tr>
+            <td>Kiskamasz lány<br />Tanner 4 (11-14 év között)</td>
+            <td><b>Átlag: 55 pg/ml</b><br />16 - 85 pg/ml között változhat</td>
+            <td><b>Átlag: 55 pmol/l</b><br />58 - 312 pmol/l között változhat</td>
+        </tr>
+        <tr>
+            <td>Felnõtt nõ<br />Follikuláris fázis kezdete (1-4. nap)</td>
+            <td>40-60 pg/ml között változhat</td>
+            <td>146 - 220 pmol/l között változhat</td>
+        </tr>
+        <tr>
+            <td>Felnõtt nõ<br />Follikuláris fázis közepe (5-9. nap)</td>
+            <td>60 - 100 pg/ml között változhat</td>
+            <td>220 - 367 pmol/l között változhat</td>
+        </tr>
+        <tr>
+            <td>Felnõtt nõ<br />Follikuláris fázis vége (10-14. nap)</td>
+            <td>200 - 400 pg/ml között változhat</td>
+            <td>734 - 1468 pmol/l között változhat</td>
+        </tr>
+        <tr>
+            <td>Felnõtt nõ<br />Ovuláció és luteális fázis (15-28. nap)</td>
+            <td>Átlag: 190 pg/ml</td>
+            <td>Átlag: 697 pmol/l</td>
+        </tr>
+        <tr>
+            <td>Terhesség<br />1. trimeszter</td>
+            <td>1000 - 5000 pg/ml között változhat</td>
+            <td>3670 - 18350 pmol/l között változhat</td>
+        </tr>
+        <tr>
+            <td>Terhesség<br />2. trimeszter</td>
+            <td>5000 - 15000 pg/ml között változhat</td>
+            <td>18350 - 55050 pmol/l között változhat</td>
+        </tr>
+        <tr>
+            <td>Terhesség<br />3. trimeszter</td>
+            <td>10000 - 40000 pg/ml között változhat</td>
+            <td>6700 - 146800 pmol/l között változhat</td>
+        </tr>
+        <tr>
+            <td>Menopauza</td>
+            <td>5 - 20 pg/ml között változhat</td>
+            <td>18 - 73 pmol/l között változhat</td>
+        </tr>
+        <tr>
+            <td>Férfiak</td>
+            <td>25 - 55 pg/ml között változhat</td>
+            <td>92 - 202 pmol/l között változhat</td>
         </tr>
     </tbody>
 </table>
 
-<div class="podcast-episode">
-<h5>Figyelem</h5>
+<div class="center">
 
-A fenti táblázat kizárólag tájékoztató jelleggel szolgálnak. Gyakorlatban az adagok jelentősen eltérhetnek személyenként! Szükséges lesz a vérvételi eredményeidre támaszkodni az adagolás beállításához.
+[Táblázat forrása](https://en.wikipedia.org/wiki/Estradiol)
 
 </div>
 
-## Tapaszok
+## Tesztoszteron
+
+Az alábbi táblázat összefoglalja az tesztoszteron standard értékeit cisznemű férfiak és nők számára.
 
 <table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Tesztoszteron-érték (ng/dl)</th>
+            <th>Tesztoszteron-érték (nmol/l)</th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
-            <td>Termékek</td>
-            <td>Átlagos adagolás</td>
-            <td>Ár</td>
-            <td>Miket kell vizsgálni vérvételkor</td>
+            <td>Gyerekkor</td>
+            <td>1 - 12 ng/dl között változhat</td>
+            <td>0.03 - 0.41 nmol/l között változhat</td>
         </tr>
         <tr>
-            <td>
-                <a href="https://www.webbeteg.hu/gyogyszerkereso/dermestril-tapasz/1123">Dermestril</a>
-                <a href="https://www.vidal.fr/Medicament/oesclim-12137.htm">Oesclim</a>
-            </td>
-            <td>**Napi 100-400 μg**<br />Különböző méretű tapaszok léteznek 25-től 100μg-ig különböző adagolásokkal, amelyek kombinálhatók a kívánt adag eléréséhez.</td>
-            <td>kb. 8 €/hó</td>
-            <td>
-                <a href="https://hu.wikipedia.org/wiki/%C3%96sztradiol">Ösztradiol</a>,
-                <a href="https://hu.wikipedia.org/wiki/Tesztoszteron">tesztoszteron</a>,
-                <a href="https://hu.wikipedia.org/wiki/Luteiniz%C3%A1l%C3%B3_hormon">LH</a>,
-                <a href="https://hu.wikipedia.org/wiki/Follikuluszstimul%C3%A1l%C3%B3_hormon">FSH</a>
-            </td>
+            <td>Kamasz fiú (14 éves)</td>
+            <td>100 - 320 ng/dl között változhat</td>
+            <td>3.46 - 11.09 nmol/l között változhat</td>
+        </tr>
+        <tr>
+            <td>Felnõtt férfi</td>
+            <td>350 - 1080 ng/dl között változhat</td>
+            <td>12.13 - 37.44 nmol/l között változhat</td>
+        </tr>
+        <tr>
+            <td>Idõs férfi (60+ éves)</td>
+            <td>350 - 720 ng/dl között változhat</td>
+            <td>12.13 - 25 nmol/l között változhat</td>
+        </tr>
+        <tr>
+            <td>Kamasz lány (14 éves)</td>
+            <td>8 - 41 ng/dl között változhat</td>
+            <td>0.27 - 1.42 nmol/l között változhat</td>
+        </tr>
+        <tr>
+            <td>Felnõtt nõ</td>
+            <td>10 - 54 ng/dl között változhat</td>
+            <td>0.35 - 1.87 nmol/l között változhat</td>
+        </tr>
+        <tr>
+            <td>Nõ menopauza alatt</td>
+            <td>7 - 40 ng/dl között változhat</td>
+            <td>0.24 - 1.39 nmol/l között változhat</td>
         </tr>
     </tbody>
 </table>
 
-## Hogyan kell váltani krém, tapasz és tabletta között?
+<div class="center">
 
-Elméletben egy naponta 50 μg dózist leadó tapasz hatása nagyjából azonosnak kell lennie egy 2 mg-os ösztradiol tablettával és körülbelül 1,5 mg géllel [(További információk itt)](https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol). **Figyelmeztetés: az hormonszintek nagyon változóak az emberek között. Ezeket az adatokat tehát csak tájékoztató jelleggel kell figyelembe venni. Vérvizsgálat szükséges a hormonszintek pontos megismeréséhez.**
+[Táblázat forrása](https://en.wikipedia.org/wiki/Testosterone#Levels)
 
-## Tanácsok alkalmazáshoz
+</div>
 
-Ajánlott a gélt vagy a tapaszt a következők szerint alkalmazni:
+## Progeszteron
 
-* Tiszta bőrön. Vagy zuhanyzás után alkalmazd, vagy gyorsan tisztítsd meg a területet előtte.
+Az alábbi táblázat összefoglalja a progeszteron standard értékeit cisznemű férfiak és nők számára.
 
-* Szőrtelen területen, borotvált vagy epilált bőrön.
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Progeszteron-érték (ng/ml, ng/dl)</th>
+            <th>Progeszteron-érték (nmol/l)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Nõk<br />Menstruációs ciklus kezdete</td>
+            <td>&lt; 1 ng/ml<br />&lt; 100 ng/dl</td>
+            <td>&lt; 3.18 nmol/l</td>
+        </tr>
+        <tr>
+            <td>Nõk<br />Menstruációs ciklus közepe</td>
+            <td>5 - 20 ng/ml (500 - 2000 ng/dl) között változhat</td>
+            <td>16 - 64 nmol/l között változhat</td>
+        </tr>
+        <tr>
+            <td>Terhesség<br />1. trimeszter</td>
+            <td>11.2 - 90 ng/ml (1120 - 9000 ng/dl) között változhat</td>
+            <td>35.6 - 286 nmol/l között változhat</td>
+        </tr>
+        <tr>
+            <td>Terhesség<br />2. trimeszter</td>
+            <td>25.6 - 89.4 ng/ml (2560 - 8940 ng/dl) között változhat</td>
+            <td>81.4 - 284 nmol/l között változhat</td>
+        </tr>
+        <tr>
+            <td>Terhesség<br />3. trimeszter</td>
+            <td>42.5 - 48.4 ng/ml (4840 - 4950 ng/dl) között változhat</td>
+            <td>135 - 153.9 nmol/l között változhat</td>
+        </tr>
+        <tr>
+            <td>Nõ<br />menopauza alatt</td>
+            <td>&lt; 1 ng/ml<br />&lt; 100 ng/dl</td>
+            <td>&lt; 3.18 nmol/l</td>
+        </tr>
+        <tr>
+            <td>Férfi</td>
+            <td>&lt; 1 ng/ml<br />&lt; 100 ng/dl</td>
+            <td>&lt; 3.18 nmol/l</td>
+        </tr>
+    </tbody>
+</table>
 
-* Lehetőleg a combok belső felénél felső részen.
+<div class="center">
 
-* **Tilos mellkasra kenni!** Ez egyáltalán nem segít a mell fejlődésében, de növeli a rák kockázatát.
+[Táblázat forrása](https://www.healthline.com/health/serum-progesterone#test-results)
 
-Végül kerüld a karokat, különösen a karok belső részét legalább 4-5 nappal a vérvétel elõtt, hogy ne torzítsa el a vérvételi eredményeket a felületen maradt ösztrogén. Elég, ha a tű túl közel szúr a krémmel kezelt területhez, hogy az eredmény pontatlan legyen.
-
-## Herezacskó módszer
-
-Létezik egy "alternatív" alkalmazási mód a bõrön át felszívódó krémekhez. Nemrégiben felfedezték, hogy a testnek van egy olyan része, amely sokkal jobban felszívja az ösztrogént, mint bármely más: a herezacskó bőrfelülete.
-
-A herezacskó bőre érrendszerének köszönhetően ismert a szteroid hormonok jobb felszívódásáról.
-
-Ezt a módszert elsõsorban hipogonadizmussal küzdõ ciszgender férfiak kezelésére tanulmányozták és alkalmazták, testoszteron gélt vagy tapaszokat használva.
-
-***Forrás:** [Clin Pharmacol. 2010; 2: 149–153](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3262378/#) : "Due to the superficial vascularity of the scrotal skin, there is a 5-40 fold increase in steroid absorption when compared to other skin sites."*
-
-***Forrás:** [J Clin Endocrinol Metab. 1996 May;81(5):1832-40](https://www.ncbi.nlm.nih.gov/pubmed/?term=J+Clin+Endocrinol+Metab.+1996+May%3B81(5)%3A1832-40.#): "the relative permeability at other application sites was greatest for the scrotum (42.0), increased for the back (1.7), reduced for the lateral ankle (0.42), and lowest for the sole of the foot (0.14)."*
-
-2005-ben egy argentin kutatócsoport tanulmányozta az ösztradiol tapaszok herezacskóra történő alkalmazásának hatékonyságát prosztatarákkal diagnosztizált férfiaknál.
-
-Tanulmányuk megerősítette e módszer hatékonyságát, mely akár 6-szorosan megnövelte az átlagos ösztradiol szintet az alkarhoz képest, lehetővé téve a testoszteron termelésének leállítását anélkül, hogy szükség lett volna anti-androgén hozzáadására.
-
-***Forrás:** [Re, I., Asenjo, G., Maximino, G., & Micheletti, L. (2005). Tratamiento del Cáncer de Próstata Avanzado con Estrógenos Transdérmicos Escrotales (ETE). [Transdermal Scrotal Estrogen Patches (TSEP) in the Treatment of Advanced Prostate Cancer.] Revista Argentina de, 70(4), 231:](https://www.sau-net.org/publicaciones/abstracts_70_4.html)*
-
-<div class="header-image"><img src="assets/images/scrotum.png" /></div>
-
-*„A férfiaknál a herezacskó bőrének felszívódási képessége 3-8-szor nagyobb, mint az alkar, a has vagy a hát területén, és ennek oka a nagyszámú hajtüsző és faggyúmirigy, az alkoholos anyagokkal szembeni áteresztő képesség, az érrendszer, a hőmérséklet és a bőr vastagsága.” (spanyolról fordítva)*
-
-Ugyanakkor nem ismerjük jól ennek a módszernek a hosszú távú hatásait.
-
-Elõvigyázatossági okokból számos transznemű nő inkább ideiglenes tartalékmegoldásként tekint erre a módszerre.
-
-Hosszú távon a legjobb megoldás a dózis növelésére:
-
-* Vagy hormonszint növelése magasabb adagú tapaszokkal és/vagy több tapasz egyidejű használatával, illetve a gél adagjának növelésével,
-
-* Vagy áttérés egy másik módszerre, mint például a tabletták vagy injekciók.
-
-Ugyanakkor [a tanulmányukban az argentin kutatók nem figyeltek meg semmilyen negatív hatást](https://www.sau-net.org/publicaciones/abstracts_70_4.html), kivéve a mellek növekedésének (gynecomastia) kockázatát.
-
-### Előnyök:
-
-* Lehetővé teszi, hogy akiknek túl alacsony a hormonszintjük, hogy könnyen magasabb ösztrogénszintet érjenek el
-* Általában lehetővé teszi a T-blokkoló mellőzését, mivel a testoszteron természetesen elnyomódik a magas ösztrogénszint miatt
-
-### Hátrányok:
-
-* A hormonszintek kevésbé stabilak a nap folyamán
-* Nincs tapasztalat a hosszú távú mellékhatásokról
+</div>
 
 </div>

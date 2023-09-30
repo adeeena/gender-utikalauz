@@ -33,6 +33,9 @@ import { LexikonComponent } from './components/lexikon/lexikon.component';
 import { SzovetsegesekComponent } from './components/szovetsegesek/szovetsegesek.component';
 import {SidenavService} from "./services/sidenav-service.service";
 import { GaleryComponent } from './components/galery/galery.component';
+import { OsztrogenKalkulatorComponent } from './components/osztrogen-kalkulator/osztrogen-kalkulator.component';
+import { TesztoszteronKalkulatorComponent } from './components/tesztoszteron-kalkulator/tesztoszteron-kalkulator.component';
+import { ProgeszteronKalkulatorComponent } from './components/progeszteron-kalkulator/progeszteron-kalkulator.component';
 
 export function HttpLoaderFactory(http: HttpClient): TranslationLoader {
   return new TranslationLoader(http);
@@ -55,7 +58,10 @@ export function initConfig(appConfig: AppConfigService) {
     HeaderComponent,
     LexikonComponent,
     SzovetsegesekComponent,
-    GaleryComponent
+    GaleryComponent,
+    OsztrogenKalkulatorComponent,
+    TesztoszteronKalkulatorComponent,
+    ProgeszteronKalkulatorComponent
   ],
   imports: [
     BrowserModule,

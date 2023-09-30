@@ -1,0 +1,214 @@
+<div class="content">
+
+	<div class="entry-content">
+		<div class="floating-columns">
+			<div class="floating-bar">
+				<p>
+					<a [routerLink]="'/entry'"
+					[queryParams]="{ id: 'hormontablazat-es-kalkulatorok'}">
+					Hormontáblázat
+				</a>
+			</p>
+
+			<p>KALKULÁTOROK</p>
+			<p>
+				<a [routerLink]="'/osztrogen-kalkulator'">
+					Ösztrogén pg/ml - pmol/l váltó
+				</a>
+			</p>
+			<p>
+				<a [routerLink]="'/tesztoszteron-kalkulator'">
+					Tesztoszteron ng/dl - nmol/l váltó
+				</a>
+			</p>
+			<p>
+				<a [routerLink]="'/progeszteron-kalkulator'">
+					Progeszteron ng/ml - ng/dl - nmol/l váltó
+				</a>
+			</p>
+			<p>
+				<a [routerLink]="'/higham-hiszterektomia-verveszteseg-kalkulator'">
+					Várható vérveszteség hiszterektómiáig / Higham kalkulátor
+				</a>
+			</p>
+		</div>
+
+		<div class="wiki-content">
+			<h2>Várható vérveszteség hiszterektómiáig / Higham kalkulátor</h2>
+
+			<p>
+				Ez a kalkulátor néhány bemeneti adat alapján kiszámolja, hogy körülbelül hány liter vérveszteség történt az elsõ menstruációd óta. Ugyanitt, ha már megvan a hiszterektómia-mûtéted idõpontja, az alapján közelítõ értéket ad arra vonatkozóan, mennyi vérveszteség várható addig.
+			</p>
+
+			<div class="podcast-episode">
+				<h5>✅ Megadott adatok nem kerülnek rögzítésre.</h5>
+
+				Az itt megadott adatokat bizalmasan kezeljük, nem rögzítjük, nem adjuk tovább senkinek. A weboldal forráskódja elérhetõ a <a href="https://github.com/adeeena/gender-utikalauz">projekt GitHub-oldalán</a>.<br />
+				<!-- <a href="#">Ugyanakkor az alábbi kalkulátor elérheto letöltheto, offline Excel-fájlként itt.</a>-->
+			</div>
+
+			<br />
+
+			<div>
+				<h3>Hogyan mûködik?</h3>
+				<p>
+					A számolás a következõkön alapul:
+				</p>
+
+				<ul>
+					<li>Higham-érték alapján kiértékelõdik, hány ml vért vesztesz a menstruációd során.</li>
+					<li>A menstruációs ciklusod gyakorisága alapján meghatározza a kalkulátor, hogy egy évben hányszor menstruálsz.</li>
+					<li>Az alapján, hogy mikor kezdtél menstruálni és hány éves vagy most, kiértékelõdik, hogy hány liter vért vesztettél idáig életed során csak menstruálással.</li>
+					<li><i>(opcionális)</i> Az alapján, hogy mikor tervezed (vagy mikor volt) a hiszterektómiád, kiértékelõdik, hogy mennyi vért fogsz még veszteni (ha az idõpont a jövõben lesz) / mennyi vérveszteségtõl mentesültél (ha az idõpont a múltban volt).
+					</ul>
+				</div>
+
+				<div>
+					<h3>Higham-érték</h3>
+					<p>
+						A Higham-érték egy objektív pontozási rendszer a menstruációs vérzés mennyiségének értékelésére. A pontozási rendszer használatával a páciensek és az egészségügyi szakemberek is jobban meg tudják ítélni a vérzés mennyiségét és annak változásait a különböző kezelések hatására. A Higham-érték használatakor a menstruációs termékek (például betétek, tamponok) telítettségét értékelik, és ennek alapján pontokat adnak. Az összpontszám alapján ítélik meg a vérzés mértékét.
+					</p>
+					<table>
+						<thead>
+							<tr>
+								<th>Naponta..</th>
+								<th *ngFor="let day of days">{{ day }}. nap</th>
+								<th>Összeg</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr *ngFor="let row of rows; let rowIndex = index">
+								<td>{{ row | translate }}</td>
+								<td *ngFor="let day of days; let colIndex = index">
+									<mat-form-field>
+										<input matInput type="text" [(ngModel)]="dataSource[rowIndex][colIndex]"
+										(input)="onLeftInputChange()">
+									</mat-form-field>
+								</td>
+								<td>
+									<i>{{ rowSum[rowIndex] }} pt.</i>
+									<br />({{ rowSum[rowIndex] * 0.8 | number:'1.0-0' }} ml)
+								</td>
+							</tr>
+							<tr>
+								<td>Összeg</td>
+								<td *ngFor="let day of days; let colIndex = index">
+									<i>{{ colSum[colIndex] }} pt.</i>
+									<br />({{ colSum[colIndex] * 0.8 | number:'1.0-0' }} ml)
+								</td>
+							</tr>
+						</tbody>
+					</table>
+
+					<div class="podcast-episode" *ngIf="totalSum > 0">
+						Megadott adatok alapján a Higham-érték <b>{{totalSum}} pont</b>, azaz megközelítõleg
+						<div class="intense">
+							{{ totalSum * 0.8 | number:'1.0-0' }} ml
+						</div>
+
+						vérveszteség minden egyes menstruációkor.
+					</div>
+				</div>
+
+				<div class="personal-info">
+					<h3>Személyes adatok</h3>
+
+					<mat-form-field>
+				      <mat-label>Menstruációs ciklus hossza (napban)</mat-label>
+				      <input matInput type="text" [(ngModel)]="cycleLength"
+				      (input)="onLeftInputChange()" placeholder="Ciklus hossza">
+				    </mat-form-field>
+
+				    <mat-form-field>
+				      <mat-label>Életkor elsõ menstruációkor</mat-label>
+				      <input matInput type="text" [(ngModel)]="firstBleeding"
+				      (input)="onLeftInputChange()" placeholder="Életkor (pl. 14 év)">
+				    </mat-form-field>
+
+				    <mat-form-field>
+				      <mat-label>Jelenlegi életkor</mat-label>
+				      <input matInput type="text" [(ngModel)]="age"
+				      (input)="onLeftInputChange()" placeholder="Életkor (pl. 26 év)">
+				    </mat-form-field>
+
+				    <mat-form-field>
+				      <mat-label>Életkor a hiszterektómia pillanatában</mat-label>
+				      <input matInput type="text" [(ngModel)]="histerectomyAge"
+				      (input)="onLeftInputChange()" placeholder="Életkor (pl. 28 év)">
+				    </mat-form-field>
+				</div>
+
+				<div class="podcast-episode" *ngIf="bleedingSoFar">
+					Megadott adatok alapján a idáig megközelítõleg
+					<div class="intense">
+						{{ (bleedingSoFar * 0.8) / 1000 | number:'1.0-2' }} l
+					</div>
+
+					vért vesztettél menstruálással.
+
+					<div *ngIf="bleedingTillHisterectomy && bleedingTillHisterectomy > 0">
+						Hiszterektómia tervezett napjáig megközelítõleg még
+					</div>
+
+					<div *ngIf="bleedingTillHisterectomy && bleedingTillHisterectomy < 0">
+						Hiszterektómia óta már
+					</div>
+
+					<div class="intense" *ngIf="bleedingTillHisterectomy < 0">
+						{{ (bleedingTillHisterectomy * 0.8) / -1000 | number:'1.0-2' }} l
+					</div>
+
+					<div class="intense" *ngIf="bleedingTillHisterectomy > 0">
+						{{ (bleedingTillHisterectomy * 0.8) / 1000 | number:'1.0-2' }} l
+					</div>
+
+					<span *ngIf="bleedingTillHisterectomy && bleedingTillHisterectomy > 0">
+						vért fogsz veszíteni.
+					</span>
+
+					<span *ngIf="bleedingTillHisterectomy && bleedingTillHisterectomy < 0">
+						vérveszteségtõl mentesültél.
+					</span>
+
+					<div *ngIf="bleedingTillMenopause">
+						A menopauzáig (átlag 55 éves kor)
+					</div>
+
+					<div class="intense" *ngIf="bleedingTillMenopause">
+						{{ (bleedingTillMenopause * 0.8) / 1000 | number:'1.0-2' }} l
+					</div>
+
+					<span *ngIf="!bleedingTillHisterectomy">
+						vérveszteséggel kell számolni.
+					</span>
+
+					<span *ngIf="bleedingTillHisterectomy">
+						vérveszteséggtõl mentesülsz.
+					</span>
+
+				</div>
+
+				<div class="entry-actions" [@enter3]>
+					<div class="back-to-home">
+						<a [routerLink]="['/']">
+							{{ 'general.backToHome' | translate }}
+						</a>
+					</div>
+
+					<div class="actions">
+						<button mat-icon-button (click)="openShareDialog()">
+							<mat-icon>share</mat-icon>
+						</button>
+					</div>
+				</div>
+
+				<div class="disclaimer" [@enter4]>
+					<b>{{ 'entry.foundErrorTitle' | translate }} </b>
+					<span [innerHTML]="'entry.foundErrorText' | translate"></span>
+				</div>
+
+				<div class="disclaimer" [@enter4]>
+				</div>
+			</div>
+		</div>
+	</div>

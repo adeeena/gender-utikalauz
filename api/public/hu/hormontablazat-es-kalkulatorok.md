@@ -16,6 +16,8 @@ KALKULÁTOROK
 
 [Progeszteron ng/ml - ng/dl - nmol/l váltó](/#/progeszteron-kalkulator)
 
+[Várható vérveszteség hiszterektómiáig / Higham kalkulátor](/#/higham-hiszterektomia-verveszteseg-kalkulator)
+
 </div>
 
 <div class="wiki-content">

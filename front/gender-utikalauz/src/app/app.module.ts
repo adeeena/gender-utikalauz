@@ -36,6 +36,7 @@ import { GaleryComponent } from './components/galery/galery.component';
 import { OsztrogenKalkulatorComponent } from './components/osztrogen-kalkulator/osztrogen-kalkulator.component';
 import { TesztoszteronKalkulatorComponent } from './components/tesztoszteron-kalkulator/tesztoszteron-kalkulator.component';
 import { ProgeszteronKalkulatorComponent } from './components/progeszteron-kalkulator/progeszteron-kalkulator.component';
+import { HighamHiszterektomiaVervesztesegKalkulatorComponent } from './components/higham-hiszterektomia-verveszteseg-kalkulator/higham-hiszterektomia-verveszteseg-kalkulator.component';
 
 export function HttpLoaderFactory(http: HttpClient): TranslationLoader {
   return new TranslationLoader(http);
@@ -61,7 +62,8 @@ export function initConfig(appConfig: AppConfigService) {
     GaleryComponent,
     OsztrogenKalkulatorComponent,
     TesztoszteronKalkulatorComponent,
-    ProgeszteronKalkulatorComponent
+    ProgeszteronKalkulatorComponent,
+    HighamHiszterektomiaVervesztesegKalkulatorComponent
   ],
   imports: [
     BrowserModule,

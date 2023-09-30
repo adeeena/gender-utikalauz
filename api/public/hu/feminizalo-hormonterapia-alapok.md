@@ -4,9 +4,11 @@ title: "Feminizáló hormonterápia alapjai"
 lang: hu
 ---
 
-<div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
+<div class="floating-columns">
 
 <div class="floating-bar">
+
+BEVEZETÕ
 
 [Bevezetõ](/#/entry?id=feminizalo-hormonterapia)
 
@@ -18,8 +20,53 @@ lang: hu
 
 [GYIK Feminziáló HRT](/#/entry?id=feminizalo-hormonterapia-gyik)
 
+<hr />
+
+ÖSZTROGÉNEK
+
+[Bevezetõ az ösztrogénekhez](/#/entry?id=osztrogenek)
+
+[✅Krémek és tapaszok](/#/entry?id=kremek-tapaszok)
+
+[✅Gyógyszerek](/#/entry?id=gyogyszerek)
+
+[✅Injekciók](/#/entry?id=injekciok)
+
+[😐Orrspray](/#/entry?id=orrspray)
+
+[😐Implantátumok](/#/entry?id=implantatumok)
+
+<hr />
+
+T-BLOKKOLÓK ÉS PROGESZTATÍVOK
+
+[Bevezetõ a T-blokkolókhoz](/#/entry?id=t-blokkolok)
+
+[Bevezetõ a progesztatívokhoz](/#/entry?id=progesztativok)
+
+[✅Bicalutamid](/#/entry?id=bicalutamid)
+
+[✅Decapeptyl, Lupron, pubertásblokkolók](/#/entry?id=decapeptyl)
+
+[✅Progeszteron](/#/entry?id=progeszteron)
+
+[😐Spironolactone](/#/entry?id=spironolactone)
+
+[😐Szintetikus progesztatívok](/#/entry?id=szintetikus-progesztativok)
+
+[⛔Finasteride](/#/entry?id=finasteride)
+
+[⛔Dutasteride](/#/entry?id=dutasteride)
+
+[⛔Flutamide](/#/entry?id=flutamide)
+
+[⛔Androcur](/#/entry?id=androcur)
+
 </div>
 
+<div class="wiki-content">
+
+<div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
 
 # Feminizáló hormonterápia alapjai
 
@@ -145,3 +192,4 @@ Továbbá a tanulmányok arra utalnak, hogy a progeszteron nem szükséges a tra
 
 * [Reference ranges for blood tests](https://en.m.wikipedia.org/wiki/Reference_ranges_for_blood_tests) (Wikipedia)
 
+</div>

@@ -76,9 +76,7 @@
           text-decoration: underline;
         }
 
-        .podcast-episode {
-          background: #fde9f0;
-          border: 2px solid $pink-color;
+        .infobox {
           padding: 1rem;
           margin-bottom: 2rem;
 
@@ -86,6 +84,35 @@
             font-size: 1rem;
             font-weight: 500;
             margin: 0 0 .5rem;
+          }
+
+          p {
+            margin-bottom: 0;
+          }
+
+          &.info {
+            border: 2px solid #4054b2;
+            background: #f0f0ff;
+          }
+
+          &.success {
+            border: 2px solid #16c60c;
+            background: #e8ffeb;
+          }
+
+          &.warning {
+            border: 2px solid #ffc83d;
+            background: #fff6c8;
+          }
+
+          &.error {
+            border: 2px solid #f03a17;
+            background: #ffdbdb;
+          }
+
+          &.podcast-episode {
+            background: #fde9f0;
+            border: 2px solid $pink-color;
           }
         }
       }

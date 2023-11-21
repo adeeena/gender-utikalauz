@@ -30,7 +30,7 @@ KALKULÁTOROK
 
 Az alábbi táblázat összefoglalja az ösztrogének standard értékeit cisznemű férfiak és nők számára.
 
-<div class="podcast-episode">
+<div class="infobox podcast-episode">
 
 👩 Általánosságban elfogadott, hogy egy transznemű nő számára a jó ösztradiol szint 60 pg/ml (220 pmol/l, ez az alacsonyabb érték inkább csak a HRT kezdetén jellemző) és 200 pg/ml (807 pmol/l) között van.
 

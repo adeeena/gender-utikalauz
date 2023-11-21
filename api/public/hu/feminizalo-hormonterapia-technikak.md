@@ -46,7 +46,7 @@ T-BLOKKOLÓK ÉS PROGESZTINEK
 
 [✅Bicalutamide](/#/entry?id=bicalutamide)
 
-[✅Decapeptyl, Lupron, pubertásblokkolók](/#/entry?id=decapeptyl)
+[✅Decapeptyl, Lucrin, pubertásblokkolók](/#/entry?id=decapeptyl)
 
 [✅Progeszteron](/#/entry?id=progeszteron)
 
@@ -74,7 +74,7 @@ Többféle különbözõ technika létezik a feminizáló hormonterápiához. A 
 
 Mindenesetre szükséges az [ebben a cikkben felsorolt alapoknak megfelelően eljárni](/#/entry?id=feminizalo-hormonterapia-alapok) (testoszteron megszûntetése vagy blokkolása; és az ösztradiol szintjének növelése) a test feminizációjának eléréséhez.
 
-<div class="podcast-episode">
+<div class="infobox podcast-episode">
 <h5>⚠️ Figyelem</h5>
 	
 Függetlenül a választott módszertől, az emberi testnek szüksége van nemi hormonokra (ösztrogénre vagy tesztoszteronra) a megfelelő működéshez. Ezért óva intünk azoktól a kezelésektől, amelyek kizárólag egy anti-androgén szedéséből állnak, kiegészítő ösztrogén bevitele nélkül, még ideiglenes időszakra is.
@@ -149,7 +149,7 @@ Bár az ösztrogén monoterápiák az elvükben régóta léteznek, népszerűs�
 
 ## 3. módszer: Ösztrogén és progeszteron bevétele
 
-<div class="podcast-episode">
+<div class="infobox podcast-episode">
 <h5>⚗️ Figyelem</h5>
 	
 **Ez a módszer sokkal kevésbé elterjedt, és rengeteg vita tárgyát képezi.** Az [Endokrin Társaság](https://www.endocrine.org/) nem ismeri el ezt a technikát; így emiatt **nagyon kevés orvos írja elő ezt a módszert.**
@@ -175,7 +175,7 @@ Azonban, amikor [ösztrogént](/#/entry?id=osztrogenek) adunk a [progeszteronhoz
 
 ## 4. módszer: Powers módszer
 
-<div class="podcast-episode">
+<div class="infobox podcast-episode">
 <h5>⚗️ Figyelem</h5>
 
 Ez a módszer nem tartozik az [Endokrin Társaság](https://www.endocrine.org/) által elismert módszerek közé. Dr. Powers tervezi a eredményeinek közzétételét a közeljövőben. Addig is fontos megemlíteni, hogy ez a módszer inkább csak elméletnek tekintendõ, amely még igazolásra vár.

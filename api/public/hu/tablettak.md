@@ -46,7 +46,7 @@ T-BLOKKOLÓK ÉS PROGESZTINEK
 
 [✅Bicalutamide](/#/entry?id=bicalutamide)
 
-[✅Decapeptyl, Lupron, pubertásblokkolók](/#/entry?id=decapeptyl)
+[✅Decapeptyl, Lucrin, pubertásblokkolók](/#/entry?id=decapeptyl)
 
 [✅Progeszteron](/#/entry?id=progeszteron)
 
@@ -70,7 +70,7 @@ T-BLOKKOLÓK ÉS PROGESZTINEK
 
 # Tabletták
 
-<div class="podcast-episode">
+<div class="infobox podcast-episode">
 
 Ez a cikk bemutatja az ösztrogének tablettával való alkalmazásának sajátosságait. A HRT átalános hatásainak megismeréséhez javasoljuk, hogy előzetesen olvasd el [ezt a cikket](/#/entry?id=feminizalo-hormonterapia-hatasok).
 

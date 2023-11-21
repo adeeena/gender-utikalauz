@@ -46,7 +46,7 @@ T-BLOKKOLÓK ÉS PROGESZTINEK
 
 [✅Bicalutamide](/#/entry?id=bicalutamide)
 
-[✅Decapeptyl, Lupron, pubertásblokkolók](/#/entry?id=decapeptyl)
+[✅Decapeptyl, Lucrin, pubertásblokkolók](/#/entry?id=decapeptyl)
 
 [✅Progeszteron](/#/entry?id=progeszteron)
 
@@ -70,7 +70,7 @@ T-BLOKKOLÓK ÉS PROGESZTINEK
 
 # Krémek és tapaszok
 
-<div class="podcast-episode">
+<div class="infobox podcast-episode">
 
 Ez a cikk bemutatja az ösztrogének bõrön alkalmazásának sajátosságait. A HRT átalános hatásainak megismeréséhez javasoljuk, hogy előzetesen olvasd el [ezt a cikket](/#/entry?id=feminizalo-hormonterapia-hatasok).
 
@@ -161,7 +161,7 @@ Magyarországon főként két termék létezik: az Divigél és az Ovestin. Nem 
 
 <br />
 
-<div class="podcast-episode">
+<div class="infobox podcast-episode">
 <h5>Figyelem</h5>
 
 A fenti táblázat kizárólag tájékoztató jelleggel szolgálnak. Gyakorlatban az adagok jelentősen eltérhetnek személyenként! Szükséges lesz a vérvételi eredményeidre támaszkodni az adagolás beállításához.

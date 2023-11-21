@@ -88,7 +88,7 @@ Az első találkozón az orvosod kérni fogja az egészségi állapotod felmér�
 Attól függően, hogy melyik városban élsz, ha a bejelentkezésekhez hosszú az idő, javasoljuk, hogy hamar kezdd el az idõpontfoglalást. Ha meggondoltad magad, ne felejtsd el lemondani az idõpontodat!
 
 
-<div class="podcast-episode">
+<div class="infobox podcast-episode">
 <h5>👀 Vigyázz a visszaélésekkel</h5>
 	
 A legtöbb esetben elegendő egy vér- és hormonvizsgálat (vérvétel). Az nem szokványos eljárás, ha indokolatlanul egy sor orvosi vizsgálatot kérnek tőled a kezelés megkezdése előtt.
@@ -128,7 +128,7 @@ A recept érvényességének időtartama nagyon változó lehet, de idõvel, ami
 A recept megújítható az eredeti endokrinológus, egy nőgyógyász vagy egy háziorvos által.
 
 
-<div class="podcast-episode">
+<div class="infobox podcast-episode">
 <h5>💡 Kövesd az eredményeidet</h5>
 	
 Nyiss meg egy dokumentumot egy táblázatkezelő programban (mint például a [Google Táblázatok](https://www.google.hu/intl/hu/sheets/about/), [FramaCalc](https://framacalc.org/abc/hu/) vagy [Excel](https://products.office.com/hu-hu/excel)), hogy feljegyezd hormonális eredményeidet minden vérvételnél. Így nyomon követheted hormonszinted változását és megoszthatod a téged kezelő orvosokkal.
@@ -148,7 +148,7 @@ Ha azonban helyzetének következtében nincs más választásod, mint az önkez
 Fordíts időt a rendelkezésre álló különböző hormonkészítmények hatásaira és mellékhatásaira, illetve tájékozódj az hormonkezelésrõl általánosságban, valamint a specifikus kezelésről, amit választottál. Még akkor is, ha az orvosod nagyon jól ismeri a saját területét (ami nem mindig a helyzet), fontos, hogy képesek legyetek kommunikálni egymással.
 
 <!--
-<div class="podcast-episode">
+<div class="infobox podcast-episode">
 <h5>💡 További információk</h5>
 	
 Ha többet szeretnél megtudni azokról a termékekről, amelyek szóba jöhetnek, nézd meg a honlapunkon található "feminizáló" THS témakörét és az hormonkezelések oldalát.
@@ -157,7 +157,7 @@ Ha többet szeretnél megtudni azokról a termékekről, amelyek szóba jöhetne
 -->
 
 
-<div class="podcast-episode">
+<div class="infobox podcast-episode">
 <h5>⚠️ Androcur</h5>
 	
 Egy "feminizáló" kezelés keretében néhány orvos Androcur-alapú kezelést fog javasolni, amely Európában az egyik legismertebb tesztoszteron-blokkoló. Azonban mára ezt a gyógyszert jelentõs kritikával illetik az egészségre gyakorolt hatásai miatt, amelyek egészen az agydaganatig terjedhetnek. Javasoljuk, hogy kerüld el ezen gyógyszerrel történő kezelést.
@@ -169,7 +169,7 @@ A kezelést addig alkalmazd, amíg az hormonok hatásait szeretnéd élvezni. Az
 
 **Bármikor le lehet állítani azokat kockázat nélkül, ha a testben vannak szexuális hormonokat termelő szervek (funkcionális here vagy petefészek jelenléte).** Az alkalmazott hormonterápiás készítmények változhatnak az egészségi állapotod, az esetlegesen végzett műtétek és saját személyes döntéseid alapján. Azonban azt tanácsoljuk, hogy ne hagyd abba hirtelen a kezelést. Ha komolyan gondolkodsz a HRT abbahagyásán, elõbb beszélj a kezelõorvosoddal.
 
-<div class="podcast-episode">
+<div class="infobox podcast-episode">
 <h5>⚠️ Figyelem</h5>
 	
 Gonádok (here vagy petefészek) eltávolítása után **állandó hormonkezelésre lesz szükség annak elkerülése érdekében, hogy hormonhiány ne alakulhasson ki**, ami gyengébb egészségi állapotot és [csontritkulást](https://www.webbeteg.hu/cikkek/csontritkulas/218/a-csontritkulas-okai-es-rizikofaktorai) eredményezhet.

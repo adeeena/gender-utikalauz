@@ -8,7 +8,7 @@ lang: hu
 
 # Hogyan működnek a hormonok?
 
-<div class="podcast-episode">
+<div class="infobox podcast-episode">
 
 Ez a cikk az emberi hormonrendszer általános működését ismerteti. Nem kell mindent megértened ahhoz, hogy elkezdd a hormonterápiát (HRT), de segíthet a jobb döntés meghozatalában.
 

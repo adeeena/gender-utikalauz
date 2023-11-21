@@ -46,7 +46,7 @@ T-BLOKKOLÓK ÉS PROGESZTINEK
 
 [✅Bicalutamide](/#/entry?id=bicalutamide)
 
-[✅Decapeptyl, Lupron, pubertásblokkolók](/#/entry?id=decapeptyl)
+[✅Decapeptyl, Lucrin, pubertásblokkolók](/#/entry?id=decapeptyl)
 
 [✅Progeszteron](/#/entry?id=progeszteron)
 
@@ -70,7 +70,7 @@ T-BLOKKOLÓK ÉS PROGESZTINEK
 
 # Injekciók
 
-<div class="podcast-episode">
+<div class="infobox podcast-episode">
 
 Ez a cikk bemutatja az ösztrogének injekcióval való alkalmazásának sajátosságait. A HRT átalános hatásainak megismeréséhez javasoljuk, hogy előzetesen olvasd el [ezt a cikket](/#/entry?id=feminizalo-hormonterapia-hatasok).
 
@@ -110,7 +110,7 @@ Kérjük, vedd figyelembe, hogy az adagolás csak tájékoztató jellegű. A gya
 
 ## Hozzáférés Magyarországon
 
-<div class="podcast-episode">
+<div class="infobox podcast-episode">
 
 Magyarországon már nem forgalmaznak ösztradiol injekciót tartalmazó termékeket. Míg az injekciókra még lehetett receptet kapni Magyarországon, egy ideje már nem lehet ezzel sem vényt kiváltani.
 
@@ -185,7 +185,7 @@ Hasonlóképpen, ha hormonális instabilitást tapasztalsz, az annak a jele, hog
 ## Öninjekciózás (DIY)
 
 
-<div class="podcast-episode">
+<div class="infobox podcast-episode">
 
 ⚠️ Figyelem: Mint minden öngyógyítás, ez a módszer is veszélyes lehet. Nem ajánlott olyan személyeknek, akik nem rendelkeznek minimális orvosi ismeretekkel.
 

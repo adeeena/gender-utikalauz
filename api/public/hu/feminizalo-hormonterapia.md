@@ -46,7 +46,7 @@ T-BLOKKOLÓK ÉS PROGESZTINEK
 
 [✅Bicalutamide](/#/entry?id=bicalutamide)
 
-[✅Decapeptyl, Lupron, pubertásblokkolók](/#/entry?id=decapeptyl)
+[✅Decapeptyl, Lucrin, pubertásblokkolók](/#/entry?id=decapeptyl)
 
 [✅Progeszteron](/#/entry?id=progeszteron)
 

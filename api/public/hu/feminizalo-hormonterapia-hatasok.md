@@ -46,7 +46,7 @@ T-BLOKKOLÓK ÉS PROGESZTINEK
 
 [✅Bicalutamide](/#/entry?id=bicalutamide)
 
-[✅Decapeptyl, Lupron, pubertásblokkolók](/#/entry?id=decapeptyl)
+[✅Decapeptyl, Lucrin, pubertásblokkolók](/#/entry?id=decapeptyl)
 
 [✅Progeszteron](/#/entry?id=progeszteron)
 
@@ -135,7 +135,7 @@ A HRT bizonyos visszafordíthatatlan hatásokkal is rendelkezik. Ezeknek a hatá
 
 * A mellméret lecsökkenhet, de nem tûnik el teljesen.
 
-<div class="podcast-episode">
+<div class="infobox podcast-episode">
 <h5>💊 Tájékozott döntés meghozatala a hormonterápia mellett</h5>
 	
 [Feminizáló hormonok - kitölthetõ útmutató](/#/entry?id=brosura-hormonok-kitoltheto-utmutato) a feminizáló hormonterápia hatásait magyarázza el, interaktív, kitöltendő részekkel, amelyek segítségével megnézheted, hogy a hormonok szedése segít-e neked az tranzíciós céljaid elérésében. A tájékozott beleegyezés elősegítésének nélkülözhetetlen eszköze!

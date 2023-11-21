@@ -70,14 +70,14 @@ T-BLOKKOLÓK ÉS PROGESZTINEK
 
 # Decapeptyl, Lucrin és pubertás-blokkolók
 
-<div class="infobox podcast-episode">
+<div class="infobox success">
 <h5>👍 Ajánlott</h5>
     
 Hatékony tesztoszteron-blokkoló. Alacsony rizikófaktor. [Alternatívák itt találhatóak.](/#/entry?id=t-blokkolok)
 
 </div>
 
-<div class="infobox podcast-episode">
+<div class="infobox info">
 
 Ez a cikk a Decapeptyl sajátos jellemzőit ismerteti. A HRT általános hatásainak megismeréséhez javasoljuk, hogy [először ezt a cikket olvasd el](/#/entry?id=feminizalo-hormonterapia-hatasok).
 

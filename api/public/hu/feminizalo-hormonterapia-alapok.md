@@ -97,10 +97,9 @@ Mindenesetre a következő 2 pontot szükséges betartani a test feminizálásá
 
 Ez azt jelenti, hogy a vérben a teljes tesztoszteron szintje 0,15 és 0,55 ng/mL (0,5 - 1.9 nmol/L) közötti értéket kell elérnie (szemben a férfiak 2,5-től 10 ng/mL-ig terjedő értékeivel). Ez a lépés létfontosságú. Valójában, mivel a tesztoszteron blokkolja az [ösztrogének](/#/entry?id=osztrogenek) hatását, semmilyen feminizálás nem történhet meg elegendő tesztoszteron blokkolás nélkül.
 
-<div class="infobox podcast-episode">
-<h5>Tesztoszteron mértékegységváltó (kalkulátor)</h5>
-	
-[https://balancemyhormones.co.uk/testosterone-units-conversion-tool/](https://balancemyhormones.co.uk/testosterone-units-conversion-tool/#))
+<div class="infobox info">
+
+[Tesztoszteron mértékegységváltó (kalkulátor)](#/tesztoszteron-kalkulator)
 
 </div>
 
@@ -113,10 +112,9 @@ Nehezebb összehasonlítani egy cisz nő és egy transz nő [ösztradiol](/#/ent
 
 **Általánosságban azt tartják, hogy egy transz nő számára jó [ösztradiol](/#/entry?id=osztrogenek) szint 60 pg/mL (ez alacsony érték, inkább csak a THS kezdetekor ajánlott) és 200 pg/mL között van (220 - 730 pmol/L).**
 
-<div class="infobox podcast-episode">
-<h5>Ösztrogén mértékegységváltó (kalkulátor)</h5>
-	
-[http://www.endmemo.com/medical/unitconvert/Estradiol.php](http://www.endmemo.com/medical/unitconvert/Estradiol.php))
+<div class="infobox info">
+
+[Ösztrogén mértékegységváltó (kalkulátor)](#/osztrogen-kalkulator)
 
 </div>
 
@@ -137,7 +135,7 @@ Ugyanígy, ha nem veszünk be anti-androgént és csak ösztrogén monoterápiá
 
 ## Fontosabb elvek
 
-<div class="infobox podcast-episode">
+<div class="infobox warning">
 <h5>⚠️ Megjegyzés</h5>
 	
 Ezek az elvek nincsenek tudományosan megerősítve. Ezért kérjük, hogy óvatosan kezeljétek őket.

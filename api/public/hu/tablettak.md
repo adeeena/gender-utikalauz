@@ -70,7 +70,7 @@ T-BLOKKOLÓK ÉS PROGESZTINEK
 
 # Tabletták
 
-<div class="infobox podcast-episode">
+<div class="infobox info">
 
 Ez a cikk bemutatja az ösztrogének tablettával való alkalmazásának sajátosságait. A HRT átalános hatásainak megismeréséhez javasoljuk, hogy előzetesen olvasd el [ezt a cikket](/#/entry?id=feminizalo-hormonterapia-hatasok).
 

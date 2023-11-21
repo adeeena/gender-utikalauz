@@ -70,7 +70,7 @@ T-BLOKKOLÓK ÉS PROGESZTINEK
 
 # Krémek és tapaszok
 
-<div class="infobox podcast-episode">
+<div class="infobox info">
 
 Ez a cikk bemutatja az ösztrogének bõrön alkalmazásának sajátosságait. A HRT átalános hatásainak megismeréséhez javasoljuk, hogy előzetesen olvasd el [ezt a cikket](/#/entry?id=feminizalo-hormonterapia-hatasok).
 

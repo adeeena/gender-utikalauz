@@ -38,11 +38,11 @@ BEVEZETÕ
 
 <hr />
 
-T-BLOKKOLÓK ÉS PROGESZTATÍVOK
+T-BLOKKOLÓK ÉS PROGESZTINEK
 
 [Bevezetõ a T-blokkolókhoz](/#/entry?id=t-blokkolok)
 
-[Bevezetõ a progesztatívokhoz](/#/entry?id=progesztativok)
+[Bevezetõ a progesztinekhez](/#/entry?id=progesztinek)
 
 [✅Bicalutamide](/#/entry?id=bicalutamide)
 
@@ -52,7 +52,7 @@ T-BLOKKOLÓK ÉS PROGESZTATÍVOK
 
 [😐Spironolactone](/#/entry?id=spironolactone)
 
-[😐Szintetikus progesztatívok](/#/entry?id=szintetikus-progesztativok)
+[😐Szintetikus progesztinek](/#/entry?id=szintetikus-progesztinek)
 
 [⛔Finasteride](/#/entry?id=finasteride)
 

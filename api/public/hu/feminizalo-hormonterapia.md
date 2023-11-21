@@ -38,11 +38,11 @@ BEVEZETÕ
 
 <hr />
 
-T-BLOKKOLÓK ÉS PROGESZTATÍVOK
+T-BLOKKOLÓK ÉS PROGESZTINEK
 
 [Bevezetõ a T-blokkolókhoz](/#/entry?id=t-blokkolok)
 
-[Bevezetõ a progesztatívokhoz](/#/entry?id=progesztativok)
+[Bevezetõ a progesztinekhez](/#/entry?id=progesztinek)
 
 [✅Bicalutamide](/#/entry?id=bicalutamide)
 
@@ -52,7 +52,7 @@ T-BLOKKOLÓK ÉS PROGESZTATÍVOK
 
 [😐Spironolactone](/#/entry?id=spironolactone)
 
-[😐Szintetikus progesztatívok](/#/entry?id=szintetikus-progesztativok)
+[😐Szintetikus progesztinek](/#/entry?id=szintetikus-progesztinek)
 
 [⛔Finasteride](/#/entry?id=finasteride)
 
@@ -84,7 +84,7 @@ Ebben a dossziéban megtudhatod, hogyan kaphatsz ilyen kezelést. De azt is megi
 
 2. Amikor ezzel készen vagy, olvasd el, hogyan lehet hormonkezeléshez jutnod.
 
-3. Ha közelebbről érdekelnek egyes feminizáló hatású gyógyszerek vagy gyógyhatású készítmények, akkor olvasd el az [ösztrogénekről](#), [anti-androgénekről](#) és [progesztatívokról](#) szóló oldalakat.
+3. Ha közelebbről érdekelnek egyes feminizáló hatású gyógyszerek vagy gyógyhatású készítmények, akkor olvasd el az [ösztrogénekről](/#/entry?id=osztrogenek), [anti-androgénekről](/#/entry?id=t-blokkolok) és [progesztinekről](/#/entry?id=progesztinek) szóló oldalakat.
 
 Ha jobban meg akarod érteni, hogyan működik a HRT, ismerkedj meg részletesebben a hormonok működésével.
 

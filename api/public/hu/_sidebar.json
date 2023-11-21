@@ -83,6 +83,10 @@
   {
     "title": "📊 Hormonok",
     "children": [
+       {
+        "entryId": "hogyan-mukodnek-a-hormonok",
+        "title": "Hogyan működnek a hormonok?"
+      },
       {
         "entryId": "hormonterapia-elkezdese",
         "title": "Hormonterápia elkezdése"

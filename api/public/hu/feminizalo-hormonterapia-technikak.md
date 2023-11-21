@@ -38,11 +38,11 @@ BEVEZETÕ
 
 <hr />
 
-T-BLOKKOLÓK ÉS PROGESZTATÍVOK
+T-BLOKKOLÓK ÉS PROGESZTINEK
 
 [Bevezetõ a T-blokkolókhoz](/#/entry?id=t-blokkolok)
 
-[Bevezetõ a progesztatívokhoz](/#/entry?id=progesztativok)
+[Bevezetõ a progesztinekhez](/#/entry?id=progesztinek)
 
 [✅Bicalutamide](/#/entry?id=bicalutamide)
 
@@ -52,7 +52,7 @@ T-BLOKKOLÓK ÉS PROGESZTATÍVOK
 
 [😐Spironolactone](/#/entry?id=spironolactone)
 
-[😐Szintetikus progesztatívok](/#/entry?id=szintetikus-progesztativok)
+[😐Szintetikus progesztinek](/#/entry?id=szintetikus-progesztinek)
 
 [⛔Finasteride](/#/entry?id=finasteride)
 
@@ -156,15 +156,15 @@ Bár az ösztrogén monoterápiák az elvükben régóta léteznek, népszerűs�
 
 </div>
 
-Ennek a módszernek a célja az [ösztrogén](/#/entry?id=osztrogenek) és a [progeszteron](/#/entry?id=progesztativok) kombinálása annak érdekében, hogy kihasználjuk a képességüket a tesztoszteron elnyomására.
+Ennek a módszernek a célja az [ösztrogén](/#/entry?id=osztrogenek) és a [progeszteron](/#/entry?id=progesztinek) kombinálása annak érdekében, hogy kihasználjuk a képességüket a tesztoszteron elnyomására.
 
-A többi [progesztatívval](/#/entry?id=progesztativok) ellentétben a progeszteront egy nagyon gyenge antiandrogénnek tekintik, különösen ha szájon át szedik, mivel a májon keresztül történő áthaladáskor a progeszteron nagy része lebomlik. Emiatt a legtöbb orvos hatástalannak tekinti a tesztoszteronszint csökkentésére.
+A többi [progesztinnel](/#/entry?id=progesztinek) ellentétben a progeszteront egy nagyon gyenge antiandrogénnek tekintik, különösen ha szájon át szedik, mivel a májon keresztül történő áthaladáskor a progeszteron nagy része lebomlik. Emiatt a legtöbb orvos hatástalannak tekinti a tesztoszteronszint csökkentésére.
 
-Azonban, amikor [ösztrogént](/#/entry?id=osztrogenek) adunk a [progeszteronhoz](/#/entry?id=progesztativok), gyakran olyan összhatást tapasztalunk a két hormon között, ami lehetővé teheti a tesztoszteron elegendő mértékű csökkentését. **A módszer hatékonysága azonban rendkívül változó különbözõ emberek között.**
+Azonban, amikor [ösztrogént](/#/entry?id=osztrogenek) adunk a [progeszteronhoz](/#/entry?id=progesztinek), gyakran olyan összhatást tapasztalunk a két hormon között, ami lehetővé teheti a tesztoszteron elegendő mértékű csökkentését. **A módszer hatékonysága azonban rendkívül változó különbözõ emberek között.**
 
 ### Módszer előnyei:
 
-* A [progeszteron](/#/entry?id=progesztativok) hajlamos az szorongás leküzdésére. Az [ösztrogének](/#/entry?id=osztrogenek) antidepresszáns hatásaival együtt ez a módszer segíthet azoknak, akik ezekkel a problémákkal küzdenek.
+* A [progeszteron](/#/entry?id=progesztinek) hajlamos az szorongás leküzdésére. Az [ösztrogének](/#/entry?id=osztrogenek) antidepresszáns hatásaival együtt ez a módszer segíthet azoknak, akik ezekkel a problémákkal küzdenek.
 
 * Mint az [ösztrogén](/#/entry?id=osztrogenek) monoterápiánál, a természetes jellege miatt elõnyben részesítik; illetve azzal a ténnyel, hogy így el lehet kerülni a hagyományosabb gyógyszerek szedését.
 

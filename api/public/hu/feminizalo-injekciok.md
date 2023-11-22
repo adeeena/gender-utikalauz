@@ -28,9 +28,9 @@ BEVEZETÕ
 
 [✅Krémek és tapaszok](/#/entry?id=kremek-tapaszok)
 
-[✅Tabletták](/#/entry?id=feminizalo-tablettak)
+[✅Tabletták](/#/entry?id=tablettak)
 
-[✅Injekciók](/#/entry?id=feminizalo-injekciok)
+[✅Injekciók](/#/entry?id=injekciok)
 
 [😐Orrspray](/#/entry?id=orrspray)
 

@@ -28,9 +28,9 @@ BEVEZETÕ
 
 [✅Krémek és tapaszok](/#/entry?id=kremek-tapaszok)
 
-[✅Tabletták](/#/entry?id=tablettak)
+[✅Tabletták](/#/entry?id=feminizalo-tablettak)
 
-[✅Injekciók](/#/entry?id=injekciok)
+[✅Injekciók](/#/entry?id=feminizalo-injekciok)
 
 [😐Orrspray](/#/entry?id=orrspray)
 
@@ -82,15 +82,17 @@ Ez a cikk bemutatja az ösztrogének tablettával való alkalmazásának sajáto
 <table>
     <tbody>
         <tr>
-            <td>Termékek</td>
-            <td>Átlagos adagolás</td>
-            <td>Miket kell vizsgálni vérvételkor</td>
-        </tr>
-        <tr>
+            <td><b>Termékek</b></td>
             <td>
                 <a href="https://www.hazipatika.com/gyogyszerkereso/termek/estrofem_2_mg_filmtabletta/592">Estrofem</a>
             </td>
+        </tr>
+        <tr>
+            <td><b>Átlagos adagolás</b></td>
             <td><b>Napi 1-8 mg között</b><br />szájon át</td>
+        </tr>
+        <tr>
+            <td><b>Miket kell vizsgálni vérvételkor</b></td>
             <td>
                 <a href="https://hu.wikipedia.org/wiki/%C3%96sztradiol">Ösztradiol</a>,
                 <a href="https://hu.wikipedia.org/wiki/Tesztoszteron">tesztoszteron</a>,

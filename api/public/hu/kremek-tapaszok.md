@@ -28,9 +28,9 @@ BEVEZETÕ
 
 [✅Krémek és tapaszok](/#/entry?id=kremek-tapaszok)
 
-[✅Tabletták](/#/entry?id=tablettak)
+[✅Tabletták](/#/entry?id=feminizalo-tablettak)
 
-[✅Injekciók](/#/entry?id=injekciok)
+[✅Injekciók](/#/entry?id=feminizalo-injekciok)
 
 [😐Orrspray](/#/entry?id=orrspray)
 
@@ -107,19 +107,23 @@ Azonban az eredmények jelentősen eltérhetnek személyenként. Ha a bőröd ro
 <table>
     <tbody>
         <tr>
-            <td>Termékek</td>
-            <td>Átlagos adagolás</td>
-            <td>Ár</td>
-            <td>Miket kell vizsgálni vérvételkor</td>
-        </tr>
-        <tr>
+            <td><b>Termékek</b></td>
             <td>
                 <a href="https://www.hazipatika.com/gyogyszerkereso/termek/divigel_1_mg_dozis_gel/6279">Divigel</a>
                 <a href="https://www.hazipatika.com/gyogyszerkereso/termek/ovestin_1_mg_g_krem/1232">Ovestin</a>
                 (+ Külföldön: <a href="https://reviews.webmd.com/drugs/drugreview-89430-estrogel-transdermal">Œstrodose / Estrogel</a>, <a href="https://www.drugs.com/sfx/estreva-side-effects.html">Estreva</a>)
             </td>
+        </tr>
+        <tr>
+            <td><b>Átlagos adagolás</b></td>
             <td><b>Napi 2-6 mg</b><br />Egyenletesen szétosztva reggel és este</td>
-            <td>havi kb. 4-10 ezer Ft</td>
+        </tr>
+        <tr>
+            <td><b>Ár</b></td>
+            <td>Havi kb. 4-10 e Ft</td>
+        </tr>
+        <tr>
+            <td><b>Miket kell vizsgálni vérvételkor</b></td>
             <td>
                 <a href="https://hu.wikipedia.org/wiki/%C3%96sztradiol">Ösztradiol</a>,
                 <a href="https://hu.wikipedia.org/wiki/Tesztoszteron">tesztoszteron</a>,
@@ -161,8 +165,8 @@ Magyarországon főként két termék létezik: az Divigél és az Ovestin. Nem 
 
 <br />
 
-<div class="infobox podcast-episode">
-<h5>Figyelem</h5>
+<div class="infobox warning">
+<h5>Figyelem!</h5>
 
 A fenti táblázat kizárólag tájékoztató jelleggel szolgálnak. Gyakorlatban az adagok jelentősen eltérhetnek személyenként! Szükséges lesz a vérvételi eredményeidre támaszkodni az adagolás beállításához.
 
@@ -173,18 +177,22 @@ A fenti táblázat kizárólag tájékoztató jelleggel szolgálnak. Gyakorlatba
 <table>
     <tbody>
         <tr>
-            <td>Termékek</td>
-            <td>Átlagos adagolás</td>
-            <td>Ár</td>
-            <td>Miket kell vizsgálni vérvételkor</td>
-        </tr>
-        <tr>
+            <td><b>Termékek</b></td>
             <td>
                 <a href="https://www.webbeteg.hu/gyogyszerkereso/dermestril-tapasz/1123">Dermestril</a>
                 <a href="https://www.vidal.fr/Medicament/oesclim-12137.htm">Oesclim</a>
             </td>
+        </tr>
+        <tr>
+            <td><b>Átlagos adagolás</b></td>
             <td><b>Napi 100-400 μg</b><br />Különböző méretű tapaszok léteznek 25-től 100μg-ig különböző adagolásokkal, amelyek kombinálhatók a kívánt adag eléréséhez.</td>
-            <td>kb. 8 €/hó</td>
+        </tr>
+        <tr>
+            <td><b>Ár</b></td>
+            <td>Havi kb. 3 e Ft</td>
+        </tr>
+        <tr>
+            <td><b>Miket kell vizsgálni vérvételkor</b></td>
             <td>
                 <a href="https://hu.wikipedia.org/wiki/%C3%96sztradiol">Ösztradiol</a>,
                 <a href="https://hu.wikipedia.org/wiki/Tesztoszteron">tesztoszteron</a>,

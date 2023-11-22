@@ -28,9 +28,9 @@ BEVEZETÕ
 
 [✅Krémek és tapaszok](/#/entry?id=kremek-tapaszok)
 
-[✅Tabletták](/#/entry?id=tablettak)
+[✅Tabletták](/#/entry?id=feminizalo-tablettak)
 
-[✅Injekciók](/#/entry?id=injekciok)
+[✅Injekciók](/#/entry?id=feminizalo-injekciok)
 
 [😐Orrspray](/#/entry?id=orrspray)
 
@@ -113,7 +113,7 @@ Többféle kezelés létezik az ösztrogének szedésére. Összesen 5 fõ utat 
             <td>Könnyû</td>
         </tr>
         <tr>
-            <td><a href="/#/entry?id=injekciok">✅Injekció</a></td>
+            <td><a href="/#/entry?id=feminizalo-injekciok">✅Injekció</a></td>
             <td>Hatékony hosszú távon, de nagyon nehéz beszerezni.</td>
             <td>Alacsony</td>
             <td>Könnyû</td>

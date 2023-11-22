@@ -98,6 +98,10 @@
       {
         "entryId": "feminizalo-hormonterapia",
         "title": "Feminizáló HRT"
+      },
+      {
+        "entryId": "maszkulinizalo-hormonterapia",
+        "title": "Maszkulinizáló HRT"
       }
     ]
   },

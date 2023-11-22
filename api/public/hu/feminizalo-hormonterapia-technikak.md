@@ -74,7 +74,7 @@ Többféle különbözõ technika létezik a feminizáló hormonterápiához. A 
 
 Mindenesetre szükséges az [ebben a cikkben felsorolt alapoknak megfelelően eljárni](/#/entry?id=feminizalo-hormonterapia-alapok) (testoszteron megszûntetése vagy blokkolása; és az ösztradiol szintjének növelése) a test feminizációjának eléréséhez.
 
-<div class="infobox podcast-episode">
+<div class="infobox warning">
 <h5>⚠️ Figyelem</h5>
 	
 Függetlenül a választott módszertől, az emberi testnek szüksége van nemi hormonokra (ösztrogénre vagy tesztoszteronra) a megfelelő működéshez. Ezért óva intünk azoktól a kezelésektől, amelyek kizárólag egy anti-androgén szedéséből állnak, kiegészítő ösztrogén bevitele nélkül, még ideiglenes időszakra is.

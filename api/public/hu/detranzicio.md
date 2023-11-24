@@ -205,11 +205,11 @@ Ez a szám tehát sokféle valóságot foglal magába.
 
 ### Beszámolók, előtte / utána (MtFtM)
 
-* [lamonte_michels Instagram-poszt](https://www.instagram.com/p/CUIAExJvnWO/)
+➡️ [lamonte_michels Instagram-poszt](https://www.instagram.com/p/CUIAExJvnWO/)
 
-* [My detransition: how it happened](https://www.youtube.com/watch?v=JUoY15ceUp4&ab_channel=MartinRei)
+➡️ [My detransition: how it happened](https://www.youtube.com/watch?v=JUoY15ceUp4&ab_channel=MartinRei)
 
-* [Detransitioning was the BIGGEST MISTAKE of my LIFE!! | Self Acceptance | My Story](https://www.youtube.com/watch?v=RSZ_W3tPM7k&ab_channel=NatalieDay)
+➡️ [Detransitioning was the BIGGEST MISTAKE of my LIFE!! | Self Acceptance | My Story](https://www.youtube.com/watch?v=RSZ_W3tPM7k&ab_channel=NatalieDay)
 
-* [Thoughts on detransitioning (MtFtM) and the trans community](https://www.youtube.com/watch?v=hvBiFX_zBVA)
+➡️ [Thoughts on detransitioning (MtFtM) and the trans community](https://www.youtube.com/watch?v=hvBiFX_zBVA)
 

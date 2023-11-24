@@ -178,16 +178,16 @@ Továbbá a tanulmányok arra utalnak, hogy a progeszteron nem szükséges a tra
 
 ## További információk
 
-* [Gender Dysphoria/Gender Incongruence Guideline Resources](https://www.endocrine.org/clinical-practice-guidelines/gender-dysphoria-gender-incongruence) az Endocrine Society által
+➡️ [Gender Dysphoria/Gender Incongruence Guideline Resources](https://www.endocrine.org/clinical-practice-guidelines/gender-dysphoria-gender-incongruence) az Endocrine Society által
 
-* [Guidelines and Protocols for Hormone Therapy and Primary Health Care for Trans Clients](http://sherbourne.on.ca/wp-content/uploads/2014/02/Guidelines-and-Protocols-for-Comprehensive-Primary-Care-for-Trans-Clients-2015.pdf) a Sherbourne-i egészségügyi központtól
+➡️ [Guidelines and Protocols for Hormone Therapy and Primary Health Care for Trans Clients](http://sherbourne.on.ca/wp-content/uploads/2014/02/Guidelines-and-Protocols-for-Comprehensive-Primary-Care-for-Trans-Clients-2015.pdf) a Sherbourne-i egészségügyi központtól
 
-* [Overview of feminizing hormone therapy](https://transcare.ucsf.edu/guidelines/feminizing-hormone-therapy) a San Francisco-i egyetemtől
+➡️ [Overview of feminizing hormone therapy](https://transcare.ucsf.edu/guidelines/feminizing-hormone-therapy) a San Francisco-i egyetemtől
 
-* [A guide to hormone therapy for trans people] az NHS-től
+➡️ [A guide to hormone therapy for trans people] az NHS-től
 
-* [Transgender hormone therapy (male-to-female)](https://en.m.wikipedia.org/wiki/Transgender_hormone_therapy_(male-to-female)) (Wikipedia)
+➡️ [Transgender hormone therapy (male-to-female)](https://en.m.wikipedia.org/wiki/Transgender_hormone_therapy_(male-to-female)) (Wikipedia)
 
-* [Reference ranges for blood tests](https://en.m.wikipedia.org/wiki/Reference_ranges_for_blood_tests) (Wikipedia)
+➡️ [Reference ranges for blood tests](https://en.m.wikipedia.org/wiki/Reference_ranges_for_blood_tests) (Wikipedia)
 
 </div>

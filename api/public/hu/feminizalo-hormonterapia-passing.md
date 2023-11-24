@@ -32,4 +32,4 @@ Jó olvasást!
 
 ## Források
 
-* [wikitrans.co](https://wikitrans.co)
+➡️ [wikitrans.co](https://wikitrans.co)

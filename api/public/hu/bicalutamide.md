@@ -191,35 +191,35 @@ A számítási szabály az, hogy 1 mg bicalutamide 4ng/dl összes tesztoszteront
 
 **Általános információk a bicalutamide-dal kapcsolatban**
 
-* [Bicalutamide – Wikipedia](https://en.wikipedia.org/wiki/Bicalutamide)
-* [Medical uses of bicalutamide – Wikipedia](https://en.wikipedia.org/wiki/Medical_uses_of_bicalutamide)
-* [Side effects of bicalutamide – Wikipedia](https://en.wikipedia.org/wiki/Side_effects_of_bicalutamide)
-* [Pharmacology of bicalutamide – Wikipedia](https://en.wikipedia.org/wiki/Pharmacology_of_bicalutamide)
-* [Comparison of bicalutamide with other antiandrogens – Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_bicalutamide_with_other_antiandrogens)
-* [FAQ a transfemscience.org által](https://transfemscience.org/articles/bica-faq/)
+➡️ [Bicalutamide – Wikipedia](https://en.wikipedia.org/wiki/Bicalutamide)
+➡️ [Medical uses of bicalutamide – Wikipedia](https://en.wikipedia.org/wiki/Medical_uses_of_bicalutamide)
+➡️ [Side effects of bicalutamide – Wikipedia](https://en.wikipedia.org/wiki/Side_effects_of_bicalutamide)
+➡️ [Pharmacology of bicalutamide – Wikipedia](https://en.wikipedia.org/wiki/Pharmacology_of_bicalutamide)
+➡️ [Comparison of bicalutamide with other antiandrogens – Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_bicalutamide_with_other_antiandrogens)
+➡️ [FAQ a transfemscience.org által](https://transfemscience.org/articles/bica-faq/)
 
 **A bicalutamide-dal (és más nem szteroid antiandrogénekkel) kapcsolatos információkat tartalmazó cikkek transznemű nőknél:**
 
-* [Medical uses of bicalutamide § Transgender hormone therapy – Wikipedia](https://en.wikipedia.org/wiki/Medical_uses_of_bicalutamide#Transgender_hormone_therapy)
-* [Transgender hormone therapy (male-to-female) § Nonsteroidal antiandrogens – Wikipedia](https://cutt.ly/bwU2kmZP)
-* [Flutamide § Transgender hormone therapy – Wikipedia](https://en.wikipedia.org/wiki/Flutamide#Transgender_hormone_therapy)
-* [Nilutamide § Transgender hormone therapy – Wikipedia](https://en.wikipedia.org/wiki/Nilutamide#Skin_conditions)
+➡️ [Medical uses of bicalutamide § Transgender hormone therapy – Wikipedia](https://en.wikipedia.org/wiki/Medical_uses_of_bicalutamide#Transgender_hormone_therapy)
+➡️ [Transgender hormone therapy (male-to-female) § Nonsteroidal antiandrogens – Wikipedia](https://cutt.ly/bwU2kmZP)
+➡️ [Flutamide § Transgender hormone therapy – Wikipedia](https://en.wikipedia.org/wiki/Flutamide#Transgender_hormone_therapy)
+➡️ [Nilutamide § Transgender hormone therapy – Wikipedia](https://en.wikipedia.org/wiki/Nilutamide#Skin_conditions)
 
 **Cikkek a korai pubertáskorban lévő fiúknál alkalmazott bicalutamide-ra vonatkozó információkkal (potenciálisan releváns a bicalutamide pubertásgátlóként való alkalmazása szempontjából serdülő transznemű lányoknál):**
 
-* [Medical uses of bicalutamide § Male early puberty – Wikipedia](https://en.wikipedia.org/wiki/Medical_uses_of_bicalutamide#Male_early_puberty)
+➡️ [Medical uses of bicalutamide § Male early puberty – Wikipedia](https://en.wikipedia.org/wiki/Medical_uses_of_bicalutamide#Male_early_puberty)
 
 **Tudományos cikkek**
 
-* [Relevant literature excerpts on bicalutamide in transgender women](https://www.reddit.com/r/MtFHRTsuppl/comments/cd0bbd/sourcesexcerpts_bicalutamide_casodex_as_an/)
-* [Care of Transsexual Persons (Gooren, 2011)](https://www.nejm.org/doi/full/10.1056/NEJMcp1008161)
-* [Bicalutamide as an Androgen Blocker with Secondary Effect of Promoting Feminization in Male to Female (MTF) Transgender Adolescents (Neyman, Fuqua, & Augster, 2017) ](https://www.karger.com/Article/Pdf/481424#page=477)
-* [Bicalutamide as an Androgen Blocker With Secondary Effect of Promoting Feminization in Male-to-Female Transgender Adolescents (Neyman, Fuqua, & Eugster, 2019)](https://www.sciencedirect.com/science/article/pii/S1054139X18307572)
+➡️ [Relevant literature excerpts on bicalutamide in transgender women](https://www.reddit.com/r/MtFHRTsuppl/comments/cd0bbd/sourcesexcerpts_bicalutamide_casodex_as_an/)
+➡️ [Care of Transsexual Persons (Gooren, 2011)](https://www.nejm.org/doi/full/10.1056/NEJMcp1008161)
+➡️ [Bicalutamide as an Androgen Blocker with Secondary Effect of Promoting Feminization in Male to Female (MTF) Transgender Adolescents (Neyman, Fuqua, & Augster, 2017) ](https://www.karger.com/Article/Pdf/481424#page=477)
+➡️ [Bicalutamide as an Androgen Blocker With Secondary Effect of Promoting Feminization in Male-to-Female Transgender Adolescents (Neyman, Fuqua, & Eugster, 2019)](https://www.sciencedirect.com/science/article/pii/S1054139X18307572)
 
 **Szakirodalmi áttekintések**
 
-* [Bicalutamide § Further reading – Wikipedia](https://en.wikipedia.org/wiki/Bicalutamide#Further_reading)
-* [Bicalutamide / Nonsteroidal Antiandrogens – PubMed](https://goo.gl/dF3gz8) (filter search results by « Review » in the left-hand column)
+➡️ [Bicalutamide § Further reading – Wikipedia](https://en.wikipedia.org/wiki/Bicalutamide#Further_reading)
+➡️ [Bicalutamide / Nonsteroidal Antiandrogens – PubMed](https://goo.gl/dF3gz8) (filter search results by « Review » in the left-hand column)
 
 
 </div>

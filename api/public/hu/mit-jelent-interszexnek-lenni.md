@@ -21,8 +21,8 @@ Ajánlatos az interszex szót használni, és az érintett személyekre intersze
 
 ## Kapcsolódó linkek
 
-* [Ez a 3 perces videó](https://www.youtube.com/watch?v=cAUDKEI4QKI&feature=emb_title)
+➡️ [Ez a 3 perces videó](https://www.youtube.com/watch?v=cAUDKEI4QKI&feature=emb_title)
 
-* [Reddit r/intersex](https://www.reddit.com/r/intersex/)
+➡️ [Reddit r/intersex](https://www.reddit.com/r/intersex/)
 
-* [Interszexualitás, a wikipédián](https://hu.wikipedia.org/wiki/Interszexualit%C3%A1s)
+➡️ [Interszexualitás, a wikipédián](https://hu.wikipedia.org/wiki/Interszexualit%C3%A1s)

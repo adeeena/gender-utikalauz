@@ -158,7 +158,7 @@ Másrészt úgy tűnik, hogy a HRT hatása gyorsabb és erősebb a PCOS-ben szen
 
 ## Forrás:
 
-* [Gender Diszfória Biblia](https://genderdysphoria.fyi/hu/masodik-pubertas-masc)
+➡️ [Gender Diszfória Biblia](https://genderdysphoria.fyi/hu/masodik-pubertas-masc)
 
 
 </div>

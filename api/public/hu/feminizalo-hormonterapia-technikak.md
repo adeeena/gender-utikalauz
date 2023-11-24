@@ -107,7 +107,7 @@ Számos T-blokkoló létezik, nagyon különböző várható hatásokkal és mel
 
 * Ezzel a módszerrel könnyen alul lehet adagolni az [ösztrogént](/#/entry?id=osztrogenek), amivel hamar ki lehet alakítani egyszerre tesztoszteron- és [ösztrogén](/#/entry?id=osztrogenek)hiányt, ami veszélyes az egészségre (elsősorban [csontritkulás](https://www.webbeteg.hu/cikkek/csontritkulas/218/a-csontritkulas-okai-es-rizikofaktorai) vagy depresszió kockázata alakulhat ki).
 
-* [Néhány T-blokkoló](/#/entry?id=androcur) közismerten veszélyes lehet az egészségre.
+➡️ [Néhány T-blokkoló](/#/entry?id=androcur) közismerten veszélyes lehet az egészségre.
 
 
 
@@ -127,7 +127,7 @@ Kezdetekben ez volt a transznemű nők számára létező első típusú hormonp
 
 ***Forrás a Premarin veszélyeiről: **Smith NL, Heckbert SR, Lemaitre RN, Reiner AP, Lumley T, Weiss NS, Larson EB, Rosendaal FR, Psaty BM (October 2004). « Esterified estrogens and conjugated equine estrogens and the risk of venous thrombosis ». JAMA. 292 (13): 1581–7.*
 
-***Forrás, hogy a Premarin veszélyesebb az ösztradiolnál:** [Kockázat trombózis kialakulására](https://en.wikipedia.org/wiki/Template:Risk_of_venous_thromboembolism_with_hormone_therapy_and_birth_control_pills_(QResearch/CPRD))*
+***Forrás, hogy a Premarin veszélyesebb az ösztradiolnál:*➡️ [Kockázat trombózis kialakulására](https://en.wikipedia.org/wiki/Template:Risk_of_venous_thromboembolism_with_hormone_therapy_and_birth_control_pills_(QResearch/CPRD))*
 
 Bár az ösztrogén monoterápiák az elvükben régóta léteznek, népszerűségüket az ösztrogén injekcióknak és az öngyógyszeres kezelési közösségeknek köszönhetően nyerték vissza.
 

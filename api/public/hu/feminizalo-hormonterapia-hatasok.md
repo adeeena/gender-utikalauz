@@ -162,7 +162,7 @@ A mikrodózisban adagolt HRT mellékhatásai kevésbé kutatott területek, így
 
 ## Példák
 
-* [Reddit r/transtimelines](http://reddit.com/r/transtimelines)
+➡️ [Reddit r/transtimelines](http://reddit.com/r/transtimelines)
 
 
 </div>

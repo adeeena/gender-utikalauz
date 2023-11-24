@@ -147,9 +147,9 @@ A gyakorlatban 5 különböző módszer létezik a tesztoszteron blokkolására:
 
 ### Androgénreceptor-blokkolók
 
-* [✅Bicalutamide](/#/entry?id=bicalutamide)
-* [😐Spironolactone](/#/entry?id=spironolactone)
-* [⛔Flutamide](/#/entry?id=flutamide)
+➡️ [✅Bicalutamide](/#/entry?id=bicalutamide)
+➡️ [😐Spironolactone](/#/entry?id=spironolactone)
+➡️ [⛔Flutamide](/#/entry?id=flutamide)
 
 Bizonyos molekulák kötődnek a hormonreceptorokhoz, de anélkül, hogy aktiválnák azokat. Ezeket egyfajta törött kulcshoz lehet hasonlítani, amely befér a zárba, de nem nyitja ki az ajtót, és amely így megakadályozza a nyitási kísérletet.
 
@@ -157,9 +157,9 @@ Ez a fajta blokkolók lehetővé teszik, hogy [=a tesztoszteron elfoglalja hely�
 
 ### 5α ("5 alfa") reduktáz inhibitorok
 
-* [⛔Finasteride](/#/entry?id=finasteride)
+➡️ [⛔Finasteride](/#/entry?id=finasteride)
 
-* [⛔Dutasteride](/#/entry?id=dutasteride)
+➡️ [⛔Dutasteride](/#/entry?id=dutasteride)
 
 **Ezeknek a gyógyszereknek az a sajátosságuk, hogy nem blokkolják a tesztoszteront, sőt nem is csökkentik annak szintjét, hanem csak megakadályozzák a DHT-vá (dihidrotesztoszteronná) való átalakulását.**
 
@@ -209,9 +209,9 @@ A gyakorlatban sokkal gyakoribb az agonisták felírása, mint az antagonisták�
 
 ### Progesztinek
 
-* [😐Szintetikus progesztinek](/#/entry?id=szintetikus-progesztinek)
+➡️ [😐Szintetikus progesztinek](/#/entry?id=szintetikus-progesztinek)
 
-* [⛔Androcur](/#/entry?id=androcur)
+➡️ [⛔Androcur](/#/entry?id=androcur)
 
 A progesztinek egy másik nemi hormonnak felelnek meg. A nemi hormonok termelésének csökkentésére használják őket. Ezért nagyon gyakran használják őket antiandrogén hatásuk miatt. [Ide kattintva megtudhatsz többet a progesztinek hatásáról](/#/entry?id=progesztinek).
 

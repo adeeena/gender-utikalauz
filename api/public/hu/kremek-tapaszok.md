@@ -229,15 +229,15 @@ A herezacskó bőre érrendszerének köszönhetően ismert a szteroid hormonok 
 
 Ezt a módszert elsősorban hipogonadizmussal küzdő ciszgender férfiak kezelésére tanulmányozták és alkalmazták, testoszteron gélt vagy tapaszokat használva.
 
-***Forrás:** [Clin Pharmacol. 2010; 2: 149–153](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3262378/#) : "Due to the superficial vascularity of the scrotal skin, there is a 5-40 fold increase in steroid absorption when compared to other skin sites."*
+***Forrás:*➡️ [Clin Pharmacol. 2010; 2: 149–153](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3262378/#) : "Due to the superficial vascularity of the scrotal skin, there is a 5-40 fold increase in steroid absorption when compared to other skin sites."*
 
-***Forrás:** [J Clin Endocrinol Metab. 1996 May;81(5):1832-40](https://www.ncbi.nlm.nih.gov/pubmed/?term=J+Clin+Endocrinol+Metab.+1996+May%3B81(5)%3A1832-40.#): "the relative permeability at other application sites was greatest for the scrotum (42.0), increased for the back (1.7), reduced for the lateral ankle (0.42), and lowest for the sole of the foot (0.14)."*
+***Forrás:*➡️ [J Clin Endocrinol Metab. 1996 May;81(5):1832-40](https://www.ncbi.nlm.nih.gov/pubmed/?term=J+Clin+Endocrinol+Metab.+1996+May%3B81(5)%3A1832-40.#): "the relative permeability at other application sites was greatest for the scrotum (42.0), increased for the back (1.7), reduced for the lateral ankle (0.42), and lowest for the sole of the foot (0.14)."*
 
 2005-ben egy argentin kutatócsoport tanulmányozta az ösztradiol tapaszok herezacskóra történő alkalmazásának hatékonyságát prosztatarákkal diagnosztizált férfiaknál.
 
 Tanulmányuk megerősítette e módszer hatékonyságát, mely akár 6-szorosan megnövelte az átlagos ösztradiol szintet az alkarhoz képest, lehetővé téve a testoszteron termelésének leállítását anélkül, hogy szükség lett volna anti-androgén hozzáadására.
 
-***Forrás:** [Re, I., Asenjo, G., Maximino, G., & Micheletti, L. (2005). Tratamiento del Cáncer de Próstata Avanzado con Estrógenos Transdérmicos Escrotales (ETE). [Transdermal Scrotal Estrogen Patches (TSEP) in the Treatment of Advanced Prostate Cancer.] Revista Argentina de, 70(4), 231:](https://www.sau-net.org/publicaciones/abstracts_70_4.html)*
+***Forrás:*➡️ [Re, I., Asenjo, G., Maximino, G., & Micheletti, L. (2005). Tratamiento del Cáncer de Próstata Avanzado con Estrógenos Transdérmicos Escrotales (ETE). [Transdermal Scrotal Estrogen Patches (TSEP) in the Treatment of Advanced Prostate Cancer.] Revista Argentina de, 70(4), 231:](https://www.sau-net.org/publicaciones/abstracts_70_4.html)*
 
 <div class="header-image"><img src="assets/images/scrotum.png" /></div>
 

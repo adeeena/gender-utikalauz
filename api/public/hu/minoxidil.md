@@ -134,14 +134,14 @@ Valójában a Minoxidil cisz nőknél is hatékony a haj kezelésére. **A tapas
 
 ## Források
 
-* [Reddit r/minoxidil (ciszközpontú)](https://www.reddit.com/r/minoxidil/)
+➡️ [Reddit r/minoxidil (ciszközpontú)](https://www.reddit.com/r/minoxidil/)
 
-* [BeardWiki Minoxidil (ciszközpontú)](https://www.beardwiki.com/minoxidil-faq)
+➡️ [BeardWiki Minoxidil (ciszközpontú)](https://www.beardwiki.com/minoxidil-faq)
 
-* [Tudományos cikk a minoxidil hatásmechanizmusáról](https://pubmed.ncbi.nlm.nih.gov/14996087/ )
+➡️ [Tudományos cikk a minoxidil hatásmechanizmusáról](https://pubmed.ncbi.nlm.nih.gov/14996087/ )
 
-* [Tudományos cikk a minoxidil felszívódási idejéről](https://www.ncbi.nlm.nih.gov/pubmed/2395092)
+➡️ [Tudományos cikk a minoxidil felszívódási idejéről](https://www.ncbi.nlm.nih.gov/pubmed/2395092)
 
-* [Tudományos cikk a minoxidil szakállon való alkalmazásának hatékonyságáról](https://pubmed.ncbi.nlm.nih.gov/26893270/)
+➡️ [Tudományos cikk a minoxidil szakállon való alkalmazásának hatékonyságáról](https://pubmed.ncbi.nlm.nih.gov/26893270/)
 
 </div>

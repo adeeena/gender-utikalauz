@@ -30,6 +30,10 @@
       {
         "entryId": "brosura-szuloknek",
         "title": "Szülőknek"
+      },
+      {
+        "entryId": "brosura-hormonok-kitoltheto-utmutato",
+        "title": "Tájékozott döntés meghozatala a hormonterápia mellett"
       }
     ]
   },
@@ -102,6 +106,39 @@
       {
         "entryId": "maszkulinizalo-hormonterapia",
         "title": "Maszkulinizáló HRT"
+      }
+    ]
+  },
+  {
+    "title": "👩🏼 Feminizáló Hormonterápia",
+    "children": [
+      {
+        "entryId": "feminizalo-hormonterapia-passing",
+        "title": "Női passing"
+      },
+      {
+        "entryId": "feminizalo-hormonterapia-diszforia",
+        "title": "Diszfória"
+      },
+      {
+        "entryId": "feminizalo-hormonterapia-arcfeminizacio",
+        "title": "Arcfeminizáció"
+      },
+      {
+        "entryId": "feminizalo-hormonterapia-adamcsutka-mutet",
+        "title": "Ádámcsutkaműtét"
+      },
+      {
+        "entryId": "feminizalo-hormonterapia-mellnagyobbitas",
+        "title": "Mellnagyobbítás"
+      },
+      {
+        "entryId": "feminizalo-hormonterapia-orchidektomia",
+        "title": "Orchidectomia"
+      },
+      {
+        "entryId": "feminizalo-hormonterapia-hangfeminizacio",
+        "title": "Hangfeminizáció"
       }
     ]
   },

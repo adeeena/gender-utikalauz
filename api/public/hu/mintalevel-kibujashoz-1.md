@@ -12,7 +12,7 @@ Szia, nagyon fontos üzenetem egy személyes témában, úgyhogy kérlek, legal�
 
 Nem várok tőletek aktív támogatást, de tudni, hogy itt vagytok, és feltétel nélkül elfogadtok, hatalmas megnyugtatással tölt el. Előre is köszönöm.
 
-Már 8 éve egy halk, egyre erõsödõ zúgás van a fülemben, ami nem akar alábbhagyni. Néha ez a zümmögés elfoglalja az egész teret. Amikor más dolgokra koncentrálok, sikerül háttérbe szorítanom ideig-óráig, amíg cinikus módon nem találja újra módját, hogy ismét hangos legyen. Ez egy erős, elpusztíthatatlan erő, egy hatalmas áradat, amely egyetlen dolog felé hajt:
+Már 8 éve egy halk, egyre erősödő zúgás van a fülemben, ami nem akar alábbhagyni. Néha ez a zümmögés elfoglalja az egész teret. Amikor más dolgokra koncentrálok, sikerül háttérbe szorítanom ideig-óráig, amíg cinikus módon nem találja újra módját, hogy ismét hangos legyen. Ez egy erős, elpusztíthatatlan erő, egy hatalmas áradat, amely egyetlen dolog felé hajt:
 
 Én egy nő vagyok. És mostantól nőként fogok élni, teljes mértékben.
 
@@ -24,7 +24,7 @@ Mit jelent ez számodra és a mi kapcsolatunkra?
 
 * Kérem, most már **{Választott Név}** néven szólíts. **{Családnév} {Választott Név}** -nek hívnak.
 
-* Használj megfelelő névmásokat velem kapcsolatban, hivarkozz rám nõként.
+* Használj megfelelő névmásokat velem kapcsolatban, hivarkozz rám nőként.
 
 * Továbbra is ugyanazzal a tisztelettel bánj velem, mint eddig, legyen az családi, baráti vagy szakmai kapcsolatunk.
 
@@ -44,7 +44,7 @@ Ha mélyebben szeretnél belemenni, itt vannak néhány ötlet egy amerikai LMBT
 
 Ha van esetleg olyan kérdésed, amit meg szeretnél velem beszélni, örömmel fogadom, feltéve, hogy tisztelettel és jóindulattal teszed. A transzidentitás egy nagyon személyes dolog, és minden transz ember másként éli meg, így csak saját tapasztalataimról tudok beszélni. Azonban tudok ajánlani néhány filmet és sorozatot, amelyek számomra, nőként, transzok által készített vagy transzokról szólnak:
 
-* Sense8, egy Netflix sorozat, amit a Mátrixot rendezõ transz testvérpár készített, és tartalmaz egy nagyon karizmatikus transz karaktert.
+* Sense8, egy Netflix sorozat, amit a Mátrixot rendező transz testvérpár készített, és tartalmaz egy nagyon karizmatikus transz karaktert.
 
 * Her Story, egy YouTube sorozat, amit transzok készítettek és játszanak benne.
 

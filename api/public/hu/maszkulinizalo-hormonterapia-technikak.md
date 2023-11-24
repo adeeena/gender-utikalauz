@@ -1,6 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Különbözõ maszkulinizáló hormonkezelési technikák"
+title: "Különböző maszkulinizáló hormonkezelési technikák"
 lang: hu
 ---
 
@@ -8,11 +8,11 @@ lang: hu
 
 <div class="floating-bar">
 
-BEVEZETÕ
+BEVEZETŐ
 
-[Bevezetõ](/#/entry?id=maszkulinizalo-hormonterapia)
+[Bevezető](/#/entry?id=maszkulinizalo-hormonterapia)
 
-[Különbözõ technikák](/#/entry?id=maszkulinizalo-hormonterapia-technikak)
+[Különböző technikák](/#/entry?id=maszkulinizalo-hormonterapia-technikak)
 
 [Hatások](/#/entry?id=maszkulinizalo-hormonterapia-hatasok)
 
@@ -22,7 +22,7 @@ BEVEZETÕ
 
 TESZTOSZTERON
 
-[Bevezetõ az tesztoszteronhoz](/#/entry?id=tesztoszteron)
+[Bevezető az tesztoszteronhoz](/#/entry?id=tesztoszteron)
 
 [✅Testosteron Depo](/#/entry?id=testosteron-depo)
 
@@ -44,9 +44,9 @@ NEM-HORMONÁLIS TERMÉKEK
 
 <div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
 
-# Különbözõ maszkulinizáló hormonkezelési technikák
+# Különböző maszkulinizáló hormonkezelési technikák
 
-Többféle különbözõ technika létezik a maszkulinizáló hormonterápiához. A választott technikától függõen a maszkulinizáció hatékonysága változhat, valamint a mentális és fizikai egészségre gyakorolt kockázatok is eltérnek.
+Többféle különböző technika létezik a maszkulinizáló hormonterápiához. A választott technikától függően a maszkulinizáció hatékonysága változhat, valamint a mentális és fizikai egészségre gyakorolt kockázatok is eltérnek.
 
 ## Injekciók
 

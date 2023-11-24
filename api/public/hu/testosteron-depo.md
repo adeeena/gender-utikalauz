@@ -8,11 +8,11 @@ lang: hu
 
 <div class="floating-bar">
 
-BEVEZETÕ
+BEVEZETŐ
 
-[Bevezetõ](/#/entry?id=maszkulinizalo-hormonterapia)
+[Bevezető](/#/entry?id=maszkulinizalo-hormonterapia)
 
-[Különbözõ technikák](/#/entry?id=maszkulinizalo-hormonterapia-technikak)
+[Különböző technikák](/#/entry?id=maszkulinizalo-hormonterapia-technikak)
 
 [Hatások](/#/entry?id=maszkulinizalo-hormonterapia-hatasok)
 
@@ -23,7 +23,7 @@ BEVEZETÕ
 
 TESZTOSZTERON
 
-[Bevezetõ az tesztoszteronhoz](/#/entry?id=tesztoszteron)
+[Bevezető az tesztoszteronhoz](/#/entry?id=tesztoszteron)
 
 [✅Testosteron Depo](/#/entry?id=testosteron-depo)
 

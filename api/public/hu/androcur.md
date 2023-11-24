@@ -8,15 +8,15 @@ lang: hu
 
 <div class="floating-bar">
 
-BEVEZETÕ
+BEVEZETŐ
 
-[Bevezetõ](/#/entry?id=feminizalo-hormonterapia)
+[Bevezető](/#/entry?id=feminizalo-hormonterapia)
 
 [Alapok](/#/entry?id=feminizalo-hormonterapia-alapok)
 
 [Hatások](/#/entry?id=feminizalo-hormonterapia-hatasok)
 
-[Különbözõ technikák](/#/entry?id=feminizalo-hormonterapia-technikak)
+[Különböző technikák](/#/entry?id=feminizalo-hormonterapia-technikak)
 
 [GYIK Feminziáló HRT](/#/entry?id=feminizalo-hormonterapia-gyik)
 
@@ -24,7 +24,7 @@ BEVEZETÕ
 
 ÖSZTROGÉNEK
 
-[Bevezetõ az ösztrogénekhez](/#/entry?id=osztrogenek)
+[Bevezető az ösztrogénekhez](/#/entry?id=osztrogenek)
 
 [✅Krémek és tapaszok](/#/entry?id=kremek-tapaszok)
 
@@ -40,9 +40,9 @@ BEVEZETÕ
 
 T-BLOKKOLÓK ÉS PROGESZTINEK
 
-[Bevezetõ a T-blokkolókhoz](/#/entry?id=t-blokkolok)
+[Bevezető a T-blokkolókhoz](/#/entry?id=t-blokkolok)
 
-[Bevezetõ a progesztinekhez](/#/entry?id=progesztinek)
+[Bevezető a progesztinekhez](/#/entry?id=progesztinek)
 
 [✅Bicalutamide](/#/entry?id=bicalutamide)
 

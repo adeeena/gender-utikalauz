@@ -8,15 +8,15 @@ lang: hu
 
 <div class="floating-bar">
 
-BEVEZETÕ
+BEVEZETŐ
 
-[Bevezetõ](/#/entry?id=feminizalo-hormonterapia)
+[Bevezető](/#/entry?id=feminizalo-hormonterapia)
 
 [Alapok](/#/entry?id=feminizalo-hormonterapia-alapok)
 
 [Hatások](/#/entry?id=feminizalo-hormonterapia-hatasok)
 
-[Különbözõ technikák](/#/entry?id=feminizalo-hormonterapia-technikak)
+[Különböző technikák](/#/entry?id=feminizalo-hormonterapia-technikak)
 
 [GYIK Feminziáló HRT](/#/entry?id=feminizalo-hormonterapia-gyik)
 
@@ -24,7 +24,7 @@ BEVEZETÕ
 
 ÖSZTROGÉNEK
 
-[Bevezetõ az ösztrogénekhez](/#/entry?id=osztrogenek)
+[Bevezető az ösztrogénekhez](/#/entry?id=osztrogenek)
 
 [✅Krémek és tapaszok](/#/entry?id=kremek-tapaszok)
 
@@ -40,9 +40,9 @@ BEVEZETÕ
 
 T-BLOKKOLÓK ÉS PROGESZTINEK
 
-[Bevezetõ a T-blokkolókhoz](/#/entry?id=t-blokkolok)
+[Bevezető a T-blokkolókhoz](/#/entry?id=t-blokkolok)
 
-[Bevezetõ a progesztinekhez](/#/entry?id=progesztinek)
+[Bevezető a progesztinekhez](/#/entry?id=progesztinek)
 
 [✅Bicalutamide](/#/entry?id=bicalutamide)
 
@@ -70,9 +70,9 @@ T-BLOKKOLÓK ÉS PROGESZTINEK
 
 # Feminizáló hormonterápia alapjai
 
-A feminizáló hormonkezelés (HRT) célja a test nemi hormonjainak szintmódosítása, elsõsorban annak érdekében, hogy [a test nõiesebb alakot vegyen fel](/#/entry?id=feminizalo-hormonterapia-hatasok).
+A feminizáló hormonkezelés (HRT) célja a test nemi hormonjainak szintmódosítása, elsősorban annak érdekében, hogy [a test nőiesebb alakot vegyen fel](/#/entry?id=feminizalo-hormonterapia-hatasok).
 
-HRT-t egy gyakorló orvos (háziorvos, endokrinológus vagy nőgyógyász) írhat fel a páciens egészségi állapotának kiértékelése után. Kiskorúaknak jelenleg Magyarországon nincs erre lehetõségük.
+HRT-t egy gyakorló orvos (háziorvos, endokrinológus vagy nőgyógyász) írhat fel a páciens egészségi állapotának kiértékelése után. Kiskorúaknak jelenleg Magyarországon nincs erre lehetőségük.
 
 További információk a kezdetekhez: [Hogyan kezdjük el a hormonterápiát?](/#/entry?id=hormonterapia-elkezdese).
 
@@ -80,7 +80,7 @@ A cikkben bemutatott alapelvek:
 
 **1. A tesztoszteron-szintet le kell csökkenteni és/vagy a tesztoszteron felszívódását blokkolni, amíg a határérték alatti értékeket nem érünk el.**
 
-**2. Az ösztradiol szintjét meg kell növelni, hogy a cisz nõi tartományban mozogjon.**
+**2. Az ösztradiol szintjét meg kell növelni, hogy a cisz női tartományban mozogjon.**
 
 **3. Kisebb mennyiségű ösztrogénnel kell kezdeni, majd fokozatosan növelni.**
 
@@ -182,9 +182,9 @@ Továbbá a tanulmányok arra utalnak, hogy a progeszteron nem szükséges a tra
 
 * [Guidelines and Protocols for Hormone Therapy and Primary Health Care for Trans Clients](http://sherbourne.on.ca/wp-content/uploads/2014/02/Guidelines-and-Protocols-for-Comprehensive-Primary-Care-for-Trans-Clients-2015.pdf) a Sherbourne-i egészségügyi központtól
 
-* [Overview of feminizing hormone therapy](https://transcare.ucsf.edu/guidelines/feminizing-hormone-therapy) a San Francisco-i egyetemtõl
+* [Overview of feminizing hormone therapy](https://transcare.ucsf.edu/guidelines/feminizing-hormone-therapy) a San Francisco-i egyetemtől
 
-* [A guide to hormone therapy for trans people] az NHS-tõl
+* [A guide to hormone therapy for trans people] az NHS-től
 
 * [Transgender hormone therapy (male-to-female)](https://en.m.wikipedia.org/wiki/Transgender_hormone_therapy_(male-to-female)) (Wikipedia)
 

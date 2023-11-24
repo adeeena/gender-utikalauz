@@ -10,7 +10,7 @@ lang: hu
 
 Hormonterápia, vagy hormonkezelés (angolul HRT vagy "hormone replacement therapy"), különböző, hormonokon alapuló kezelés.
 
-Számos körülmény létezik a hormonszint szabályozására: nem kívánt terhesség elkerülése, menstruációs ciklus leállítása (fogamzásgátló tabletta), a menopauza hatásainak ellensúlyozása vagy lassítása, rák kezelése utáni szövõdmények...
+Számos körülmény létezik a hormonszint szabályozására: nem kívánt terhesség elkerülése, menstruációs ciklus leállítása (fogamzásgátló tabletta), a menopauza hatásainak ellensúlyozása vagy lassítása, rák kezelése utáni szövődmények...
 
 A transzneműek számára a hormonkezelés kívánatos lehet bizonyos férfi vagy női pubertási hatások eléréséhez, vagy azért, hogy csökkentsék a test által természetesen termelt hormonok által kiváltott hatásokat: szőrzet, zsírmegoszlás, izom- és csontfejlődés, menstruáció megszüntetése...
 
@@ -53,7 +53,7 @@ Feminizáló hormonkezelést az alábbi orvosok rendelhetnek el:
 Általában ezek a szakemberek azok, akik a vérvizsgálat után képesek hormonkezelést előírni.
 
 
-### Megfelelõ szakember keresése
+### Megfelelő szakember keresése
 
 A legtöbb szakember (pszichiáterek, endokrinológusok, háziorvosok, nőgyógyászok...) nem rendelkezik a szükséges képzéssel ahhoz, hogy transznemű és/vagy nem bináris betegeket lásson el – kivéve, ha képzésük olyan időszakból származik, amikor a transzidentitást mentális betegségként kezelték, például.
 
@@ -85,7 +85,7 @@ Az első találkozón az orvosod kérni fogja az egészségi állapotod felmér�
 
 * Szív vizsgálatok (elektrokardiogram, terheléses vizsgálat, stb.).
 
-Attól függően, hogy melyik városban élsz, ha a bejelentkezésekhez hosszú az idő, javasoljuk, hogy hamar kezdd el az idõpontfoglalást. Ha meggondoltad magad, ne felejtsd el lemondani az idõpontodat!
+Attól függően, hogy melyik városban élsz, ha a bejelentkezésekhez hosszú az idő, javasoljuk, hogy hamar kezdd el az időpontfoglalást. Ha meggondoltad magad, ne felejtsd el lemondani az időpontodat!
 
 
 <div class="infobox podcast-episode">
@@ -116,14 +116,14 @@ Ezt követően lehetséges, hogy nem minden értéket tesztelnek rendszeresen, d
 
 Az egészségi állapot felmérését követően, ha minden rendben megy, megkapod a vényt. Ha injekcióról van szó (főként tesztoszteronról), foglaljo időpontot egy ápolónál/ápolónőnél az első alkalmakra. 🎉
 
-Miután megkaptad a receptet, gondosan őrizd meg. Készíts róla digitális másolatot. Ez később hasznos lehet, akár a hormonterápia elkezdésének idõpontjának igazolásához, akár összehasonlítani a korábbi értékekkel a jelenelgi vényedet.
+Miután megkaptad a receptet, gondosan őrizd meg. Készíts róla digitális másolatot. Ez később hasznos lehet, akár a hormonterápia elkezdésének időpontjának igazolásához, akár összehasonlítani a korábbi értékekkel a jelenelgi vényedet.
 
 
 ### Értékek követése és receptmegújítás
 
 Az első évben szükséges hormonális vizsgálatokat végezni minden 3 hónapban, hogy be lehessen állítani az adagolásokat és a kezelés alkalmazási módjait. (Lásd a cikk korábbi részét a figyelendő értékek listájáért.)
 
-A recept érvényességének időtartama nagyon változó lehet, de idõvel, amint az értékek beállnak az évek során a stabil és hatékony kezelés mellett, megnövekedhet.
+A recept érvényességének időtartama nagyon változó lehet, de idővel, amint az értékek beállnak az évek során a stabil és hatékony kezelés mellett, megnövekedhet.
 
 A recept megújítható az eredeti endokrinológus, egy nőgyógyász vagy egy háziorvos által.
 
@@ -137,7 +137,7 @@ Nyiss meg egy dokumentumot egy táblázatkezelő programban (mint például a [G
 
 ## Önkezelés
 
-Ha nem tudsz vagy nincs lehetõséged szakorvoshoz fordulni, utánajárhatsz az önkezelésnek ***("DIY HRT")***, bár veszélyes lehet felügyelet nélkül, és mindig jobb, ha egy a témában jártas egészségügyi szakember ellenõrzi az értékeket.
+Ha nem tudsz vagy nincs lehetőséged szakorvoshoz fordulni, utánajárhatsz az önkezelésnek ***("DIY HRT")***, bár veszélyes lehet felügyelet nélkül, és mindig jobb, ha egy a témában jártas egészségügyi szakember ellenőrzi az értékeket.
 
 Ha azonban helyzetének következtében nincs más választásod, mint az önkezelés, győződj meg róla, hogy a vásárolt termékeket megbízható emberektől szerzed.
 
@@ -145,7 +145,7 @@ Ha azonban helyzetének következtében nincs más választásod, mint az önkez
 
 ### Milyen termékeket kérjek az orvosomtól?
 
-Fordíts időt a rendelkezésre álló különböző hormonkészítmények hatásaira és mellékhatásaira, illetve tájékozódj az hormonkezelésrõl általánosságban, valamint a specifikus kezelésről, amit választottál. Még akkor is, ha az orvosod nagyon jól ismeri a saját területét (ami nem mindig a helyzet), fontos, hogy képesek legyetek kommunikálni egymással.
+Fordíts időt a rendelkezésre álló különböző hormonkészítmények hatásaira és mellékhatásaira, illetve tájékozódj az hormonkezelésről általánosságban, valamint a specifikus kezelésről, amit választottál. Még akkor is, ha az orvosod nagyon jól ismeri a saját területét (ami nem mindig a helyzet), fontos, hogy képesek legyetek kommunikálni egymással.
 
 <!--
 <div class="infobox podcast-episode">
@@ -160,14 +160,14 @@ Ha többet szeretnél megtudni azokról a termékekről, amelyek szóba jöhetne
 <div class="infobox podcast-episode">
 <h5>⚠️ Androcur</h5>
 	
-Egy "feminizáló" kezelés keretében néhány orvos Androcur-alapú kezelést fog javasolni, amely Európában az egyik legismertebb tesztoszteron-blokkoló. Azonban mára ezt a gyógyszert jelentõs kritikával illetik az egészségre gyakorolt hatásai miatt, amelyek egészen az agydaganatig terjedhetnek. Javasoljuk, hogy kerüld el ezen gyógyszerrel történő kezelést.
+Egy "feminizáló" kezelés keretében néhány orvos Androcur-alapú kezelést fog javasolni, amely Európában az egyik legismertebb tesztoszteron-blokkoló. Azonban mára ezt a gyógyszert jelentős kritikával illetik az egészségre gyakorolt hatásai miatt, amelyek egészen az agydaganatig terjedhetnek. Javasoljuk, hogy kerüld el ezen gyógyszerrel történő kezelést.
 
 </div>
 
 ### Mennyi ideig kell fenntartani a kezelést?
 A kezelést addig alkalmazd, amíg az hormonok hatásait szeretnéd élvezni. Az igények és profilok alapján néhány transznemű ember egész életén át szedi azokat, mások úgy döntenek, hogy meghatározott idő elteltével abbahagyják a kezelést (6 hónap, 2 év, 10 év stb.).
 
-**Bármikor le lehet állítani azokat kockázat nélkül, ha a testben vannak szexuális hormonokat termelő szervek (funkcionális here vagy petefészek jelenléte).** Az alkalmazott hormonterápiás készítmények változhatnak az egészségi állapotod, az esetlegesen végzett műtétek és saját személyes döntéseid alapján. Azonban azt tanácsoljuk, hogy ne hagyd abba hirtelen a kezelést. Ha komolyan gondolkodsz a HRT abbahagyásán, elõbb beszélj a kezelõorvosoddal.
+**Bármikor le lehet állítani azokat kockázat nélkül, ha a testben vannak szexuális hormonokat termelő szervek (funkcionális here vagy petefészek jelenléte).** Az alkalmazott hormonterápiás készítmények változhatnak az egészségi állapotod, az esetlegesen végzett műtétek és saját személyes döntéseid alapján. Azonban azt tanácsoljuk, hogy ne hagyd abba hirtelen a kezelést. Ha komolyan gondolkodsz a HRT abbahagyásán, előbb beszélj a kezelőorvosoddal.
 
 <div class="infobox podcast-episode">
 <h5>⚠️ Figyelem</h5>
@@ -210,7 +210,7 @@ Létezik mikroadagolású hormonkezelés is (amely csak részben helyettesíti t
 
 A kezelés néhány hónapos szedése után a legtöbb transznemű ember termékenysége csökken, vagy akár teljesen meddővé válhat. Bizonyos esetekben a kezelés hosszabb ideig történő abbahagyása (körülbelül 6 hónap) lehetővé teheti a termékenység visszanyerését. De azt tanácsoljuk, hogy erre ne alapozz mindent, mert a termékenység visszatérése nem garantált.
 
-Ha hormonkezelést szeretnél kezdeni és a jövõben gyermeket tervezel, tájékozódj a petesejtjeid vagy spermád megőrzéséről a kezelés megkezdése előtt.
+Ha hormonkezelést szeretnél kezdeni és a jövőben gyermeket tervezel, tájékozódj a petesejtjeid vagy spermád megőrzéséről a kezelés megkezdése előtt.
 
 
 

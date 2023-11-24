@@ -34,11 +34,11 @@ A detranzícióval kapcsolatos viták követése nehéz lehet, mivel az idézett
 
 A detranzíció kérdése néha összefüggésbe hozható azzal a feltételezett "robbanással", amely a tranzíció terén állítólag bekövetkezett, különösen a kiskorúak között. Olvashatjuk például, hogy a nemi diszfóriával küzdő nők számának kezelése az elmúlt 10 évben 1500%-kal nőtt. Ezek impozáns számok, amelyek valamivel kevésbé tűnnek annak, amikor azokat kontextusba helyezzük és szemügyre vesszük őket. Azok az adatok [egy tanulmányból](https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2020-2-6600.pdf) származnak, tehát ezek a számok azokat az embereket jelentik, akiket Svédországban egészségügyi szakemberek a nemi diszfóriával diagnosztizáltak. Ha ez a szám óriási méretűnek tűnik, akkor könnyen érthetővé válik az alacsony transznemű emberek száma tíz évvel ezelőtt, amelyeket akkoriban általában azért sem kezeltek, mert akkoriban nem állt rendelkezésre megfelelő orvosi ellátás. Összességében csak egy kicsit több mint 5000 diagnosztizált személyt jelent tíz év alatt... (azóta 2016 óta stabilizálódott). [Itt található egy teljes kifejtés ezzel kapcsolatban.](www.instagram.com/p/CwaX1hLsDcr/)
 
-**Tehát a transznemű emberek számában nem figyelhetõ meg "robbanás".** Az, hogy úgy tûnik, mitha több transznemû lenne és többen kezdik el a tranzíciót, magyarázható azzal, hogy az emberek kevésbé rejtik el ezt az identitásukat, mint korábban, és a szélesebb közvélemény kezdi jobban megérteni, mi is az a transzneműség, ami lehetővé teszi a tranzíció alatt álló személyek számára, hogy gyorsabban, egyszerűbben és kevésbé kockázatosan hozzáférjenek ehhez (orvosok felügyelete mellett). Habár általánosságban valóban több tranzíció történik, ez az emelkedés átmeneti és hajlamos stabilizálódni, ahogy azt a korábban említett svéd tanulmány is mutatta.
+**Tehát a transznemű emberek számában nem figyelhető meg "robbanás".** Az, hogy úgy tûnik, mitha több transznemû lenne és többen kezdik el a tranzíciót, magyarázható azzal, hogy az emberek kevésbé rejtik el ezt az identitásukat, mint korábban, és a szélesebb közvélemény kezdi jobban megérteni, mi is az a transzneműség, ami lehetővé teszi a tranzíció alatt álló személyek számára, hogy gyorsabban, egyszerűbben és kevésbé kockázatosan hozzáférjenek ehhez (orvosok felügyelete mellett). Habár általánosságban valóban több tranzíció történik, ez az emelkedés átmeneti és hajlamos stabilizálódni, ahogy azt a korábban említett svéd tanulmány is mutatta.
 
 Számos tanulmány próbálja mérni a detranzícionáló arányát, és ez az arány jelentősen változhat a tanulmány kontextusától és a minta méretétől függően (két fontos információ, amelyeket mindenképpen figyelembe kell venni a jobb kép kialakítása érdekében, hogy hogyan értelmezzük ezeket az eredményeket).
 
-* A [Trans Youth Project](https://publications.aap.org/pediatrics/article/150/2/e2021056082/186992/Gender-Identity-5-Years-After-Social-Transition) tanulmánya 317 transznemű gyermek útját vizsgálta, és megállapította, hogy közülük **átlagosan 5 évvel később 97,5% továbbra is transzneműként azonosította magát.** A tanulmány azt mutatja, hogy a transznemű kiskorúak 7,3%-a legalább egyszer visszatért az eredeti nemi identitásához (azaz detranzícionált), így a tanulmány végére a fiatalok 3,5%-a nem-binárisként azonosult magával, míg 2,5%-uk cisznemű. A fiatalok 1,3%-a pedig késõbb újra tranzícionált a bináris transznemű identitásához.
+* A [Trans Youth Project](https://publications.aap.org/pediatrics/article/150/2/e2021056082/186992/Gender-Identity-5-Years-After-Social-Transition) tanulmánya 317 transznemű gyermek útját vizsgálta, és megállapította, hogy közülük **átlagosan 5 évvel később 97,5% továbbra is transzneműként azonosította magát.** A tanulmány azt mutatja, hogy a transznemű kiskorúak 7,3%-a legalább egyszer visszatért az eredeti nemi identitásához (azaz detranzícionált), így a tanulmány végére a fiatalok 3,5%-a nem-binárisként azonosult magával, míg 2,5%-uk cisznemű. A fiatalok 1,3%-a pedig később újra tranzícionált a bináris transznemű identitásához.
 
 * Egy [USA-ban végzett tanulmány](https://www.liebertpub.com/doi/full/10.1089/lgbt.2020.0437), amely 22 000 transznemű embert vizsgált, kimutatta, hogy az emberek **13,1%-a valamilyen módon detranzícionált**. Fontos azonban kiemelni, hogy ezek közül **a detranzícionált emberek 82,5%-a azt állította, hogy detranzícióra gyakorolt nyomás érte őket** (transzfóbia, családi elutasítás, munkahelyi nehézségek stb.). Ezek a detranzíciók 55%-ban MtF (férfiből nővé) és 45%-ban FtM (nőből férfivá) voltak (tehát nem aránytalanul sok transznő detranzícionált férfi irányba).
 
@@ -79,14 +79,14 @@ Számos tanulmány próbálja mérni a detranzícionáló arányát, és ez az a
 
 </div>
 
-Ezen adatok között persze fontos megjegyezni, hogy **a detranzíció egy létezõ jelenség. Egyaránt érinti az MtF (férfiból nővé) és FtM (nőből férfivá) transzokat. Többségében ideiglenes, és szinte mindig a család vagy a társadalom elutasításával kapcsolatos.** A végleges detranzíció aránya körülbelül 1% körül mozog [ez a tanulmány](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8099405/) szerint.
+Ezen adatok között persze fontos megjegyezni, hogy **a detranzíció egy létező jelenség. Egyaránt érinti az MtF (férfiból nővé) és FtM (nőből férfivá) transzokat. Többségében ideiglenes, és szinte mindig a család vagy a társadalom elutasításával kapcsolatos.** A végleges detranzíció aránya körülbelül 1% körül mozog [ez a tanulmány](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8099405/) szerint.
 
 
-## A detranzíció nem egyenlõ a "kudarccal"
+## A detranzíció nem egyenlő a "kudarccal"
 
 Ellentétben egy igen elterjedt előítélettel, ritka az, hogy a detranzícionáló emberek kizárólag negatívan beszélnek erről a tapasztalatról.
 
-Bár néhány esetben a detranzícionáló emberek olyan kezeléseket vagy műtéteket kaptak, amelyek testi változásokkal jártak, és ezek a késõbbiekben bárminemû kényelmetlenséget okozhatnak (hormonterápia, lézeres szőrtelenítés, sebészeti beavatkozások stb.), az érintettek ugyanakkor életútjukat olyan élményként is értékelik, ami segített nekik: egy önismereti felfedezés, ami lehetővé tette, hogy jobban megismerjék önmagukat. Ebben az értelemben számukra ez sem kizárólag negatív életszakaszt, sem pedig "kudarcot" nem jelent.
+Bár néhány esetben a detranzícionáló emberek olyan kezeléseket vagy műtéteket kaptak, amelyek testi változásokkal jártak, és ezek a későbbiekben bárminemû kényelmetlenséget okozhatnak (hormonterápia, lézeres szőrtelenítés, sebészeti beavatkozások stb.), az érintettek ugyanakkor életútjukat olyan élményként is értékelik, ami segített nekik: egy önismereti felfedezés, ami lehetővé tette, hogy jobban megismerjék önmagukat. Ebben az értelemben számukra ez sem kizárólag negatív életszakaszt, sem pedig "kudarcot" nem jelent.
 
 
 💡 A **"retranzíció"** kifejezést használják időnként a "detranzíció" helyett, hogy kiemeljék azt az elképzelést, hogy a tranzíciót nem "visszavonjuk", hanem hogy ez a saját utunk részét alkotja.
@@ -95,15 +95,15 @@ Bár néhány esetben a detranzícionáló emberek olyan kezeléseket vagy műt�
 
 ## A detranzíció bejelentése
 
-**A detranzíció bejelentése bonyolult pillanatként élhető meg, mivel a bűntudat, a szégyen és az aggodalom a szeretteink elvesztésétől valós érzelmek. Erõs aggodalmat és kételyeket okozhat, hogy emiatt elitélve érezzék magukat.**
+**A detranzíció bejelentése bonyolult pillanatként élhető meg, mivel a bűntudat, a szégyen és az aggodalom a szeretteink elvesztésétől valós érzelmek. Erős aggodalmat és kételyeket okozhat, hogy emiatt elitélve érezzék magukat.**
 
 A detranzíció eszközként való felhasználása az anti-transz érvekben paradokszikusan hátrányosan érinti azokat, akik detranzíciót szeretnének végrehajtani, mivel ezeket a helyzetbe hozza: olyan személyekként, akik erősítik a sztereotípiákat vagy megerősítik a transzfób személyek nézeteit.
 
-A detranzíció félelmet is kiválthat, mert egyrészt nincs minta vagy úmutató, másrészt pedig ellentétes irányba megyünk azokkal a közeli emberekkel, akikkel a transz közösségekben találkoztunk. Gyorsan úgy érezhetjük, hogy egyedül vagyunk a világban, de semmi sem áll távolabb az igazságtól! Más emberek is átmentek már ezen, **és van élet a detranzíció után**. A detranzíción átesõ emberek nagy többsége idővel, műtétekkel és/vagy más eszközökkel sikerrel visszanyeri azt a megjelenést, amit el szeretne érni.
+A detranzíció félelmet is kiválthat, mert egyrészt nincs minta vagy úmutató, másrészt pedig ellentétes irányba megyünk azokkal a közeli emberekkel, akikkel a transz közösségekben találkoztunk. Gyorsan úgy érezhetjük, hogy egyedül vagyunk a világban, de semmi sem áll távolabb az igazságtól! Más emberek is átmentek már ezen, **és van élet a detranzíció után**. A detranzíción áteső emberek nagy többsége idővel, műtétekkel és/vagy más eszközökkel sikerrel visszanyeri azt a megjelenést, amit el szeretne érni.
 
 ## Orvosi detranzíció
 
-A társadalom gyakran nagyon szigorú kifejezésekkel beszél a transznemű és detranzíción átesõ emberek testéről, gyakran erőszakos szókincset használva (károsodás, tönkretétel, megcsonkítás, elvisel, visszafordíthatatlan stb.).
+A társadalom gyakran nagyon szigorú kifejezésekkel beszél a transznemű és detranzíción áteső emberek testéről, gyakran erőszakos szókincset használva (károsodás, tönkretétel, megcsonkítás, elvisel, visszafordíthatatlan stb.).
 
 Ez nem feltétlenül segít nyugodtan előre lépni a saját megbánásokkal, testhez való viszonnyal és esetleges diszfóriával kapcsolatban. **Nincs szégyellnivaló abban, ha műtéteket vagy hormonterápiát veszünk igénybe annak érdekében, hogy jobban illeszkedjünk a kívánt nemünkbe.**
 
@@ -119,7 +119,7 @@ Rövid távon hasonló mellékhatásokat tapasztalhatsz, mint egy hiány vagy al
 
 ## Mellkas
 
-### Detranzícionáló nõk mellkasa
+### Detranzícionáló nők mellkasa
 
 A mellkas általában veszít a térfogatából, amikor "maszkulinizáló" hormonkezelést végeznek. A "maszkulinizáló" hormonkezelés abbahagyása után a zsírok újraeloszlanak. Ez a folyamat néhány hónapig tarthat.
 
@@ -153,7 +153,7 @@ Lehetséges továbbá a hajvonal módosítása sebészeti beavatkozással is.
 
 Azoknál a detranzícionáló nőknél, akik egy ideig szedtek tesztoszteront, a nyaknál tapasztalható kidudorodás (más néven ádámcsutka) egy tartós és visszafordíthatatlan változás.
 
-A [TODO ADENA pajzsporc-kisebbítéssel]() lehet az ádámcsutka kívülrõl látható részét eltávolítani. Ez nem egy komoly beavatkozás, és nagyon diszkrét heg marad utána. Az ára külföldön körülbelül 1500 euró.
+A [TODO ADENA pajzsporc-kisebbítéssel]() lehet az ádámcsutka kívülről látható részét eltávolítani. Ez nem egy komoly beavatkozás, és nagyon diszkrét heg marad utána. Az ára külföldön körülbelül 1500 euró.
 
 Ez a műtét kizárólag esztétikai célból történik, és nincs hatással a hangmagasságra.
 
@@ -164,7 +164,7 @@ Az MTF tranzíció során az eredeti hangmagasság nem változik, azonban FTM tr
 
 ### Nemiszervi beavatkozások
 
-Azok között az emberek között, akik elkezdték a tranzíciót, de végül abbahagyták, nagyon kevesen vannak, akik műtéti beavatkozást hajtottak végre a nemi szervükön, majd utána megbánták (a műtéti beavatkozásokat elvégző emberek mindössze 2,2%-a bánta meg; [forrás](https://pubmed.ncbi.nlm.nih.gov/24872188/)). Ezért nagyon kevés visszajelzés áll rendelkezésre arról, hogy az egyes esetekben milyen műtétek lehetségesek. Errõl mindenképp ki kell kérdezned a sebészed véleményét.
+Azok között az emberek között, akik elkezdték a tranzíciót, de végül abbahagyták, nagyon kevesen vannak, akik műtéti beavatkozást hajtottak végre a nemi szervükön, majd utána megbánták (a műtéti beavatkozásokat elvégző emberek mindössze 2,2%-a bánta meg; [forrás](https://pubmed.ncbi.nlm.nih.gov/24872188/)). Ezért nagyon kevés visszajelzés áll rendelkezésre arról, hogy az egyes esetekben milyen műtétek lehetségesek. Erről mindenképp ki kell kérdezned a sebészed véleményét.
 
 A detranzícionáló férfiaknak, akik már átestek az alsómûtéten, léteznek péniszprotézisek (packing), amelyek reprodukálják a "kitüremkedés" formáját, használhatók vizeletürítéshez és/vagy szexuális kapcsolatokhoz.
 
@@ -176,7 +176,7 @@ Azoknak az embereknek, akiknek már nincsenek ivarmirigyeik (petefészkek, herez
 
 Légy óvatos, amikor információkat keres a detranzícióról, mivel sok erőszakos és stigmatizáló tartalom terjed.
 
-Néha nehéz megállapítani, hogy egy detranzícióról szóló beszámoló jóindulatú és őszinte-e az érintett személyekkel szemben. Mivel kevés detransz személy létezik, a (rosszindulatú) beszámolók, különösen FtMtF esetén, rendszerint könnyebben elérhetõek, különösen az anti-transz csoportok által.
+Néha nehéz megállapítani, hogy egy detranzícióról szóló beszámoló jóindulatú és őszinte-e az érintett személyekkel szemben. Mivel kevés detransz személy létezik, a (rosszindulatú) beszámolók, különösen FtMtF esetén, rendszerint könnyebben elérhetőek, különösen az anti-transz csoportok által.
 
 Valaha a Reddites *r/detrans* közösség egy hely volt, ahol a detranzíciót átélő emberek tanácsokat és tapasztalatokat cseréltek, amíg sok anti-transz aktivista által nem vált propagandával teli térré, amellyel diabolizálhatták a tranzíciót magát. Mostanra az angolul beszélő detranzícionáló emberek inkább másik Reddit fórumon találkoznak: [r/actual_detrans](http://reddit.com/r/actual_detrans).
 
@@ -185,7 +185,7 @@ Valaha a Reddites *r/detrans* közösség egy hely volt, ahol a detranzíciót �
 
 So jót szándékú ember kínál tanácsokat a detranzícióval járó diszfória kezelésére, akik valahogy mégis elítélik a tranzíciót minden körülmények között, és helyette olyan gyakorlatokat preferálnak, mint a meditáció, önismereti munka vagy akár politikai aktivizmus.
 
-Elõször értsd meg saját magadat és a nemi identitással és a politikai nézeteiddel kapcsolatban, azonban **a detranzíció során nem kell, hogy aláásásd érzelmeidet.** Ha úgy érzed, hogy ez egy harc lesz magaddal szemben, és megpróbálod elfojtani olyan gondolatokat, amiket deviánsnak ítélsz, akkor elõször ezeken kell elgondolkoznod.
+Először értsd meg saját magadat és a nemi identitással és a politikai nézeteiddel kapcsolatban, azonban **a detranzíció során nem kell, hogy aláásásd érzelmeidet.** Ha úgy érzed, hogy ez egy harc lesz magaddal szemben, és megpróbálod elfojtani olyan gondolatokat, amiket deviánsnak ítélsz, akkor először ezeken kell elgondolkoznod.
 
 
 ## Túl a bináris (de)tranzíción
@@ -197,7 +197,7 @@ Ugyancsak szűk látásmód azt gondolni, hogy a detranzíció (hasonlóan a tra
 Ez a szám tehát sokféle valóságot foglal magába.
 
 * Azok a személyek, akik először transznak vallották magukat, majd rájöttek, hogy a nem-binaritás az, ami igazán megfelel nekik (ezek olyan utak, amelyeket FtMtX vagy MtFtX útnak lehetne nevezni).
-* Azok, akik tranzíciót elkezdték, majd egy ellenséges környezet miatt (család, munkahely) abbahagyták, mielőtt később újra elkezdték a folyamatot, amikor arra megvolt a lehetõségük.
+* Azok, akik tranzíciót elkezdték, majd egy ellenséges környezet miatt (család, munkahely) abbahagyták, mielőtt később újra elkezdték a folyamatot, amikor arra megvolt a lehetőségük.
 * Azok, akik elkezdték a tranzíciót, de intézmények (mint a börtön vagy a pszichiátria) miatt kellett félbehagyniuk a folyamatot. Ezek az intézmények aktívan megkövetelhetik az eredeti nemhez való ragaszkodást (például a hormonkezelést, még ha már el is kezdődött, már nem lehet folytatni).
 * Azok, akik később újra tranzíciót kezdeményeznek a detranzíció után, néha életük során többször is, mert a férfi/nő binaritáson túl szeretnének élni.
 

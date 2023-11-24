@@ -8,11 +8,11 @@ lang: hu
 
 <div class="floating-bar">
 
-BEVEZETÕ
+BEVEZETŐ
 
-[Bevezetõ](/#/entry?id=maszkulinizalo-hormonterapia)
+[Bevezető](/#/entry?id=maszkulinizalo-hormonterapia)
 
-[Különbözõ technikák](/#/entry?id=maszkulinizalo-hormonterapia-technikak)
+[Különböző technikák](/#/entry?id=maszkulinizalo-hormonterapia-technikak)
 
 [Hatások](/#/entry?id=maszkulinizalo-hormonterapia-hatasok)
 
@@ -23,7 +23,7 @@ BEVEZETÕ
 
 TESZTOSZTERON
 
-[Bevezetõ az tesztoszteronhoz](/#/entry?id=tesztoszteron)
+[Bevezető az tesztoszteronhoz](/#/entry?id=tesztoszteron)
 
 [✅Testosteron Depo](/#/entry?id=testosteron-depo)
 
@@ -47,9 +47,9 @@ NEM-HORMONÁLIS TERMÉKEK
 
 # Hormonok és hormonkezelés transz férfiak és transzmaszkulin személyek számára
 
-## Bevezetõ
+## Bevezető
 
-A maszkulinizáló hormonkezelés (HRT) célja a test nemi hormonjainak szintmódosítása, elsõsorban annak érdekében, hogy [a test férfiasabb alakot vegyen fel](/#/entry?id=maszkulinizalo-hormonterapia-hatasok).
+A maszkulinizáló hormonkezelés (HRT) célja a test nemi hormonjainak szintmódosítása, elsősorban annak érdekében, hogy [a test férfiasabb alakot vegyen fel](/#/entry?id=maszkulinizalo-hormonterapia-hatasok).
 
 Ebben a dossziéban megtudhatod, hogyan kaphatsz ilyen kezelést. De azt is megismerheted, milyen módszerek alkalmazhatók a kockázatok csökkentése és az eredmények optimalizálása érdekében. Milyen termékeket használj, melyek állnak rendelkezésre Európában és melyeket kell mindenáron elkerülnöd.
 

@@ -8,7 +8,7 @@ lang: hu
 
 # Mintalevelek kibújáshoz
 
-* [1. mintalevél](/#/entry?id=mintalevel-kibujashoz-1) - Elsõsorban a hozzátartozóknak címzendõ, hosszabb levél, tanácsokkal és kulturális utalásokkal.
+* [1. mintalevél](/#/entry?id=mintalevel-kibujashoz-1) - Elsősorban a hozzátartozóknak címzendő, hosszabb levél, tanácsokkal és kulturális utalásokkal.
 
 * [2. mintalevél](/#/entry?id=mintalevel-kibujashoz-2) - A szülőknek címzett levél, a kibújásod kiegészítéseként. A szenvedésre összpontosítva, hogy jobban megértsék az okokat, amiért a tranzíciót elkezded.
 

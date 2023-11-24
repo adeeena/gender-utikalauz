@@ -8,15 +8,15 @@ lang: hu
 
 <div class="floating-bar">
 
-BEVEZETÕ
+BEVEZETŐ
 
-[Bevezetõ](/#/entry?id=feminizalo-hormonterapia)
+[Bevezető](/#/entry?id=feminizalo-hormonterapia)
 
 [Alapok](/#/entry?id=feminizalo-hormonterapia-alapok)
 
 [Hatások](/#/entry?id=feminizalo-hormonterapia-hatasok)
 
-[Különbözõ technikák](/#/entry?id=feminizalo-hormonterapia-technikak)
+[Különböző technikák](/#/entry?id=feminizalo-hormonterapia-technikak)
 
 [GYIK Feminziáló HRT](/#/entry?id=feminizalo-hormonterapia-gyik)
 
@@ -24,7 +24,7 @@ BEVEZETÕ
 
 ÖSZTROGÉNEK
 
-[Bevezetõ az ösztrogénekhez](/#/entry?id=osztrogenek)
+[Bevezető az ösztrogénekhez](/#/entry?id=osztrogenek)
 
 [✅Krémek és tapaszok](/#/entry?id=kremek-tapaszok)
 
@@ -40,9 +40,9 @@ BEVEZETÕ
 
 T-BLOKKOLÓK ÉS PROGESZTINEK
 
-[Bevezetõ a T-blokkolókhoz](/#/entry?id=t-blokkolok)
+[Bevezető a T-blokkolókhoz](/#/entry?id=t-blokkolok)
 
-[Bevezetõ a progesztinekhez](/#/entry?id=progesztinek)
+[Bevezető a progesztinekhez](/#/entry?id=progesztinek)
 
 [✅Bicalutamide](/#/entry?id=bicalutamide)
 
@@ -72,11 +72,11 @@ T-BLOKKOLÓK ÉS PROGESZTINEK
 
 <div class="infobox info">
 
-Ez a cikk bemutatja az ösztrogének bõrön alkalmazásának sajátosságait. A HRT átalános hatásainak megismeréséhez javasoljuk, hogy előzetesen olvasd el [ezt a cikket](/#/entry?id=feminizalo-hormonterapia-hatasok).
+Ez a cikk bemutatja az ösztrogének bőrön alkalmazásának sajátosságait. A HRT átalános hatásainak megismeréséhez javasoljuk, hogy előzetesen olvasd el [ezt a cikket](/#/entry?id=feminizalo-hormonterapia-hatasok).
 
 </div>
 
-## Általánosságban a krémekrõl és tapaszokról
+## Általánosságban a krémekről és tapaszokról
 
 Az ösztradiol krémeket és tapaszt a leggyakoribb és legelérhetőbb alkalmazási módnak tartják Európa szerte.
 
@@ -219,15 +219,15 @@ Ajánlott a gélt vagy a tapaszt a következők szerint alkalmazni:
 
 * **Tilos mellkasra kenni!** Ez egyáltalán nem segít a mell fejlődésében, de növeli a rák kockázatát.
 
-Végül kerüld a karokat, különösen a karok belső részét legalább 4-5 nappal a vérvétel elõtt, hogy ne torzítsa el a vérvételi eredményeket a felületen maradt ösztrogén. Elég, ha a tű túl közel szúr a krémmel kezelt területhez, hogy az eredmény pontatlan legyen.
+Végül kerüld a karokat, különösen a karok belső részét legalább 4-5 nappal a vérvétel előtt, hogy ne torzítsa el a vérvételi eredményeket a felületen maradt ösztrogén. Elég, ha a tű túl közel szúr a krémmel kezelt területhez, hogy az eredmény pontatlan legyen.
 
 ## Herezacskó módszer
 
-Létezik egy "alternatív" alkalmazási mód a bõrön át felszívódó krémekhez. Nemrégiben felfedezték, hogy a testnek van egy olyan része, amely sokkal jobban felszívja az ösztrogént, mint bármely más: a herezacskó bőrfelülete.
+Létezik egy "alternatív" alkalmazási mód a bőrön át felszívódó krémekhez. Nemrégiben felfedezték, hogy a testnek van egy olyan része, amely sokkal jobban felszívja az ösztrogént, mint bármely más: a herezacskó bőrfelülete.
 
 A herezacskó bőre érrendszerének köszönhetően ismert a szteroid hormonok jobb felszívódásáról.
 
-Ezt a módszert elsõsorban hipogonadizmussal küzdõ ciszgender férfiak kezelésére tanulmányozták és alkalmazták, testoszteron gélt vagy tapaszokat használva.
+Ezt a módszert elsősorban hipogonadizmussal küzdő ciszgender férfiak kezelésére tanulmányozták és alkalmazták, testoszteron gélt vagy tapaszokat használva.
 
 ***Forrás:** [Clin Pharmacol. 2010; 2: 149–153](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3262378/#) : "Due to the superficial vascularity of the scrotal skin, there is a 5-40 fold increase in steroid absorption when compared to other skin sites."*
 
@@ -245,7 +245,7 @@ Tanulmányuk megerősítette e módszer hatékonyságát, mely akár 6-szorosan 
 
 Ugyanakkor nem ismerjük jól ennek a módszernek a hosszú távú hatásait.
 
-Elõvigyázatossági okokból számos transznemű nő inkább ideiglenes tartalékmegoldásként tekint erre a módszerre.
+Elővigyázatossági okokból számos transznemű nő inkább ideiglenes tartalékmegoldásként tekint erre a módszerre.
 
 Hosszú távon a legjobb megoldás a dózis növelésére:
 

@@ -8,15 +8,15 @@ lang: hu
 
 <div class="floating-bar">
 
-BEVEZETÕ
+BEVEZETŐ
 
-[Bevezetõ](/#/entry?id=feminizalo-hormonterapia)
+[Bevezető](/#/entry?id=feminizalo-hormonterapia)
 
 [Alapok](/#/entry?id=feminizalo-hormonterapia-alapok)
 
 [Hatások](/#/entry?id=feminizalo-hormonterapia-hatasok)
 
-[Különbözõ technikák](/#/entry?id=feminizalo-hormonterapia-technikak)
+[Különböző technikák](/#/entry?id=feminizalo-hormonterapia-technikak)
 
 [GYIK Feminziáló HRT](/#/entry?id=feminizalo-hormonterapia-gyik)
 
@@ -24,7 +24,7 @@ BEVEZETÕ
 
 ÖSZTROGÉNEK
 
-[Bevezetõ az ösztrogénekhez](/#/entry?id=osztrogenek)
+[Bevezető az ösztrogénekhez](/#/entry?id=osztrogenek)
 
 [✅Krémek és tapaszok](/#/entry?id=kremek-tapaszok)
 
@@ -40,9 +40,9 @@ BEVEZETÕ
 
 T-BLOKKOLÓK ÉS PROGESZTINEK
 
-[Bevezetõ a T-blokkolókhoz](/#/entry?id=t-blokkolok)
+[Bevezető a T-blokkolókhoz](/#/entry?id=t-blokkolok)
 
-[Bevezetõ a progesztinekhez](/#/entry?id=progesztinek)
+[Bevezető a progesztinekhez](/#/entry?id=progesztinek)
 
 [✅Bicalutamide](/#/entry?id=bicalutamide)
 
@@ -70,7 +70,7 @@ T-BLOKKOLÓK ÉS PROGESZTINEK
 
 # Ösztrogének
 
-## Bevezetõ
+## Bevezető
 
 Az ösztrogéneket általában a női nemi hormonoknak nevezik. Ezek a hormonok kritikus szerepet játszanak a női reproduktív rendszerben, valamint számos más fiziológiai folyamatban.
 
@@ -80,15 +80,15 @@ A feminizáló hatáson kívül az ösztrogének [antigonadotrop](https://en.wik
 
 ## Hormonszintek
 
-Általánosságban úgy tartják, hogy az ösztradiol szintje, amely 200 és 300 pg/mL között van, elegendő lehet a testoszteron csökkentéséhez a nõi hormonszint elérésére, és így elhagyni a T-blokkolókat. Azonban még alacsonyabb dózisokban is az ösztrogéneknek antigonadotrop hatása van.
+Általánosságban úgy tartják, hogy az ösztradiol szintje, amely 200 és 300 pg/mL között van, elegendő lehet a testoszteron csökkentéséhez a női hormonszint elérésére, és így elhagyni a T-blokkolókat. Azonban még alacsonyabb dózisokban is az ösztrogéneknek antigonadotrop hatása van.
 
 Néhány transznemű nő olyan HRT-t követ, amely kizárólag ösztrogénekből áll. Ezt [ösztrogén monoterápiának](/#/entry?id=feminizalo-hormonterapia-technikak) nevezzük.
 
-**Vigyázat, a hormonszintek jelentõsen változhatnak egyénről egyénre!**
+**Vigyázat, a hormonszintek jelentősen változhatnak egyénről egyénre!**
 
 ## Kezelések
 
-Többféle kezelés létezik az ösztrogének szedésére. Összesen 5 fõ utat különböztethetünk meg:
+Többféle kezelés létezik az ösztrogének szedésére. Összesen 5 fő utat különböztethetünk meg:
 
 <table>
     <thead>
@@ -96,7 +96,7 @@ Többféle kezelés létezik az ösztrogének szedésére. Összesen 5 fõ utat 
             <th>Kezelés</th>
             <th>Leírás</th>
             <th>Rizikó</th>
-            <th>Hozzáférhetõség Mo.-n</th>
+            <th>Hozzáférhetőség Mo.-n</th>
         </tr>
     </thead>
     <tbody>

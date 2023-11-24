@@ -20,7 +20,7 @@ Az új életemben egyszerûen egy férfié. Végre onmagam vagyok. Végre jogosu
 
 Mit jelent ez konkrétan? Nos, egyszerűen annyit, hogy mostantól hivatalosan is **{Keresztnév}** a nevem (kérlek felejts el bármilyen más nevet, amit rólam ismersz), és hivatkozz rám férfiként, beszélj rólam férfiként, röviden, kezelj úgy, mint egy fickót. Egy transznemű srác vagyok. Ez csak azt jelenti, hogy amikor megszülettem, nem azt mondták a szüleimnek, hogy "fiuk született", de valójában igen. Mindig is egy fiú voltam, és mindig is az maradok.
 
-Neked, aki most hallja elõször rólam ezt a hírt; aki nincs hozzászokva az ilyen típusú bejelentésekhez, aki nem tudja, hogyan reagáljon, készítettem egy kis gyakorlati útmutatót "Hogyan reagálj, amikor valaki bejelenti neked, hogy transz":
+Neked, aki most hallja először rólam ezt a hírt; aki nincs hozzászokva az ilyen típusú bejelentésekhez, aki nem tudja, hogyan reagáljon, készítettem egy kis gyakorlati útmutatót "Hogyan reagálj, amikor valaki bejelenti neked, hogy transz":
 
 * Ez egy JÓ HÍR. Ez azt jelenti, hogy aki bejelentette neked, hogy transz, fontos lépést tett az életében!
 

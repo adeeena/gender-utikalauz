@@ -1,74 +1,12 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Feminizáló hormonterápia"
+title: "Női passing"
 lang: hu
 ---
 
-<div class="floating-columns">
-
-<div class="floating-bar">
-
-BEVEZETŐ
-
-[Bevezető](/#/entry?id=feminizalo-hormonterapia)
-
-[Alapok](/#/entry?id=feminizalo-hormonterapia-alapok)
-
-[Hatások](/#/entry?id=feminizalo-hormonterapia-hatasok)
-
-[Különböző technikák](/#/entry?id=feminizalo-hormonterapia-technikak)
-
-[GYIK Feminziáló HRT](/#/entry?id=feminizalo-hormonterapia-gyik)
-
-<hr />
-
-ÖSZTROGÉNEK
-
-[Bevezető az ösztrogénekhez](/#/entry?id=osztrogenek)
-
-[✅Krémek és tapaszok](/#/entry?id=kremek-tapaszok)
-
-[✅Tabletták](/#/entry?id=feminizalo-tablettak)
-
-[✅Injekciók](/#/entry?id=feminizalo-injekciok)
-
-[😐Orrspray](/#/entry?id=orrspray)
-
-[😐Implantátumok](/#/entry?id=implantatumok)
-
-<hr />
-
-T-BLOKKOLÓK ÉS PROGESZTINEK
-
-[Bevezető a T-blokkolókhoz](/#/entry?id=t-blokkolok)
-
-[Bevezető a progesztinekhez](/#/entry?id=progesztinek)
-
-[✅Bicalutamide](/#/entry?id=bicalutamide)
-
-[✅Decapeptyl, Lucrin, pubertásblokkolók](/#/entry?id=decapeptyl)
-
-[✅Progeszteron](/#/entry?id=progeszteron)
-
-[😐Spironolactone](/#/entry?id=spironolactone)
-
-[😐Szintetikus progesztinek](/#/entry?id=szintetikus-progesztinek)
-
-[⛔Finasteride](/#/entry?id=finasteride)
-
-[⛔Dutasteride](/#/entry?id=dutasteride)
-
-[⛔Flutamide](/#/entry?id=flutamide)
-
-[⛔Androcur](/#/entry?id=androcur)
-
-</div>
-
-<div class="wiki-content">
-
 <div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
 
-# Hormonok és hormonkezelés transz nők és transzfeminin személyek számára
+# Női passing
 
 ## Bevezető
 
@@ -95,5 +33,3 @@ Jó olvasást!
 ## Források
 
 * [wikitrans.co](https://wikitrans.co)
-
-</div>

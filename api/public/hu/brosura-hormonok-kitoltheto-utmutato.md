@@ -10,7 +10,7 @@ lang: hu
 
 ## Bevezető
 
-A *Feminizáló hormonok - kitölthetõ útmutató*, illetve a *Maszkulinizáló hormonok - kitölthetõ útmutató* a feminizáló vagy maszkulinizáló hormonterápia hatásait magyarázza el, interaktív, kitöltendő részekkel, amelyek segítségével megnézheted, hogy a hormonok szedése segít-e neked az tranzíciós céljaid elérésében. A tájékozott beleegyezés elősegítésének nélkülözhetetlen eszköze!
+A *Feminizáló hormonok - kitölthető útmutató*, illetve a *Maszkulinizáló hormonok - kitölthető útmutató* a feminizáló vagy maszkulinizáló hormonterápia hatásait magyarázza el, interaktív, kitöltendő részekkel, amelyek segítségével megnézheted, hogy a hormonok szedése segít-e neked az tranzíciós céljaid elérésében. A tájékozott beleegyezés elősegítésének nélkülözhetetlen eszköze!
 
 Akár te magad fontolgatod a hormonterápia elkezdését, akár kísérsz valakit, aki fontolgatja a folyamatot; ez az eszköz segíthet abban, hogy teljes mértékben megértsétek a hatásokat, és megalapozott döntést hozzatok.
 

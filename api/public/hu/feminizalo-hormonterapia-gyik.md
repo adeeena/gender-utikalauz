@@ -8,15 +8,15 @@ lang: hu
 
 <div class="floating-bar">
 
-BEVEZETÕ
+BEVEZETŐ
 
-[Bevezetõ](/#/entry?id=feminizalo-hormonterapia)
+[Bevezető](/#/entry?id=feminizalo-hormonterapia)
 
 [Alapok](/#/entry?id=feminizalo-hormonterapia-alapok)
 
 [Hatások](/#/entry?id=feminizalo-hormonterapia-hatasok)
 
-[Különbözõ technikák](/#/entry?id=feminizalo-hormonterapia-technikak)
+[Különböző technikák](/#/entry?id=feminizalo-hormonterapia-technikak)
 
 [GYIK Feminziáló HRT](/#/entry?id=feminizalo-hormonterapia-gyik)
 
@@ -24,7 +24,7 @@ BEVEZETÕ
 
 ÖSZTROGÉNEK
 
-[Bevezetõ az ösztrogénekhez](/#/entry?id=osztrogenek)
+[Bevezető az ösztrogénekhez](/#/entry?id=osztrogenek)
 
 [✅Krémek és tapaszok](/#/entry?id=kremek-tapaszok)
 
@@ -40,9 +40,9 @@ BEVEZETÕ
 
 T-BLOKKOLÓK ÉS PROGESZTINEK
 
-[Bevezetõ a T-blokkolókhoz](/#/entry?id=t-blokkolok)
+[Bevezető a T-blokkolókhoz](/#/entry?id=t-blokkolok)
 
-[Bevezetõ a progesztinekhez](/#/entry?id=progesztinek)
+[Bevezető a progesztinekhez](/#/entry?id=progesztinek)
 
 [✅Bicalutamide](/#/entry?id=bicalutamide)
 
@@ -72,7 +72,7 @@ T-BLOKKOLÓK ÉS PROGESZTINEK
 
 ## Hatások
 
-### Hogyan lehet elõre tudni, hogy fog reagálni a testem a HRT-re?
+### Hogyan lehet előre tudni, hogy fog reagálni a testem a HRT-re?
 
 Sajnos lehetetlen előre tudni, hogy a test jól vagy rosszul fog reagálni a HRT-re. Az eredmények nagyban változhatnak az egyének között, attól függően, hogy milyen a genetikájuk, hány évesek, milyen testalkatúak stb.
 
@@ -82,7 +82,7 @@ Bár a kezdeti testi állapot, a genetika és az a kor, amelyben az ember elkezd
 
 ### Mi a meddőség kockázata a HRT-vel?
 
-Ez a kezelt személytõl függ, de általában a hormonpótló kezeléssel meddőség kockázata megnövekszik. Feltételezhető, hogy a meddőség kockázata már a hormonok szedésének első hónapjaiban jelentkezni fog.
+Ez a kezelt személytől függ, de általában a hormonpótló kezeléssel meddőség kockázata megnövekszik. Feltételezhető, hogy a meddőség kockázata már a hormonok szedésének első hónapjaiban jelentkezni fog.
 
 Elméletben lehetséges a termékenység visszanyerése a hormonkezelés abbahagyásával, de a végleges meddőség kockázata annál nagyobb, minél hosszabb ideig szedtünk hormonokat.
 
@@ -90,7 +90,7 @@ Mindazonáltal néhány embernek sikerült megőriznie termékenységét több �
 
 Ezek miatt az okok miatt a legbölcsebb tanács, amit adhatunk:
 
-* Ha valaha is szeretnél gyermeket, akkor tekints a HRT-re úgy, hogy az gyorsan meddőséghez vezet, és valószínűleg szükséges lesz elõzetes mintaadás spermabankhoz.
+* Ha valaha is szeretnél gyermeket, akkor tekints a HRT-re úgy, hogy az gyorsan meddőséghez vezet, és valószínűleg szükséges lesz előzetes mintaadás spermabankhoz.
 
 * Ellenkező esetben, ha nem szeretnél gyermeket és szexuális kapcsolatban vagy, akkor tekints a HRT-re úgy, hogy nem feltétlenül teszi teljesen meddővé, és a fogamzásgátlás továbbra is elengedhetetlen az ilyesjellegû balesetek elkerülésére.
 
@@ -152,9 +152,9 @@ Természetesen! Elegendő ehhez elegendően megemelni az ösztrogén és/vagy pr
 
 Nem. Nem csak hogy ez nem szükséges, de fennáll a veszélye annak, hogy a tesztoszteron szintje emelkedik azon napokon, amikor csökkentenéd az ösztrogén szintet.
 
-### Egyenlõségtáblázat ösztrogének beadásának különböző módszerei között
+### Egyenlőségtáblázat ösztrogének beadásának különböző módszerei között
 
-Az alábbi táblázat a különböző módszerek közötti egyenértékűséget mutatja. Azonban figyelem, a hormonszintek hajlamosak nagymértékben változni az kezelt emberektõl függően. Ezeket az értékeket tehát csak tájékoztató jellegűnek kell tekinteni. Vérvétel szükséges a hormonszintek pontos ismeretéhez!
+Az alábbi táblázat a különböző módszerek közötti egyenértékűséget mutatja. Azonban figyelem, a hormonszintek hajlamosak nagymértékben változni az kezelt emberektől függően. Ezeket az értékeket tehát csak tájékoztató jellegűnek kell tekinteni. Vérvétel szükséges a hormonszintek pontos ismeretéhez!
 
 <table>
     <thead>
@@ -204,11 +204,11 @@ Az alábbi táblázat a különböző módszerek közötti egyenértékűséget 
 
 </div>
 
-## Kezelésrõl
+## Kezelésről
 
 ### Milyen termékeket kérjek az orvosomtól?
 
-Fordíts időt a rendelkezésre álló különböző hormonkészítmények hatásaira és mellékhatásaira, illetve tájékozódj az hormonkezelésrõl általánosságban, valamint a specifikus kezelésről, amit választottál. Még akkor is, ha az orvosod nagyon jól ismeri a saját területét (ami nem mindig a helyzet), fontos, hogy képesek legyetek kommunikálni egymással.
+Fordíts időt a rendelkezésre álló különböző hormonkészítmények hatásaira és mellékhatásaira, illetve tájékozódj az hormonkezelésről általánosságban, valamint a specifikus kezelésről, amit választottál. Még akkor is, ha az orvosod nagyon jól ismeri a saját területét (ami nem mindig a helyzet), fontos, hogy képesek legyetek kommunikálni egymással.
 
 <!--
 <div class="infobox podcast-episode">
@@ -223,14 +223,14 @@ Ha többet szeretnél megtudni azokról a termékekről, amelyek szóba jöhetne
 <div class="infobox podcast-episode">
 <h5>⚠️ Androcur</h5>
 	
-Egy "feminizáló" kezelés keretében néhány orvos Androcur-alapú kezelést fog javasolni, amely Európában az egyik legismertebb tesztoszteron-blokkoló. Azonban mára ezt a gyógyszert jelentõs kritikával illetik az egészségre gyakorolt hatásai miatt, amelyek egészen az agydaganatig terjedhetnek. Javasoljuk, hogy kerüld el ezen gyógyszerrel történő kezelést.
+Egy "feminizáló" kezelés keretében néhány orvos Androcur-alapú kezelést fog javasolni, amely Európában az egyik legismertebb tesztoszteron-blokkoló. Azonban mára ezt a gyógyszert jelentős kritikával illetik az egészségre gyakorolt hatásai miatt, amelyek egészen az agydaganatig terjedhetnek. Javasoljuk, hogy kerüld el ezen gyógyszerrel történő kezelést.
 
 </div>
 
 ### Mennyi ideig kell fenntartani a kezelést?
 A kezelést addig alkalmazd, amíg az hormonok hatásait szeretnéd élvezni. Az igények és profilok alapján néhány transznemű ember egész életén át szedi azokat, mások úgy döntenek, hogy meghatározott idő elteltével abbahagyják a kezelést (6 hónap, 2 év, 10 év stb.).
 
-**Bármikor le lehet állítani azokat kockázat nélkül, ha a testben vannak szexuális hormonokat termelő szervek (funkcionális here vagy petefészek jelenléte).** Az alkalmazott hormonterápiás készítmények változhatnak az egészségi állapotod, az esetlegesen végzett műtétek és saját személyes döntéseid alapján. Azonban azt tanácsoljuk, hogy ne hagyd abba hirtelen a kezelést. Ha komolyan gondolkodsz a HRT abbahagyásán, elõbb beszélj a kezelõorvosoddal.
+**Bármikor le lehet állítani azokat kockázat nélkül, ha a testben vannak szexuális hormonokat termelő szervek (funkcionális here vagy petefészek jelenléte).** Az alkalmazott hormonterápiás készítmények változhatnak az egészségi állapotod, az esetlegesen végzett műtétek és saját személyes döntéseid alapján. Azonban azt tanácsoljuk, hogy ne hagyd abba hirtelen a kezelést. Ha komolyan gondolkodsz a HRT abbahagyásán, előbb beszélj a kezelőorvosoddal.
 
 <div class="infobox podcast-episode">
 <h5>⚠️ Figyelem</h5>
@@ -265,7 +265,7 @@ Létezik mikroadagolású hormonkezelés is (amely csak részben helyettesíti t
 
 A kezelés néhány hónapos szedése után a legtöbb transznemű ember termékenysége csökken, vagy akár teljesen meddővé válhat. Bizonyos esetekben a kezelés hosszabb ideig történő abbahagyása (körülbelül 6 hónap) lehetővé teheti a termékenység visszanyerését. De azt tanácsoljuk, hogy erre ne alapozz mindent, mert a termékenység visszatérése nem garantált.
 
-Ha hormonkezelést szeretnél kezdeni és a jövõben gyermeket tervezel, tájékozódj a petesejtjeid vagy spermád megőrzéséről a kezelés megkezdése előtt.
+Ha hormonkezelést szeretnél kezdeni és a jövőben gyermeket tervezel, tájékozódj a petesejtjeid vagy spermád megőrzéséről a kezelés megkezdése előtt.
 
 <!-- ## Árak, visszatérítés -->
 

@@ -6,7 +6,7 @@ lang: hu
 
 <div class="header-image"><img src="assets/images/undraw_reading.svg" /></div>
 
-# 2. mintalevél - Szülõknek címzett kisérõlevél kibújáshoz
+# 2. mintalevél - Szülőknek címzett kisérőlevél kibújáshoz
 
 *Ne felejtsd el, hogy a coming out egy személyes dolog. Mindenki szabadon dönthet arról, hogyan szeretné bejelenteni kibújását, én például egy levél formájában választottam, amit most veletek is megosztok, remélve, hogy segít majd nektek.*
 
@@ -22,11 +22,11 @@ Meghoztam egy döntést: Elhatároztam, hogy átveszem az irányítást az élet
 
 Mint tudjátok, az utóbbi időben nem érzem magam túl jól. Ennek oka a rossz közérzet, a rosszullétek, az önmagammal való rossz közérzet. Ezt "nemi diszfóriának" nevezik. Ez az érzés nem új számomra. Valójában mindig is jelen volt, amennyire vissza tudok emlékezni. Voltak idők, amikor gyengébb volt, el tudtam róla feledkezni, például amikor *{partneremmel}* vagyok, aki boldoggá tesz; és voltak idők, amikor ez a diszfória-érzés túlságosan is jelen volt, és rettenetesen szenvedtem tőle.
 
-Fiatalon már tudatában voltam ennek az érzésnek, de soha nem mertem róla beszélni. Azonban ezzel kapcsolatosan erõs megszállottságot éreztem mélyen magamban. Amint tudatosult bennem, hogy ez a rossz közérzet oka, mindig megpróbált elõre törni, amikor csak tehette. Megsiratott és még most is megsirattat. Úgy érzem, 28 évet sírva, gondolataim falai között töltöttem.
+Fiatalon már tudatában voltam ennek az érzésnek, de soha nem mertem róla beszélni. Azonban ezzel kapcsolatosan erős megszállottságot éreztem mélyen magamban. Amint tudatosult bennem, hogy ez a rossz közérzet oka, mindig megpróbált előre törni, amikor csak tehette. Megsiratott és még most is megsirattat. Úgy érzem, 28 évet sírva, gondolataim falai között töltöttem.
 
-De most már nem akarok többé ezektõl az érzésektõl menekülni, nem tudok tovább tagadni; ahhoz túlságosan szenvedek. A menekülés kimerít. Idővel meg kell hallgatnunk magunkat, így teret adtam annak az érzésnek, amit mindig is tagadtam. Ez számomra is egy nagy sokk volt. Mindaz, amit felépítettem magammal kapcsolatban, megingott. Erõs szédülés kerülgetett, gyomrom összeszûkült, mintha minden összeomlana, napokon, néha heteken át. De egy dologban biztos voltam: hogy a diszfória egy erős érzés, és egyértelmûvé teszi számomra: Nő vagyok; és hogy nőként élhessek, merész döntéseket kell hoznom: elkezdem a tranzíciót.
+De most már nem akarok többé ezektől az érzésektől menekülni, nem tudok tovább tagadni; ahhoz túlságosan szenvedek. A menekülés kimerít. Idővel meg kell hallgatnunk magunkat, így teret adtam annak az érzésnek, amit mindig is tagadtam. Ez számomra is egy nagy sokk volt. Mindaz, amit felépítettem magammal kapcsolatban, megingott. Erős szédülés kerülgetett, gyomrom összeszûkült, mintha minden összeomlana, napokon, néha heteken át. De egy dologban biztos voltam: hogy a diszfória egy erős érzés, és egyértelmûvé teszi számomra: Nő vagyok; és hogy nőként élhessek, merész döntéseket kell hoznom: elkezdem a tranzíciót.
 
-Erre a kellemetlen diszfória-érzetre túl sok példát tudok hozni. Legyen szó kontrollálhatatlan sírásokról, amikor a tükör előtt haladtam el, vagy a szégyen és undor érzetérõl, amitõl kénytelen voltam elvonulni csendben a furdõszobába, hogy kisírhassam magam.
+Erre a kellemetlen diszfória-érzetre túl sok példát tudok hozni. Legyen szó kontrollálhatatlan sírásokról, amikor a tükör előtt haladtam el, vagy a szégyen és undor érzetéről, amitől kénytelen voltam elvonulni csendben a furdőszobába, hogy kisírhassam magam.
 
 Voltak sötét gondolatok és olyan pillanatok, amikor rosszat kívántam magamnak. Az volt a legrosszabb, hogy szégyelltem magam. Szégyelltem táncolni, énekelni, szégyelltem, hogy hogyan néznek rám, szégyelltem, hogy merjek bármit is tenni, szégyelltem, hogy nem vagyok olyan, mint mindenki más, szégyelltem, hogy embereket közelebb engedjek, szégyelltem, hogy nem találtam a helyem a fiúk között, és szégyelltem, hogy a lányok között sem fogadtak el. Szégyelltem azt, amit legbelül éreztem, szégyelltem, hogy nem felelek meg annak, amit tőlem várnak. Szégyelltem magam. Szégyelltem, hogy én én vagyok.
 

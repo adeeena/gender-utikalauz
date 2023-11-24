@@ -1,6 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Különbözõ feminizáló hormonkezelési technikák"
+title: "Különböző feminizáló hormonkezelési technikák"
 lang: hu
 ---
 
@@ -8,15 +8,15 @@ lang: hu
 
 <div class="floating-bar">
 
-BEVEZETÕ
+BEVEZETŐ
 
-[Bevezetõ](/#/entry?id=feminizalo-hormonterapia)
+[Bevezető](/#/entry?id=feminizalo-hormonterapia)
 
 [Alapok](/#/entry?id=feminizalo-hormonterapia-alapok)
 
 [Hatások](/#/entry?id=feminizalo-hormonterapia-hatasok)
 
-[Különbözõ technikák](/#/entry?id=feminizalo-hormonterapia-technikak)
+[Különböző technikák](/#/entry?id=feminizalo-hormonterapia-technikak)
 
 [GYIK Feminziáló HRT](/#/entry?id=feminizalo-hormonterapia-gyik)
 
@@ -24,7 +24,7 @@ BEVEZETÕ
 
 ÖSZTROGÉNEK
 
-[Bevezetõ az ösztrogénekhez](/#/entry?id=osztrogenek)
+[Bevezető az ösztrogénekhez](/#/entry?id=osztrogenek)
 
 [✅Krémek és tapaszok](/#/entry?id=kremek-tapaszok)
 
@@ -40,9 +40,9 @@ BEVEZETÕ
 
 T-BLOKKOLÓK ÉS PROGESZTINEK
 
-[Bevezetõ a T-blokkolókhoz](/#/entry?id=t-blokkolok)
+[Bevezető a T-blokkolókhoz](/#/entry?id=t-blokkolok)
 
-[Bevezetõ a progesztinekhez](/#/entry?id=progesztinek)
+[Bevezető a progesztinekhez](/#/entry?id=progesztinek)
 
 [✅Bicalutamide](/#/entry?id=bicalutamide)
 
@@ -68,9 +68,9 @@ T-BLOKKOLÓK ÉS PROGESZTINEK
 
 <div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
 
-# Különbözõ feminizáló hormonkezelési technikák
+# Különböző feminizáló hormonkezelési technikák
 
-Többféle különbözõ technika létezik a feminizáló hormonterápiához. A választott technikától függõen a feminizáció hatékonysága változhat, valamint a mentális és fizikai egészségre gyakorolt kockázatok is eltérnek.
+Többféle különböző technika létezik a feminizáló hormonterápiához. A választott technikától függően a feminizáció hatékonysága változhat, valamint a mentális és fizikai egészségre gyakorolt kockázatok is eltérnek.
 
 Mindenesetre szükséges az [ebben a cikkben felsorolt alapoknak megfelelően eljárni](/#/entry?id=feminizalo-hormonterapia-alapok) (testoszteron megszûntetése vagy blokkolása; és az ösztradiol szintjének növelése) a test feminizációjának eléréséhez.
 
@@ -95,7 +95,7 @@ A cikkben említett technikák:
 
 Manapság leggyakrabban felírt hormonpótló kezelés. Ezek T-blokkolók (amely blokkolja a tesztoszteron termelését) bevitelét jelentik az [ösztrogének](/#/entry?id=osztrogenek) mellett.
 
-Számos T-blokkoló létezik, nagyon különbözõ várható hatásokkal és mellékhatásokkal. Ezért fontos a legmegfelelőbb gyógyszer kiválasztása.
+Számos T-blokkoló létezik, nagyon különböző várható hatásokkal és mellékhatásokkal. Ezért fontos a legmegfelelőbb gyógyszer kiválasztása.
 
 ### Módszer előnyei:
 
@@ -121,11 +121,11 @@ Az [ösztrogéneknek](/#/entry?id=osztrogenek) van egy nagyon hasznos tulajdons�
 
 Kezdetekben ez volt a transznemű nők számára létező első típusú hormonpótló kezelés. Akkoriban nem bio-azonos ösztrogéneket használtak, hanem összekapcsolt ösztrogéneket, mint a Premarin, amelyek rendkívül veszélyesek voltak az egészségre, és ez vezetett az anti-androgénekkel kiegészített hormonpótló kezelések kifejlesztéséhez a kockázatok csökkentése érdekében.
 
-***Forrás a Premarin veszélyeirõl: **Bińkowska M (October 2014). « Menopausal hormone therapy and venous thromboembolism ». PRZ Menopauzalny. 13 (5): 267–72. doi:10.5114/pm.2014.46468. PMC 4520375. PMID 26327865.*
+***Forrás a Premarin veszélyeiről: **Bińkowska M (October 2014). « Menopausal hormone therapy and venous thromboembolism ». PRZ Menopauzalny. 13 (5): 267–72. doi:10.5114/pm.2014.46468. PMC 4520375. PMID 26327865.*
 
-***Forrás a Premarin veszélyeirõl: **Smith NL, Blondon M, Wiggins KL, Harrington LB, van Hylckama Vlieg A, Floyd JS, Hwang M, Bis JC, McKnight B, Rice KM, Lumley T, Rosendaal FR, Heckbert SR, Psaty BM (January 2014). « Lower risk of cardiovascular events in postmenopausal women taking oral estradiol compared with oral conjugated equine estrogens ». JAMA Intern Med. 174 (1): 25–31. doi:10.1001/jamainternmed.2013.11074. PMC 4636198. PMID 24081194.*
+***Forrás a Premarin veszélyeiről: **Smith NL, Blondon M, Wiggins KL, Harrington LB, van Hylckama Vlieg A, Floyd JS, Hwang M, Bis JC, McKnight B, Rice KM, Lumley T, Rosendaal FR, Heckbert SR, Psaty BM (January 2014). « Lower risk of cardiovascular events in postmenopausal women taking oral estradiol compared with oral conjugated equine estrogens ». JAMA Intern Med. 174 (1): 25–31. doi:10.1001/jamainternmed.2013.11074. PMC 4636198. PMID 24081194.*
 
-***Forrás a Premarin veszélyeirõl: **Smith NL, Heckbert SR, Lemaitre RN, Reiner AP, Lumley T, Weiss NS, Larson EB, Rosendaal FR, Psaty BM (October 2004). « Esterified estrogens and conjugated equine estrogens and the risk of venous thrombosis ». JAMA. 292 (13): 1581–7.*
+***Forrás a Premarin veszélyeiről: **Smith NL, Heckbert SR, Lemaitre RN, Reiner AP, Lumley T, Weiss NS, Larson EB, Rosendaal FR, Psaty BM (October 2004). « Esterified estrogens and conjugated equine estrogens and the risk of venous thrombosis ». JAMA. 292 (13): 1581–7.*
 
 ***Forrás, hogy a Premarin veszélyesebb az ösztradiolnál:** [Kockázat trombózis kialakulására](https://en.wikipedia.org/wiki/Template:Risk_of_venous_thromboembolism_with_hormone_therapy_and_birth_control_pills_(QResearch/CPRD))*
 
@@ -160,13 +160,13 @@ Ennek a módszernek a célja az [ösztrogén](/#/entry?id=osztrogenek) és a [pr
 
 A többi [progesztinnel](/#/entry?id=progesztinek) ellentétben a progeszteront egy nagyon gyenge antiandrogénnek tekintik, különösen ha szájon át szedik, mivel a májon keresztül történő áthaladáskor a progeszteron nagy része lebomlik. Emiatt a legtöbb orvos hatástalannak tekinti a tesztoszteronszint csökkentésére.
 
-Azonban, amikor [ösztrogént](/#/entry?id=osztrogenek) adunk a [progeszteronhoz](/#/entry?id=progesztinek), gyakran olyan összhatást tapasztalunk a két hormon között, ami lehetővé teheti a tesztoszteron elegendő mértékű csökkentését. **A módszer hatékonysága azonban rendkívül változó különbözõ emberek között.**
+Azonban, amikor [ösztrogént](/#/entry?id=osztrogenek) adunk a [progeszteronhoz](/#/entry?id=progesztinek), gyakran olyan összhatást tapasztalunk a két hormon között, ami lehetővé teheti a tesztoszteron elegendő mértékű csökkentését. **A módszer hatékonysága azonban rendkívül változó különböző emberek között.**
 
 ### Módszer előnyei:
 
 * A [progeszteron](/#/entry?id=progesztinek) hajlamos az szorongás leküzdésére. Az [ösztrogének](/#/entry?id=osztrogenek) antidepresszáns hatásaival együtt ez a módszer segíthet azoknak, akik ezekkel a problémákkal küzdenek.
 
-* Mint az [ösztrogén](/#/entry?id=osztrogenek) monoterápiánál, a természetes jellege miatt elõnyben részesítik; illetve azzal a ténnyel, hogy így el lehet kerülni a hagyományosabb gyógyszerek szedését.
+* Mint az [ösztrogén](/#/entry?id=osztrogenek) monoterápiánál, a természetes jellege miatt előnyben részesítik; illetve azzal a ténnyel, hogy így el lehet kerülni a hagyományosabb gyógyszerek szedését.
 
 ### Hátrányok:
 
@@ -178,7 +178,7 @@ Azonban, amikor [ösztrogént](/#/entry?id=osztrogenek) adunk a [progeszteronhoz
 <div class="infobox podcast-episode">
 <h5>⚗️ Figyelem</h5>
 
-Ez a módszer nem tartozik az [Endokrin Társaság](https://www.endocrine.org/) által elismert módszerek közé. Dr. Powers tervezi a eredményeinek közzétételét a közeljövőben. Addig is fontos megemlíteni, hogy ez a módszer inkább csak elméletnek tekintendõ, amely még igazolásra vár.
+Ez a módszer nem tartozik az [Endokrin Társaság](https://www.endocrine.org/) által elismert módszerek közé. Dr. Powers tervezi a eredményeinek közzétételét a közeljövőben. Addig is fontos megemlíteni, hogy ez a módszer inkább csak elméletnek tekintendő, amely még igazolásra vár.
 
 </div>
 

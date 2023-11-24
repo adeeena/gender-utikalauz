@@ -66,22 +66,22 @@ Az alábbi táblázat összefoglalja az ösztrogének standard értékeit ciszne
             <td><b>Átlag: 55 pmol/l</b><br />58 - 312 pmol/l között változhat</td>
         </tr>
         <tr>
-            <td>Felnõtt nõ<br />Follikuláris fázis kezdete (1-4. nap)</td>
+            <td>Felnőtt nő<br />Follikuláris fázis kezdete (1-4. nap)</td>
             <td>40-60 pg/ml között változhat</td>
             <td>146 - 220 pmol/l között változhat</td>
         </tr>
         <tr>
-            <td>Felnõtt nõ<br />Follikuláris fázis közepe (5-9. nap)</td>
+            <td>Felnőtt nő<br />Follikuláris fázis közepe (5-9. nap)</td>
             <td>60 - 100 pg/ml között változhat</td>
             <td>220 - 367 pmol/l között változhat</td>
         </tr>
         <tr>
-            <td>Felnõtt nõ<br />Follikuláris fázis vége (10-14. nap)</td>
+            <td>Felnőtt nő<br />Follikuláris fázis vége (10-14. nap)</td>
             <td>200 - 400 pg/ml között változhat</td>
             <td>734 - 1468 pmol/l között változhat</td>
         </tr>
         <tr>
-            <td>Felnõtt nõ<br />Ovuláció és luteális fázis (15-28. nap)</td>
+            <td>Felnőtt nő<br />Ovuláció és luteális fázis (15-28. nap)</td>
             <td>Átlag: 190 pg/ml</td>
             <td>Átlag: 697 pmol/l</td>
         </tr>
@@ -143,12 +143,12 @@ Az alábbi táblázat összefoglalja az tesztoszteron standard értékeit ciszne
             <td>3.46 - 11.09 nmol/l között változhat</td>
         </tr>
         <tr>
-            <td>Felnõtt férfi</td>
+            <td>Felnőtt férfi</td>
             <td>350 - 1080 ng/dl között változhat</td>
             <td>12.13 - 37.44 nmol/l között változhat</td>
         </tr>
         <tr>
-            <td>Idõs férfi (60+ éves)</td>
+            <td>Idős férfi (60+ éves)</td>
             <td>350 - 720 ng/dl között változhat</td>
             <td>12.13 - 25 nmol/l között változhat</td>
         </tr>
@@ -158,12 +158,12 @@ Az alábbi táblázat összefoglalja az tesztoszteron standard értékeit ciszne
             <td>0.27 - 1.42 nmol/l között változhat</td>
         </tr>
         <tr>
-            <td>Felnõtt nõ</td>
+            <td>Felnőtt nő</td>
             <td>10 - 54 ng/dl között változhat</td>
             <td>0.35 - 1.87 nmol/l között változhat</td>
         </tr>
         <tr>
-            <td>Nõ menopauza alatt</td>
+            <td>Nő menopauza alatt</td>
             <td>7 - 40 ng/dl között változhat</td>
             <td>0.24 - 1.39 nmol/l között változhat</td>
         </tr>
@@ -190,12 +190,12 @@ Az alábbi táblázat összefoglalja a progeszteron standard értékeit cisznem�
     </thead>
     <tbody>
         <tr>
-            <td>Nõk<br />Menstruációs ciklus kezdete</td>
+            <td>Nők<br />Menstruációs ciklus kezdete</td>
             <td>&lt; 1 ng/ml<br />&lt; 100 ng/dl</td>
             <td>&lt; 3.18 nmol/l</td>
         </tr>
         <tr>
-            <td>Nõk<br />Menstruációs ciklus közepe</td>
+            <td>Nők<br />Menstruációs ciklus közepe</td>
             <td>5 - 20 ng/ml (500 - 2000 ng/dl) között változhat</td>
             <td>16 - 64 nmol/l között változhat</td>
         </tr>
@@ -215,7 +215,7 @@ Az alábbi táblázat összefoglalja a progeszteron standard értékeit cisznem�
             <td>135 - 153.9 nmol/l között változhat</td>
         </tr>
         <tr>
-            <td>Nõ<br />menopauza alatt</td>
+            <td>Nő<br />menopauza alatt</td>
             <td>&lt; 1 ng/ml<br />&lt; 100 ng/dl</td>
             <td>&lt; 3.18 nmol/l</td>
         </tr>

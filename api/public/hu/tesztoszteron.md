@@ -25,6 +25,8 @@ TESZTOSZTERON
 
 [Bevezetõ az tesztoszteronhoz](/#/entry?id=tesztoszteron)
 
+[✅Testosteron Depo](/#/entry?id=testosteron-depo)
+
 [✅Nebido](/#/entry?id=nebido)
 
 [😐Androgel](/#/entry?id=androgel)

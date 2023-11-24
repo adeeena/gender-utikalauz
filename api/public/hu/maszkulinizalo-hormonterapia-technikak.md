@@ -16,8 +16,6 @@ BEVEZETÕ
 
 [Hatások](/#/entry?id=maszkulinizalo-hormonterapia-hatasok)
 
-[Injekciók](/#/entry?id=maszkulinizalo-hormonterapia-injekciok)
-
 [Menstruáció és meddőség](/#/entry?id=maszkulinizalo-hormonterapia-menstruacio-meddoseg)
 
 <hr />
@@ -26,7 +24,7 @@ TESZTOSZTERON
 
 [Bevezetõ az tesztoszteronhoz](/#/entry?id=tesztoszteron)
 
-[✅Androtardyl](/#/entry?id=androtardyl)
+[✅Testosteron Depo](/#/entry?id=testosteron-depo)
 
 [✅Nebido](/#/entry?id=nebido)
 
@@ -36,7 +34,7 @@ TESZTOSZTERON
 
 NEM-HORMONÁLIS TERMÉKEK
 
-[✅Ricinolaj](/#/entry?id=ricinolaj)
+[✅Ricinusolaj](/#/entry?id=ricinusolaj)
 
 [😐Minoxidil](/#/entry?id=minoxidil)
 
@@ -64,7 +62,8 @@ A tesztoszteron gél (Androgel, Pantestone) kiküszöböli a tű szükségesség
 Naponta kell alkalmazni, az alkalmazást követő órákban kerülni kell a másik bőrrel való érintkezést. Az adagolás ezért sokkal gyorsabban beállítható, mint az injekcióknál. A közhiedelemmel ellentétben a gél az injekciókkal azonos intenzitású hatást fejt ki.
 
 ## Nem hormonális kezelések
-Ezeknek a termékeknek az az előnye, hogy vény nélkül kaphatók. Ezért könnyebben beszerezhetők, még akkor is, ha kevésbé hatékonyak. A ricinusolaj például soha nem fogja megváltoztatni a hangmagasságodat, vagy megállítani a menstruációdat.
+
+Ezeknek a termékeknek az az előnye, hogy vény nélkül kaphatók; ezért könnyebben beszerezhetők, még akkor is, ha kevésbé hatékonyak. A ricinusolaj például soha nem fogja megváltoztatni a hangmagasságodat, vagy megállítani a menstruációdat.
 
 Ezeket a kezeléseket a HRT mellett kell alkalmazni, hogy fokozzák annak hatását, de természetesen HRT nélkül is használhatod őket, ha nem akarsz és/vagy nem kaphatsz HRT-t.
 

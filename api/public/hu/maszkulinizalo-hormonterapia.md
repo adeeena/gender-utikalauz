@@ -16,7 +16,6 @@ BEVEZETÕ
 
 [Hatások](/#/entry?id=maszkulinizalo-hormonterapia-hatasok)
 
-[Injekciók](/#/entry?id=maszkulinizalo-hormonterapia-injekciok)
 
 [Menstruáció és meddőség](/#/entry?id=maszkulinizalo-hormonterapia-menstruacio-meddoseg)
 
@@ -26,7 +25,7 @@ TESZTOSZTERON
 
 [Bevezetõ az tesztoszteronhoz](/#/entry?id=tesztoszteron)
 
-[✅Androtardyl](/#/entry?id=androtardyl)
+[✅Testosteron Depo](/#/entry?id=testosteron-depo)
 
 [✅Nebido](/#/entry?id=nebido)
 
@@ -36,7 +35,7 @@ TESZTOSZTERON
 
 NEM-HORMONÁLIS TERMÉKEK
 
-[✅Ricinolaj](/#/entry?id=ricinolaj)
+[✅Ricinusolaj](/#/entry?id=ricinusolaj)
 
 [😐Minoxidil](/#/entry?id=minoxidil)
 

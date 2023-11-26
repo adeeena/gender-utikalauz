@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.70199214"
-     inkscape:cx="305.55898"
-     inkscape:cy="561.25985"
+     inkscape:cx="225.07375"
+     inkscape:cy="944.45502"
      inkscape:window-width="1920"
      inkscape:window-height="986"
      inkscape:window-x="-11"
@@ -35,6 +35,11 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6959"
+       is_visible="true"
+       lpeversion="1" />
     <marker
        style="overflow:visible"
        id="Arrow5"
@@ -110,7 +115,10 @@
        id="path234"
        cx="118.91307"
        cy="120.79759"
-       r="79.338196" />
+       r="79.338196"
+       inkscape:export-filename="feminine-passing-1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <circle
        style="fill:#eb407a;fill-opacity:0.34509805;stroke:none;stroke-width:0.400854;stroke-linecap:round;stroke-linejoin:round"
        id="path718"
@@ -217,5 +225,142 @@
        x="-81.034264"
        y="82.541878"
        ry="0.46974277" />
+    <circle
+       style="fill:#eb407a;fill-opacity:0.34509805;stroke:none;stroke-width:0.400854;stroke-linecap:round;stroke-linejoin:round"
+       id="circle6939"
+       cx="74.061546"
+       cy="146.05014"
+       r="10.741752" />
+    <circle
+       style="fill:#1976d2;fill-opacity:0.34509805;stroke:none;stroke-width:0.865;stroke-linecap:round;stroke-linejoin:round"
+       id="circle6941"
+       cx="113.25952"
+       cy="119.66688"
+       r="46.924492" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.11389px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#eb407a;fill-opacity:1;stroke:none;stroke-width:0.865;stroke-linecap:round;stroke-linejoin:round"
+       x="50.505074"
+       y="166.21446"
+       id="text6947"><tspan
+         sodipodi:role="line"
+         id="tspan6943"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.11389px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';fill:#eb407a;fill-opacity:1;stroke-width:0.865"
+         x="50.505074"
+         y="166.21446">nőies</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.11389px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';fill:#eb407a;fill-opacity:1;stroke-width:0.865"
+         x="50.505074"
+         y="176.42307"
+         id="tspan6945">tulajdonságjegyek</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.11389px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#1976d2;fill-opacity:1;stroke:none;stroke-width:0.865;stroke-linecap:round;stroke-linejoin:round"
+       x="158.29948"
+       y="58.796951"
+       id="text6953"><tspan
+         sodipodi:role="line"
+         id="tspan6949"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.11389px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';fill:#1976d2;fill-opacity:1;stroke-width:0.865"
+         x="158.29948"
+         y="58.796951">férfias</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.11389px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';fill:#1976d2;fill-opacity:1;stroke-width:0.865"
+         x="158.29948"
+         y="69.005554"
+         id="tspan6951">tulajdonságjegyek</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.653088;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#Arrow5)"
+       d="m 154.94697,162.9139 22.1677,35.77024"
+       id="path6955"
+       inkscape:path-effect="#path-effect6959"
+       inkscape:original-d="m 154.94697,162.9139 22.1677,35.77024" />
+    <circle
+       style="fill:#ffffff;stroke:#cccccc;stroke-width:0.865;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter612)"
+       id="circle6969"
+       cx="118.91307"
+       cy="326.96384"
+       r="79.338196"
+       inkscape:export-filename="feminine-passing-2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#eb407a;fill-opacity:0.345098;stroke:none;stroke-width:1.66671;stroke-linecap:round;stroke-linejoin:round"
+       id="circle6971"
+       cx="107.98286"
+       cy="332.24051"
+       r="44.663074" />
+    <circle
+       style="fill:#1976d2;fill-opacity:0.345098;stroke:none;stroke-width:0.865;stroke-linecap:round;stroke-linejoin:round"
+       id="circle6973"
+       cx="113.25952"
+       cy="325.83313"
+       r="46.924492" />
+    <circle
+       style="fill:#ffffff;stroke:#cccccc;stroke-width:0.865;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter612)"
+       id="circle6975"
+       cx="118.91307"
+       cy="504.10852"
+       r="79.338196"
+       inkscape:export-filename="feminine-passing-3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="matrix(0.50361791,0,0,0.50361791,-47.126288,236.79611)" />
+    <circle
+       style="fill:#eb407a;fill-opacity:0.345098;stroke:none;stroke-width:0.839385;stroke-linecap:round;stroke-linejoin:round"
+       id="circle6977"
+       cx="7.2558136"
+       cy="493.3316"
+       r="22.493124" />
+    <circle
+       style="fill:#1976d2;fill-opacity:0.345098;stroke:none;stroke-width:0.317517;stroke-linecap:round;stroke-linejoin:round"
+       id="circle6979"
+       cx="16.320599"
+       cy="483.69739"
+       r="17.224655" />
+    <circle
+       style="fill:#ffffff;stroke:#cccccc;stroke-width:0.865;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter612)"
+       id="circle6981"
+       cx="118.91307"
+       cy="504.10852"
+       r="79.338196"
+       inkscape:export-filename="feminine-passing-2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="matrix(0.50361791,0,0,0.50361791,45.591987,236.79611)" />
+    <circle
+       style="fill:#eb407a;fill-opacity:0.345098;stroke:none;stroke-width:0.839385;stroke-linecap:round;stroke-linejoin:round"
+       id="circle6983"
+       cx="99.974091"
+       cy="493.3316"
+       r="22.493124" />
+    <circle
+       style="fill:#1976d2;fill-opacity:0.345098;stroke:none;stroke-width:0.0535009;stroke-linecap:round;stroke-linejoin:round"
+       id="circle6985"
+       cx="123.36122"
+       cy="469.37503"
+       r="2.9023197" />
+    <circle
+       style="fill:#ffffff;stroke:#cccccc;stroke-width:0.865;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter612)"
+       id="circle6987"
+       cx="118.91307"
+       cy="504.10852"
+       r="79.338196"
+       inkscape:export-filename="feminine-passing-2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="matrix(0.50361791,0,0,0.50361791,137.78862,236.79611)" />
+    <circle
+       style="fill:#eb407a;fill-opacity:0.345098;stroke:none;stroke-width:1.16991;stroke-linecap:round;stroke-linejoin:round"
+       id="circle6989"
+       cx="194.99747"
+       cy="490.50482"
+       r="31.350357" />
+    <circle
+       style="fill:#1976d2;fill-opacity:0.345098;stroke:none;stroke-width:0.206352;stroke-linecap:round;stroke-linejoin:round"
+       id="circle6991"
+       cx="212.54259"
+       cy="474.6517"
+       r="11.194198" />
   </g>
 </svg>

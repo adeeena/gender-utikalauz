@@ -41,7 +41,7 @@ A tesztoszteron általában remek eredményt végez az arc férfiasításában a
 
 Nagyon tanulságos lehet végignézni a transz emberek képeit, ahol a tranzíció előtti és utáni kinézetüket mutatják be. Néhány hónap/év elteltével a legtöbb (inkább bináris) transznemű embernek sikerül a saját nemének megfelelően kinézni.
 
-➡️ [Női passing](/#/entry?id=feminizalo-hormonterapia-passing)
+➡️ [Női passing](/#/entry?id=feminizalas-passing)
 
 ➡️ [Férfi passing](/#/entry?id=maszkulinizalo-hormonterapia-passing)
 

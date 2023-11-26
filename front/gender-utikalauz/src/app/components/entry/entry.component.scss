@@ -10,6 +10,17 @@
     }
   }
 
+  .content-image {
+    text-align: center;
+
+    img {
+      height: 30vh;
+      object-fit: contain;
+      min-height: 400px;
+      max-width: 70vw;
+    }
+  }
+
   .graph-image {
     margin: 1rem 0;
     text-align: center;

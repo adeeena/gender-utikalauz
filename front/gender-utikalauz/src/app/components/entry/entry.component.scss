@@ -275,6 +275,10 @@
     .floating-columns {
       display: flex;
       flex-direction: column;
+
+      .floating-bar {
+        order: 2;
+      }
     }
   }
 

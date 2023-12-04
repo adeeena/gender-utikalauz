@@ -28,7 +28,7 @@ BEVEZETŐ
 
 [Tucking](/#/entry?id=feminizalas-tucking)
 
-[Kiegészítők](/#/entry?id=feminizalas-kiegészítők)
+[Kiegészítők](/#/entry?id=feminizalas-kiegeszitok)
 
 </div>
 

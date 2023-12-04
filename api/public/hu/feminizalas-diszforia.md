@@ -39,5 +39,35 @@ Magas, nagy bordakosárral rendelkező transz nőként a Gwendoline Christie (a 
 
 <div class="header-image"><img src="assets/images/gwendoline.jpg" /></div>
 
+## A személyiség
+
+Kicsit olyan, mint a Coué-módszer, ami a szerepmodellből ered: az én trükköm, amikor egy kis diszfóriát érzek, hogy eszembe jut a kis történetem, amitől jobban érzem magam, és távol tart a (internalizált) transzfóbia erőszakosságától.
+
+Magas vagyok és széles vállú. Néha rosszul érzem magam, amikor sok 1,60 méteres, vékony vállú nő vesz körül. Szóval csak egy megoldás van: AZT FELTÉTELEZEM, HOGY ÉN VAGYOK A LEGSZEBB.
+
+Nem a legkönnyebb dolog, ugye?
+
+De koncentrálok, és azt mondom magamnak: **"Te egy amazon harcos vagy. Te egy Wonder Woman vagy. Azért vagy 180 centi magas, mert viking istennő vagy, nem kell hozzájuk hasonlítanod magad. Viselkedj úgy, mint egy királynő, mert az vagy."**
+
+## A mentálhigiéné fenntartása - Megszabadulni a mérgező gondolatoktól
+
+Ezek bár az alapok, de a felgyülemlett erőszakot nem tarthatod meg magadnak, különben hosszú távon összeomlasz. Meg kell szabadulnod tőle, de egészséges módon. Vannak, akik sportolnak, mások lerajzolják a gondolataikat... Javaslom, hogy vezess kezdetnek naplót...
+
+Én több éven keresztül minden nap ugyanabban az időben írtam legalább egy kis bekezdést mindenről, ami rosszul ment a napomban/életemben, és mindig könnyebbnek éreztem magam a végén.
+
+### Feltételezd magadról a legjobbat
+
+Az egyik trükk, ami egy időben elég jól működött a diszfória elkerülésére, az volt, hogy kerültem a tükröket, amikor nem éreztem magam megfelelõen a bõrömben.
+
+És amikor tükörbe néztem, ügyeltem arra, hogy jó legyen az összhatás.
+
+Mint talán tudod, a fénynek nagy hatása van az arc érzékelt formájára, és ez férfiasabbá vagy nőiesebbé teheti azt, attól függően, hogy a fény erős vagy sem, egyirányú vagy sem, színes vagy sem.
+
+Én például igyekszem elkerülni, hogy az egyetlen ablakom közelében lévő tükörben nézzem magam. Tudom, hogy a fény frontálisan és csak egy irányból fog rám esni, ami hajlamos arra, hogy a vonásaimat hangsúlyosabbá és a hajamat jobban láthatóvá tegye.
+
+Transznemű nőknek olyan helyiségeket ajánlok, ahol a fény közvetett, az egész helyiségben visszaverődik, hogy kisimítsa az árnyékokat.
+
+Működik; hisz az egyik bizonyíték az, hogy amikor lakást váltottam, sokkal kevesebbszer szorongtam, amikor az arcomra néztem.
+
 
 

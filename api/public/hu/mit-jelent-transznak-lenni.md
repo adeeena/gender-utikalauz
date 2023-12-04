@@ -81,4 +81,4 @@ A transzneműek aránya nyugaton a becslések szerint 0,3-1,6%-ra tehető. **Sz�
 
 ## Támogatás és elfogadás
 
-Az elfogadás és támogatás környezetének kialakítása kulcsfontosságú a transznemű egyének számára. A társadalmi sztereotípiák és diszkrimináció súlyosbíthatják a nemi diszforia által okozott szorongást; míg a barátok, család és közösségi támogatás jelentősen javíthatja az egyének jólétét.
+Az elfogadás és támogatás környezetének kialakítása kulcsfontosságú a transznemű egyének számára. A társadalmi sztereotípiák és diszkrimináció súlyosbíthatják a nemi diszfória által okozott szorongást; míg a barátok, család és közösségi támogatás jelentősen javíthatja az egyének jólétét.

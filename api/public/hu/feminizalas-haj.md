@@ -20,7 +20,7 @@ BEVEZETŐ
 
 [Haj](/#/entry?id=feminizalas-haj)
 
-[Testalak, ruházat](/#/entry?id=feminizalas-testalak)
+[Testalkat, ruházat](/#/entry?id=feminizalas-testalkat)
 
 [Sminkelés](/#/entry?id=feminizalas-sminkeles)
 

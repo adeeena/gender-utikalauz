@@ -22,14 +22,14 @@ lang: hu
 
 <div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
 
+# Az arc feminizálása
+
 <div class="infobox podcast-episode">
 <h5>🔊 Kapcsolódó podcast-epizód</h5>
 	
 [Egy Transz Podcast 2×06 – Arcművészet I. Rész – Deluxe Szédülés](https://1tpc.hu/2023/09/29/etpc-2x06-arcmuveszet-i-resz-deluxe-szedules/)
 
 </div>
-
-# Az arc feminizálása
 
 Az arcfeminizációs műtét (FFS) a műtétek egy olyan kategóriája, amelynek célja az arc "elnőiesítése" a "férfias" vonások csökkentésével.
 

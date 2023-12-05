@@ -125,8 +125,17 @@
         "title": "Műtétek"
       },
       {
-        "entryId": "feminizalo-hormonterapia-hangfeminizacio",
+        "entryId": "feminizalas-hangfeminizacio",
         "title": "Hangfeminizáció"
+      }
+    ]
+  },
+  {
+    "title": "👨🏽 Maszkulinizáló Hormonterápia",
+    "children": [
+      {
+        "entryId": "#",
+        "title": "Hamarosan :)"
       }
     ]
   },

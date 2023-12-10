@@ -14,7 +14,7 @@ A passing egy személy azon tulajdonsága, hogy egy identitáscsoport vagy kateg
 
 Ez tehát egy olyan társadalmi fogalom, amely érinti a kulturális normákat, a férfiak és nők mibenlétéről alkotott képzeteinket.
 
-**A férfi és női passing kérdése kulcsfontosságú a transz férfiak és nők biztonsága szempontjából, mivel lehetővé teszi számukra, hogy csökkentsék diszfóriájukat és megvédjék magukat a transzfób erőszakkal (az úgynevezett *cisz-passing*gal) szemben. A kérdés azonban másképp merül fel a nem bináris emberek számára, akik a tranzíció ezeken a fogalmakon túli vagy kívül eső módját keresik** ([lásd a nem-binaritásról szóló bevezető cikkünket](/#/entry?id=mit-jelent-nem-binarisnak-lenni)).
+**A férfi és női passing kérdése kulcsfontosságú a transz férfiak és nők biztonsága szempontjából, mivel lehetővé teszi számukra, hogy csökkentsék diszfóriájukat és megvédjék magukat a transzfób erőszakkal (az úgynevezett cisz-passinggal) szemben. A kérdés azonban másképp merül fel a nem bináris emberek számára, akik a tranzíció ezeken a fogalmakon túli vagy kívül eső módját keresik** ([lásd a nem-binaritásról szóló bevezető cikkünket](/#/entry?id=mit-jelent-nem-binarisnak-lenni)).
 
 A nyugati társadalom még mindig küszködik azzal, hogy megszabaduljon a férfiak és nők ez a fajta bináris kategorizálásától; mind a mindennapi életben, mind társadalmi szinten.
 

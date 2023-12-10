@@ -21,6 +21,10 @@
       {
         "id": "/lexikon",
         "title": "Lexikon"
+      },
+      {
+        "id": "/galery",
+        "title": "Galéria"
       }
     ]
   },
@@ -145,6 +149,10 @@
       {
         "entryId": "mit-jelent-nem-binarisnak-lenni",
         "title": "Mit jelent nem-binárisnak lenni?"
+      },
+      {
+        "entryId": "nem-binaris-passing",
+        "title": "Passing nem-binárisként"
       }
     ]
   }

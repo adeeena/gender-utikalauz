@@ -72,7 +72,7 @@ T-BLOKKOLÓK ÉS PROGESZTINEK
 
 Többféle különböző technika létezik a feminizáló hormonterápiához. A választott technikától függően a feminizáció hatékonysága változhat, valamint a mentális és fizikai egészségre gyakorolt kockázatok is eltérnek.
 
-Mindenesetre szükséges az [ebben a cikkben felsorolt alapoknak megfelelően eljárni](/#/entry?id=feminizalo-hormonterapia-alapok) (testoszteron megszûntetése vagy blokkolása; és az ösztradiol szintjének növelése) a test feminizációjának eléréséhez.
+Mindenesetre szükséges az [ebben a cikkben felsorolt alapoknak megfelelően eljárni](/#/entry?id=feminizalo-hormonterapia-alapok) (testoszteron megszűntetése vagy blokkolása; és az ösztradiol szintjének növelése) a test feminizációjának eléréséhez.
 
 <div class="infobox warning">
 <h5>⚠️ Figyelem</h5>

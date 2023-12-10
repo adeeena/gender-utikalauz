@@ -10,9 +10,9 @@ lang: hu
 
 [Mellnagyobbítás](/#/entry?id=feminizalas-mellnagyobbito-mutet)
 
-[Arcmûtét (FFS)](/#/entry?id=feminizalas-arcmutet)
+[Arcműtét (FFS)](/#/entry?id=feminizalas-arcmutet)
 
-[Ádámcsutka-mûtét](/#/entry?id=feminizalas-adamcsutka-mutet)
+[Ádámcsutka-műtét](/#/entry?id=feminizalas-adamcsutka-mutet)
 
 [Orchidektómia](/#/entry?id=feminizalas-orchidectomia)
 

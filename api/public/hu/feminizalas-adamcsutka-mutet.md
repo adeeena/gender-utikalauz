@@ -1,6 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Ádámcsutka-mûtét"
+title: "Ádámcsutka-műtét"
 lang: hu
 ---
 
@@ -10,9 +10,9 @@ lang: hu
 
 [Mellnagyobbítás](/#/entry?id=feminizalas-mellnagyobbito-mutet)
 
-[Arcmûtét (FFS)](/#/entry?id=feminizalas-arcmutet)
+[Arcműtét (FFS)](/#/entry?id=feminizalas-arcmutet)
 
-[Ádámcsutka-mûtét](/#/entry?id=feminizalas-adamcsutka-mutet)
+[Ádámcsutka-műtét](/#/entry?id=feminizalas-adamcsutka-mutet)
 
 [Orchidektómia](/#/entry?id=feminizalas-orchidectomia)
 
@@ -22,7 +22,7 @@ lang: hu
 
 <div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
 
-# Ádámcsutka-mûtét
+# Ádámcsutka-műtét
 
 ## Mi az a gégeplasztika?
 

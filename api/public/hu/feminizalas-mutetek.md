@@ -1,6 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Mûtétek"
+title: "Műtétek"
 lang: hu
 ---
 
@@ -10,9 +10,9 @@ lang: hu
 
 [Mellnagyobbítás](/#/entry?id=feminizalas-mellnagyobbito-mutet)
 
-[Arcmûtét (FFS)](/#/entry?id=feminizalas-arcmutet)
+[Arcműtét (FFS)](/#/entry?id=feminizalas-arcmutet)
 
-[Ádámcsutka-mûtét](/#/entry?id=feminizalas-adamcsutka-mutet)
+[Ádámcsutka-műtét](/#/entry?id=feminizalas-adamcsutka-mutet)
 
 [Orchidektómia](/#/entry?id=feminizalas-orchidectomia)
 
@@ -30,6 +30,6 @@ A nemi identitást megerősítő műtét olyan sebészeti beavatkozás(ok soroza
 
 A feminizációs műtétek olyan műtétek, amelyek jellemzően női nemhez tartozó anatómiát eredményeznek, mint például a vaginoplasztika és a mellnagyobbítás.
 
-**Minden transz személy tranzíciója és célja más és más; nem kell mûtéteket elvégezned, hogy "igazi" transz lehess, vagy hogy teljesen a választott nemedhez tartozz.**
+**Minden transz személy tranzíciója és célja más és más; nem kell műtéteket elvégezned, hogy "igazi" transz lehess, vagy hogy teljesen a választott nemedhez tartozz.**
 
 </div>

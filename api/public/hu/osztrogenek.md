@@ -104,19 +104,19 @@ Többféle kezelés létezik az ösztrogének szedésére. Összesen 5 fő utat 
             <td><a href="/#/entry?id=kremek-tapaszok">✅Krémek, tapaszok</a></td>
             <td>Jó módszer, az emberektől függően változó eredmény.</td>
             <td>Nagyon alacsony</td>
-            <td>Könnyû</td>
+            <td>Könnyű</td>
         </tr>
         <tr>
             <td><a href="/#/entry?id=osztrogen-tablettak">✅Tabletták</a></td>
             <td>Nagyon jó kezdéshez, de hosszú távon kissé kockázatosabb. Közepes hatékonyság.</td>
             <td>Közepes</td>
-            <td>Könnyû</td>
+            <td>Könnyű</td>
         </tr>
         <tr>
             <td><a href="/#/entry?id=feminizalo-injekciok">✅Injekció</a></td>
             <td>Hatékony hosszú távon, de nagyon nehéz beszerezni.</td>
             <td>Alacsony</td>
-            <td>Könnyû</td>
+            <td>Könnyű</td>
         </tr>
         <tr>
             <td><a href="/#/entry?id=orrspray">😐Orrspray</a></td>

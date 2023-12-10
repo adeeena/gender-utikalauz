@@ -92,7 +92,7 @@ Ezek miatt az okok miatt a legbölcsebb tanács, amit adhatunk:
 
 * Ha valaha is szeretnél gyermeket, akkor tekints a HRT-re úgy, hogy az gyorsan meddőséghez vezet, és valószínűleg szükséges lesz előzetes mintaadás spermabankhoz.
 
-* Ellenkező esetben, ha nem szeretnél gyermeket és szexuális kapcsolatban vagy, akkor tekints a HRT-re úgy, hogy nem feltétlenül teszi teljesen meddővé, és a fogamzásgátlás továbbra is elengedhetetlen az ilyesjellegû balesetek elkerülésére.
+* Ellenkező esetben, ha nem szeretnél gyermeket és szexuális kapcsolatban vagy, akkor tekints a HRT-re úgy, hogy nem feltétlenül teszi teljesen meddővé, és a fogamzásgátlás továbbra is elengedhetetlen az ilyesjellegű balesetek elkerülésére.
 
 ### Jelentkezhetnek-e "menstruációs" tüneteik a cisznemű nőkhöz hasonlóan a transznemű nőknek?
 
@@ -104,7 +104,7 @@ Ahogyan a cisznemű nőknél is, ezek a tünetek nagyon változóak az emberekt�
 
 Ezt az információt gyakran lehet hallani a transz közösségben. Azonban lehetetlen pontosan tudni, mennyire igaz. Míg néhányan azt állítják, hogy a progeszteron segített nekik, mások számára ez semmilyen hatással nem járt.
 
-Továbbá, az ebben a témában cisz- vagy transznemű nőkön végzett alacsony mintavételezésû tanulmány sem mutatott ki fizikai hatást a progeszteron mellformára gyakorolt hatásával kapcsolatban.
+Továbbá, az ebben a témában cisz- vagy transznemű nőkön végzett alacsony mintavételezésű tanulmány sem mutatott ki fizikai hatást a progeszteron mellformára gyakorolt hatásával kapcsolatban.
 
 ### Létezik-e HRT kifejezetten nem bináris személyeknek?
 

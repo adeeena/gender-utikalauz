@@ -10,9 +10,9 @@ lang: hu
 
 [Mellnagyobbítás](/#/entry?id=feminizalas-mellnagyobbito-mutet)
 
-[Arcmûtét (FFS)](/#/entry?id=feminizalas-arcmutet)
+[Arcműtét (FFS)](/#/entry?id=feminizalas-arcmutet)
 
-[Ádámcsutka-mûtét](/#/entry?id=feminizalas-adamcsutka-mutet)
+[Ádámcsutka-műtét](/#/entry?id=feminizalas-adamcsutka-mutet)
 
 [Orchidektómia](/#/entry?id=feminizalas-orchidectomia)
 
@@ -216,7 +216,7 @@ A mellnagyobbításhoz közvetlenül kapcsolódó egyik leggyakoribb mellékhat�
 Az implantátumok is elmozdulhatnak, ami a mell alakjának megváltozásának kockázatát, például aszimmetriát okozhat.
 
 ### Nyirokfolyás 
-Ilyenkor a nyirokfolyadék nem kering megfelelően és felhalmozódik. Megjelenése néhány héttel a műtét után egyes esetekben ismételt szúrásokkal történő kezelést, vagy akár újabb mûtétet is igényelhet a lecsapolás érdekében.
+Ilyenkor a nyirokfolyadék nem kering megfelelően és felhalmozódik. Megjelenése néhány héttel a műtét után egyes esetekben ismételt szúrásokkal történő kezelést, vagy akár újabb műtétet is igényelhet a lecsapolás érdekében.
 
 ### Az implantátumok károsodása
 

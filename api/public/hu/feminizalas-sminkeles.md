@@ -106,7 +106,7 @@ Eleinte lesz néhány sikertelen eredmény, de egy kis gyakorlással profin fogo
 
 A nőiesség egyik legfontosabb tényezője a kontraszt és a szín a száj és az áll körül.
 
-Ha rúzst használsz, ügyelj arra, hogy a száj körvonala tiszta legyen: mindenképpen kerüld el a meleg színû rúzs és a [hideg, kék felé hajló szakállalapozó](/#/entry?id=feminizalas-arc-szortelenites) egymás mellé helyezését.
+Ha rúzst használsz, ügyelj arra, hogy a száj körvonala tiszta legyen: mindenképpen kerüld el a meleg színű rúzs és a [hideg, kék felé hajló szakállalapozó](/#/entry?id=feminizalas-arc-szortelenites) egymás mellé helyezését.
 
 **Tipp: ne elégedj meg egyetlen rúzzsal. Próbálj ki többfélét, és lépj ki a komfortzónádból.**
 

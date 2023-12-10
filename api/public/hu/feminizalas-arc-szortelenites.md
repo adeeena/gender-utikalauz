@@ -51,7 +51,7 @@ Addig is, vagy ezzel párhuzamosan elrejtheted a szakállad és a bajszod helyé
 
 * Hidratáld arckrémmel (például Nivea), és várd meg, amíg megszárad. Fontos, hogy sminkeléskor is rendszeresen hidratálj, hogy ne károsítsd a bőröd, és hogy elkerüljd a fertőzéseket.
 
-* Használj meleg színû, vastag korrektort. A narancssárga korrektor (fehér bőrre) eltünteti a szakáll színét, amely a kék felé hajlik.
+* Használj meleg színű, vastag korrektort. A narancssárga korrektor (fehér bőrre) eltünteti a szakáll színét, amely a kék felé hajlik.
 
 * Ha megszáradt a korrektor, rögzítsd matt hatású púderrel.
 

@@ -125,7 +125,7 @@ Ne felejtsd el, hogy **a változások nagy része más módon is megtörténik a
 
 * A herezacskók és a pénisz összezsugorodnak. A pénisz itt-ott kicsit sötétebb árnyalatot vehet fel
 
-* **Valószínû a sterilitás.**
+* **Valószínű a sterilitás.**
 
 ## A kezelés leállítása esetén visszafordíthatatlan hatások
 
@@ -133,7 +133,7 @@ A HRT bizonyos visszafordíthatatlan hatásokkal is rendelkezik. Ezeknek a hatá
 
 * lehetséges sterilitás megmaradhat.
 
-* A mellméret lecsökkenhet, de nem tûnik el teljesen.
+* A mellméret lecsökkenhet, de nem tűnik el teljesen.
 
 <div class="infobox podcast-episode">
 <h5>💊 Tájékozott döntés meghozatala a hormonterápia mellett</h5>
@@ -144,7 +144,7 @@ A HRT bizonyos visszafordíthatatlan hatásokkal is rendelkezik. Ezeknek a hatá
 
 ## Mikrodózis
 
-Mikrodózis alatt azt értjük, ha a végül elért hormonszintek a cisznemû nők alsó határértékéhez közelítenek inkább.
+Mikrodózis alatt azt értjük, ha a végül elért hormonszintek a cisznemű nők alsó határértékéhez közelítenek inkább.
 
 Mikrodózisban adagolt HRT akkor lehet hasznos, ha a hatásokat lassan szeretnénk elérni (mert például időt akarunk hagyni a változásokhoz való alkalmazkodáshoz vagy mert nem tudunk/nem szerenténk [kibújni](/#/entry?id=kibujas)), vagy mert androgün hatást szeretnének elérni.
 

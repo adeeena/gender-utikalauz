@@ -16,7 +16,7 @@ Néhányan közületek már tudjátok; mások talán észrevették, de még nem 
 
 Néhány napja lettem 30 éves. És ezen 30 év során túl sok időt töltöttem azzal, hogy elrejtőztem, először önmagam elől, majd mások elől. Végre, néhány napja, azt hiszem, nincs több félelem bennem. Nincs több félelem tőletek, a reakcióitoktól, bármilyenek is legyenek. Nincs több félelem tőled, aki valószínűleg törölni fogja a barátai listájáról, amint rájössz, hogy valójában ki vagyok. Nincs több félelem, mert olyan emberek vesznek körül, akik szeretnek, támogatnak, és mindennap segítenek az új életemben.
 
-Az új életemben egyszerûen egy férfié. Végre onmagam vagyok. Végre jogosultként érzem magam arra, hogy ezentúl teljes értékûen férfiként éljek.
+Az új életemben egyszerűen egy férfié. Végre onmagam vagyok. Végre jogosultként érzem magam arra, hogy ezentúl teljes értékűen férfiként éljek.
 
 Mit jelent ez konkrétan? Nos, egyszerűen annyit, hogy mostantól hivatalosan is **{Keresztnév}** a nevem (kérlek felejts el bármilyen más nevet, amit rólam ismersz), és hivatkozz rám férfiként, beszélj rólam férfiként, röviden, kezelj úgy, mint egy fickót. Egy transznemű srác vagyok. Ez csak azt jelenti, hogy amikor megszülettem, nem azt mondták a szüleimnek, hogy "fiuk született", de valójában igen. Mindig is egy fiú voltam, és mindig is az maradok.
 

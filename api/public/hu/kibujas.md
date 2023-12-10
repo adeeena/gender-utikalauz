@@ -31,7 +31,7 @@ Minden egyes coming out, aminek pozitív kicsengése van, segít abban, hogy mé
 
 Egyesével vettem fel a kapcsolatot az ismerőseimmel, majd a családom tagjaival, hogy bejelentsem nekik a kibújásomat. Azok, akikről tudtam, hogy merevebben állnak hozzá a témához, azokkal külön-külön ültem le. Ez lehetőséget teremtett a kérdéseik és a gátlásaik megválaszolására. Nem sikerült minden alkalommal ez a fajta beszélgetés sem, ugyanakkor rengeteget segített a kommunikációban, hogy nem volt lehetőségük mások mögé bújni. Így volt lehetőség valódi beszélgetés kialakítására.
 
-Azokkal az emberekkel pedig, akiket nyitott(abb) szellemûnek tartottam, és tudtam, hogy pozitív reakciót vált ki belőlük a kibújásom, nekik egyszerre outoltam.
+Azokkal az emberekkel pedig, akiket nyitott(abb) szelleműnek tartottam, és tudtam, hogy pozitív reakciót vált ki belőlük a kibújásom, nekik egyszerre outoltam.
 
 ## Pozitív reakcióra való felkészítés
 
@@ -57,13 +57,13 @@ Ha valamiért nem vihetem magammal a levelet, akkor e-mailt küldök nekik, vagy
 
 Ráadásul a kinyomtatással ez az egész még kézzelfoghatóbbá és valóságosabbá válik.
 
-Nyilvánvalóan a fenti tippek és tanácsok azokkal az emberekkel mûködnek, akik egy kicsit is nyitottak; a makacs és/vagy ellenséges emberekre nagy valószínûséggel ezek az érvek nem fognak hatni.
+Nyilvánvalóan a fenti tippek és tanácsok azokkal az emberekkel működnek, akik egy kicsit is nyitottak; a makacs és/vagy ellenséges emberekre nagy valószínűséggel ezek az érvek nem fognak hatni.
 
 ## Készülj fel mindig a legrosszabb forgatókönyvre
 
 Ha a coming out valamiért kezd rosszra fordulni, akkor mindenáron el kell kerülni azt, hogy a szituáció tovább eszkalálódjon.
 
-Ha úgy ítéled meg, hogy a kibújásod bárminemû veszélyekkel járhat, akkor:
+Ha úgy ítéled meg, hogy a kibújásod bárminemű veszélyekkel járhat, akkor:
 
 * kérd meg egy barátot/barátnőt, hogy kísérjen el a találkozóra, és aki segíthet a beszélgetésben
 * biztosítsd, hogy bármikor el tudj menni a találkozóról

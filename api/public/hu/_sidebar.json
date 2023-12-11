@@ -138,8 +138,28 @@
     "title": "👨🏽 Maszkulinizáló Hormonterápia",
     "children": [
       {
-        "entryId": "#",
-        "title": "Hamarosan :)"
+        "entryId": "maszkulinizalas-diszforia",
+        "title": "Diszfória"
+      },
+      {
+        "entryId": "maszkulinizalas-passing",
+        "title": "Férfi passing - tippek és tanácsok"
+      },
+      {
+        "entryId": "maszkulinizalas-testedzes",
+        "title": "Testedzés"
+      },
+      {
+        "entryId": "maszkulinizalas-mell-elrejtese",
+        "title": "Mellek elrejtése"
+      },
+      {
+        "entryId": "maszkulinizalas-packing",
+        "title": "Packing"
+      },
+      {
+        "entryId": "maszkulinizalas-mutetek",
+        "title": "Mûtétek"
       }
     ]
   },

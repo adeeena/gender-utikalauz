@@ -51,7 +51,7 @@ Ez a dosszié végigmegy minden olyan elemen, amely segíthet vagy akadályozhat
 
 <div class="infobox warning">
 
-⚠️ Kérjük, ne tekintse ezt a dossziét egy kitöltendő listának! Végigvéve ez a hosszú lista azt a karikatúraszerű benyomást keltheti, hogy minden mezőt ki kell pipálni ahhoz, hogy valakiből "igazi nő" legyen.
+⚠️ Kérjük, ne tekintsd ezt a dossziét egy kitöltendő listának! Végigvéve ez a hosszú lista azt a karikatúraszerű benyomást keltheti, hogy minden mezőt ki kell pipálni ahhoz, hogy valakiből "igazi nő" legyen.
 
 </div>
 

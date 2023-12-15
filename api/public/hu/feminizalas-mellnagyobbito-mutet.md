@@ -33,7 +33,7 @@ A mellimplantátumok beültetése az egyik leggyakrabban végzett műtét a vil�
 
 <div class="infobox warning">
 
-⚠️ Ez a cikk aktfotókat és grafikus ábrákat tartalmaz.
+⚠️ Ez a cikk aktfotókat és explicit grafikus ábrákat tartalmaz.
 
 </div>
 

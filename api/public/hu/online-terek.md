@@ -43,5 +43,3 @@ A Reddit egy olyan oldal, amely tematikus fórumokat (subreddit) gyűjt össze.
 ➡️ [r/transgamers](https://www.reddit.com/r/transgamers/): videojátékokkal játszó transz emberek közössége
 
 ➡️ [r/traaaaaaannnnnnnnnns](https://www.reddit.com/r/traaaaaaannnnnnnnnns/): transz humor, transz emberektől
-
-]

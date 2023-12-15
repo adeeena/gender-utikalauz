@@ -38,7 +38,7 @@ A méheltávolítás megállítja a menstruációt. Ha teljes (a méhnyak eltáv
 
 A méheltávolítás után a terhesség lehetetlen. Ha a petefészkek megmaradnak és működőképesek, a hormontermelés természetes módon folytatódhat: ha nem vagy hormonon, még mindig lehet lépéseket tenni a petesejtek megőrzése érdekében.
 
-Részletekért lásd a [transz emberek termékenységéről szóló cikkünket](/#/entry?id=TODO).
+Részletekért lásd a [transz emberek termékenységéről szóló cikkünket](/#/entry?id=termekenyseg-megorzese).
 
 ### Oophorektómia
 A petefészkek eltávolítása (a petevezetékek eltávolításával vagy anélkül) végleges sterilitást eredményez. 

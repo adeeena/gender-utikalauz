@@ -26,7 +26,7 @@ BEVEZETŐ
 
 [Bevezető az ösztrogénekhez](/#/entry?id=osztrogenek)
 
-[✅Krémek és tapaszok](/#/entry?id=kremek-tapaszok)
+[✅Gélek, tapaszok, krémek](/#/entry?id=feminizalo-gelek-tapaszok-kremek)
 
 [✅Tabletták](/#/entry?id=feminizalo-tablettak)
 
@@ -101,7 +101,7 @@ Többféle kezelés létezik az ösztrogének szedésére. Összesen 5 fő utat 
     </thead>
     <tbody>
         <tr>
-            <td><a href="/#/entry?id=kremek-tapaszok">✅Krémek, tapaszok</a></td>
+            <td><a href="/#/entry?id=feminizalo-gelek-tapaszok-kremek">✅Gélek, tapaszok, krémek</a></td>
             <td>Jó módszer, az emberektől függően változó eredmény.</td>
             <td>Nagyon alacsony</td>
             <td>Könnyű</td>

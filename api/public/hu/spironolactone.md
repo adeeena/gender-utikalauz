@@ -26,7 +26,7 @@ BEVEZETŐ
 
 [Bevezető az ösztrogénekhez](/#/entry?id=osztrogenek)
 
-[✅Krémek és tapaszok](/#/entry?id=kremek-tapaszok)
+[✅Gélek, tapaszok, krémek](/#/entry?id=feminizalo-gelek-tapaszok-kremek)
 
 [✅Tabletták](/#/entry?id=feminizalo-tablettak)
 
@@ -108,7 +108,7 @@ Ez egy meglehetősen szokatlan gyógyszer, mivel az antiandrogén hatása másod
         </tr>
         <tr>
             <td><b>Átlagos adagolás</b></td>
-            <td>50 - 200 mg/nap</td>
+            <td>50 - 200 mg naponta</td>
         </tr>
         <tr>
             <td><b>Miket kell vizsgálni vérvételkor</b></td>
@@ -141,9 +141,11 @@ Ez egy olyan gyógyszer, amely egyszerre hat vízhajtóként és antiandrogénk�
 
 Meg kell jegyezni, hogy a progeszteron- és kortizolreceptorokra is hat, ami egyeseknél váratlan hatásokat válthat ki.
 
-A gyakorlatban gyakran a vízhajtó hatás a legbonyolultabb a szedő transz nők számára.
+A gyakorlatban gyakran a vízhajtó hatás a legkellemetlenebb mellékhatás az ezt szedő transz nők számára.
 
-Fennáll a hiperkalémia, azaz a káliumfelesleg által meghatározott állapot kockázata is, ami azt jelenti, **hogy nagyon oda kell figyelni az étrendre, és ellenőrizni kell a vér kálium- és nátriumszintjét.**
+Mindemellett a spironolactone csökkenti a vérnyomást is, így a gyógyszer szedése során erekciós zavarok is felléphetnek.
+
+Fennállhat a hiperkalémia, azaz a káliumfelesleg által meghatározott állapot kockázata is, ami azt jelenti, **hogy nagyon oda kell figyelni az étrendre, és ellenőrizni kell a vér kálium- és nátriumszintjét.**
 
 Végül pedig a spironolactone gyakran nem elég hatékony a tesztoszteron blokkolásához, ami megmagyarázza a **gyenge feminizációt és a transz körökben a gyógyszerrel kapcsolatos bizonyos rossz hírnevet**.
 

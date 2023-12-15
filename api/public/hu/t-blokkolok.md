@@ -26,7 +26,7 @@ BEVEZETŐ
 
 [Bevezető az ösztrogénekhez](/#/entry?id=osztrogenek)
 
-[✅Krémek és tapaszok](/#/entry?id=kremek-tapaszok)
+[✅Gélek, tapaszok, krémek](/#/entry?id=feminizalo-gelek-tapaszok-kremek)
 
 [✅Tabletták](/#/entry?id=feminizalo-tablettak)
 
@@ -195,6 +195,7 @@ A fő probléma ezekkel a gyógyszerekkel az, hogy rendkívül drágák, ami szi
 Majdnem minden GnRHa gyógyszert injekció formájában kell bevenni, hagyományosan 1-3 havonta. Létezik orrspray változat is.
 
 #### Az agonisták és az antagonisták közötti különbség
+
 A gyakorlatban a GnRH szabályozásának két módja van:
 
 Az első a blokkolás. Több GnRH -> Több LH/FSH -> Több tesztoszteron. Ezt nevezik GnRH antagonistának.

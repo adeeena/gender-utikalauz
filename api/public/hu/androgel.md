@@ -16,7 +16,6 @@ BEVEZETŐ
 
 [Hatások](/#/entry?id=maszkulinizalo-hormonterapia-hatasok)
 
-
 [Menstruáció és meddőség](/#/entry?id=maszkulinizalo-hormonterapia-menstruacio-meddoseg)
 
 <hr />
@@ -74,7 +73,7 @@ Az olykor enyhébb eredmények miatt az Androgel lehetséges alternatíva az eny
         </tr>
         <tr>
             <td><b>Átlagos adagolás</b></td>
-            <td>2 adag/alkalom.<br />Maximum 4 adag/nap.</td>
+            <td>2 adag/alkalom.<br />Maximum 4 adag naponta.</td>
         </tr>
         <tr>
             <td><b>Miket kell vizsgálni vérvételkor</b></td>

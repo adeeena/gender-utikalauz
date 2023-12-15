@@ -131,7 +131,7 @@ Ezeket a beavatkozásokat nem támogatja a társadalombiztosítás, és az áruk
 
 A mellkas lassan csökken egy "feminizáló" hormonterápia abbahagyása után, a zsírok újraeloszlannak a "férfiasabb" megjelenés érdekében. Néhány hónapot vehet igénybe, mire megtudható, mennyire sikerült csökkenteni a mellméretet.
 
-Ugyanazokat a tippeket tudjuk ajánlani, amelyeket a transznemű férfiak használnak [TODO ADENA a mellkas lelapításához](#).
+Ugyanazokat a tippeket tudjuk ajánlani, amelyeket a transznemű férfiak használnak [a mellkas lelapításához](/#/entry?id=maszkulinizalas-mell-elrejtese).
 
 ### Törzsplasztika
 
@@ -153,7 +153,7 @@ Lehetséges továbbá a hajvonal módosítása sebészeti beavatkozással is.
 
 Azoknál a detranzícionáló nőknél, akik egy ideig szedtek tesztoszteront, a nyaknál tapasztalható kidudorodás (más néven ádámcsutka) egy tartós és visszafordíthatatlan változás.
 
-A [TODO ADENA pajzsporc-kisebbítéssel]() lehet az ádámcsutka kívülről látható részét eltávolítani. Ez nem egy komoly beavatkozás, és nagyon diszkrét heg marad utána. Az ára külföldön körülbelül 1500 euró.
+A [pajzsporc-kisebbítéssel](/#/entry?id=feminizalas-adamcsutka-mutet) lehet az ádámcsutka kívülről látható részét eltávolítani. Ez nem egy komoly beavatkozás, és nagyon diszkrét heg marad utána. Az ára külföldön körülbelül 1500 euró.
 
 Ez a műtét kizárólag esztétikai célból történik, és nincs hatással a hangmagasságra.
 

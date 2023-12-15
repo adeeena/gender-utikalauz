@@ -30,8 +30,6 @@ Természetesen a közeli családom tud a dologról, és támogatnak. Tudják, ho
 
 Értem, hogy talán keveset tudtok erről a témáról, és ez teljesen érthető. Ha kérdéseitek vannak, szívesen válaszolok rájuk, és ha szeretnétek többet megtudni, ajánlom a [Gender Útikalauz weboldalát (kattints ide)](http://genderutikalauz.hu) (ez az oldal megbízhatónak számít, mivel a transzidentitással kapcsolatosan elég sok hibát lehet találni az interneten).
 
-<!--És hogy minden zökkenőmentesen menjen a következő találkozónkon, csatoltam ehhez az e-mailhez egy gyönyörű brosúrát (ez a brosúra mellékletben található), amit szívesen ajánlok elolvasásra. TODO ADENA-->
-
 Tudnotok kell azonban, hogy ugyanaz a személy maradok, csak a nevem fog megváltozni. Ugyanazok a szenvedélyek és ugyanaz a rossz humor.
 
 Tehát összefoglalva, remélem, hogy ez nem változtat semmin a kapcsolatunkban.

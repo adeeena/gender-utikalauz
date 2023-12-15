@@ -1,6 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Krémek, tapaszok"
+title: "Gélek, tapaszok, krémek"
 lang: hu
 ---
 
@@ -26,7 +26,7 @@ BEVEZETŐ
 
 [Bevezető az ösztrogénekhez](/#/entry?id=osztrogenek)
 
-[✅Krémek és tapaszok](/#/entry?id=kremek-tapaszok)
+[✅Gélek, tapaszok, krémek](/#/entry?id=feminizalo-gelek-tapaszok-kremek)
 
 [✅Tabletták](/#/entry?id=feminizalo-tablettak)
 
@@ -68,7 +68,7 @@ T-BLOKKOLÓK ÉS PROGESZTINEK
 
 <div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
 
-# Krémek és tapaszok
+# Gélek, tapaszok, krémek
 
 <div class="infobox info">
 
@@ -76,11 +76,13 @@ Ez a cikk bemutatja az ösztrogének bőrön alkalmazásának sajátosságait. A
 
 </div>
 
-## Általánosságban a krémekről és tapaszokról
+## Általánosságban a gélekrõl és tapaszokról
 
-Az ösztradiol krémeket és tapaszt a leggyakoribb és legelérhetőbb alkalmazási módnak tartják Európa szerte.
+Az ösztradiol géleket és tapaszt a leggyakoribb és legelérhetőbb alkalmazási módnak tartják Európa szerte.
 
 Az ösztrogéneknek megvan az a kémiai tulajdonságuk, hogy képesek a bőrön keresztül felszívódni. Ez tette lehetővé egy másik alkalmazási mód kifejlesztését, ami eltér a tablettáktól és ugyanolyan praktikus: a tapaszok és a gél.
+
+Az előírt gélek általában csomagban vagy pumpában vannak, amely minden alkalommal meghatározott mennyiséget adagolnak. Az ösztradiol géleket alkoholos bázisban állítják össze a felszívódás növelése érdekében. Általában naponta 1-2x alkalmazzák a bőrre. A nem megfelelően adagolható, tubusos gélek a pontos adagolás nehézsége miatt nem ajánlottak.
 
 Alapvetően nincs különbség a gél és a tapasz között. Ez inkább egy személyes preferencia kérdése, attól függően, hogy te előnyben részesíted-e a tapaszt és elfelejted azt a következő napokra; vagy ha a tapasz irritálja a bőrödet, akkor a napi gél alkalmazását részesíted előnyben. A tapaszokkal vagy a géllal elért hormonszintek kb. ugyanolyan stabilak lesznek.
 
@@ -102,7 +104,7 @@ Azonban az eredmények jelentősen eltérhetnek személyenként. Ha a bőröd ro
 * A tapaszok esetében: Irritálhatja a bőrt
 * A tapaszok esetében: Izzadás és/vagy fizikai aktivitás esetén leeshet a tapasz.
 
-## Krémek
+## Gélek, krémek
 
 <table>
     <tbody>
@@ -229,15 +231,16 @@ A herezacskó bőre érrendszerének köszönhetően ismert a szteroid hormonok 
 
 Ezt a módszert elsősorban hipogonadizmussal küzdő ciszgender férfiak kezelésére tanulmányozták és alkalmazták, testoszteron gélt vagy tapaszokat használva.
 
-***Forrás:*➡️ [Clin Pharmacol. 2010; 2: 149–153](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3262378/#) : "Due to the superficial vascularity of the scrotal skin, there is a 5-40 fold increase in steroid absorption when compared to other skin sites."*
+* *Forrás:*➡️ **[Clin Pharmacol. 2010; 2: 149–153](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3262378/#): "Due to the superficial vascularity of the scrotal skin, there is a 5-40 fold increase in steroid absorption when compared to other skin sites."**
 
-***Forrás:*➡️ [J Clin Endocrinol Metab. 1996 May;81(5):1832-40](https://www.ncbi.nlm.nih.gov/pubmed/?term=J+Clin+Endocrinol+Metab.+1996+May%3B81(5)%3A1832-40.#): "the relative permeability at other application sites was greatest for the scrotum (42.0), increased for the back (1.7), reduced for the lateral ankle (0.42), and lowest for the sole of the foot (0.14)."*
+* *Forrás:*➡️ **[J Clin Endocrinol Metab. 1996 May;81(5):1832-40](https://www.ncbi.nlm.nih.gov/pubmed/?term=J+Clin+Endocrinol+Metab.+1996+May%3B81(5)%3A1832-40.#): "the relative permeability at other application sites was greatest for the scrotum (42.0), increased for the back (1.7), reduced for the lateral ankle (0.42), and lowest for the sole of the foot (0.14)."**
 
 2005-ben egy argentin kutatócsoport tanulmányozta az ösztradiol tapaszok herezacskóra történő alkalmazásának hatékonyságát prosztatarákkal diagnosztizált férfiaknál.
 
 Tanulmányuk megerősítette e módszer hatékonyságát, mely akár 6-szorosan megnövelte az átlagos ösztradiol szintet az alkarhoz képest, lehetővé téve a testoszteron termelésének leállítását anélkül, hogy szükség lett volna anti-androgén hozzáadására.
 
-***Forrás:*➡️ [Re, I., Asenjo, G., Maximino, G., & Micheletti, L. (2005). Tratamiento del Cáncer de Próstata Avanzado con Estrógenos Transdérmicos Escrotales (ETE). [Transdermal Scrotal Estrogen Patches (TSEP) in the Treatment of Advanced Prostate Cancer.] Revista Argentina de, 70(4), 231:](https://www.sau-net.org/publicaciones/abstracts_70_4.html)*
+* *Forrás:*➡️ **[Re, I., Asenjo, G., Maximino, G., & Micheletti, L. (2005). Tratamiento del Cáncer de Próstata Avanzado con Estrógenos Transdérmicos Escrotales (ETE). [Transdermal Scrotal Estrogen Patches (TSEP) in the Treatment of Advanced Prostate Cancer.] Revista Argentina de, 70(4), 231:](https://www.sau-net.org/publicaciones/abstracts_70_4.html)**
+
 
 <div class="header-image"><img src="assets/images/scrotum.png" /></div>
 
@@ -258,11 +261,13 @@ Ugyanakkor [a tanulmányukban az argentin kutatók nem figyeltek meg semmilyen n
 ### Előnyök:
 
 * Lehetővé teszi, hogy akiknek túl alacsony a hormonszintjük, hogy könnyen magasabb ösztrogénszintet érjenek el
+
 * Általában lehetővé teszi a T-blokkoló mellőzését, mivel a testoszteron természetesen elnyomódik a magas ösztrogénszint miatt
 
 ### Hátrányok:
 
 * A hormonszintek kevésbé stabilak a nap folyamán
+
 * Nincs tapasztalat a hosszú távú mellékhatásokról
 
 </div>

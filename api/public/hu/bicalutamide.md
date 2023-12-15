@@ -26,7 +26,7 @@ BEVEZETŐ
 
 [Bevezető az ösztrogénekhez](/#/entry?id=osztrogenek)
 
-[✅Krémek és tapaszok](/#/entry?id=kremek-tapaszok)
+[✅Gélek, tapaszok, krémek](/#/entry?id=feminizalo-gelek-tapaszok-kremek)
 
 [✅Tabletták](/#/entry?id=feminizalo-tablettak)
 
@@ -114,7 +114,7 @@ A transz nők által leginkább kedvelt antiandrogének egyike, annak ellenére,
         </tr>
         <tr>
             <td><b>Átlagos adagolás</b></td>
-            <td>Napi 50 mg</td>
+            <td>50 mg naponta<br />Ösztrogén adagolási útmutatót lentebb találod.</td>
         </tr>
         <tr>
             <td><b>Miket kell vizsgálni vérvételkor</b></td>
@@ -160,7 +160,8 @@ Ennek ellenére a májenzimszinteket figyelemmel kell kísérni az esetleges elt
 
 A májkockázathoz hasonlóan a bicalutamide a tüdőkárosodás nagyon alacsony kockázatával jár. [Mindössze 17 esetről számoltak be](https://en.wikipedia.org/wiki/Template:Published_case_reports_of_bicalutamide-associated_lung_toxicity), és ezek mindegyike a feminizáló HRT-hez előírtnál nagyobb dózisban történt.
 
-## Hogyan kell adagolni?
+
+## Adagolási útmutató
 
 A HRT részeként általában napi 50 mg-os adagot (egy tabletta) írnak elő. Ha a tesztoszteronszintet az ösztrogén már jelentősen csökkentette, napi 25 mg-os adag (2 naponta egy tabletta) elegendő lehet.
 
@@ -170,6 +171,46 @@ Tekintettel arra, hogy a bicalutamide nem változtatja meg a vér tesztoszterons
 **Ne feledd, hogy a tesztoszteronszint nem csökken a vérben. Ez normális, és nincs miért aggódni.**
 
 **Nagyon hosszú felezési ideje van, ami nagyon hatékonnyá teszi, de azt jelenti, hogy 4 és 12 hét között kell várni, hogy a vérben lévő szintje elérje a maximumot.**
+
+<div class="infobox warning">
+    
+Veszélyes lehet felügyelet nélkül házilagosan hormonterápiát folytatni; és mindig jobb, ha egy a témában jártas egészségügyi szakember ellenőrzi az értékeket.
+
+Ha azonban helyzetének következtében nincs más választásod, mint az önkezelés, győződj meg róla, hogy a vásárolt termékeket megbízható emberektől szerzed.
+
+[A házilagos módszerek alapjairól szóló cikket itt találod.](/#/entry?id=hormonterapia-hazilagos-modszerek)
+
+</div>
+
+<table>
+    <tbody>
+        <tr>
+            <td><b>Módszer</b></td>
+            <td><b>Bicalutamide</b></td>
+            <td><b>Ösztradiol</b></td>
+        </tr>
+        <tr>
+            <td>Ösztradiol<br /><b>szájon át</b></td>
+            <td>50 mg naponta</td>
+            <td>3 mg, napi 2x<br />összesen napi 6mg</td>
+        </tr>
+        <tr>
+            <td>Ösztradiol<br /><b>nyelv alatt</b></td>
+            <td>50 mg naponta</td>
+            <td>1 mg, napi 3x<br />összesen napi 3mg</td>
+        </tr>
+        <tr>
+            <td>Ösztradiol<br /><b>tapasz</b></td>
+            <td>50 mg naponta</td>
+            <td>200μg tapasz<br />hetente cserélve</td>
+        </tr>
+        <tr>
+            <td>Ösztradiol<br /><b>gél</b></td>
+            <td>50 mg naponta</td>
+            <td>4mg naponta</td>
+        </tr>
+    </tbody>
+</table>
 
 ## GYIK (Gyakran Ismételt Kérdések)
 

@@ -18,7 +18,7 @@ Vannak helyek a rokonok és a család számára:
 
 ## Magyar nyelvű közösségek
 
-➡️ [Pantheon LMBT Discord szerver](https://discord.gg/C2XWhsCy7C): egy nagyobb LMBT-tematikájú csatorna
+➡️ [Pantheon LMBT Discord szerver](https://discord.gg/mTpwd2mk9F): egy nagyobb LMBT-tematikájú csatorna
 
 ## Angol fórumok a Redditen
 

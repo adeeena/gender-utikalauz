@@ -26,7 +26,7 @@ BEVEZETŐ
 
 [Bevezető az ösztrogénekhez](/#/entry?id=osztrogenek)
 
-[✅Krémek és tapaszok](/#/entry?id=kremek-tapaszok)
+[✅Gélek, tapaszok, krémek](/#/entry?id=feminizalo-gelek-tapaszok-kremek)
 
 [✅Tabletták](/#/entry?id=feminizalo-tablettak)
 
@@ -103,12 +103,18 @@ Ez a cikk bemutatja az ösztrogének injekcióval való alkalmazásának sajáto
                 <a href="https://en.wikipedia.org/wiki/Sex_hormone-binding_globulin">SHBG</a>
             </td>
         </tr>
+         <tr>
+            <td><b>Felezési idõ</b></td>
+            <td>Ösztradiol-valerát: 3 nap<br />
+                Ösztradiol-cipionát: 6,7 nap<br />
+                Ösztradiol-enantát: 4,6 nap</td>
+        </tr>
     </tbody>
 </table>
 
 ## Adagolás
 
-Kérjük, vedd figyelembe, hogy az adagolás csak tájékoztató jellegű. A gyakorlatban az adagolás személyenként nagymértékben eltérhet, amit vérvizsgálat eredményei alapján be kell majd beállítani.
+Vedd figyelembe, hogy az adagolás csak tájékoztató jellegű. A gyakorlatban az adagolás személyenként nagymértékben eltérhet, amit vérvizsgálat eredményei alapján be kell majd beállítani.
 
 ## Hozzáférés Magyarországon
 
@@ -123,6 +129,10 @@ Kanadában, az USA-ban, Ázsiában és egyes európai országokban (Csehország,
 ## Működési elv
 
 Bár az ösztrogéninjekció Európában viszonylag ismeretlen, más országokban, például Amerikában és egyes ázsiai országokban népszerű módszer.
+
+A szövetekbe befecskendezett nyers ösztradiol nagyon gyorsan eloszlik, ezért az ösztradiol-injekciók mind észter formában érkeznek. Ez még mindig csak ösztradiol, a szervezeted csak lassan alakítja át ösztradiollá az észterezett formából.
+
+Az ösztradiol-valerát, az ösztradiol-cypionát és az ösztradiol-enanthát a leggyakrabban felírt és használt ösztradiol-észterek. Mindegyiknek különböző felezési ideje van (az idő, amely a szervezetben eltart, mielőtt a gyógyszer fele metabolizálódik).
 
 Az injekcióknak van egy olyan előnye, ami egyik más módszernek sincs: minden nehézség nélkül garantálják a magas ösztrogénszintet. A hormonokat rosszul felszívó bőrrel rendelkezők számára gyakran ez az egyetlen módja az [ösztrogén-monoterápia alkalmazásának](/#/entry?id=feminizalo-hormonterapia-technikak), és az antiandrogének nélkülözésének.
 

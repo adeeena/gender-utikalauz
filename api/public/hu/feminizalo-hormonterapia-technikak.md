@@ -26,7 +26,7 @@ BEVEZETŐ
 
 [Bevezető az ösztrogénekhez](/#/entry?id=osztrogenek)
 
-[✅Krémek és tapaszok](/#/entry?id=kremek-tapaszok)
+[✅Gélek, tapaszok, krémek](/#/entry?id=feminizalo-gelek-tapaszok-kremek)
 
 [✅Tabletták](/#/entry?id=feminizalo-tablettak)
 
@@ -113,11 +113,15 @@ Számos T-blokkoló létezik, nagyon különböző várható hatásokkal és mel
 
 ## 2. módszer: Csak ösztrogén (ösztrogén monoterápia)
 
-Ennek a módszernek az elve igen egyszerű: **annyi [ösztrogént](/#/entry?id=osztrogenek) kell szedni, amíg el nem éri a tesztoszteron szint csökkentéséhez elegendően magas szintet.**
+A monoterápia azt jelenti, hogy csak egyfajta gyógyszert használunk. Az ösztradiol-monoterápia tehát azt jelenti, hogy csak nagy dózisú [ösztrogént](/#/entry?id=osztrogenek) használunk a szervezet tesztoszterontermelésének elnyomására.
 
 Az [ösztrogéneknek](/#/entry?id=osztrogenek) van egy nagyon hasznos tulajdonságuk, hogy kiváló [antigonadotropinok](https://en.wikipedia.org/wiki/Gonadotropin), ami azt jelenti, hogy ha a vérben eléggé nagy számban jelennek meg, akkor kényszerítik a testet a saját nemi hormonok (jelen esetben a tesztoszteron) termelésének csökkentésére, vagy akár leállítására.
 
 ***Forrás:** “Levels of estradiol of 200 pg/mL and above suppress testosterone levels by about 90%, while estradiol levels of 500 pg/mL and above suppress testosterone levels by about 95%” https://en.wikipedia.org/wiki/Transgender_hormone_therapy_(male-to-female)#Estrogens*
+
+Ez a módszer általában csak ösztradiol injekciókkal érhető el könnyen, amelyek lehetővé teszik, hogy az ember könnyebben érjen el magas ösztradiolszintet, mint más beviteli módszerek.
+
+Egyesek képesek az ösztradiol monoterápiás kezelést transzdermális ösztrogénekkel fenntartani, de ez nehezebben fenntartható hosszabb távon. A transzdermális ösztradiol monoterápia ezen okok miatt nem ajánlott.
 
 Kezdetekben ez volt a transznemű nők számára létező első típusú hormonpótló kezelés. Akkoriban nem bio-azonos ösztrogéneket használtak, hanem összekapcsolt ösztrogéneket, mint a Premarin, amelyek rendkívül veszélyesek voltak az egészségre, és ez vezetett az anti-androgénekkel kiegészített hormonpótló kezelések kifejlesztéséhez a kockázatok csökkentése érdekében.
 
@@ -125,9 +129,9 @@ Kezdetekben ez volt a transznemű nők számára létező első típusú hormonp
 
 ***Forrás a Premarin veszélyeiről: **Smith NL, Blondon M, Wiggins KL, Harrington LB, van Hylckama Vlieg A, Floyd JS, Hwang M, Bis JC, McKnight B, Rice KM, Lumley T, Rosendaal FR, Heckbert SR, Psaty BM (January 2014). « Lower risk of cardiovascular events in postmenopausal women taking oral estradiol compared with oral conjugated equine estrogens ». JAMA Intern Med. 174 (1): 25–31. doi:10.1001/jamainternmed.2013.11074. PMC 4636198. PMID 24081194.*
 
-***Forrás a Premarin veszélyeiről: **Smith NL, Heckbert SR, Lemaitre RN, Reiner AP, Lumley T, Weiss NS, Larson EB, Rosendaal FR, Psaty BM (October 2004). « Esterified estrogens and conjugated equine estrogens and the risk of venous thrombosis ». JAMA. 292 (13): 1581–7.*
+* **Forrás a Premarin veszélyeiről: Smith NL, Heckbert SR, Lemaitre RN, Reiner AP, Lumley T, Weiss NS, Larson EB, Rosendaal FR, Psaty BM (October 2004). « Esterified estrogens and conjugated equine estrogens and the risk of venous thrombosis ». JAMA. 292 (13): 1581–7.**
 
-***Forrás, hogy a Premarin veszélyesebb az ösztradiolnál:*➡️ [Kockázat trombózis kialakulására](https://en.wikipedia.org/wiki/Template:Risk_of_venous_thromboembolism_with_hormone_therapy_and_birth_control_pills_(QResearch/CPRD))*
+*Forrás, hogy a Premarin veszélyesebb az ösztradiolnál:*➡️ [Kockázat trombózis kialakulására](https://en.wikipedia.org/wiki/Template:Risk_of_venous_thromboembolism_with_hormone_therapy_and_birth_control_pills_(QResearch/CPRD))
 
 Bár az ösztrogén monoterápiák az elvükben régóta léteznek, népszerűségüket az ösztrogén injekcióknak és az öngyógyszeres kezelési közösségeknek köszönhetően nyerték vissza.
 

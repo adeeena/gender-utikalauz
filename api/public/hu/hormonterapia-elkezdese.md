@@ -88,7 +88,7 @@ Az első találkozón az orvosod kérni fogja az egészségi állapotod felmér�
 Attól függően, hogy melyik városban élsz, ha a bejelentkezésekhez hosszú az idő, javasoljuk, hogy hamar kezdd el az időpontfoglalást. Ha meggondoltad magad, ne felejtsd el lemondani az időpontodat!
 
 
-<div class="infobox podcast-episode">
+<div class="infobox warning">
 <h5>👀 Vigyázz a visszaélésekkel</h5>
 	
 A legtöbb esetben elegendő egy vér- és hormonvizsgálat (vérvétel). Az nem szokványos eljárás, ha indokolatlanul egy sor orvosi vizsgálatot kérnek tőled a kezelés megkezdése előtt.
@@ -128,16 +128,16 @@ A recept érvényességének időtartama nagyon változó lehet, de idővel, ami
 A recept megújítható az eredeti endokrinológus, egy nőgyógyász vagy egy háziorvos által.
 
 
-<div class="infobox podcast-episode">
+<div class="infobox info">
 <h5>💡 Kövesd az eredményeidet</h5>
 	
 Nyiss meg egy dokumentumot egy táblázatkezelő programban (mint például a [Google Táblázatok](https://www.google.hu/intl/hu/sheets/about/), [FramaCalc](https://framacalc.org/abc/hu/) vagy [Excel](https://products.office.com/hu-hu/excel)), hogy feljegyezd hormonális eredményeidet minden vérvételnél. Így nyomon követheted hormonszinted változását és megoszthatod a téged kezelő orvosokkal.
 
 </div>
 
-## Önkezelés
+## Házilagos módszerek, DIY
 
-Ha nem tudsz vagy nincs lehetőséged szakorvoshoz fordulni, utánajárhatsz az önkezelésnek ***("DIY HRT")***, bár veszélyes lehet felügyelet nélkül, és mindig jobb, ha egy a témában jártas egészségügyi szakember ellenőrzi az értékeket.
+Ha nem tudsz vagy nincs lehetőséged szakorvoshoz fordulni, utánajárhatsz a [házilagos módszereknek ***("DIY HRT")***](/#/entry?id=hormonterapia-hazilagos-modszerek), bár veszélyes lehet felügyelet nélkül, és mindig jobb, ha egy a témában jártas egészségügyi szakember ellenőrzi az értékeket.
 
 Ha azonban helyzetének következtében nincs más választásod, mint az önkezelés, győződj meg róla, hogy a vásárolt termékeket megbízható emberektől szerzed.
 
@@ -157,7 +157,7 @@ Ha többet szeretnél megtudni azokról a termékekről, amelyek szóba jöhetne
 -->
 
 
-<div class="infobox podcast-episode">
+<div class="infobox warning">
 <h5>⚠️ Androcur</h5>
 	
 Egy "feminizáló" kezelés keretében néhány orvos Androcur-alapú kezelést fog javasolni, amely Európában az egyik legismertebb tesztoszteron-blokkoló. Azonban mára ezt a gyógyszert jelentős kritikával illetik az egészségre gyakorolt hatásai miatt, amelyek egészen az agydaganatig terjedhetnek. Javasoljuk, hogy kerüld el ezen gyógyszerrel történő kezelést.
@@ -169,7 +169,7 @@ A kezelést addig alkalmazd, amíg az hormonok hatásait szeretnéd élvezni. Az
 
 **Bármikor le lehet állítani azokat kockázat nélkül, ha a testben vannak szexuális hormonokat termelő szervek (funkcionális here vagy petefészek jelenléte).** Az alkalmazott hormonterápiás készítmények változhatnak az egészségi állapotod, az esetlegesen végzett műtétek és saját személyes döntéseid alapján. Azonban azt tanácsoljuk, hogy ne hagyd abba hirtelen a kezelést. Ha komolyan gondolkodsz a HRT abbahagyásán, előbb beszélj a kezelőorvosoddal.
 
-<div class="infobox podcast-episode">
+<div class="infobox warning">
 <h5>⚠️ Figyelem</h5>
 	
 Gonádok (here vagy petefészek) eltávolítása után **állandó hormonkezelésre lesz szükség annak elkerülése érdekében, hogy hormonhiány ne alakulhasson ki**, ami gyengébb egészségi állapotot és [csontritkulást](https://www.webbeteg.hu/cikkek/csontritkulas/218/a-csontritkulas-okai-es-rizikofaktorai) eredményezhet.
@@ -210,7 +210,7 @@ Létezik mikroadagolású hormonkezelés is (amely csak részben helyettesíti t
 
 A kezelés néhány hónapos szedése után a legtöbb transznemű ember termékenysége csökken, vagy akár teljesen meddővé válhat. Bizonyos esetekben a kezelés hosszabb ideig történő abbahagyása (körülbelül 6 hónap) lehetővé teheti a termékenység visszanyerését. De azt tanácsoljuk, hogy erre ne alapozz mindent, mert a termékenység visszatérése nem garantált.
 
-Ha hormonkezelést szeretnél kezdeni és a jövőben gyermeket tervezel, tájékozódj a petesejtjeid vagy spermád megőrzéséről a kezelés megkezdése előtt.
+Ha hormonkezelést szeretnél kezdeni és a jövőben gyermeket tervezel, tájékozódj a petesejtjeid vagy spermád megőrzéséről a kezelés megkezdése előtt. [Részletesebben ebben a cikkben olvashatsz a termékenységrõl a tranzícióval kapcsolatban.](/#/entry?id=termekenyseg-megorzese)
 
 
 

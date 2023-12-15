@@ -26,7 +26,7 @@ BEVEZETŐ
 
 [Bevezető az ösztrogénekhez](/#/entry?id=osztrogenek)
 
-[✅Krémek és tapaszok](/#/entry?id=kremek-tapaszok)
+[✅Gélek, tapaszok, krémek](/#/entry?id=feminizalo-gelek-tapaszok-kremek)
 
 [✅Tabletták](/#/entry?id=feminizalo-tablettak)
 
@@ -91,7 +91,7 @@ Ez a cikk az Androcur sajátos jellemzőit ismerteti. A HRT általános hatásai
 
 ### Hátrányok:
 
-* Jelentős depressziós kockázat.
+* Jelentős kockázat depresszió kialakulására.
 
 * Gyakran csökkent libidóval jár.
 
@@ -111,7 +111,7 @@ Ez a cikk az Androcur sajátos jellemzőit ismerteti. A HRT általános hatásai
         </tr>
         <tr>
             <td><b>Átlagos adagolás</b></td>
-            <td><b>MAX 6-12 mg/nap!</b></td>
+            <td><b>MAX 6,5-12,5 mg naponta!</b><br />Ösztrogén adagolási útmutatót lentebb találod.</td>
         </tr>
         <tr>
             <td><b>Miket kell vizsgálni vérvételkor</b></td>
@@ -167,6 +167,8 @@ Ezért nincs értelme 2 naponta fél tablettánál többet szedni.
 
 </div>
 
+Ha nehezedre esik tördelni a gyógyszert, akkor a közeli patikából beszerezhetsz egy [tablettavágót](https://benu.hu/shop/tablettavago-wolf-1x).
+
 ## Szintetikus progesztinek
 
 A [szintetikus progesztinek](/#/entry?id=szintetikus-progesztinek) olyan szintetikus hormonok, amelyeket történetileg fogamzásgátló tablettákhoz hoztak létre.
@@ -178,5 +180,49 @@ Egyszerűbben fogalmazva a progesztineket a progeszteronhoz lehet hasonlítani, 
 **A legismertebb az Androcur, de sok más is létezik.**
 
 A szintetikus progesztineket elsősorban rendkívül erős antiandrogén hatásuk miatt írják fel. **A progeszteronnal ellentétben, amelyet gyakran a közérzet javulásával hoznak összefüggésbe, a progesztinek sokkal inkább növelik a depresszió kockázatát.**
+
+## Adagolási útmutató
+
+<div class="infobox warning">
+    
+Veszélyes lehet felügyelet nélkül házilagosan hormonterápiát folytatni; és mindig jobb, ha egy a témában jártas egészségügyi szakember ellenőrzi az értékeket.
+
+Ha azonban helyzetének következtében nincs más választásod, mint az önkezelés, győződj meg róla, hogy a vásárolt termékeket megbízható emberektől szerzed.
+
+[A házilagos módszerek alapjairól szóló cikket itt találod.](/#/entry?id=hormonterapia-hazilagos-modszerek)
+
+</div>
+
+<table>
+    <tbody>
+        <tr>
+            <td><b>Módszer</b></td>
+            <td><b>Androcur</b></td>
+            <td><b>Ösztradiol</b></td>
+        </tr>
+        <tr>
+            <td>Ösztradiol<br /><b>szájon át</b></td>
+            <td>6,5-12,5 mg naponta</td>
+            <td>3 mg, napi 2x<br />naponta összesen 6mg</td>
+        </tr>
+        <tr>
+            <td>Ösztradiol<br /><b>nyelv alatt</b></td>
+            <td>6,5-12,5 mg naponta</td>
+            <td>1 mg, napi 3x<br />naponta összesen 3mg</td>
+        </tr>
+        <tr>
+            <td>Ösztradiol<br /><b>tapasz</b></td>
+            <td>6,5-12,5 mg naponta</td>
+            <td>200μg tapasz<br />hetente cserélve</td>
+        </tr>
+        <tr>
+            <td>Ösztradiol<br /><b>gél</b></td>
+            <td>6,5-12,5 mg naponta</td>
+            <td>4mg naponta</td>
+        </tr>
+    </tbody>
+</table>
+
+
 
 </div>

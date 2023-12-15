@@ -26,7 +26,7 @@ BEVEZETŐ
 
 [Bevezető az ösztrogénekhez](/#/entry?id=osztrogenek)
 
-[✅Krémek és tapaszok](/#/entry?id=kremek-tapaszok)
+[✅Gélek, tapaszok, krémek](/#/entry?id=feminizalo-gelek-tapaszok-kremek)
 
 [✅Tabletták](/#/entry?id=tablettak)
 
@@ -90,8 +90,8 @@ Ez a cikk bemutatja az ösztrogének injekcióval való alkalmazásának sajáto
         <tr>
             <td><b>Átlagos adagolás</b></td>
             <td>Ösztradiol-valerát: 4 mg minden 5. napon<br />
-                Ösztradiol-cipionát: 6 mg, hetente<br />
-                Ösztradiol-enantát: 7,5 mg 10 naponta vagy 10 mg 14 naponta</td>
+                Ösztradiol-cipionát: 5 mg, hetente<br />
+                Ösztradiol-enantát: 7 mg 10 naponta</td>
         </tr>
         <tr>
             <td><b>Miket kell vizsgálni vérvételkor</b></td>
@@ -106,11 +106,7 @@ Ez a cikk bemutatja az ösztrogének injekcióval való alkalmazásának sajáto
     </tbody>
 </table>
 
-## Adagolás
-
-Kérjük, vedd figyelembe, hogy az adagolás csak tájékoztató jellegű. A gyakorlatban az adagolás személyenként nagymértékben eltérhet, amit vérvizsgálat eredményei alapján be kell majd beállítani.
-
-## Hozzáférés Magyarországon
+## Hozzáférhatõség Magyarországon
 
 <div class="infobox warning">
 
@@ -152,11 +148,44 @@ Az alábbiakban egy kis grafikon mutatja a kapott görbéket az ösztradiol típ
 
 [Az injekciós szimulátor itt érhető el](https://transfemscience.org/misc/injectable-e2-simulator/). Segítségével megtudhatod, hogy hány napra van szükséged az injekció beadásához, mielőtt néhány hónap múlva a vérszintek ellenőrzésével módosítanád.
 
+## Adagolási útmutató
+
+<div class="infobox warning">
+    
+Az alábbi adagolás csak tájékoztató jellegű. A gyakorlatban az adagolás személyenként nagymértékben eltérhet, amit vérvizsgálat eredményei alapján be kell majd beállítani.
+
+</div>
+
+<table>
+    <tbody>
+        <tr>
+            <td><b>Típus</b></td>
+            <td><b>Adagolás</b></td>
+            <td><b>Mennyiség (40 mg/ml fiola esetén)</b></td>
+        </tr>
+        <tr>
+            <td>Ösztradiol<br /><b>Ösztradiol-valerát</b></td>
+            <td>4 mg minden 5. napon</td>
+            <td>0,1 ml</td>
+        </tr>
+        <tr>
+            <td>Ösztradiol<br /><b>-cipionát</b></td>
+            <td>5 mg, hetente</td>
+            <td>kb. 0,13 ml</td>
+        </tr>
+        <tr>
+            <td>Ösztradiol<br /><b>-enantát</b></td>
+            <td>7 mg 10 naponta</td>
+            <td>kb. 0,18 ml</td>
+        </tr>
+    </tbody>
+</table>
+
 ### A megfelelő adagolás meghatározása
 
 A gyakorlatban, amikor 1. alkalommal kezded el az injekciózást, célszerű az alábbi lépéseket követni az adagolandó mennyiség meghatározásához:
 
-* Tudd meg, hogy mi az ajánlott adag az általad beadott ösztradioltípusra (5 naponta 4 mg ösztradiol-valerát, 10 naponta 7,5 mg vagy 14 naponta 10 mg ösztradiol-enantát esetén).
+* Tudd meg, hogy mi az ajánlott adag az általad beadott ösztradioltípusra (lásd a fenti táblázatot).
 
 * Ellenőrizd a készítmény ösztradiolkoncentrációját. A legtöbb esetben ez fel van tüntetve az injekciós üvegen. Ha ez nem így van, akkor az injekciós üvegben lévő hormonmennyiségből is könnyen kiszámítható (pl. egy 10 ml-es, 0,5 g ösztradiolt tartalmazó injekciós üveg 0,5 g x 1000 / 10 ml = 50 mg/ml koncentrációnak felel meg).
 
@@ -164,7 +193,9 @@ A gyakorlatban, amikor 1. alkalommal kezded el az injekciózást, célszerű az 
 
 * Az injekciók megkezdése után célszerű várni néhány hónapot, hogy a hormonszintek stabilizálódjanak. Ezután közvetlenül a szokásos injekció beadása előtt vehetsz vérmintát, hogy megkapd az ösztradiol- és tesztoszteronszintet, amikor azok a legalacsonyabbak. Ha az ösztrogének túl alacsonynak tűnik a tesztoszteron csökkentéséhez, növeld a beadott adagot. Ha nem, akkor csökkenteni kell.
 
-Hasonlóképpen, ha hormonális instabilitást tapasztalsz, az annak a jele, hogy jobb, ha kisebb adagokat, de gyakrabban szúrsz.
+Hasonlóképpen, ha hormonális instabilitást tapasztalsz, az annak a jele, hogy jobb, ha inkább kisebb adagokat, de gyakrabban szúrsz. Ideális esetben a lehető legalacsonyabb ösztradiolszintre kell törekedned (amely még mindig 100pg/ml-nél magasabb, [E kalkulátor itt](/#/osztrogen-kalkulator)), és amely még mindig megfelelően elnyomja a tesztoszteront (max <50ng/dl, [T kalkulátor itt](/#/tesztoszteron-kalkulator)).
+
+Az embereknek általában 200-250pg/ml-es ösztradiolszintre van szükségük a tesztoszteron megfelelő elnyomásához.
 
 ### Előnyök:
 
@@ -184,16 +215,44 @@ Hasonlóképpen, ha hormonális instabilitást tapasztalsz, az annak a jele, hog
 
 * Sokan félnek az injekcióktól
 
-## Öninjekciózás (DIY)
+## Öninjekciózás
 
+<div class="infobox warning">
 
-<div class="infobox error">
-
-⚠️ Figyelem: Mint minden öngyógyítás, ez a módszer is veszélyes lehet. Nem ajánlott olyan személyeknek, akik nem rendelkeznek minimális orvosi ismeretekkel.
+Megjegyzés: A sérülések elkerülése érdekében a tűhegyeket mindenképpen kemény műanyag tárolóban; vagy éles/hegyes eszközök gyűjtőjébe dobd ki!
 
 </div>
 
-A gyakorlatban a "hivatalos" útvonal Európában még mindig marginális. Az injekciókat használó transz nők többsége megkerüli az orvosokat, és inkább az öninjekciózás gyakorolja, megrendelve maguknak a más országokban forgalmazott injekciós készítményeket.
+Az injekciós tűk ára - 400 - 1200 forint injekciónként (attól függ, hogy mennyire nagy tételben vásárolsz).
+
+A tűket/fecskendõket Magyarországon recept nélkül, bármelyik gyógyszertárban megvásárolhatod.
+
+Ügyelj arra, hogy 1 ml-es fecskendőket vásárolj, mivel az egyes injekciókhoz használt kis mennyiségű folyadékot csak 1 ml-es fecskendővel lehet könnyen kimérni. Az elterjedtebb 3 ml-es fecskendők akkor is működnek, ha nem találsz 1 ml-es fecskendőket, de nem ideálisak.
+
+A házilag készített injekcióoldatok általában benzil-benzoátot tartalmaznak (egy biztonságos oldószert, amelyet a vényköteles gyógyszerekben is gyakran használnak), ami kisebb irritációt okozhat, ha szubkután beadják. Intramuszkulárisan történő beadás esetén általában kevesebb fájdalom jelentkezik az injekció beadása után.
+A megfelelő méretek (tűvastagság) a szubkután injekcióhoz 25-30g, intramuszkuláris injekcióhoz 23-25g. A szubkután tűk vékonyabbak, mint az intravénás tűk, amit egyesek kevésbé találnak ijesztőnek.
+
+### Tájékoztatók a befecskendezésrõl
+
+➡️ [Guide by Plume](https://members.getplume.co/support/solutions/articles/72000544742-all-about-injections#Injection-video-tutorials)
+
+➡️ [Szubkután](https://www.youtube.com/watch?v=APSPbpqefKw)
+
+➡️ [Intramuszkuláris](https://www.youtube.com/watch?v=W5GAyZzDpNU)
+
+## Házilagos módszerek, DIY
+
+<div class="infobox error">
+
+Veszélyes lehet felügyelet nélkül házilagosan hormonterápiát folytatni; és mindig jobb, ha egy a témában jártas egészségügyi szakember ellenőrzi az értékeket.
+
+Ha azonban helyzetének következtében nincs más választásod, mint az önkezelés, győződj meg róla, hogy a vásárolt termékeket megbízható emberektől szerzed.
+
+[A házilagos módszerek alapjairól szóló cikket itt találod.](/#/entry?id=hormonterapia-hazilagos-modszerek)
+
+</div>
+
+A gyakorlatban a "hivatalos" útvonal Európában még mindig marginális. Az injekciókat használó transz nők többsége megkerüli az orvosokat, és inkább az öninjekciózást gyakorolja, megrendelve maguknak a más országokban forgalmazott injekciós készítményeket.
 
 Mivel az injekciók ára általában viszonylag alacsony, ez a megoldás könnyen megfizethető. Ez azt jelenti, hogy egyes transz emberek inkább fizetnek egy kis díjat, minthogy megpróbálják meggyőzni az orvosokat, akik nem szoktak hozzá ehhez a módszerhez.
 

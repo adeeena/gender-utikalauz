@@ -26,7 +26,7 @@ BEVEZETŐ
 
 [Bevezető az ösztrogénekhez](/#/entry?id=osztrogenek)
 
-[✅Krémek és tapaszok](/#/entry?id=kremek-tapaszok)
+[✅Gélek, tapaszok, krémek](/#/entry?id=feminizalo-gelek-tapaszok-kremek)
 
 [✅Tabletták](/#/entry?id=feminizalo-tablettak)
 
@@ -220,7 +220,7 @@ Ha többet szeretnél megtudni azokról a termékekről, amelyek szóba jöhetne
 -->
 
 
-<div class="infobox podcast-episode">
+<div class="infobox warning">
 <h5>⚠️ Androcur</h5>
 	
 Egy "feminizáló" kezelés keretében néhány orvos Androcur-alapú kezelést fog javasolni, amely Európában az egyik legismertebb tesztoszteron-blokkoló. Azonban mára ezt a gyógyszert jelentős kritikával illetik az egészségre gyakorolt hatásai miatt, amelyek egészen az agydaganatig terjedhetnek. Javasoljuk, hogy kerüld el ezen gyógyszerrel történő kezelést.
@@ -232,7 +232,7 @@ A kezelést addig alkalmazd, amíg az hormonok hatásait szeretnéd élvezni. Az
 
 **Bármikor le lehet állítani azokat kockázat nélkül, ha a testben vannak szexuális hormonokat termelő szervek (funkcionális here vagy petefészek jelenléte).** Az alkalmazott hormonterápiás készítmények változhatnak az egészségi állapotod, az esetlegesen végzett műtétek és saját személyes döntéseid alapján. Azonban azt tanácsoljuk, hogy ne hagyd abba hirtelen a kezelést. Ha komolyan gondolkodsz a HRT abbahagyásán, előbb beszélj a kezelőorvosoddal.
 
-<div class="infobox podcast-episode">
+<div class="infobox warning">
 <h5>⚠️ Figyelem</h5>
 	
 Gonádok (here vagy petefészek) eltávolítása után **állandó hormonkezelésre lesz szükség annak elkerülése érdekében, hogy hormonhiány ne alakulhasson ki**, ami gyengébb egészségi állapotot és [csontritkulást](https://www.webbeteg.hu/cikkek/csontritkulas/218/a-csontritkulas-okai-es-rizikofaktorai) eredményezhet.
@@ -267,6 +267,12 @@ A kezelés néhány hónapos szedése után a legtöbb transznemű ember termék
 
 Ha hormonkezelést szeretnél kezdeni és a jövőben gyermeket tervezel, tájékozódj a petesejtjeid vagy spermád megőrzéséről a kezelés megkezdése előtt.
 
-<!-- ## Árak, visszatérítés -->
+## Utazás hormonkészítményekkel
+
+Igen, a legtöbb feminizáló hormonterápiás készítménnyel lehet utazni. Még hetekre elegendõ tűkkel és injekciós készletekkel is.
+
+A légi közlekedésnél győződj meg, hogy a készítményeid egyértelműen fel vannak címkézve, hogy mi is az valójában (írd rá a gyógyszer teljes nevét az üvegre/ampullára/stb., ha szükséges). Ne próbálj meg rosszul felcímkézett HRT-t felvinni a repülőgépre, például ne tegyél HRT tablettákat egy vitaminos üvegbe. Ha injekciót használsz, tárold a feladott poggyászában.
+
+Ha extra biztonságban akarsz lenni, dobj egy doboz aszpirint és néhány allergiagyógyszert egy nagy, átlátszó lezárható tasakba a HRT-d mellé.
 
 </div>

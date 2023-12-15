@@ -26,7 +26,7 @@ BEVEZETŐ
 
 [Bevezető az ösztrogénekhez](/#/entry?id=osztrogenek)
 
-[✅Krémek és tapaszok](/#/entry?id=kremek-tapaszok)
+[✅Gélek, tapaszok, krémek](/#/entry?id=feminizalo-gelek-tapaszok-kremek)
 
 [✅Tabletták](/#/entry?id=feminizalo-tablettak)
 
@@ -107,6 +107,8 @@ Ez a cikk bemutatja az ösztrogének tablettával való alkalmazásának sajáto
 
 Kérjük, vedd figyelembe, hogy az adagolás csak tájékoztató jellegű. A gyakorlatban az adagolás személyenként nagymértékben eltérhet, amit vérvizsgálat eredményei alapján be kell majd beállítani.
 
+Ha nehezedre esik tördelni a gyógyszert, akkor a közeli patikából beszerezhetsz egy [tablettavágót](https://benu.hu/shop/tablettavago-wolf-1x).
+
 ## Szájon át történő adagolás (lenyelés)
 
 A hagyományos adagolási módszer.
@@ -151,5 +153,22 @@ A másik előnye, hogy mivel a hormonoknak nem kell áthaladniuk a májon, a mé
 ### Hátrányok:
 
 A hormonszintek jojózhatnak, ezért elengedhetetlen az elővigyázatosság.
+
+## Házilagos módszerek, DIY
+
+<div class="infobox warning">
+    
+Veszélyes lehet felügyelet nélkül házilagosan hormonterápiát folytatni; és mindig jobb, ha egy a témában jártas egészségügyi szakember ellenőrzi az értékeket.
+
+Ha azonban helyzetének következtében nincs más választásod, mint az önkezelés, győződj meg róla, hogy a vásárolt termékeket megbízható emberektől szerzed.
+
+[A házilagos módszerek alapjairól szóló cikket itt találod.](/#/entry?id=hormonterapia-hazilagos-modszerek)
+
+</div>
+
+Messze a legnépszerűbb és legismertebb, a tabletták a legkönnyebben beszerezhetőek, ha a DIY mellett döntesz. Sajnos, ezek általában kissé drágák. Válassz bioidentikus ösztrogéneket (*a bioidentikus azt jelenti, hogy a tabletták pontosan ugyanazt az ösztrogént tartalmazzák, mint amit az emberi szervezet termel*).
+
+Kerüld a nem bioidentikus ösztrogéneket, mint például a Premarin vagy az etinilösztradiol (EE). Ezek a bioidentikus ösztrogénekhez képest megnövekedett trombózis kockázatot hordoznak.
+
 
 </div>

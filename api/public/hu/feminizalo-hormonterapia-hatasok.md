@@ -26,7 +26,7 @@ BEVEZETŐ
 
 [Bevezető az ösztrogénekhez](/#/entry?id=osztrogenek)
 
-[✅Krémek és tapaszok](/#/entry?id=kremek-tapaszok)
+[✅Gélek, tapaszok, krémek](/#/entry?id=feminizalo-gelek-tapaszok-kremek)
 
 [✅Tabletták](/#/entry?id=feminizalo-tablettak)
 
@@ -125,7 +125,7 @@ Ne felejtsd el, hogy **a változások nagy része más módon is megtörténik a
 
 * A herezacskók és a pénisz összezsugorodnak. A pénisz itt-ott kicsit sötétebb árnyalatot vehet fel
 
-* **Valószínű a sterilitás.**
+* **A HRT minden formája nagy valószínûséggel sterillé tesz, sokszor visszafordíthatatlanul.**
 
 ## A kezelés leállítása esetén visszafordíthatatlan hatások
 

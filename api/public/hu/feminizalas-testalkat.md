@@ -65,7 +65,7 @@ Nem csalásról van szó, hanem arról, hogy megtanulj a testalkatodnak megfelel
 * Széles gallér
 * Tank top
 * Karcsú tank-top
-* Nagy dekoltázst keltõ felsõk
+* Nagy dekoltázst keltő felsők
 
 Általánosságban elmondható, hogy ha androgün vagy, és vizuálisan is szeretnél feltűnést kelteni, azt tanácsolom, hogy kerüld a nyakhoz minél közelebbi pólókat, akár férfi, akár női pólókról van szó.
 

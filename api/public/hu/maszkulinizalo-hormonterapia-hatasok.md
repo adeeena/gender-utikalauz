@@ -83,7 +83,7 @@ Minden maszkulinizáló hormonkezelésnek ugyanazok a hatásai, de ezek intenzit
 
 * Hajváltozások: sűrűségvesztés, egy év után a halánték elvékonyodása, néha több év után kopaszodás, a genetikai hajlamtól függően.
 
-* **A HRT minden formája nagy valószínûséggel sterillé tesz, sokszor visszafordíthatatlanul.**
+* **A HRT minden formája nagy valószínűséggel sterillé tesz, sokszor visszafordíthatatlanul.**
 
 ## Változékony hatások
 

@@ -1,12 +1,12 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Termékenység megõrzése"
+title: "Termékenység megőrzése"
 lang: hu
 ---
 
 <div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
 
-# Termékenység megõrzése
+# Termékenység megőrzése
 
 A termékenység megőrzése egy olyan kérdés, amely gyakran felmerül a tranzíció kapcsán, és amely a partnereiddel együtt is felmerülhet témaként.
 

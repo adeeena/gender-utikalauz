@@ -22,7 +22,7 @@ MÛTÉTEK
 
 # Masztektómia
 
-**A masztektómia az emlőmirigy, a zsír és néha a bőr bizonyos részének eltávolításával járó sebészeti beavatkozás. Jelentősen csökkenti a mellek méretét, és "férfiasabb" megjelenést kölcsönöz a felsõtestnek.**
+**A masztektómia az emlőmirigy, a zsír és néha a bőr bizonyos részének eltávolításával járó sebészeti beavatkozás. Jelentősen csökkenti a mellek méretét, és "férfiasabb" megjelenést kölcsönöz a felsőtestnek.**
 
 A "torsoplasztika" kifejezés egy másik típusú műtétre utal, amelynek nincs köze a transz-identitáshoz, de a transz közösségben is használják, hogy a masztektómiára nem mint ablatív műtétre, hanem mint építő/módosító műtétre utaljanak. **Ebben a cikkben ezért a masztektómia és torsoplasztika szavakat felváltva fogjuk használni.**
 
@@ -41,7 +41,7 @@ Videók, amelyeken emberek beszélnek a kettős metszéses masztektómiáról:
 
 <div class="infobox warning">
 
-⚠️ Az alábbi videók mûtéti hegeket, sebeket, megrázó tartalmakat mutathatnak.
+⚠️ Az alábbi videók műtéti hegeket, sebeket, megrázó tartalmakat mutathatnak.
 
 </div>
 
@@ -73,7 +73,7 @@ Néhány gyakorló orvos azonban elfogad különleges kéréseket a következők
 
 * a hegek alakja.
 
-## A műtétrõl
+## A műtétről
 
 A műtét körülbelül 2 órán át tart, és általános érzéstelenítésben történik.
 
@@ -93,22 +93,22 @@ A konzultáció során megkérheted a kezelőorvosod, hogy mutasson a morfológi
 
 ### Túlsúly
 
-Sajnos a túlsúlyos embereket gyakran visszautasítják a torzoplasztikát a súlyuk miatt, pedig ez semmiképpen sem mûtéti követelmény.
+Sajnos a túlsúlyos embereket gyakran visszautasítják a torzoplasztikát a súlyuk miatt, pedig ez semmiképpen sem műtéti követelmény.
 
 ### Dohányzás és alkoholfogyasztás
 Lehetőleg ne dohányozz a műtétet megelőző hónapban és az azt követő 15 napban. Beszélj a sebészeddel és az altatóorvosoddal, ha dohányzol, mivel ez hatással lehet a gyógyulás minőségére. Hasonlóképpen beszélj vele az alkoholfogyasztási szokásaidról, valamint a műtét előtti és utáni óvintézkedésekről.
 
-### Korábbi mellkisebbítõ mûtét
+### Korábbi mellkisebbítő műtét
 
 Akkor is elvégezhető a masztektómia, ha korábban már volt mellkisebbítésben részed.
 
 ### Nem szeretnék hormonterápiát
 
-A tesztoszteron szedését legalább egy éven keresztül néha a masztektómia előfeltételeként kérik, mivel ez némileg csökkenti a mell térfogatát, megkönnyíti a műtétet, és potenciálisan lehetővé teszi a periareoláris technikát, ha korábban kettős metszést kellett volna alkalmazni. Ez azonban nem kötelezõ feltétel a mûtéthez.
+A tesztoszteron szedését legalább egy éven keresztül néha a masztektómia előfeltételeként kérik, mivel ez némileg csökkenti a mell térfogatát, megkönnyíti a műtétet, és potenciálisan lehetővé teszi a periareoláris technikát, ha korábban kettős metszést kellett volna alkalmazni. Ez azonban nem kötelező feltétel a műtéthez.
 
 ### Nem-binaritás
 
-A kezelõorvostól függően a nem-binaritás elutasítási okot jelenthet. Érdeklődj az érintetteknél, transz egyesületeknél, és használd a rendelkezésre álló forrásokat és beszámolókat, hogy megtudd, mely sebészek fogadják el a nem bináris pácienseket és tisztelik őket olyannak, amilyenek.
+A kezelőorvostól függően a nem-binaritás elutasítási okot jelenthet. Érdeklődj az érintetteknél, transz egyesületeknél, és használd a rendelkezésre álló forrásokat és beszámolókat, hogy megtudd, mely sebészek fogadják el a nem bináris pácienseket és tisztelik őket olyannak, amilyenek.
 
 ## A műtét után
 A műtét utóhatásai a betegtől függően többé-kevésbé fájdalmasak, és általában egyszerű fájdalomcsillapítókkal kezelhetők. Közvetlenül a műtét után az eredmény tisztának és rendezettnek tűnik.
@@ -134,15 +134,15 @@ Mint minden orvosi beavatkozás, a masztektómia is kockázatokkal jár. Az alta
 Bár a lehetséges szövődményekkel számolni kell, a műtétek többsége jól zajlik.
 
 
-## Visszatérés a szokásokhoz mûtét után
+## Visszatérés a szokásokhoz műtét után
 
-Ezek az információk csak tájékoztató jellegűek; a felépülési idő függ a fizikai állapotodtól, korodtól, a szedett gyógyszerektõl stb. Fontos megjegyezni, hogy kettős bemetszés esetén a hegek a műtét után akár több hónapig is sérülékenyek és nyúlékonyak maradhatnak.
+Ezek az információk csak tájékoztató jellegűek; a felépülési idő függ a fizikai állapotodtól, korodtól, a szedett gyógyszerektől stb. Fontos megjegyezni, hogy kettős bemetszés esetén a hegek a műtét után akár több hónapig is sérülékenyek és nyúlékonyak maradhatnak.
 
 * **Korlátozott önállóság 10-15 napig.** Nem emelheted fel karod 90 foknál nagyobb mértékben anélkül, hogy ne sérülne meg és ne tágulnának a még nem heggé vált bemetszések. A műtét és az érzéstelenítés utóhatásait is szem előtt kell tartani, amelyek miatt nagyon fáradtnak érezheted magát.
 
 * **A műtét utáni 10-15 nap elteltével** folytathatod a szokásos tevékenységeket.
 
-* A karokat nem túlságosan megterhelő, **kíméletes sporttevékenységek** (nyújtás, jóga, kerékpározás stb.) folytatása a teljes gyógyulás után, **a műtétet követõ 4-6 hét elteltével**, hogy ne kelljen túl korán megdolgoztatni a mellizmokat, és ezzel kockáztatni, hogy a bőr ne tudjon újra az izomhoz kapcsolódni.
+* A karokat nem túlságosan megterhelő, **kíméletes sporttevékenységek** (nyújtás, jóga, kerékpározás stb.) folytatása a teljes gyógyulás után, **a műtétet követő 4-6 hét elteltével**, hogy ne kelljen túl korán megdolgoztatni a mellizmokat, és ezzel kockáztatni, hogy a bőr ne tudjon újra az izomhoz kapcsolódni.
 
 * **A súlyzós edzés és az intenzívebb sportok** (például küzdősportok) folytatása **6 hét és 2 hónappal a műtét után**, amíg a szövetek elég erősek ahhoz, hogy ellenálljanak a feszültségnek, hogy korlátozza a heg megnagyobbodását.
 Mindenképpen tartd be a sebészed ajánlásait!
@@ -151,13 +151,13 @@ Mindenképpen tartd be a sebészed ajánlásait!
 A jó gyógyulás a bőröd minőségétől, az ápolástól és az általános életmódodtól is függ. Az alábbiakban néhány példát említünk:
 
 
-* A műtét utáni 1 év előtt ne tedd ki felsőtestedet a napfénynek. Ha a műtét utáni első évben napozásnak van kitéve a felsõtest, kend be alaposan legalább 50-es indexű naptejjel. Az UV-sugárzás elleni póló viselése szintén egy lehetőség.
+* A műtét utáni 1 év előtt ne tedd ki felsőtestedet a napfénynek. Ha a műtét utáni első évben napozásnak van kitéve a felsőtest, kend be alaposan legalább 50-es indexű naptejjel. Az UV-sugárzás elleni póló viselése szintén egy lehetőség.
 
-* A műtét utáni első 2-6 hétben éjjel-nappal viseljen bolerót (kompressziós felsõt).
+* A műtét utáni első 2-6 hétben éjjel-nappal viseljen bolerót (kompressziós felsőt).
 
 * A kötszereket legalább az első héten a fertőzésveszély csökkentése és a hegek megjelenésének figyelemmel kísérése érdekében ápolónak kell cserélnie. Ha szeretnéd, ha ezt egy orvosi képzettséggel nem rendelkező családtagod végezné, kérd meg, hogy az első néhány napra jöjjön el, hogy a nővérrel együtt megtanulja, hogyan kell ezt elvégezni. Ebben a szakaszban még mindig lehetséges, hogy saját magad is elvégezd, ha karjainak motorikus képességei megfelelőek.
 
-* A műtött területek masszírozása és a termékek alkalmazása (krémek, olajok stb., minden sebésznek megvannak a maga preferenciái, kétségtelenül neked is megvannak a sajátjai). Az önmasszázs fontos! Lehetővé teszik, hogy megszelídítse új törzsét és lebontsa a letapadásokat. [Brosúra a mûtéti hegmasszázsról.](https://genderutikalauz.hu/public/muteti-hegmasszazs.pdf)
+* A műtött területek masszírozása és a termékek alkalmazása (krémek, olajok stb., minden sebésznek megvannak a maga preferenciái, kétségtelenül neked is megvannak a sajátjai). Az önmasszázs fontos! Lehetővé teszik, hogy megszelídítse új törzsét és lebontsa a letapadásokat. [Brosúra a műtéti hegmasszázsról.](https://genderutikalauz.hu/public/muteti-hegmasszazs.pdf)
 
 * A műtét után legalább 15 napig kerüld a dohányzást.
 

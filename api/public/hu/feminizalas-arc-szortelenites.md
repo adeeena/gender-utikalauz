@@ -1,6 +1,6 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Arc szõrtelenítése - Női passing"
+title: "Arc szőrtelenítése - Női passing"
 lang: hu
 ---
 
@@ -43,7 +43,7 @@ A legtöbb transz nő lézerrel vagy elektrolízissel végzi el a tartós szőrt
 Addig is, vagy ezzel párhuzamosan elrejtheted a szakállad és a bajszod helyét sminkkel. Szuper hatásos tud lenni!
 
 
-## Lépésrõl lépésre:
+## Lépésről lépésre:
 
 * Minden reggel a sminkelés előtt borotváld le a szakállad és a bajszod (legalább 3 pengés borotvával), először a szőrszálak irányába, majd az ellenkező irányba.
 

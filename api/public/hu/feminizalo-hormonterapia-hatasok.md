@@ -127,7 +127,7 @@ Ne felejtsd el, hogy **a változások nagy része más módon is megtörténik a
 
 * A herezacskók és a pénisz összezsugorodnak. A pénisz itt-ott kicsit sötétebb árnyalatot vehet fel
 
-* **A HRT minden formája nagy valószínûséggel sterillé tesz, sokszor visszafordíthatatlanul.**
+* **A HRT minden formája nagy valószínűséggel sterillé tesz, sokszor visszafordíthatatlanul.**
 
 ## A kezelés leállítása esetén visszafordíthatatlan hatások
 

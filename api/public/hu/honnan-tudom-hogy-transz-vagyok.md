@@ -25,7 +25,7 @@ A transzidentitás az, hogy nem tudunk azonosulni azzal a nemmel, amelyet szüle
 
 Jogod van ahhoz, hogy annyiszor változtasd meg a véleményedet arról, hogy ki vagy, ahányszor csak szükséges. Soha nem lesz tilos megváltoztatni a véleményedet vagy a nézőpontodat.
 
-Részletes cikk: ["Mit jelent transznak lenni?"](/#/entry?id=mit-jelent-transznak-lenni)
+Részletes cikk: ➡️ ["Mit jelent transznak lenni?"](/#/entry?id=mit-jelent-transznak-lenni)
 
 ## Tévhitek
 
@@ -38,10 +38,10 @@ Lehetsz transz és:
 * Félhetsz az tranzíciótól, vagy nem akarod/nem tudod jelenleg elkezdeni az tranzíciót.
 * Élvezed a transzpornót (megjegyzés: ha ez az érdeklődés CSAK szexuális jellegű, akkor talán tedd fel magadnak a megfelelő kérdéseket ezzel kapcsolatban).
 
-További tévhitek és válaszok a transz emberek szüleinek szóló kiadványunkban: [10 tévhit a transzidentitásról](/#/entry?id=brosura-szuloknek).
+További tévhitek és válaszok a transz emberek szüleinek szóló kiadványunkban: ➡️ [10 tévhit a transzidentitásról](/#/entry?id=brosura-szuloknek).
 
 
-# Miért most?
+## Miért most?
 
 > Miért csak most jövök rá erre?
 
@@ -57,7 +57,7 @@ Van egy régi, unásig ismételt közhely: a transz emberek mindig is tudták, h
 
 A "tagadás" okának megértése segíthet a továbblépésben.
 
-# Tesztek és szerepjátékok a megértéshez
+## Tesztek és szerepjátékok a megértéshez
 
 💡 Ezek nem olyan tesztek, amelyek megválaszolják neked ezt a kérdést, hanem inkább olyan szerepjátékok, amelyek segítenek az érzelmeidet kicsit jobban megérteni.
 
@@ -65,13 +65,13 @@ A "tagadás" okának megértése segíthet a továbblépésben.
 
 **Íme három közülük.**
 
-## A kapcsoló
+### A kapcsoló
 
 Képzelj el egy gombot, amelyet bármikor megnyomhatsz. Ha megnyomod, a valóság hirtelen megváltozik, és a születésedkori nemeddel ellentétes nemben ébredsz fel. Mindenki azt feltételezi, hogy ez a normális, vagy hogy mindig is ilyen voltál. Nincs visszaút.
 
 🚨 **Megnyomod ezt a gombot? Ha igen, akkor lehet, hogy transznemű vagy.**
 
-## A visszakapcsoló
+### A visszakapcsoló
 
 Ez egy nagyon hasonló teszt, mint az előző, kicsit más szemszögből.
 
@@ -79,7 +79,7 @@ Egy reggel a születési nemeddel ellentétes nemben ébredsz. Mindenki azt felt
 
 🚨 **Megnyomod ezt a gombot? Ha nem, akkor lehet, hogy transznemű vagy.**
 
-## A nem-bináris kapcsoló
+### A nem-bináris kapcsoló
 
 Ez a teszt a nem bináris társadalmi tranzíciós vágyakkal foglalkozik. Ha valaki nem kizárólagosan férfias vagy kizárólagosan nőies, akkor az illető nem-bináris.
 
@@ -91,19 +91,23 @@ Kívánhatod ugyanakkor azt is, hogy a nyomógomb hatására mindenki androgünn
 
 🚨 **Megnyomnád ezt a gombot? Ha igen, mit kívánnál?**
 
-💡 Megjegyzés: ezek a tesztek segítenek felmérni, hogy transz vagy-e vagy sem, de azt nem, hogy készen állsz-e a tranzícióra. A tranzíció nem arról szól, hogy ma reggel egy másik testben ébredsz, vagy hogy az emberek az általad vélt nemedben látnak téged. Türelmet igényel, és a lehetőségek és kockázatok felméréséről szól. Ne ugorj bele egy tranzícióba anélkül, hogy átgondolnád azt.
+<div class="infobox info">
+<h5>💡 Megjegyzés</h5>
+	
+Ezek a tesztek segítenek felmérni, hogy transz vagy-e vagy sem, de azt nem, hogy készen állsz-e a tranzícióra. A tranzíció nem arról szól, hogy ma reggel egy másik testben ébredsz, vagy hogy az emberek az általad vélt nemedben látnak téged. Türelmet igényel, és a lehető**ségek és kockázatok felméréséről szól. **Ne ugorj bele egy tranzícióba anélkül, hogy átgondolnád azt.**
+</div>
 
-# Szocializálódás "másként".
+## Szocializálódás "másként".
 
 Jó ötlet lehet, ha létrehozol egy fiókot az új társadalmi nemeddel valamelyik közösségi hálózaton, vagy egy átszabott avatárral játszol egy többszereplős online játékban. Sok transz ember így kezdi, és úgy tapasztalja, hogy élvezi, ahogyan bánnak vele.
 
 Akár kezdheted elölről, és kereshetsz új társasági köröket; vagy megkérheted az ismerőseidet, hogy egy ideig másképp hívjanak, hogy megtapasztald, milyen ez érzés, és hogy ez kényelmes-e neked. Légy óvatos: a második javaslatnál kényelmetlenül érezheted magad, és ez a kellemetlen érzés hatással lehet az érzéseidre. Szánj időt a felfedezésre.
 
-# Egyszerű preferencia kérdése
+## Egyszerű preferencia kérdése
 
 **Akár megnyomod ezeket a gombokat, akár nem, a választ nem diktálhatja neked senki más! Ezt magadnak kell megtalálnod.** És ez a válasz annyiszor változhat, ahányszor csak akarod.
 
-# Netes kvízek?
+## Netes kvízek?
 
 Az interneten egy csomó olyan teszt létezik, amelyekben egy sor kérdésre kell válaszolnod annak megállapítására, hogy transz vagy-e vagy sem.
 
@@ -114,7 +118,7 @@ Bízz az érzelmeidben, és ne az online kvízekben, amelyeket lehet, hogy nem i
 Az egyetlen kérdés, amit fel kell tenned magadnak: **ki akarok lenni, hogyan és milyen körülmények között érzem jól magam?**
 
 
-# Félelem, hogy "nagyon látszani fog"
+## Félelem, hogy "nagyon látszani fog"
 
 Az tranzíció megkezdésével kapcsolatos egyik leggyakoribb félelem, hogy majd mindenki egyből kiszúrja, hogy transz vagy. A hormonterápia elején kockáztatni fogod, hogy az utcán az emberek észrevesznek, diszkriminálnak, stb. Vegyél bátorságot és legyél türelmes. Nézd meg az alábbi galériákat, amelyekben transz emberek mutatják be a tranzíció előtti és utáni kinézetüket. Hamar rájöhetsz, hogy néhány hónap/év után a legtöbb transznemű embernek sikerül az új nemének megfelelően kinézni.
 
@@ -125,13 +129,15 @@ Az tranzíció megkezdésével kapcsolatos egyik leggyakoribb félelem, hogy maj
 Ne feledd azonban, hogy nem minden transz személy végső célja a passing. [Bővebben erről itt.](/#/entry?id=sosem-leszek-passing)
 
 
-# Jellemző példák
+## Jellemző példák
 
 * Egy 14 éves gyermek, aki fiúnak született, szeretné, ha minél hamarabb elkezdhesse a tranzíciót, hogy nőként lássa őt a társadalom.
 * Egy 18 éves, aki lánynak született, szeretné, ha férfinak látná őt a társadalom, és ha férfiként hivatkoznának rá.
 * Egy 30 éves személy, aki 10 évvel ezelőtt kezdte meg orvosi és társadalmi tranzícióját, és akiről a családján kívül senki sem tudja, hogy transz.
 * Egy 50 éves személy, aki egy életen át nőként élt, majd szeretné megváltoztatni a külsejét, hogy megfeleljen a férfi fizikai sztereotípiáknak, és a mindennapi életben "uramnak" szólítsák.
 
-# Hogy tovább menjünk
+## Hogy tovább menjünk
 
 Ez az oldal egy tudástár, amelyet a transz embereknek, a bizonytalanoknak, vagy esetleg már tranzíció alatt lévő személyek és hozzátartozóik számára szenteltünk. Itt találsz olyan forrásokat, amelyek megválaszolják a kérdéseidet, és segítenek a továbblépéshez.
+
+További olvasmányt találhatsz még a [Nemi Diszfória Biblia](http://genderdysphoria.fyi/hu) oldalon is.

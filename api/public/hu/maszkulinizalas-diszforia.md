@@ -56,11 +56,11 @@ Maga az aktus, amelyet a társadalom nagyon is nemi szempontból értékel, seg�
 Ez a legegyszerűbb technika, amit kipróbálhatsz! Mindössze egy saját vagy kölcsönkapott borotva, még ha nem is a legjobb minőségű, és egy kis borotvahab kell hozzá, és kész. De vigyázz a vágásokkal!
 
 ### A hang
-Sok ember számára nagyon érzékeny téma, a hangunk gyakran nagyon erős diszfóriát okoz. Túl magas vagy túl mély, nagyon nehéz megváltoztatni a hangunkat, kivéve hosszú és fárasztó, a hangszálak számára gyakran fájdalmas gyakorlással... vagy akár veszélyes is lehet, ha nem tudjuk, hogyan! És amint kinyitjuk a szánkat, úgy érezzük, hogy azonnal "eláruljuk" magunkat, ha a hangunk nem egybõl "passing".
+Sok ember számára nagyon érzékeny téma, a hangunk gyakran nagyon erős diszfóriát okoz. Túl magas vagy túl mély, nagyon nehéz megváltoztatni a hangunkat, kivéve hosszú és fárasztó, a hangszálak számára gyakran fájdalmas gyakorlással... vagy akár veszélyes is lehet, ha nem tudjuk, hogyan! És amint kinyitjuk a szánkat, úgy érezzük, hogy azonnal "eláruljuk" magunkat, ha a hangunk nem egyből "passing".
 
 Az éneklés sokat segíthet ugyanakkor a diszfórián.
 
-➡️ [Lejátszási lista (többnyire meleg) énekesekkel, akikkel könnyû "duettezned"](https://www.youtube.com/playlist?list=PLA66OD37C5XEU-JgbooLv-kxL9SMJ2Cco)
+➡️ [Lejátszási lista (többnyire meleg) énekesekkel, akikkel könnyű "duettezned"](https://www.youtube.com/playlist?list=PLA66OD37C5XEU-JgbooLv-kxL9SMJ2Cco)
 
 ### A ruhák
 

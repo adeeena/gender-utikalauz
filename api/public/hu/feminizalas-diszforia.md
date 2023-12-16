@@ -12,14 +12,14 @@ lang: hu
 
 Kettő jobb, mint egy! Egyszer először próbáltam meg sminket vásárolni. Egyedül voltam, és a sminküzlet előtt szorongásos rohamot kaptam.
 
-Késõbb visszamentem valakivel, aki már hozzászokott: 👌👌👌👌.
+Később visszamentem valakivel, aki már hozzászokott: 👌👌👌👌.
 
-Kérd meg közeli barátaidat, családtagjaidat vagy akár netes ismerőseidet, hogy kísérjenek el a legelsõ (nagy)bevásárlásodra. Ez egy jó módszer az akadálytól való félelemtől táplált halogatás leküzdésére is.
+Kérd meg közeli barátaidat, családtagjaidat vagy akár netes ismerőseidet, hogy kísérjenek el a legelső (nagy)bevásárlásodra. Ez egy jó módszer az akadálytól való félelemtől táplált halogatás leküzdésére is.
 
 
 ## Kerüld a társasági életet, amikor csak lehet
 
-Az egyik ok, amiért olyan sokáig vártam, hogy időpontot kérjek az orvosomtól a kezelésem megkezdéséhez, az az volt, hogy fel kellett hívnom őt. A legjelentõsebb problémám a hangdiszfóriám volt akkoriban.
+Az egyik ok, amiért olyan sokáig vártam, hogy időpontot kérjek az orvosomtól a kezelésem megkezdéséhez, az az volt, hogy fel kellett hívnom őt. A legjelentősebb problémám a hangdiszfóriám volt akkoriban.
 
 Emellett elkezdtem online vásárolni az első ruháimat a Shein és az Amazon kínálatából. Praktikus, ha nem akarsz pánikba esni a Berska közepén.
 
@@ -29,7 +29,7 @@ Emellett elkezdtem online vásárolni az első ruháimat a Shein és az Amazon k
 
 A diszfória legfőbb oka az az érzés, hogy nem illeszkedsz be a társadalom normáiba. Ez gyakran előfordul a nagyon magas, szögletes transz nőkkel, az alacsony vagy magas hangú transz férfiakkal, vagy a nem bináris emberekkel, akik nem találják meg azt az egyensúlyt, ami miatt büszkének érezhetik magukat.
 
-Ezt az érzést a külvilág rezgéseibõl és válaszaiból érzékelik. De ezt az érzést jelentõsen megváltoztatja az, amit ismerünk/látunk/érzékelünk. Mint oly sok más esetben (fogyatékosság, túlsúly, betegség, bőrszín), ez is a "példaképek" hiányából fakadhat. Más szóval olyan személyekből, akiket a társadalom tehetségesnek vagy inspirálónak ismer el, akikről úgy tartják, hogy "sikeresek az életben", és "példaképekké" válnak.
+Ezt az érzést a külvilág rezgéseiből és válaszaiból érzékelik. De ezt az érzést jelentősen megváltoztatja az, amit ismerünk/látunk/érzékelünk. Mint oly sok más esetben (fogyatékosság, túlsúly, betegség, bőrszín), ez is a "példaképek" hiányából fakadhat. Más szóval olyan személyekből, akiket a társadalom tehetségesnek vagy inspirálónak ismer el, akikről úgy tartják, hogy "sikeresek az életben", és "példaképekké" válnak.
 
 A cisz emberek esetében ez meglehetősen egyszerű, még inkább a fehér cisz férfiak esetében, akiknek nincs hiány a hatalmi vagy sikeres pozícióban lévő személyek példáiból.
 
@@ -59,7 +59,7 @@ Ezek bár az alapok, de a felgyülemlett erőszakot nem tarthatod meg magadnak, 
 
 ### Feltételezd magadról a legjobbat
 
-Az egyik trükk, ami egy időben elég jól működött a diszfória elkerülésére, az volt, hogy kerültem a tükröket, amikor nem éreztem magam megfelelõen a bõrömben.
+Az egyik trükk, ami egy időben elég jól működött a diszfória elkerülésére, az volt, hogy kerültem a tükröket, amikor nem éreztem magam megfelelően a bőrömben.
 
 És amikor tükörbe néztem, ügyeltem arra, hogy jó legyen az összhatás.
 

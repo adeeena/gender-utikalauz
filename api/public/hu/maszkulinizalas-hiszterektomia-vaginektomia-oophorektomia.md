@@ -47,7 +47,7 @@ Ezáltal teljesen leáll az ösztrogén- és progeszterontermelés a szervezetbe
 
 <div class="infobox info">
 
-Lehetőség van oophorektómiára méheltávolítás nélkül, és fordítva. Az is lehetséges, hogy csak az egyik petefészket távolítsák el, hogy ne legyen a személy teljesen hormonokra utalva az élete hátralevõ részében.
+Lehetőség van oophorektómiára méheltávolítás nélkül, és fordítva. Az is lehetséges, hogy csak az egyik petefészket távolítsák el, hogy ne legyen a személy teljesen hormonokra utalva az élete hátralevő részében.
 
 </div>
 
@@ -59,7 +59,7 @@ Ez a "mítosz" kétségtelenül abból az időkeretből ered, amelyben ezt a mű
 
 **Ez a műtét a hüvely nyálkahártyájának eltávolítását és a hüvelynek a szeméremtesthez való varrását jelenti.** A méheltávolítás során vagy azt követően végezhető. A vaginektómia azonban nem végezhető el méheltávolítás nélkül (a menstruáció nem tudna folyni, és fennállna a fertőzés veszélye).
 
-Egyes sebészek a nemi átalakító műtéthez műtét előtti feltételként megkövetelik a vaginektómiát, míg mások nyitottak a megbeszélésre. Beszélj errõl a sebészeddel.
+Egyes sebészek a nemi átalakító műtéthez műtét előtti feltételként megkövetelik a vaginektómiát, míg mások nyitottak a megbeszélésre. Beszélj erről a sebészeddel.
 
 ## Technikák
 A méheltávolításnak és a hozzá általában kapcsolódó műtéteknek három fő technikája van:
@@ -104,7 +104,7 @@ Lehetőleg ne dohányozz a műtétet megelőző hónapban és a műtétet követ
 
 ### Túlsúly
 
-Sajnos nem ritka, hogy a túlsúlyos embereknél elutasítják el a műtét(ek)et, pedig ez semmiképpen sem mûtéti követelmény.
+Sajnos nem ritka, hogy a túlsúlyos embereknél elutasítják el a műtét(ek)et, pedig ez semmiképpen sem műtéti követelmény.
 
 ## Műtét után
 
@@ -124,12 +124,12 @@ A méheltávolítást, hüvelyeltávolítást és/vagy oophorektómiát követő
 
 A műtét nagy űrt hagy a szervezetben, ami nagyon ritkán szervleereszkedéshez vezethet. Inkontinenciaproblémák is fennállhatnak.
 
-Ne feledd azonban, hogy a méheltávolítás manapság nagyon gyakori műtét, amelyet mára már rutinmûtétként végeznek. Természetesen ezek a kockázatok nem minden kórházi beavatkozásra vonatkoznak.
+Ne feledd azonban, hogy a méheltávolítás manapság nagyon gyakori műtét, amelyet mára már rutinműtétként végeznek. Természetesen ezek a kockázatok nem minden kórházi beavatkozásra vonatkoznak.
 
 ## Árak
 A méheltávolítás kb. 900 ezer forint. Az oophorektómia hasonló ában van és a vaginektómia ennek többszöröse is lehet.
 
-Azonban előfordulhat, hogy többet kell fizetnie, ha a sebész bármi tényezõ miatt többet számol fel.
+Azonban előfordulhat, hogy többet kell fizetnie, ha a sebész bármi tényező miatt többet számol fel.
 
 ## Források:
 

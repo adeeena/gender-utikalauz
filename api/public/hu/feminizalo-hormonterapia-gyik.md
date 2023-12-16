@@ -271,7 +271,7 @@ Ha hormonkezelést szeretnél kezdeni és a jövőben gyermeket tervezel, [táj�
 
 ## Utazás hormonkészítményekkel
 
-A legtöbb feminizáló hormonterápiás készítménnyel lehet utazni. Még hetekre elegendõ tűkkel és injekciós készletekkel is.
+A legtöbb feminizáló hormonterápiás készítménnyel lehet utazni. Még hetekre elegendő tűkkel és injekciós készletekkel is.
 
 A légi közlekedésnél győződj meg, hogy a készítményeid egyértelműen fel vannak címkézve, hogy mi is az valójában (írd rá a gyógyszer teljes nevét az üvegre/ampullára/stb., ha szükséges). Ne próbálj meg rosszul felcímkézett HRT-t felvinni a repülőgépre, például ne tegyél HRT tablettákat egy vitaminos üvegbe. Ha injekciót használsz, tárold a feladott poggyászában.
 

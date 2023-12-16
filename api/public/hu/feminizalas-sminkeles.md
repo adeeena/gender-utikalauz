@@ -42,7 +42,7 @@ Ha sminkelésről van szó, a legtöbb transz nő a nulláról kezdi.
 
 De, meglepetés: **a cisz nők is nulláról kezdik!**
 
-A titok: szánj időt a kutatásra, válaszd ki a megfelelő termékeket, és próbáld ki őket otthon elõször.
+A titok: szánj időt a kutatásra, válaszd ki a megfelelő termékeket, és próbáld ki őket otthon először.
 
 ## Alapozó
 

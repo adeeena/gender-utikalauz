@@ -210,7 +210,7 @@ Létezik mikroadagolású hormonkezelés is (amely csak részben helyettesíti t
 
 A kezelés néhány hónapos szedése után a legtöbb transznemű ember termékenysége csökken, vagy akár teljesen meddővé válhat. Bizonyos esetekben a kezelés hosszabb ideig történő abbahagyása (körülbelül 6 hónap) lehetővé teheti a termékenység visszanyerését. De azt tanácsoljuk, hogy erre ne alapozz mindent, mert a termékenység visszatérése nem garantált.
 
-Ha hormonkezelést szeretnél kezdeni és a jövőben gyermeket tervezel, tájékozódj a petesejtjeid vagy spermád megőrzéséről a kezelés megkezdése előtt. [Részletesebben ebben a cikkben olvashatsz a termékenységrõl a tranzícióval kapcsolatban.](/#/entry?id=termekenyseg-megorzese)
+Ha hormonkezelést szeretnél kezdeni és a jövőben gyermeket tervezel, tájékozódj a petesejtjeid vagy spermád megőrzéséről a kezelés megkezdése előtt. [Részletesebben ebben a cikkben olvashatsz a termékenységről a tranzícióval kapcsolatban.](/#/entry?id=termekenyseg-megorzese)
 
 
 

@@ -64,7 +64,7 @@ A gyakorlatban ezeknek a hormonoknak az a sajátosságuk, hogy olyan receptoroka
 
 A gének aktiválása ezután a hírvivő RNS egy szálának szintéziséhez, végül pedig egy olyan fehérje szintéziséhez vezet, amely képes lesz a szervezetre hatni.
 
-<img src="assets/images/hormon-felszivodas.png" />
+<div class="content-image"><img src="assets/images/hormon-felszivodas.png" /></div>
 
 [Kép forrása](https://www.thoughtco.com/how-steroid-hormones-work-373393)
 
@@ -85,18 +85,19 @@ Az emberi szervezetnek van egy saját rendszere a hormonszintek önszabályozás
 
 Az agyban található hipotalamusz természetes módon, rendszeres időközönként kiválaszt egy GnRH nevű hormont. 
 
-Ez a GnRH stimulálja az agyban található másik mirigyet, az elülső agyalapi mirigyet. A beérkező GnRH mennyiségétől és gyakoriságától függően ez azután kisebb-nagyobb mennyiségű tüszőstimuláló hormont (FSH) és luteinizáló hormont (LH) választ ki.
+Ez a GnRH stimulálja az agyban található másik mirigyet, az elülső agyalapi mirigyet. A beérkező GnRH mennyiségétől és gyakoriságától függően ez azután kisebb-nagyobb mennyiségű <a href="https://hu.wikipedia.org/wiki/Follikuluszstimul%C3%A1l%C3%B3_hormon">follikuluszstimuláló hormont (FSH)</a> és <a href="https://hu.wikipedia.org/wiki/Luteiniz%C3%A1l%C3%B3_hormon">luteinizáló hormont (LH)</a> választ ki.
 
 Ez a 2 hormon ezután a nemi mirigyekhez (azaz a petefészkekhez vagy a herékhez) jut, hogy:
 
 * a petefészkek jelenlétében ösztrogén és progeszteron termelődését okozza.
 * herék esetén a tesztoszteron termelődését idézik elő.
 
-Végül a nemi hormonok jelenléte a szervezetben korlátozza a GnRH, LH és FSH termelését. Mindez olyan egyensúlyt alkot, amely biztosítja a nemi hormonok viszonylag állandó szintjét.
+Végül a nemi hormonok jelenléte a szervezetben korlátozza a GnRH, <a href="https://hu.wikipedia.org/wiki/Luteiniz%C3%A1l%C3%B3_hormon">LH</a> és <a href="https://hu.wikipedia.org/wiki/Follikuluszstimul%C3%A1l%C3%B3_hormon">FSH</a> termelését. Mindez olyan egyensúlyt alkot, amely biztosítja a nemi hormonok viszonylag állandó szintjét.
 
 **A hormonok HRT-n keresztül történő bevezetése megváltoztatja ezt az egyensúlyt, és lehetővé teszi, hogy a szervezet megszüntesse a nemi hormonok természetes termelését.**
 
-<img src="assets/images/Hypothalamic–pituitary–gonadal_axis.svg.png" />
+<div class="content-image"><img src="assets/images/Hypothalamic–pituitary–gonadal_axis.svg.png" /></div>
+
 
 [Kép forrása](https://en.wikipedia.org/wiki/Hypothalamic%E2%80%93pituitary%E2%80%93gonadal_axis)
 

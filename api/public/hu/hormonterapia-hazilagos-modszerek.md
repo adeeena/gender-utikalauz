@@ -18,11 +18,11 @@ Ha azonban helyzetének következtében nincs más választásod, mint az önkez
 
 </div>
 
-Ideális esetben legális eszközökkel, vényre felírt HRT-t kapsz. Előfordulhat azonban, hogy nincs meg a kiváltságod vagy lehetõséged a vényre szerezhetõ HRT-hez való hozzáférésre, ezért ez az útmutató ebben az esetben hasznos lehet.
+Ideális esetben legális eszközökkel, vényre felírt HRT-t kapsz. Előfordulhat azonban, hogy nincs meg a kiváltságod vagy lehetőséged a vényre szerezhető HRT-hez való hozzáférésre, ezért ez az útmutató ebben az esetben hasznos lehet.
 
-Házilagos módszerekkel szerzett vagy elõállított HRT-n jobb lenni a rizikófaktorok ellenére, mint teljesen elesni a hormonterápiától. Ha nem szeretnéd kiváni a várólistákat, nem szeretnéd bizonygatni transzidentitásodat, akkor a házi módszerek előnyösebbnek tûnhetnek.
+Házilagos módszerekkel szerzett vagy előállított HRT-n jobb lenni a rizikófaktorok ellenére, mint teljesen elesni a hormonterápiától. Ha nem szeretnéd kiváni a várólistákat, nem szeretnéd bizonygatni transzidentitásodat, akkor a házi módszerek előnyösebbnek tűnhetnek.
 
-Attól függően, hogy honnan rendeled a készítményeket, **lehet, hogy Bitcoinnal kell fizetned, vagy nemzetközi átutalást kell indítanod**. Bitcoin (vagy egyéb kriptovaluták) vásárlásával kapcsolatban rengeteg cikk van a neten, míg a nemzetközi átutalásokkal kapcsolatban a bankodnál érdeklõdj.
+Attól függően, hogy honnan rendeled a készítményeket, **lehet, hogy Bitcoinnal kell fizetned, vagy nemzetközi átutalást kell indítanod**. Bitcoin (vagy egyéb kriptovaluták) vásárlásával kapcsolatban rengeteg cikk van a neten, míg a nemzetközi átutalásokkal kapcsolatban a bankodnál érdeklődj.
 
 Egyes országokban a hormontartalmú készítményeket recept nélkül árulják.
 
@@ -95,7 +95,7 @@ Az Otokonoko Pharmaceuticals-t egy transz nő vezeti Brazíliában. Házi kész�
 
 <div class="infobox warning">
     
-Az itt vagy nem szereplő források kockázatosak lehetnek. Rendelés leadása előtt mindenképpen ellenõrizd a [https://www.eroids.com/reviews/](https://www.eroids.com/reviews/) oldalon a forrásodat!
+Az itt vagy nem szereplő források kockázatosak lehetnek. Rendelés leadása előtt mindenképpen ellenőrizd a [https://www.eroids.com/reviews/](https://www.eroids.com/reviews/) oldalon a forrásodat!
 
 </div>
 

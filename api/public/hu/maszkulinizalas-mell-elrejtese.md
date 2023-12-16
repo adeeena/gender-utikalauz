@@ -19,7 +19,7 @@ A binder nem mindig áll rendelkezésre. Szinte kizárólag speciális online á
 
 ## Trans Tape, vagy ragasztószalag
 
-Ragasztószalaggal lelapíthatod a melleidet. Ennek a technikának az az előnye, hogy diszkrétebb és kényelmesebb, mint a bordakötés. Azonban rendkívül kellemetlen lehet bõrrel való érintkezés (különösen a mellbimbó körüli résznél, amely nagyon érzékeny terület). BAmennyire csak lehetséges, fordulj a bőrre készült ragasztószalag márkákhoz (mint például a [Trans Tapes](https://transtape.life/)), **ez a technika nem mindenki számára alkalmas**, a bőr érzékenységétől függően.
+Ragasztószalaggal lelapíthatod a melleidet. Ennek a technikának az az előnye, hogy diszkrétebb és kényelmesebb, mint a bordakötés. Azonban rendkívül kellemetlen lehet bőrrel való érintkezés (különösen a mellbimbó körüli résznél, amely nagyon érzékeny terület). BAmennyire csak lehetséges, fordulj a bőrre készült ragasztószalag márkákhoz (mint például a [Trans Tapes](https://transtape.life/)), **ez a technika nem mindenki számára alkalmas**, a bőr érzékenységétől függően.
 
 ## A binder
 A binder nem ártalmatlan ruhadarab. Nem mentes az egészségügyi kockázatoktól, ha bizonyos óvintézkedéseket nem teszünk meg.
@@ -38,7 +38,7 @@ Speciális weboldalak (lásd lentebb) mérettáblázatokat kínálnak a számodr
 
 * bordatörés.
 
-A binder mindennapos viselése meglehetősen hosszú időn keresztül negatív hatással lesz a bőrre, és hozzájárul a mellek deformálódásához, de hatással lehet a bőr minőségére is, és így egy késõbbi mammektómia eredményére is.
+A binder mindennapos viselése meglehetősen hosszú időn keresztül negatív hatással lesz a bőrre, és hozzájárul a mellek deformálódásához, de hatással lehet a bőr minőségére is, és így egy későbbi mammektómia eredményére is.
 
 E kockázatok csökkentése érdekében ajánlatos, hogy a bindert ne viseld éjszaka és/vagy 8 óránál hosszabb ideig egyhuzamban.
 
@@ -66,7 +66,7 @@ Ha a testalkatod nem illik bele az ezeken az oldalakon található táblázatokb
 
 ## Források
 
-➡️ [Reddit r/FTM teljes wiki a bindingrõl](https://www.reddit.com/r/ftm/wiki/index#wiki_binding)
+➡️ [Reddit r/FTM teljes wiki a bindingről](https://www.reddit.com/r/ftm/wiki/index#wiki_binding)
 
 
 

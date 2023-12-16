@@ -6,7 +6,7 @@ lang: hu
 
 <div class="header-image"><img src="assets/images/undraw_ideas.svg" /></div>
 
-# De túl fiatal/öreg vagyok!
+# Túl fiatal/öreg vagyok a tranzícióhoz!
 
 Teljesen téves az a közhiedelem, hogy minden transz ember tudja, hogy transz, és még a kamaszkor előtt nekikezd a hormonterapiának. Ahogy ez az ábra is mutatja (ugyanaz a forrás, mint fent), **a transz emberek 67%-a 18 és 34 éves kora között kezd átváltozni.**
 
@@ -21,7 +21,7 @@ Soha nem vagy túl fiatal ahhoz, hogy megértsd, ki vagy és ki akarsz lenni. Ak
 
 Ha te vagy az a gyermek vagy fiatal, használd a rendelkezésedre álló forrásokat és lépj kapcsolatba egyesületekkel, hogy minél több emberhez eljusson a hangod.
 
-[Olvasd el a szülőknek szóló brosúránkat](/#/entry?id=brosura-szuloknek)
+➡️ [Olvasd el a szülőknek szóló brosúránkat](/#/entry?id=brosura-szuloknek)
 
 ## Túl idős vagyok már!
 
@@ -47,7 +47,7 @@ Bár egy prepubertáskorú transz személynek könnyebb olyan testalkattal rende
 
 <div class="graph-image"><img src="assets/images/passing.png" /></div>
 
-[Forrás](https://transequality.org/sites/default/files/docs/usts/USTS-Full-Report-Dec17.pdf)
+➡️ [Forrás](https://transequality.org/sites/default/files/docs/usts/USTS-Full-Report-Dec17.pdf)
 
 A legtöbb transz ember átél egy "köztes" fázist, amely néhány hónaptól néhány évig is eltarthat, és amely során több erőszakot tapasztalhatnak, mivel transzként jobban láthatóak.
 

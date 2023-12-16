@@ -107,7 +107,7 @@ A társadalom gyakran nagyon szigorú kifejezésekkel beszél a transznemű és 
 
 Ez nem feltétlenül segít nyugodtan előre lépni a saját megbánásokkal, testhez való viszonnyal és esetleges diszfóriával kapcsolatban. **Nincs szégyellnivaló abban, ha műtéteket vagy hormonterápiát veszünk igénybe annak érdekében, hogy jobban illeszkedjünk a kívánt nemünkbe.**
 
-💡 Számos tanács, amelyet a Gender Útikalauz cikkeiben található, eredetileg a transznemű személyek számára szolgál, de ugyanúgy alkalmazhatóak a detranzíción áteső emberek számára is, akik a fordított irányban haladnak. Például egy detranzíción áteső férfi, aki nőiesítő hormonterápia során mellnagyobbodást tapasztalt, alkalmazhatja az ["TODO Hogyan rejtsük el a melleket?"](#) című cikket, ami eredetileg transznemű férfiak számára készült.
+💡 Számos tanács, amelyet a Gender Útikalauz cikkeiben található, eredetileg a transznemű személyek számára szolgál, de ugyanúgy alkalmazhatóak a detranzíción áteső emberek számára is, akik a fordított irányban haladnak. Például egy detranzíción áteső férfi, aki nőiesítő hormonterápia során mellnagyobbodást tapasztalt, alkalmazhatja az ["Hogyan rejthetem el a melleimet?"](/#/entry?id=maszkulinizalas-mell-elrejtese) című cikket, ami eredetileg transznemű férfiak számára készült.
 
 ## Hormonok
 
@@ -178,8 +178,12 @@ Légy óvatos, amikor információkat keres a detranzícióról, mivel sok erős
 
 Néha nehéz megállapítani, hogy egy detranzícióról szóló beszámoló jóindulatú és őszinte-e az érintett személyekkel szemben. Mivel kevés detransz személy létezik, a (rosszindulatú) beszámolók, különösen FtMtF esetén, rendszerint könnyebben elérhetőek, különösen az anti-transz csoportok által.
 
-Valaha a Reddites *r/detrans* közösség egy hely volt, ahol a detranzíciót átélő emberek tanácsokat és tapasztalatokat cseréltek, amíg sok anti-transz aktivista által nem vált propagandával teli térré, amellyel diabolizálhatták a tranzíciót magát. Mostanra az angolul beszélő detranzícionáló emberek inkább másik Reddit fórumon találkoznak: [r/actual_detrans](http://reddit.com/r/actual_detrans).
+<div class="infobox warning">
+<h5>⚠️ Megjegyzés</h5>
+    
+Valaha a Reddites *r/detrans*🚫 közösség egy hely volt, ahol a detranzíciót átélő emberek tanácsokat és tapasztalatokat cseréltek, amíg sok anti-transz aktivista által nem vált propagandával teli térré, amellyel diabolizálhatták a tranzíciót magát. Mostanra az angolul beszélő detranzícionáló emberek inkább másik Reddit fórumon találkoznak: [r/actual_detrans](http://reddit.com/r/actual_detrans).
 
+</div>
 
 ### A detranzíció alatti diszfória kezelése
 

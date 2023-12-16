@@ -1,12 +1,12 @@
 ﻿---
 date: "2020-01-26T20:41:55.827Z"
-title: "Testedzés, erõnléti program transzmaszkulin embereknek (Trans Fitness)"
+title: "Testedzés, erőnléti program transzmaszkulin embereknek (Trans Fitness)"
 lang: hu
 ---
 
 <div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
 
-# Testedzés, erõnléti program transzmaszkulin embereknek (Trans Fitness)
+# Testedzés, erőnléti program transzmaszkulin embereknek (Trans Fitness)
 
 ## Bevezetés
 

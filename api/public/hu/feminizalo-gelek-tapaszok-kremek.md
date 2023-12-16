@@ -78,7 +78,7 @@ Ez a cikk bemutatja az ösztrogének bőrön alkalmazásának sajátosságait. A
 
 </div>
 
-## Általánosságban a gélekrõl és tapaszokról
+## Általánosságban a gélekről és tapaszokról
 
 Az ösztradiol géleket és tapaszt a leggyakoribb és legelérhetőbb alkalmazási módnak tartják Európa szerte.
 

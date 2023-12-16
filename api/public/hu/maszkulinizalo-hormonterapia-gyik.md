@@ -76,11 +76,11 @@ NEM javasolt DIY tesztoszteronnal utazni, mivel a repülőtéri biztonsági szol
 
 Az abszolút kockázat nem túl magas, de a legjobb, ha megpróbálunk biztonságban maradni.
 
-Ha DIY tesztoszteronnal KELL utaznod, akkor szerezz be egy nagy átlátszó lezárható tasakot, a tesztoszteronod legyen egyértelműen megjelölve címkével, és dobj a tasakba néhány aszpirint és allergia elleni gyógyszert a. Valószínűleg a repülőtéri biztonságiaknak nem fog feltûnni.
+Ha DIY tesztoszteronnal KELL utaznod, akkor szerezz be egy nagy átlátszó lezárható tasakot, a tesztoszteronod legyen egyértelműen megjelölve címkével, és dobj a tasakba néhány aszpirint és allergia elleni gyógyszert a. Valószínűleg a repülőtéri biztonságiaknak nem fog feltűnni.
 
 **Ha letartóztatnak, ne mondj semmit a rendőrségnek (de ne találjon ki dolgokat és ne hazudjon nekik), és fordulj ügyvédhez, amint lehetősége nyílik rá.**
 
-Egyszerûbb és biztonságosabb, ha jogszerűen beszerzett, felírt tesztoszteronnal utazol. Csak győződj meg róla, hogy a recept/vény nálad van.
+Egyszerűbb és biztonságosabb, ha jogszerűen beszerzett, felírt tesztoszteronnal utazol. Csak győződj meg róla, hogy a recept/vény nálad van.
 
 ## Források
 

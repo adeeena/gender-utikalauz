@@ -54,6 +54,14 @@ export class EntryComponent implements OnInit {
 
             this.entry = this.markdownService.compile(values[2]);
 
+            while (this.entry.indexOf('<a href="https://') > -1) {
+              this.entry = this.entry.replace('<a href="https://', '<a target="_blank" href="https://');
+            }
+
+            while (this.entry.indexOf('<a href="http://') > -1) {
+              this.entry = this.entry.replace('<a href="http://', '<a target="_blank" href="http://');
+            }
+
             this.titleService.setTitle(
               title + ' | ' + this.translate.instant('general.title'));
           });

@@ -147,14 +147,14 @@ Megjegyzés: A sérülések elkerülése érdekében a tűhegyeket mindenképpen
 
 Az injekciós tűk ára - 400 - 1200 forint injekciónként (attól függ, hogy mennyire nagy tételben vásárolsz).
 
-A tűket/fecskendõket Magyarországon recept nélkül, bármelyik gyógyszertárban megvásárolhatod.
+A tűket/fecskendőket Magyarországon recept nélkül, bármelyik gyógyszertárban megvásárolhatod.
 
 Ügyelj arra, hogy 1 ml-es fecskendőket vásárolj, mivel az egyes injekciókhoz használt kis mennyiségű folyadékot csak 1 ml-es fecskendővel lehet könnyen kimérni. Az elterjedtebb 3 ml-es fecskendők akkor is működnek, ha nem találsz 1 ml-es fecskendőket, de nem ideálisak.
 
 A házilag készített injekcióoldatok általában benzil-benzoátot tartalmaznak (egy biztonságos oldószert, amelyet a vényköteles gyógyszerekben is gyakran használnak), ami kisebb irritációt okozhat, ha szubkután beadják. Intramuszkulárisan történő beadás esetén általában kevesebb fájdalom jelentkezik az injekció beadása után.
 A megfelelő méretek (tűvastagság) a szubkután injekcióhoz 25-30g, intramuszkuláris injekcióhoz 23-25g. A szubkután tűk vékonyabbak, mint az intravénás tűk, amit egyesek kevésbé találnak ijesztőnek.
 
-### Tájékoztatók a befecskendezésrõl
+### Tájékoztatók a befecskendezésről
 
 ➡️ [Guide by Plume](https://members.getplume.co/support/solutions/articles/72000544742-all-about-injections#Injection-video-tutorials)
 

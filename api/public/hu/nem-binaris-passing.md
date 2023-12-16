@@ -46,7 +46,7 @@ Az androgün kinézet elkerülése nem mindig hozza meg a kívánt elismerést. 
 
 <div class="infobox info">
 
-A [Galériában](/#/galery) számos nem-bináris híres, vagy ismert személyrõl láthatsz fotót.
+A [Galériában](/#/galery) számos nem-bináris híres, vagy ismert személyről láthatsz fotót.
 
 </div>
 
@@ -64,7 +64,7 @@ Néha találkozunk a "nem-bináris hormonpótló kezelés (HRT)" kifejezéssel, 
 
 <h5>⚠️ Figyelem</h5>
 
-A SERM és SARM még mindig erősen kísérleti kezelések; Európában gyakorlatilag lehetetlen õket beszerezni.
+A SERM és SARM még mindig erősen kísérleti kezelések; Európában gyakorlatilag lehetetlen őket beszerezni.
 
 </div>
 
@@ -88,7 +88,7 @@ A nem-bináris nemre való tranzíció során úgy tűnik, hogy kompromisszumoka
 
 ## Nem lineáris átmenetek
 
-Az "*passing*" elérése azt feltételezi, hogy az ember idõvel elér egy pólust (az ellenkező nemű passingot), ahonnan soha (vagy legtöbbször) nem mozdul el. Bár ez nem feltétlenül igaz a transz férfiakra vagy nőkre, a nem-bináris személyek tranzíciói még inkább lebontják ezt az elképzelést.
+Az "*passing*" elérése azt feltételezi, hogy az ember idővel elér egy pólust (az ellenkező nemű passingot), ahonnan soha (vagy legtöbbször) nem mozdul el. Bár ez nem feltétlenül igaz a transz férfiakra vagy nőkre, a nem-bináris személyek tranzíciói még inkább lebontják ezt az elképzelést.
 
 
 Ezeket az utakat nem könnyű a nemek-bináris értelmezésével besorolni, mivel olyan szükségletek motiválják őket, amelyek definíciójuknál fogva nem korlátozhatók egyszerűen a férfiasságra vagy a nőiességre. Ezért gyakran - tévesen - vagy "könnyű" tranzícióknak tekintik őket (egy nagyon pontos elképzelés alapján, hogy mi is lenne a tranzíció), vagy egyenesen detranzíciónak (mert az emberek újra a nekik kijelölt nemükhöz tartozó névmást használják, úgy döntenek, hogy abbahagyják a HRT szedését stb.) De nem éppen a nem-binaritás elve az, hogy ezeken a dobozokon (férfi/nő, tranzíció/detranzíció) kívül fejezik ki?

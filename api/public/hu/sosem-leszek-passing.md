@@ -8,10 +8,10 @@ lang: hu
 
 # Attól tartok, sose leszek *passing*.
 
-> Egy cisz-központú társadalomban élünk, ahol a nemi normáknak nem megfelelő embereket büntetik. Ez egy racionális és ijesztő félelem. Engem is évekig megbénított ez, és csak ennek a félelemnek a leküzdésével tudtam elkezdeni a tranzíciómat.
+**Egy cisz-központú társadalomban élünk, ahol a nemi normáknak nem megfelelő embereket büntetik. Ez egy racionális és ijesztő félelem.** Engem is évekig megbénított ez, és csak ennek a félelemnek a leküzdésével tudtam elkezdeni a tranzíciómat.
 
 
-# Mit jelent a *passing*?
+## Mit jelent a *passing*?
 
 A passing egy személy azon tulajdonsága, hogy egy identitáscsoport vagy kategória - például faji identitás, etnikai hovatartozás, kaszt, társadalmi osztály - tagjának tekintik. A transz emberek számára ez azt jelenti, hogy egy adott környezetben a saját nemükben és ciszként érzékelik őket.
 
@@ -19,7 +19,7 @@ Ez sajnos nem egy olyasfajta szuperképesség, amit egyik napról a másikra meg
 
 Ezenkívül a társadalmi interakciók kontextusa is nagy hatással van az elhaladó mintára. Az utcán nagyon könnyen lehet "passing" lenni, de telefonon már nem mindig egyszerű.
 
-# *Passing*-statisztika
+## *Passing*-statisztika
 
 Bár egy prepubertáskorú transz személynek könnyebb olyan testalkattal rendelkeznie, amely lehetővé teszi, hogy ne lássák őt a későbbiekben transznak, sok transz ember "passing" lenni. **A megkérdezettek 88%-a mondta, hogy ismeretlenek őket "soha", "ritkán" vagy "néha" transzneműnek látják.**
 
@@ -31,7 +31,7 @@ A legtöbb transz ember átél egy "köztes" fázist, amely néhány hónaptól 
 
 De **néhány év elteltével a legtöbb transz ember "passing" lesz (azaz a mindennapi életben cisz férfiként/nőként érzékelik őket).**
 
-# Nem számít, hogyan próbálkozom, nem leszek *passing*.
+## Nem számít, hogyan próbálkozom, nem leszek *passing*.
 
 Nem tudhatod előre, hogy olyan "passing" leszel, amelyet elfogadhatónak tartasz végül vagy sem. Azt sem tudhatod, hogy mikortól leszel "passing". Ez a te tranzíciódtól is függ: a transzmaszkulin utakon a tesztoszteron nagyon hamar nagyon erőteljes hatást fejt ki; a transzfeminin utakon már néhány lézeres kezelés is drasztikusan megváltoztathatja az arcot. A feminizáló hormonkezelés hatásai meglehetősen véletlenszerűek, de legfeljebb néhány év elteltével az eredmények igen meglepőek lehetnek (a zsír eloszlásának és a bőr textúrájának változásának köszönhetően).
 
@@ -49,7 +49,7 @@ Nagyon tanulságos lehet végignézni a transz emberek képeit, ahol a tranzíci
 
 ➡️ [Transpassing fórum (csak utána)](http://reddit.com/r/TransPassing)
 
-# Semmi értelme nince a tranzíciónak, ha a végén nem leszek *passing*...
+## Semmi értelme nince a tranzíciónak, ha a végén nem leszek *passing*...
 
 Ez a félelem teljesen jogos, és sok transz ember, aki ezt megkérdőjelezi, késlelteti az tranzícióról való döntését.
 

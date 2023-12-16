@@ -19,10 +19,10 @@ A tanulmányban a megkérdezett **transz emberek 50%-a párkapcsolatban élt.**
 
 * **Bi:** Vonzalom nemi preferencia nélkül.
 * **Hetero:** Vonzódás az ellenkező nemű emberekhez.
-* **Homo:** Vonzódás az azonos nemű emberekhez.
+* **Meleg:** Vonzódás az azonos nemű emberekhez.
 * **Aszexuális:** A szexuális vágy hiánya. Ez nem jelenti azt, hogy nem lehetnek szerelmesek és nem lehetnek kapcsolatban.
 
 *Ez a grafikon és ezek az adatok nem veszik figyelembe az "Egyéb" válaszokat.*
 
-[Forrás](https://transequality.org/sites/default/files/docs/usts/USTS-Full-Report-Dec17.pdf)
+➡️ [Forrás](https://transequality.org/sites/default/files/docs/usts/USTS-Full-Report-Dec17.pdf)
 

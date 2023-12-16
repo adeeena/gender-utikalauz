@@ -27,7 +27,7 @@ lang: hu
 Ez a cikk a mammoplasztikáról vagy mellnagyobbításról nyújt tájékoztatást, mint a transzfeminin tranzíció részeként.
 
 
-Mivel a mell természetes úton történõ növekedése több évig is eltarthat, ajánlatos legalább két évet várni a mellnagyobbító műtét elvégzése előtt, mivel fennáll a veszélye annak, hogy a reméltnél nagyobb mellek lesznek a végén.
+Mivel a mell természetes úton történő növekedése több évig is eltarthat, ajánlatos legalább két évet várni a mellnagyobbító műtét elvégzése előtt, mivel fennáll a veszélye annak, hogy a reméltnél nagyobb mellek lesznek a végén.
 
 A mellimplantátumok beültetése az egyik leggyakrabban végzett műtét a világon, 2013-ban közel 1,8 millió beavatkozást végeztek el (forrás: ISAPS).
 
@@ -226,6 +226,6 @@ A rossz minőségű szilikonimplantátumok esetében az anyag porózussá válha
 
 ### Súlyos kockázatok
 
-Mindig fennáll a súlyosabb esetek lehetősége, bár ritkán, mint például nekrózis, fertőzések stb. A kockázatokkal kapcsolatban beszélj elõször a sebészeddel.
+Mindig fennáll a súlyosabb esetek lehetősége, bár ritkán, mint például nekrózis, fertőzések stb. A kockázatokkal kapcsolatban beszélj először a sebészeddel.
 
 </div>

@@ -27,14 +27,14 @@ Ez a dosszié végigmegy minden olyan elemen, amely segíthet vagy akadályozhat
 
 Épp ellenkezőleg, ezek a tippek arra szolgálnak, hogy segítsenek azonosítani a férfiasság azon elemeit, amelyeket a sajátoddá szeretnél tenni.
 
-A nyugati kultúrában például vannak nagyon konkrét elemek, amelyeket azonnal a nőiességgel társítanak (smink, körömlakk vagy ruha/szoknya). Ezek mind csökkentik a férfi passingra való lehetõséget. Azonban nem kell lemondanod ezekről a dolgokról, ha tetszenek. Ne felejtsd el, hogy a tranzíció legfőbb oka az, hogy közelebb kerülj önmagadhoz, nem pedig az, hogy egyik sztereotípiából a másikba kerülj.
+A nyugati kultúrában például vannak nagyon konkrét elemek, amelyeket azonnal a nőiességgel társítanak (smink, körömlakk vagy ruha/szoknya). Ezek mind csökkentik a férfi passingra való lehetőséget. Azonban nem kell lemondanod ezekről a dolgokról, ha tetszenek. Ne felejtsd el, hogy a tranzíció legfőbb oka az, hogy közelebb kerülj önmagadhoz, nem pedig az, hogy egyik sztereotípiából a másikba kerülj.
 
 ## Öltözködési szabályok
 
-Általában a praktikusabb, fegyelmezettebb ruházatot a férfiassághoz társítják. Nagyobb valószínűséggel leszel passing egy egyszerű kapucnis pulóverrel és farmerrel, mint egy frakkal és elegáns cipõvel.
+Általában a praktikusabb, fegyelmezettebb ruházatot a férfiassághoz társítják. Nagyobb valószínűséggel leszel passing egy egyszerű kapucnis pulóverrel és farmerrel, mint egy frakkal és elegáns cipővel.
 
 
-A melleid a méretüktől függően elárulhatnak téged. Sportmelltartókkal vagy [kompressziós felsõkkel (binderrel)](/#/entry?id=maszkulinizalas-mell-elrejtese) laposabbá teheted a mellkasodat, ha nem szeretnél műtétet, vagy még nem estél át rajta. Válassz bő szabású felsõket, alul széles vagy egyenes szabásúakat (a morfológiádtól és a szakmai vagy egyéb korlátoktól függően).
+A melleid a méretüktől függően elárulhatnak téged. Sportmelltartókkal vagy [kompressziós felsőkkel (binderrel)](/#/entry?id=maszkulinizalas-mell-elrejtese) laposabbá teheted a mellkasodat, ha nem szeretnél műtétet, vagy még nem estél át rajta. Válassz bő szabású felsőket, alul széles vagy egyenes szabásúakat (a morfológiádtól és a szakmai vagy egyéb korlátoktól függően).
 
 ## Színek
 Nyugati társadalmainkban a fakó/sötét árnyalatokat a férfiassággal társítják, ami meglehetősen előnyös abban a tekintetben, hogy segít elrejteni az idomokat itt-ott egy kicsit jobban.
@@ -46,7 +46,7 @@ Nyugati társadalmainkban a fakó/sötét árnyalatokat a férfiassággal társ�
 
 </div>
 
-## Arcszõrzet
+## Arcszőrzet
 
 Sminkelheted magad, hogy azt az illúziót keltsd, mintha borostád lenne, ezzel segítve a férfiasabb megjelenést.
 Ez történhet fekete szemfestékkel, szempillaspirállal vagy akár hajfestékkel.
@@ -60,7 +60,7 @@ A tasttartásnak is nagy szerepe van: az emberek könnyebben passingnak látnak,
 
 
 ## Hang
-Hormonkezeléssel a hang a legtöbb esetben különösebb megerõltetés nélkül mélyülni fog. Ez óriási szerepet játszik a passignban olyan helyzetekben, ahol a megjelenésünk nem játszik szerepet (például telefonon).
+Hormonkezeléssel a hang a legtöbb esetben különösebb megerőltetés nélkül mélyülni fog. Ez óriási szerepet játszik a passignban olyan helyzetekben, ahol a megjelenésünk nem játszik szerepet (például telefonon).
 
 Hormonok nélkül is lehet azonban mélyíteni, férfiasabbá tenni a hangot. Az éneklés segíthet a mélyebb hangok elérésében is. A monoton hangot férfiasabbnak fogják érzékelni, és bizonyos hangokkal vagy hangsúlyokkal is játszhatsz.
 

@@ -51,7 +51,7 @@ NEM-HORMONÁLIS TERMÉKEK
 
 # Vérvizsgálatok és azok kiértékelése transzmaszkulin személyeknek
 
-Maszkulinizáló hormonterápia alatt érdemes legalább 3 havonta vérvizsgálatot készíteni, bár ha az anyagiak nem engedik meg, ennél ritkábban is elvégezheted a kontrollt. Ugyanakkor a hormonterápia kezdetét követõ elsõ hónap végén meg kell ejteni a kontrollt.
+Maszkulinizáló hormonterápia alatt érdemes legalább 3 havonta vérvizsgálatot készíteni, bár ha az anyagiak nem engedik meg, ennél ritkábban is elvégezheted a kontrollt. Ugyanakkor a hormonterápia kezdetét követő első hónap végén meg kell ejteni a kontrollt.
 
 **Minden alkalommal végeztess ösztradiol (E2) és teljes tesztoszteron (T) tesztet.** Vetesd le a vért a lehető legközelebb a következő beütemezett injekcióhoz, a tényleges adag beadása előtti napon (azaz a mélyponton).
 
@@ -61,7 +61,7 @@ Az Endokrin Társaság 2017-es, a transznemű HRT-re vonatkozó klinikai iránye
 
 ## Mennyi legyen az ösztradiol (E2) értéke?
 
-A felnőtt férfiak normál tartománya **10-50 pg/ml** ([Ösztrogén mértékegységváltó (kalkulátor)](#/osztrogen-kalkulator)), bár ez az életkortól és az egyéni tényezőktől függően változik. Próbáld megcélozni ezt a tartományt, bár valamivel magasabb szintek miatt nem kell aggódni. Végsõsoron **próbáld meg az ösztradiolt 70 pg/ml alatt tartani.**
+A felnőtt férfiak normál tartománya **10-50 pg/ml** ([Ösztrogén mértékegységváltó (kalkulátor)](#/osztrogen-kalkulator)), bár ez az életkortól és az egyéni tényezőktől függően változik. Próbáld megcélozni ezt a tartományt, bár valamivel magasabb szintek miatt nem kell aggódni. Végsősoron **próbáld meg az ösztradiolt 70 pg/ml alatt tartani.**
 
 ➡️ [A hormontáblázatot itt találod](/#/entry?id=hormontablazat-es-kalkulatorok).
 

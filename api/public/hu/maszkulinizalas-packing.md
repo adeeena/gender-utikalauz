@@ -46,7 +46,7 @@ Ezek a túrázók árkategóriájának alsó határán kaphatók (és többnyire
 
 ## Hogyan biztosíthatom, hogy a packer a helyén maradjon?
 
-Következõ megoldások léteznek, hogy nap végére a packered ne mozduljon el a helyérõl:
+Következő megoldások léteznek, hogy nap végére a packered ne mozduljon el a helyéről:
 
 ### Normál alsónemű
 

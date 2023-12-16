@@ -4,7 +4,7 @@ title: "Packing: ágyéki dudor és állva pisilés"
 lang: hu
 ---
 
-<div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
+<div class="header-image"><img src="assets/images/undraw_heavy_box.svg" /></div>
 
 # Packing: ágyéki dudor és állva pisilés
 

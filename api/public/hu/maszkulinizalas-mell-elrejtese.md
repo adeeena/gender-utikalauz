@@ -4,7 +4,7 @@ title: "Hogyan rejthetem el a melleimet?"
 lang: hu
 ---
 
-<div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
+<div class="header-image"><img src="assets/images/undraw_skateboard.svg" /></div>
 
 # Hogyan rejthetem el a melleimet?
 

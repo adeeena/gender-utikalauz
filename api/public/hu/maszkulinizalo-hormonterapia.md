@@ -47,7 +47,7 @@ NEM-HORMONÁLIS TERMÉKEK
 
 <div class="wiki-content">
 
-<div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
+<div class="header-image"><img src="assets/images/undraw_launching.svg" /></div>
 
 # Hormonok és hormonkezelés transz férfiak és transzmaszkulin személyek számára
 

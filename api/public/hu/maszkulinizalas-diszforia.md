@@ -4,7 +4,7 @@ title: "Diszfória transzmaszkulin személyeknek"
 lang: hu
 ---
 
-<div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
+<div class="header-image"><img src="assets/images/undraw_junior_soccer.svg" /></div>
 
 # Diszfória leküzdése transzmaszkulin személyek számára
 

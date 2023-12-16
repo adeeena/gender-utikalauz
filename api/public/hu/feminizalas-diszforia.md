@@ -4,7 +4,7 @@ title: "Diszfória transzfeminin személyeknek"
 lang: hu
 ---
 
-<div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
+<div class="header-image"><img src="assets/images/undraw_feeling_blue.svg" /></div>
 
 # A diszfória leküzdése és szembenézés másokkal
 

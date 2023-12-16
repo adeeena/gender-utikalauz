@@ -4,7 +4,7 @@ title: "Nem-bináris passing"
 lang: hu
 ---
 
-<div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
+<div class="header-image"><img src="assets/images/undraw_people.svg" /></div>
 
 # Passing nem-binárisként
 

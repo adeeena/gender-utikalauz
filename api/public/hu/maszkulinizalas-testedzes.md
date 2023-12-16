@@ -4,7 +4,7 @@ title: "Testedzés, erőnléti program transzmaszkulin embereknek (Trans Fitness
 lang: hu
 ---
 
-<div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
+<div class="header-image"><img src="assets/images/undraw_personal_trainer.svg" /></div>
 
 # Testedzés, erőnléti program transzmaszkulin embereknek (Trans Fitness)
 

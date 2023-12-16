@@ -4,7 +4,7 @@ title: "Hangfeminizáció"
 lang: hu
 ---
 
-<div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
+<div class="header-image"><img src="assets/images/undraw_mindfulness.svg" /></div>
 
 # Hangfeminizáció
 

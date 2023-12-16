@@ -47,7 +47,7 @@ NEM-HORMONÁLIS TERMÉKEK
 
 <div class="wiki-content">
 
-<div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
+<div class="header-image"><img src="assets/images/undraw_conversation.svg" /></div>
 
 # Tesztoszteron, menstruáció és termékenység a transz férfiak és transzmaszkulin személyek számára
 

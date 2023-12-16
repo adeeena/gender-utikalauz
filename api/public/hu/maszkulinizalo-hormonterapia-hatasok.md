@@ -47,7 +47,7 @@ NEM-HORMONÁLIS TERMÉKEK
 
 <div class="wiki-content">
 
-<div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
+<div class="header-image"><img src="assets/images/undraw_junior_soccer.svg" /></div>
 
 # A maszkulinizáló hormonkezelés hatása a transz férfiakra és a transzmaszkulin emberekre
 

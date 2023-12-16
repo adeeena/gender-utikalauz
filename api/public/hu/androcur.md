@@ -68,7 +68,7 @@ T-BLOKKOLÓK ÉS PROGESZTINEK
 
 <div class="wiki-content">
 
-<div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
+<div class="header-image"><img src="assets/images/undraw_ride_a_bicycle.svg" /></div>
 
 # Androcur
 

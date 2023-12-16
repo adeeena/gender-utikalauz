@@ -4,7 +4,7 @@ title: "Brosúra - Tájékozott döntés meghozatala a hormonterápia mellett"
 lang: hu
 ---
 
-<div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
+<div class="header-image"><img src="assets/images/undraw_ideation.svg" /></div>
 
 # Tájékozott döntés meghozatala a hormonterápia mellett
 

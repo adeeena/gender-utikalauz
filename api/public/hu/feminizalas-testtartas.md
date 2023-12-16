@@ -34,7 +34,7 @@ BEVEZETŐ
 
 <div class="wiki-content">
 
-<div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
+<div class="header-image"><img src="assets/images/undraw_fashion_photoshoot.svg" /></div>
 
 # Magasság és testtartás
 

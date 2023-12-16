@@ -4,7 +4,7 @@ title: "Hogyan működnek a hormonok?"
 lang: hu
 ---
 
-<div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
+<div class="header-image"><img src="assets/images/undraw_doctor.svg" /></div>
 
 # Hogyan működnek a hormonok?
 

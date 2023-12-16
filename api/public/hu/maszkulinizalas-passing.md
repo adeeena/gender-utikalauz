@@ -4,7 +4,7 @@ title: "Férfi passing"
 lang: hu
 ---
 
-<div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
+<div class="header-image"><img src="assets/images/undraw_agree.svg" /></div>
 
 # Férfi passing
 

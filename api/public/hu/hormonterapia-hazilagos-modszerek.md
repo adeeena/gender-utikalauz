@@ -4,7 +4,7 @@ title: "Hormonterápia házilagos módszerek, DIY"
 lang: hu
 ---
 
-<div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
+<div class="header-image"><img src="assets/images/undraw_empty_cart.svg" /></div>
 
 # Házilagos módszerek, DIY
 

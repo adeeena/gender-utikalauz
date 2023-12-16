@@ -1,6 +1,6 @@
 ﻿---
-date: "2020-01-26T20:41:55.827Z"
 title: "Attól tartok, sose leszek passing"
+description: "Passing célja: egy transz emberként elfogadást találni a társadalomban. Bár nem mindig könnyű, a boldogság és önkifejezés a legfontosabb."
 lang: hu
 ---
 

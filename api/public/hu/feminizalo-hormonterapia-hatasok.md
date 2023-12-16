@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
-title: "Feminizáló hormonterápia alapjai"
+title: "Feminizáló hormonterápia hatásai"
+description: "Mikre lehet számítani a feminizáló hormonterápia hatásaiként?"
 lang: hu
 ---
 
@@ -137,7 +137,7 @@ A HRT bizonyos visszafordíthatatlan hatásokkal is rendelkezik. Ezeknek a hatá
 
 * A mellméret lecsökkenhet, de nem tűnik el teljesen.
 
-<div class="infobox podcast-episode">
+<div class="infobox info">
 <h5>💊 Tájékozott döntés meghozatala a hormonterápia mellett</h5>
 	
 [Feminizáló hormonok - kitölthető útmutató](/#/entry?id=brosura-hormonok-kitoltheto-utmutato) a feminizáló hormonterápia hatásait magyarázza el, interaktív, kitöltendő részekkel, amelyek segítségével megnézheted, hogy a hormonok szedése segít-e neked az tranzíciós céljaid elérésében. A tájékozott beleegyezés elősegítésének nélkülözhetetlen eszköze!

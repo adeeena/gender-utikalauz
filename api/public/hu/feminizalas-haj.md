@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Haj - Női passing"
+description: "Haj és passing: A haj fontossága a transz nők életében. Kopaszodás, tranzíció és passing. Hasznos tippek a megjelenés kialakításához. 💇‍♀️✨"
 lang: hu
 ---
 

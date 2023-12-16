@@ -1,12 +1,16 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Orchidektómia"
+description: "Orchidektómia következményei és folyamata. Műtét utáni lábadozás és fontos tudnivalók. 🩹💡"
 lang: hu
 ---
 
 <div class="floating-columns">
 
 <div class="floating-bar">
+
+[Bevezetõ](/#/entry?id=feminizalas-mutetek)
+
+MÛTÉTEK
 
 [Mellnagyobbítás](/#/entry?id=feminizalas-mellnagyobbito-mutet)
 

@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Vérvizsgálatok és azok kiértékelése transzfeminin személyeknek"
+description: "Milyen vérvizsgálatokat kell elvégeznem, ha hormonterápián vagyok?"
 lang: hu
 ---
 

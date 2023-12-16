@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
-title: "A maszkulinizáló hormonkezelés hatása a transz férfiakra és a transzmaszkulin emberekre"
+title: "A maszkulinizáló hormonkezelés hatásai"
+description: "Mikre lehet számítani a feminizáló hormonterápia hatásaiként?"
 lang: hu
 ---
 
@@ -116,6 +116,13 @@ A tesztoszteron számos visszafordíthatatlan hatást vált ki, amelyeket a keze
 * Hajhullás. Kezelés leállításakor a visszanövés lehet részleges, és a hajvonal valamennyire visszatérhet, ha a hajhullás nemrégiben történt.
 
 * Szőrösödés (bizonyos területeken, különösen az arcon). A tesztoszteron leállításakor a haj növekedése lelassul és finomabbá válik, feltéve, hogy az ösztrogénszint ismét emelkedik, de nem szünik meg.
+
+<div class="infobox info">
+<h5>💊 Tájékozott döntés meghozatala a hormonterápia mellett</h5>
+	
+[Maszkulinizáló hormonok - kitölthető útmutató](/#/entry?id=brosura-hormonok-kitoltheto-utmutato) a maszkulinizáló hormonterápia hatásait magyarázza el, interaktív, kitöltendő részekkel, amelyek segítségével megnézheted, hogy a hormonok szedése segít-e neked az tranzíciós céljaid elérésében. A tájékozott beleegyezés elősegítésének nélkülözhetetlen eszköze!
+
+</div>
 
 ## Mikroadagolás (microdosing)
 

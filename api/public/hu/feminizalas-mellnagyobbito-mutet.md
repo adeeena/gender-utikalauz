@@ -1,12 +1,17 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Mellnagyobbítás"
+description: "Mellnagyobbítás transzfeminin tranzíció során: Információk, várakozási idő, költségek és eljárás részletei. Készülj fel a műtétre! 🌸"
 lang: hu
 ---
 
 <div class="floating-columns">
 
 <div class="floating-bar">
+
+
+[Bevezetõ](/#/entry?id=feminizalas-mutetek)
+
+MÛTÉTEK
 
 [Mellnagyobbítás](/#/entry?id=feminizalas-mellnagyobbito-mutet)
 

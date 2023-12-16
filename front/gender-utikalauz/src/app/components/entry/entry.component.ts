@@ -3,7 +3,7 @@ import {ActivatedRoute} from "@angular/router";
 import {EntryService} from "../../services/entry.service";
 import {MatDialog, MatDialogRef, MAT_DIALOG_DATA} from '@angular/material/dialog';
 import {fadeInUpOnEnterAnimation} from "angular-animations";
-import {Title} from "@angular/platform-browser";
+import {Meta, Title} from "@angular/platform-browser";
 import {TranslateService} from "@ngx-translate/core";
 import {Utf8EmojisToImagesPipe} from "../../lib/pipes/utf8-emojis-to-images.pipe";
 import {MarkdownService} from "ngx-markdown";
@@ -33,6 +33,7 @@ export class EntryComponent implements OnInit {
   constructor(private route: ActivatedRoute,
               private entryService: EntryService,
               private titleService: Title,
+              private meta: Meta,
               private translate: TranslateService,
               public dialog: MatDialog,
               private markdownService: MarkdownService) { }
@@ -51,6 +52,11 @@ export class EntryComponent implements OnInit {
                 (q:string) => q.startsWith('title'))
               [0].split(': ')[1]
               .replace(/['"]+/g, '');
+            let description = this.metadata
+              .filter(
+                (q:string) => q.startsWith('description'))
+              [0].split(': ')[1]
+              .replace(/['"]+/g, '');
 
             this.entry = this.markdownService.compile(values[2]);
 
@@ -64,6 +70,8 @@ export class EntryComponent implements OnInit {
 
             this.titleService.setTitle(
               title + ' | ' + this.translate.instant('general.title'));
+
+            this.meta.updateTag({ name: 'description', content: description });
           });
       }
     });

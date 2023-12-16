@@ -1,12 +1,16 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Ádámcsutka-műtét"
+description: "Ádámcsutka-műtét és gégeplasztika: Ismerd meg a chondrolaryngoplasztika céljait és folyamatát. Gyors, kisebb műtét, 2 hét felépülési idővel. Ár: 6-800 ezer Ft."
 lang: hu
 ---
 
 <div class="floating-columns">
 
 <div class="floating-bar">
+
+[Bevezetõ](/#/entry?id=feminizalas-mutetek)
+
+MÛTÉTEK
 
 [Mellnagyobbítás](/#/entry?id=feminizalas-mellnagyobbito-mutet)
 

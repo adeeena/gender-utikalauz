@@ -1,6 +1,6 @@
 ﻿---
-date: "2020-01-26T20:41:55.827Z"
 title: "Diszfória transzmaszkulin személyeknek"
+description: "Légy erős a nemi diszfória ellen! Tapasztalatok, különböző érzelmek és a szembenézés fontossága. Taktikák az átmenet kihívásainak kezelésére, segítség a közös szembenézésben."
 lang: hu
 ---
 
@@ -8,9 +8,23 @@ lang: hu
 
 # Diszfória leküzdése transzmaszkulin személyek számára
 
-Sok transznemű, nem bináris vagy nemi szempontból nem konform ember számára a nemi diszfória nagy problémát jelent a mindennapi életben.
+A diszfória rövid vagy hosszú távú kényelmetlenség, elégedetlenség és nehézségek megtapasztalása, amely a saját nemi identitás és a születéskor hozzárendelt nem különbözõségébõl fakad.
 
-Hogyan tudsz normális életet élni, ha a tested egy olyan részére koncentrálsz, amelyet legszívesebben eltüntetnél, a hangodra, amelyet utálsz, mert túl nőies vagy férfias, és amikor minden másodperc ebben a testben egyre elviselhetetlenebbnek tűnik?
+Nem minden transz tapasztal feltétlenül nemi diszfóriát.
+
+Az emberek különböző módon tapasztalják a nemi diszfóriát, pl. különösen erős negatív érzelmekkel bizonyos testrészeivel kapcsolatban vagy pl. azzal kapcsolatban, hogy a társadalomban folyamatosan olyan névmásokkal illetik meg õket, amellyel nem azonosulnak.
+
+A diszfória az enyhe kényelmetlenségtől a szélsőséges kényelmetlenségig és akár az öngyilkossági gondolatokig terjedhet, akár perceken belül fokozódva egyik végletbõl a másikba.
+
+## A mentális egészség fenntartása - Megszabadulni a mérgező gondolatoktól
+
+A mentális egészség az minden egyes ember életének egyik fő területe. A transzidentitás nem feltétlenül jár mentális egészségügyi problémákkal, de a statisztikák azt mutatják, hogy a transz emberek általában sokkal hajlamosabbak a depresszióra, a szorongásra, az önpusztító viselkedésre, a szerhasználatra, az étkezési zavarokra stb.
+
+Téves lenne azt a következtetést levonni, hogy a transz embereknek több mentális egészségügyi problémájuk van, miután az átállás mellett döntenek. Valójában ez fordítva is igaz – a transz emberek, még mielőtt megértenék önmagukat, már sok (érthető vagy nem érthető) nehézséget és szenvedést halmoznak fel, amelyek azzal kapcsolatosak, hogy a tényleges nemüktől eltérő nemet élnek (vagy elvárják tőle).
+
+Ezek bár az alapok, de a felgyülemlett erőszakot nem tarthatod meg magadnak, különben hosszú távon összeomlasz. Meg kell szabadulnod tőle, de egészséges módon. Vannak, akik sportolnak, mások lerajzolják a gondolataikat... Javaslom, hogy vezess kezdetnek naplót...
+
+Én több éven keresztül minden nap ugyanabban az időben írtam legalább egy kis bekezdést mindenről, ami rosszul ment a napomban/életemben, és mindig könnyebbnek éreztem magam a végén.
 
 ## Sport
 A sport jó eszköz arra, hogy jobban érezd magad a bőrödben.

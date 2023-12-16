@@ -1,6 +1,6 @@
 ﻿---
-date: "2020-01-26T20:41:55.827Z"
 title: "Brosúra - Tájékozott döntés meghozatala a hormonterápia mellett"
+description: "Az információs és kitölthető útmutatók elősegítik a tájékozott beleegyezést, fokozva a tudatosságot és segítve a megalapozott döntéshozatalt mind az egyének, mind a támogatók számára."
 lang: hu
 ---
 

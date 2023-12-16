@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Feminizáló hormonterápia"
+description: "Információkat transz nõk és transzfeminin személyek számára elérhető feminizáló hormonkezelésekkel kapcsolatban. Tudj meg mindent a HRT-ről, és készülj fel az informált döntésre."
 lang: hu
 ---
 

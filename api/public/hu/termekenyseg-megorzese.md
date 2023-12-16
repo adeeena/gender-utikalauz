@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Termékenység megőrzése"
+description: "Milyen lehetõségek állnak a transz emberek részére, hogy megõrizzék termékenységüket?"
 lang: hu
 ---
 

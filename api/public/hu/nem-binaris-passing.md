@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Nem-bináris passing"
+description: "Néhány támpont a nem-bináris személyek passingjához."
 lang: hu
 ---
 

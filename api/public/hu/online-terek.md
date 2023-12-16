@@ -1,6 +1,6 @@
 ﻿---
-date: "2020-01-26T20:41:55.827Z"
 title: "Online közösségi terek a transzidentitással kapcsolatban"
+description: "Néhány kiindulópont, hogy összekapcsolódhass sorstársaiddal, és hogy barátokat szerezhess."
 lang: hu
 ---
 

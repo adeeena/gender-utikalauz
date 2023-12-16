@@ -1,6 +1,6 @@
 ﻿---
-date: "2020-01-26T20:41:55.827Z"
 title: "Mit jelent nem binárisnak lenni?"
+description: "Hogyan értelmezhetõ a nem-binaritás egy alapvetõen bináris társadalomban?"
 lang: hu
 ---
 

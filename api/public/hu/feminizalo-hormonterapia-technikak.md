@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Különböző feminizáló hormonkezelési technikák"
+description: "Összefoglaló, milyen különbözõ lehetõségeink és technikák állnak rendelkezésre feminizáló hormonkezelés során."
 lang: hu
 ---
 

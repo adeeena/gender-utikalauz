@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Maszkulinizáló hormonterápia"
+description: "Információkat transz férfiak és transzmaszkulin személyek számára elérhető maszkulinizáló hormonkezelésekkel kapcsolatban. Tudj meg mindent a HRT-ről, és készülj fel az informált döntésre."
 lang: hu
 ---
 

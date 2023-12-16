@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
-title: "Gélek, tapaszok, krémek"
+title: "✅Gélek, tapaszok, krémek"
+description: "Ismerd meg a ✅Gélek, tapaszok, krémek előnyeit és hátrányait, rendelkezésre álló alternatívákkal és adagolási útmutatókkal."
 lang: hu
 ---
 

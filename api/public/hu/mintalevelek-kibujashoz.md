@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Mintalevelek kibújáshoz"
+description: "Néhány mintalevél, ami segíthet a coming outodban."
 lang: hu
 ---
 

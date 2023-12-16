@@ -1,6 +1,6 @@
 ﻿---
-date: "2020-01-26T20:41:55.827Z"
 title: "Transznak és melegnek lenni"
+description: "Okoz-e problémát, ha egyszerre vagyok transz és nem-hetero?"
 lang: hu
 ---
 

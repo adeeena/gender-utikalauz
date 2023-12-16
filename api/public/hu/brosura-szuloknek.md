@@ -1,6 +1,6 @@
 ﻿---
-date: "2020-01-26T20:41:55.827Z"
 title: "10 tévhit a transzidentitásról"
+description: "A 10 tévhit a transzidentitásról kiadvány segíti a szülőket megérteni és támogatni transznemű gyermeküket."
 lang: hu
 ---
 

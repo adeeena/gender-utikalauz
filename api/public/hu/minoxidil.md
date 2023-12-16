@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
-title: "Minoxidil"
+title: "😐Minoxidil"
+description: "Ismerd meg az 😐Minoxidil előnyeit és hátrányait, rendelkezésre álló alternatívákkal és adagolási útmutatókkal."
 lang: hu
 ---
 

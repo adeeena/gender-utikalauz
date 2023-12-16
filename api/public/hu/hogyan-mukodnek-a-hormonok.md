@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Hogyan működnek a hormonok?"
+description: "Gyorstalpaló, hogy hogyan is mûködnek a nemi hormonok."
 lang: hu
 ---
 
@@ -8,7 +8,7 @@ lang: hu
 
 # Hogyan működnek a hormonok?
 
-<div class="infobox podcast-episode">
+<div class="infobox info">
 
 Ez a cikk az emberi hormonrendszer általános működését ismerteti. Nem kell mindent megértened ahhoz, hogy elkezdd a hormonterápiát (HRT), de segíthet a jobb döntés meghozatalában.
 

@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Progesztinek"
+description: "Progesztinek: Női hormonok, melyek szabályozzák a menstruációs ciklust. Mellékhatásaik változatosak, de fontosak a transz nők számára."
 lang: hu
 ---
 

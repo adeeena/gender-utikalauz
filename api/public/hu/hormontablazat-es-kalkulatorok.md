@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Hormontáblázat és kalkulátorok"
+description: "Néhány kiszámoló és táblázat a hormonok referenciaértékeivel."
 lang: hu
 ---
 

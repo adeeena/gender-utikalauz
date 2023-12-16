@@ -1,6 +1,6 @@
 ﻿---
-date: "2020-01-26T20:41:55.827Z"
 title: "Honnan tudom, hogy transz vagyok?"
+description: "Honnan tudhatom, hogy az érzéseim a transzidentitással valósak, megalapozottak, és akár kész vagyok megváltoztatni az életem?"
 lang: hu
 ---
 
@@ -43,7 +43,7 @@ További tévhitek és válaszok a transz emberek szüleinek szóló kiadványun
 
 ## Miért most?
 
-> Miért csak most jövök rá erre?
+*Miért csak most jövök rá erre?*
 
 Van egy régi, unásig ismételt közhely: a transz emberek mindig is tudták, hogy transzok. Ez nem igaz. **Bármikor ráébredhetsz, hogy transz vagy.** Számtalan oka lehet annak, hogy eddig nem ébredhettél rá.
 
@@ -53,9 +53,19 @@ Van egy régi, unásig ismételt közhely: a transz emberek mindig is tudták, h
 * Úgy gondoltál rá, hogy "Ó, jó lenne, ha a másik nemű lennék, amikor megszülettem", anélkül, hogy valaha is konkrét kívánságként fogalmaztad volna meg.
 * Olyan helyzetbe kerültél, amely arra kényszerített, hogy a születési nemedért megjutalmaztak.
 * Lehet, hogy életed egy pontján cisz voltál, de most már nem vagy az, vagy rádöbbensz, hogy már nincs értelme cisznek maradnod.
-* Satöbbi.
+* stb.
 
 A "tagadás" okának megértése segíthet a továbblépésben.
+
+Általában a megértés és az önfeltárás időszaka rendkívül érzékeny; ezért a legjobb, ha sok támogató ember van körülötted. Azok számára, akik a transz emberek létezését tagadják, vagy nagyon hagyományos környezetben élnek, érthető, hogy **a tranzíció nagy sokkot okozhat, és számos negatív érzést válthatnak ki: bűntudat, szégyen, félelem, elszigeteltség, harag, kétségbeesés, zavarodottság...**
+
+A legtöbb emberben, aki a tranzíción gondolkodik, a kétség érzése uralkodik:
+
+* Eléggé transz vagyok?
+* Hogyan lehetnék transz, ha… (bármilyen racionális érv a transzidentitás ellen)
+* Tényleg transz vagyok?
+
+A transz emberek nagyon különbözőek, de a kétség, hogy valóban transz-e vagy sem, szinte mindenkiben gyakori, és sokan közülük úgy gondolják, hogy tévednek. A tapasztalat azt mutatja, hogy a transz emberek akkor a legstabilabbak és legboldogabbak, ha úgy élhetnek, ahogy akarnak. A tranzíció, legyen az társadalmi vagy hormonális, természetesen aggodalmakat és problémákat hozhat, de ezek az esetek túlnyomó többségében abszolút kisebbek, mint azok a nehézségek, amelyeket az ember átél, amikor egy nem saját identitással kell együtt élnie.
 
 ## Tesztek és szerepjátékok a megértéshez
 

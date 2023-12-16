@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
-title: "Mintalevél kibújáshoz - 4"
+title: "Mintalevél kibújáshoz - Kibújás a (tágabb) rokonság felé"
+description: "Mintalevél, ami segíthet a coming outodban a rokonság felé."
 lang: hu
 ---
 

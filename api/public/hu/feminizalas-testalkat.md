@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Haj - Testalkat, ruházat"
+description: "Feminin passing és ruházat: Tippek a nőiesség kifejezéséhez a mindennapokban. 🌸💄"
 lang: hu
 ---
 

@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Maszkulinizáló hormonterápia GYIK"
+description: "Gyakran feltett kérdések a maszkulinizáló hormonterápiával kapcsolatban."
 lang: hu
 ---
 
@@ -67,6 +67,12 @@ Ugyanakkor bizonyos nem-bináris emberek, akik nem kívánják a testük teljes 
 ## Milyen hatással van a hormonterápia a termékenységemre?
 
 A kezelés néhány hónapos szedése után a legtöbb transznemű ember termékenysége csökken, vagy akár teljesen meddővé válhat. Bizonyos esetekben a kezelés hosszabb ideig történő abbahagyása (körülbelül 6 hónap) lehetővé teheti a termékenység visszanyerését. De azt tanácsoljuk, hogy erre ne alapozz mindent, mert a termékenység visszatérése nem garantált.
+
+Ezek miatt az okok miatt a legbölcsebb tanács, amit adhatunk:
+
+* Ha valaha is szeretnél gyermeket, akkor tekints a HRT-re úgy, hogy az gyorsan meddőséghez vezet, és valószínűleg szükséges lesz előzetes mintaadás spermabankhoz.
+
+* Ellenkező esetben, ha nem szeretnél gyermeket és szexuális kapcsolatban vagy, akkor tekints a HRT-re úgy, hogy nem feltétlenül teszi teljesen meddővé, és a fogamzásgátlás továbbra is elengedhetetlen az ilyesjellegű balesetek elkerülésére.
 
 Ha hormonkezelést szeretnél kezdeni és a jövőben gyermeket tervezel, [tájékozódj a petesejtjeid megőrzéséről a kezelés megkezdése előtt](/#/entry?id=termekenyseg-megorzese).
 

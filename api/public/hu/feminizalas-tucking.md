@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Tucking - Női passing"
+description: "Tippek és javaslatok hatékony és egész nap kitartó tuckinghoz"
 lang: hu
 ---
 

@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Kibújás"
+description: "Tippek és tanácsok sikeres comint outoláshoz"
 lang: hu
 ---
 

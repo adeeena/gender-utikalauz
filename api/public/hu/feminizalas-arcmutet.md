@@ -1,12 +1,17 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Arcműtét"
+description: "Arcfeminizációs műtét (FFS) részletei: Csökkentsd a férfias vonásokat! Gyakori műtétek, sebek elrejtése, beavatkozások és felépülés. Tökéletes arcábrázat a transz nők számára."
 lang: hu
 ---
 
 <div class="floating-columns">
 
 <div class="floating-bar">
+
+
+[Bevezetõ](/#/entry?id=feminizalas-mutetek)
+
+MÛTÉTEK
 
 [Mellnagyobbítás](/#/entry?id=feminizalas-mellnagyobbito-mutet)
 

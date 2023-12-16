@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Masztektómia"
+description: "Minden, amit tudni akartál a masztektómia mûtétrôl a transzmaszkulin hormonterápiával kapcsolatban"
 lang: hu
 ---
 

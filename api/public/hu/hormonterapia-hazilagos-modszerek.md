@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Hormonterápia házilagos módszerek, DIY"
+description: "Milyen módokon lehet az orvosokat megkerülve hormonkészítményekhez jutni?"
 lang: hu
 ---
 

@@ -1,5 +1,4 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Bemutató tesztoszteronhoz"
 lang: hu
 ---
@@ -70,12 +69,14 @@ Az adagolás akkor "jó", ha a tesztoszteronszint két vérvizsgálat között s
 
 Ezért fontos szem előtt tartani, hogy bizonyos hatások gyorsabban vagy lassabban jelentkeznek az alacsony vagy magas dózistól és az elért szinttől függően.
 
-## Öngyógyítás (DIY)
+## Házilagos módszerek (DIY)
 
-A [hormonkezelés megkezdéséről szóló cikkben említett módon](/#/entry?id=hormonterapia-elkezdese) nem javasoljuk, hogy öngyógyítással próbálkozz. Az öngyógyítás nagyon veszélyes lehet, és mindig egészségesebb, ha a témában jártas egészségügyi szakember felügyeli. Ráadásul a tesztoszteron doppinghatásai miatt szigorúan szabályozott anyag, így jogi problémáknak lehetsz kitéve.
+A [hormonkezelés megkezdéséről szóló cikkben említett módon](/#/entry?id=hormonterapia-elkezdese) nem javasoljuk, hogy önkezeléssal próbálkozz. Az önkezelés nagyon veszélyes lehet, és mindig egészségesebb, ha a témában jártas egészségügyi szakember felügyeli. Ráadásul a tesztoszteron doppinghatásai miatt szigorúan szabályozott anyag, így jogi problémáknak lehetsz kitéve.
 
 Az online konzultációk ma már távolról is elérhetőek, még a távoli területeken élők számára is, akiknek korlátozott az utazási lehetőségük.
 
-Ha mindezek ellenére a helyzete miatt nincs más választásod, mint az öngyógyítás, mindenképpen kérj tanácsot olyan emberektől, akikben megbízol.
+Ha mindezek ellenére a helyzete miatt nincs más választásod, mint az önkezelés, mindenképpen kérj tanácsot olyan emberektől, akikben megbízol.
+
+[A házilagos módszerek alapjairól szóló cikket itt találod.](/#/entry?id=hormonterapia-hazilagos-modszerek)
 
 </div>

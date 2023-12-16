@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
-title: "Mintalevél kibújáshoz - 2"
+title: "Mintalevél kibújáshoz - Szülőknek címzett kisérőlevél kibújáshoz"
+description: "Mintalevél, ami segíthet a coming outodban a szülők felé."
 lang: hu
 ---
 

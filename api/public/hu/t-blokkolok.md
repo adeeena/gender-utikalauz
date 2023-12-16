@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "T-blokkolók"
+description: "Bevezetõ a tesztoszteron-blokkolókhoz, valamint általuk kifejtett hatásaira."
 lang: hu
 ---
 

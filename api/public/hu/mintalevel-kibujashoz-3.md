@@ -1,6 +1,7 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
-title: "Mintalevél kibújáshoz - 3"
+title: "Mintalevél kibújáshoz - Nyilvános kibújás"
+description: "Mintalevél, ami segíthet a coming outodban a nyilvánosság felé."
+
 lang: hu
 ---
 

@@ -1,6 +1,6 @@
 ﻿---
-date: "2020-01-26T20:41:55.827Z"
 title: "Mit jelent transznak lenni?"
+description: "Elfogadás és támogatás kulcsfontosságúak a transznemű és nem-bináris egyének jólétéhez."
 lang: hu
 ---
 

@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Feminizáló hormonterápia GYIK"
+description: "Gyakran feltett kérdések a feminizáló hormonterápiával kapcsolatban."
 lang: hu
 ---
 
@@ -84,17 +84,15 @@ Bár a kezdeti testi állapot, a genetika és az a kor, amelyben az ember elkezd
 
 ### Mi a meddőség kockázata a HRT-vel?
 
-Ez a kezelt személytől függ, de általában a hormonpótló kezeléssel meddőség kockázata megnövekszik. Feltételezhető, hogy a meddőség kockázata már a hormonok szedésének első hónapjaiban jelentkezni fog.
-
-Elméletben lehetséges a termékenység visszanyerése a hormonkezelés abbahagyásával, de a végleges meddőség kockázata annál nagyobb, minél hosszabb ideig szedtünk hormonokat.
-
-Mindazonáltal néhány embernek sikerült megőriznie termékenységét több év elteltével, vagy visszanyernie azt a hormonkezelés leállításával és/vagy tesztoszteron szedésével.
+A kezelés néhány hónapos szedése után a legtöbb transznemű ember termékenysége csökken, vagy akár teljesen meddővé válhat. Bizonyos esetekben a kezelés hosszabb ideig történő abbahagyása (körülbelül 6 hónap) lehetővé teheti a termékenység visszanyerését. De azt tanácsoljuk, hogy erre ne alapozz mindent, mert a termékenység visszatérése nem garantált.
 
 Ezek miatt az okok miatt a legbölcsebb tanács, amit adhatunk:
 
 * Ha valaha is szeretnél gyermeket, akkor tekints a HRT-re úgy, hogy az gyorsan meddőséghez vezet, és valószínűleg szükséges lesz előzetes mintaadás spermabankhoz.
 
 * Ellenkező esetben, ha nem szeretnél gyermeket és szexuális kapcsolatban vagy, akkor tekints a HRT-re úgy, hogy nem feltétlenül teszi teljesen meddővé, és a fogamzásgátlás továbbra is elengedhetetlen az ilyesjellegű balesetek elkerülésére.
+
+Ha hormonkezelést szeretnél kezdeni és a jövőben gyermeket tervezel, [tájékozódj a spermád megőrzéséről a kezelés megkezdése előtt](/#/entry?id=termekenyseg-megorzese).
 
 ### Jelentkezhetnek-e "menstruációs" tüneteik a cisznemű nőkhöz hasonlóan a transznemű nőknek?
 
@@ -123,22 +121,6 @@ A létező összes SERM közül a leggyakrabban használt a [Raloxifen](https://
 **Figyelem: ez a két módszer általában kockázatosabb az egészségre nézve, mint egy „hagyományos” THS, és kísérleti jellegűnek tekinthető.**
 
 ## Kontroll és adagolások
-
-### Vérvétel: az elemzendő értékek
-
-A hormonkezelés kezdetekor egy vérvizsgálat során általában az alábbi értékeket tesztelik:
-
-* Tesztoszteron
-* Ösztrogén
-* Prolaktin
-* LH
-* FSH
-* TSH
-* Éhgyomri vércukor
-* Májfunkció (GOT, GPT, GGT)
-* Kreatinin
-
-Ezt követően lehetséges, hogy nem minden értéket tesztelnek rendszeresen, de ajánlott rendszeresen átfogó vizsgálatot végezni.
 
 ### Úgy hallottam, hogy kerülni kell a túl sok ösztrogén bevitelét, mert a test tesztoszteronná alakíthatja azt, igaz ez?
 
@@ -262,12 +244,6 @@ Ha nem szeretnéd ezt, vagy ha a szervezete már nem képes szexuális hormonoka
 Ezen kívül teljesen lehetséges egy hormonkezelés megszakítása, majd későbbi újrakezdése.
 
 Létezik mikroadagolású hormonkezelés is (amely csak részben helyettesíti természetes hormonjait). A változások megegyeznek a "hagyományos" hormonkezeléssel, de kevésbé intenzívek és hosszabb idő alatt következnek be.
-
-## Milyen hatással van a hormonterápia a termékenységemre?
-
-A kezelés néhány hónapos szedése után a legtöbb transznemű ember termékenysége csökken, vagy akár teljesen meddővé válhat. Bizonyos esetekben a kezelés hosszabb ideig történő abbahagyása (körülbelül 6 hónap) lehetővé teheti a termékenység visszanyerését. De azt tanácsoljuk, hogy erre ne alapozz mindent, mert a termékenység visszatérése nem garantált.
-
-Ha hormonkezelést szeretnél kezdeni és a jövőben gyermeket tervezel, [tájékozódj a spermád megőrzéséről a kezelés megkezdése előtt](/#/entry?id=termekenyseg-megorzese).
 
 ## Utazás hormonkészítményekkel
 

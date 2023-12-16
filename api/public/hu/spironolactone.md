@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
-title: "Spironolactone"
+title: "😐Spironolactone"
+description: "Ismerd meg a 😐Spironolactone előnyeit és hátrányait, rendelkezésre álló alternatívákkal és adagolási útmutatókkal."
 lang: hu
 ---
 

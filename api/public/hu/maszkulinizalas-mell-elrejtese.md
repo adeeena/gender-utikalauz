@@ -1,6 +1,6 @@
 ﻿---
-date: "2020-01-26T20:41:55.827Z"
 title: "Hogyan rejthetem el a melleimet?"
+description: "Tippek és tanácsok, hogy hogyan rejtsük el a mellünket, cisz férfi mellkas hatását keltve."
 lang: hu
 ---
 

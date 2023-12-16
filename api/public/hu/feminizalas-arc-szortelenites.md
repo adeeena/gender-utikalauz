@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Arc szőrtelenítése - Női passing"
+description: "Lézer vagy elektrolízis? Szakáll és bajusz elrejtése sminkkel: Lépésről lépésre útmutató a tökéletes eredményért. Praktikus tippek a transz nők számára."
 lang: hu
 ---
 

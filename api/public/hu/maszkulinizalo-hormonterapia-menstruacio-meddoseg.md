@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
-title: "Tesztoszteron, menstruáció és termékenység a transz férfiak és transzmaszkulin személyek számára"
+title: "Tesztoszteron, menstruáció és termékenység"
+description: "Milyen kapcsolatban áll a hormonterápia a menstruációs ciklussal, illetve a meddõséggel?"
 lang: hu
 ---
 

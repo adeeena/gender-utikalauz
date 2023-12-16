@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Hormonterápia elkezdése"
+description: "Mik elõzik meg a hormonterápia kezdetét?"
 lang: hu
 ---
 

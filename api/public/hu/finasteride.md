@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
-title: "Finasteride"
+title: "⛔Finasteride"
+description: "Ismerd meg az ⛔Finasteride előnyeit és hátrányait, rendelkezésre álló alternatívákkal és adagolási útmutatókkal."
 lang: hu
 ---
 
@@ -85,7 +85,7 @@ Ez a cikk a finasteride sajátos jellemzőit ismerteti. A HRT általános hatás
 
 </div>
 
-Ezt a gyógyszert általában olyan férfiaknak írják fel, akiknek kihullik a hajuk. Elsődlegesen a DHT-szint csökkentésére szolgál, miközben a tesztoszteronszintet magasan tartja. **Csak olyan transz nők számára hasznos, akiknek továbbra is magas a DHT-szintje, még akkor is, ha a tesztoszteronszintet megfelelően csökkentették. Egyébként csak egészségügyi kockázatot vállalsz a semmiért!**
+Ezt a gyógyszert általában olyan férfiaknak írják fel, akik erősen kopaszodnak. Elsődlegesen a DHT-szint csökkentésére szolgál, miközben a tesztoszteronszintet magasan tartja. **Csak olyan transz nők számára hasznos, akiknek továbbra is magas a DHT-szintje, még akkor is, ha a tesztoszteronszintet megfelelően csökkentették. Egyébként csak egészségügyi kockázatot vállalsz a semmiért!**
 
 ### Előnyök:
 

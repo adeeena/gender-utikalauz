@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Kiegészítők - Női passing"
+description: "Fokozd és tökéletesítsd nõies megjelenésedet kiegészítõkkel."
 lang: hu
 ---
 
@@ -63,6 +63,7 @@ Jó tipp a feminizációhoz a karika- vagy nagyméretű fülbevalók viselése, 
 Így biztos lehetsz benne, hogy a beszélgetőpartnereid észreveszik, hogy női kiegészítőt viselsz. Különösen hasznos lehet akkor, ha még főleg androgün tulajdonságjegyekkel rendelkezel.
 
 ## Nyaklánc
+
 A fülbevalókhoz hasonlóan a nyaklánc is segíthet a mellkas nőiesebbé tételében.
 
 Széles vállak esetén hosszú nyakláncokat javasolnak, nem túl közel a vállvonalhoz.

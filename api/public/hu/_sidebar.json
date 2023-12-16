@@ -70,6 +70,10 @@
         "title": "Félek, mert túl fiatal / öreg vagyok"
       },
       {
+        "entryId": "transznemuseg-csak-egy-divathullam",
+        "title": "Akik szerint ez csak egy divathullám"
+      },
+      {
         "entryId": "detranzicio",
         "title": "Detranzició"
       }
@@ -166,7 +170,7 @@
         "title": "Packing"
       },
       {
-        "entryId": "maszkulinizalas-masztektomia",
+        "entryId": "maszkulinizalas-mutetek",
         "title": "Mûtétek"
       }
     ]

@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Detranzíció"
+description: "Ismerd meg a detranzíció fogalmát és a vele járó kérdéseket. Hogyan segíthet a cikk a tisztánlátásban és a személyes identitás felfedezésében?"
 lang: hu
 ---
 

@@ -1,6 +1,6 @@
 ﻿---
-date: "2020-01-26T20:41:55.827Z"
 title: "Packing: ágyéki dudor és állva pisilés"
+description: "Maszkulin passing: packing tippek és tanácsok."
 lang: hu
 ---
 

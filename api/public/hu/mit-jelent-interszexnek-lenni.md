@@ -1,6 +1,6 @@
 ﻿---
-date: "2020-01-26T20:41:55.827Z"
 title: "Mit jelent interszexnek lenni?"
+description: "Tények, tévhitek és bemutató az interszexualitásról"
 lang: hu
 ---
 

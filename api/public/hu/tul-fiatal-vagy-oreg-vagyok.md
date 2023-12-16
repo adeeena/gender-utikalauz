@@ -1,6 +1,6 @@
 ﻿---
-date: "2020-01-26T20:41:55.827Z"
 title: "De túl fiatal/öreg vagyok!"
+description: "Fedezd fel a tranzíció lehetőségeit bármilyen életkorban! Ne hagyd, hogy a kor vagy előítéletek megállítsanak."
 lang: hu
 ---
 

@@ -1,6 +1,6 @@
 ﻿---
-date: "2020-01-26T20:41:55.827Z"
 title: "Testedzés, erőnléti program transzmaszkulin embereknek (Trans Fitness)"
+description: "Rövid edzésterv, hogy te lehess a legizmosabb, legsportosabb a barátaid között"
 lang: hu
 ---
 

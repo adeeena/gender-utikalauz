@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Ösztrogének"
+description: "Az ösztrogének kritikusak a feminizáló hormonterápiában. Fedezd fel hatásukat, illetve a különböző kezeléseket (mint a gélek vagy a tabletták)!"
 lang: hu
 ---
 

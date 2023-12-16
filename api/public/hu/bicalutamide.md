@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
-title: "Bicalutamide"
+title: "✅Bicalutamide"
+description: "Ismerd meg az ✅Bicalutamide előnyeit és hátrányait, rendelkezésre álló alternatívákkal és adagolási útmutatókkal."
 lang: hu
 ---
 

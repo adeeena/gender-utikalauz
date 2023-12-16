@@ -1,6 +1,6 @@
 ---
-date: "2020-01-26T20:41:55.827Z"
 title: "Méheltávolítás, oophorektómia és vaginektómia"
+description: "Minden, amit tudni akartál a méheltávolításról a transzmaszkulin hormonterápiával kapcsolatban"
 lang: hu
 ---
 

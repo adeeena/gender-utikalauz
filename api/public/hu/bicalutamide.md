@@ -16,6 +16,8 @@ BEVEZETŐ
 
 [Hatások](/#/entry?id=feminizalo-hormonterapia-hatasok)
 
+[Vérvizsgálatok](/#/entry?id=feminizalo-hormonterapia-vervizsgalatok)
+
 [Különböző technikák](/#/entry?id=feminizalo-hormonterapia-technikak)
 
 [GYIK Feminziáló HRT](/#/entry?id=feminizalo-hormonterapia-gyik)
@@ -261,6 +263,10 @@ A számítási szabály az, hogy 1 mg bicalutamide 4ng/dl összes tesztoszteront
 
 ➡️ [Bicalutamide § Further reading – Wikipedia](https://en.wikipedia.org/wiki/Bicalutamide#Further_reading)
 ➡️ [Bicalutamide / Nonsteroidal Antiandrogens – PubMed](https://goo.gl/dF3gz8) (filter search results by « Review » in the left-hand column)
+
+## DIY beszerzési források
+
+➡️ [hrt.coffee - Bicalutamide](https://hrt.coffee/bicalutamide/)
 
 
 </div>

@@ -16,6 +16,8 @@ BEVEZETŐ
 
 [Hatások](/#/entry?id=feminizalo-hormonterapia-hatasok)
 
+[Vérvizsgálatok](/#/entry?id=feminizalo-hormonterapia-vervizsgalatok)
+
 [Különböző technikák](/#/entry?id=feminizalo-hormonterapia-technikak)
 
 [GYIK Feminziáló HRT](/#/entry?id=feminizalo-hormonterapia-gyik)
@@ -223,6 +225,8 @@ Ha azonban helyzetének következtében nincs más választásod, mint az önkez
     </tbody>
 </table>
 
+## DIY beszerzési források
 
+➡️ [hrt.coffee - Cyproterone](https://hrt.coffee/cypro/)
 
 </div>

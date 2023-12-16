@@ -16,6 +16,8 @@ BEVEZETŐ
 
 [Hatások](/#/entry?id=feminizalo-hormonterapia-hatasok)
 
+[Vérvizsgálatok](/#/entry?id=feminizalo-hormonterapia-vervizsgalatok)
+
 [Különböző technikák](/#/entry?id=feminizalo-hormonterapia-technikak)
 
 [GYIK Feminziáló HRT](/#/entry?id=feminizalo-hormonterapia-gyik)
@@ -170,5 +172,8 @@ Messze a legnépszerűbb és legismertebb, a tabletták a legkönnyebben beszere
 
 Kerüld a nem bioidentikus ösztrogéneket, mint például a Premarin vagy az etinilösztradiol (EE). Ezek a bioidentikus ösztrogénekhez képest megnövekedett trombózis kockázatot hordoznak.
 
+## DIY beszerzési források
+
+➡️ [hrt.coffee - tabletták](https://hrt.coffee/pills/)
 
 </div>

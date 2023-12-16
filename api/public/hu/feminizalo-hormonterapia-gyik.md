@@ -16,6 +16,8 @@ BEVEZETŐ
 
 [Hatások](/#/entry?id=feminizalo-hormonterapia-hatasok)
 
+[Vérvizsgálatok](/#/entry?id=feminizalo-hormonterapia-vervizsgalatok)
+
 [Különböző technikák](/#/entry?id=feminizalo-hormonterapia-technikak)
 
 [GYIK Feminziáló HRT](/#/entry?id=feminizalo-hormonterapia-gyik)
@@ -265,11 +267,11 @@ Létezik mikroadagolású hormonkezelés is (amely csak részben helyettesíti t
 
 A kezelés néhány hónapos szedése után a legtöbb transznemű ember termékenysége csökken, vagy akár teljesen meddővé válhat. Bizonyos esetekben a kezelés hosszabb ideig történő abbahagyása (körülbelül 6 hónap) lehetővé teheti a termékenység visszanyerését. De azt tanácsoljuk, hogy erre ne alapozz mindent, mert a termékenység visszatérése nem garantált.
 
-Ha hormonkezelést szeretnél kezdeni és a jövőben gyermeket tervezel, tájékozódj a petesejtjeid vagy spermád megőrzéséről a kezelés megkezdése előtt.
+Ha hormonkezelést szeretnél kezdeni és a jövőben gyermeket tervezel, [tájékozódj a spermád megőrzéséről a kezelés megkezdése előtt](/#/entry?id=termekenyseg-megorzese).
 
 ## Utazás hormonkészítményekkel
 
-Igen, a legtöbb feminizáló hormonterápiás készítménnyel lehet utazni. Még hetekre elegendõ tűkkel és injekciós készletekkel is.
+A legtöbb feminizáló hormonterápiás készítménnyel lehet utazni. Még hetekre elegendõ tűkkel és injekciós készletekkel is.
 
 A légi közlekedésnél győződj meg, hogy a készítményeid egyértelműen fel vannak címkézve, hogy mi is az valójában (írd rá a gyógyszer teljes nevét az üvegre/ampullára/stb., ha szükséges). Ne próbálj meg rosszul felcímkézett HRT-t felvinni a repülőgépre, például ne tegyél HRT tablettákat egy vitaminos üvegbe. Ha injekciót használsz, tárold a feladott poggyászában.
 

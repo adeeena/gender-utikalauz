@@ -19,13 +19,18 @@ BEVEZETŐ
 
 [Menstruáció és meddőség](/#/entry?id=maszkulinizalo-hormonterapia-menstruacio-meddoseg)
 
+[Vérvizsgálatok](/#/entry?id=maszkulinizalo-hormonterapia-vervizsgalatok)
+
+[GYIK Maszkulinizáló HRT](/#/entry?id=maszkulinizalo-hormonterapia-gyik)
+
+
 <hr />
 
 TESZTOSZTERON
 
 [Bevezető az tesztoszteronhoz](/#/entry?id=tesztoszteron)
 
-[✅Testosteron Depo](/#/entry?id=testosteron-depo)
+[✅Testosteron Depo](/#/entry?id=maszkulinizalo-injekciok)
 
 [✅Nebido](/#/entry?id=nebido)
 
@@ -57,9 +62,9 @@ Hatékony tesztoszteron-pótló. Alacsony rizikófaktor.
 
 ## Bemutató
 
-Injekció. Az injekciókat sokkal gyakrabban kell beadni, mint a [Testosteron Depot](/#/entry?id=testosteron-depo), általában két-három havonta. A Nebido ampulla ára gyógyszertártól függően 100 és 200 euró között mozog. 
+Injekció. Az injekciókat sokkal gyakrabban kell beadni, mint a [Testosteron Depot](/#/entry?id=maszkulinizalo-injekciok), általában két-három havonta. A Nebido ampulla ára gyógyszertártól függően 100 és 200 euró között mozog. 
 
-A hatás nem feltétlenül gyorsabb, mint az [Testosteron Depot](/#/entry?id=testosteron-depo) esetében. 
+A hatás nem feltétlenül gyorsabb, mint az [Testosteron Depot](/#/entry?id=maszkulinizalo-injekciok) esetében. 
 
 Az injekció beadását követően tesztotszeron-csúcspontot, a végén pedig alacsony tesztoszterszintet lehet mérni.
 

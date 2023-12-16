@@ -16,6 +16,8 @@ BEVEZETŐ
 
 [Hatások](/#/entry?id=feminizalo-hormonterapia-hatasok)
 
+[Vérvizsgálatok](/#/entry?id=feminizalo-hormonterapia-vervizsgalatok)
+
 [Különböző technikák](/#/entry?id=feminizalo-hormonterapia-technikak)
 
 [GYIK Feminziáló HRT](/#/entry?id=feminizalo-hormonterapia-gyik)

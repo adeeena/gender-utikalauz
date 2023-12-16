@@ -16,6 +16,8 @@ BEVEZETŐ
 
 [Hatások](/#/entry?id=feminizalo-hormonterapia-hatasok)
 
+[Vérvizsgálatok](/#/entry?id=feminizalo-hormonterapia-vervizsgalatok)
+
 [Különböző technikák](/#/entry?id=feminizalo-hormonterapia-technikak)
 
 [GYIK Feminziáló HRT](/#/entry?id=feminizalo-hormonterapia-gyik)
@@ -269,5 +271,11 @@ Ugyanakkor [a tanulmányukban az argentin kutatók nem figyeltek meg semmilyen n
 * A hormonszintek kevésbé stabilak a nap folyamán
 
 * Nincs tapasztalat a hosszú távú mellékhatásokról
+
+## DIY beszerzési források
+
+➡️ [hrt.coffee - gélek](https://hrt.coffee/gel/)
+
+➡️ [hrt.coffee - tapaszok](https://hrt.coffee/patches/)
 
 </div>

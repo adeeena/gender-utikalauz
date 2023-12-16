@@ -16,8 +16,12 @@ BEVEZETŐ
 
 [Hatások](/#/entry?id=maszkulinizalo-hormonterapia-hatasok)
 
-
 [Menstruáció és meddőség](/#/entry?id=maszkulinizalo-hormonterapia-menstruacio-meddoseg)
+
+[Vérvizsgálatok](/#/entry?id=maszkulinizalo-hormonterapia-vervizsgalatok)
+
+[GYIK Maszkulinizáló HRT](/#/entry?id=maszkulinizalo-hormonterapia-gyik)
+
 
 <hr />
 
@@ -25,7 +29,7 @@ TESZTOSZTERON
 
 [Bevezető az tesztoszteronhoz](/#/entry?id=tesztoszteron)
 
-[✅Testosteron Depo](/#/entry?id=testosteron-depo)
+[✅Testosteron Depo](/#/entry?id=maszkulinizalo-injekciok)
 
 [✅Nebido](/#/entry?id=nebido)
 

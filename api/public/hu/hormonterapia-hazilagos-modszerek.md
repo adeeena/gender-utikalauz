@@ -22,7 +22,7 @@ Ideális esetben legális eszközökkel, vényre felírt HRT-t kapsz. Előfordul
 
 Házilagos módszerekkel szerzett vagy elõállított HRT-n jobb lenni a rizikófaktorok ellenére, mint teljesen elesni a hormonterápiától. Ha nem szeretnéd kiváni a várólistákat, nem szeretnéd bizonygatni transzidentitásodat, akkor a házi módszerek előnyösebbnek tûnhetnek.
 
-Attól függően, hogy honnan rendeled a készítményeket, l**ehet, hogy Bitcoinnal kell fizetned, vagy nemzetközi átutalást kell indítanod**. Bitcoin (vagy egyéb kriptovaluták) vásárlásával kapcsolatban rengeteg cikk van a neten, míg a nemzetközi átutalásokkal kapcsolatban a bankodnál érdeklõdj.
+Attól függően, hogy honnan rendeled a készítményeket, **lehet, hogy Bitcoinnal kell fizetned, vagy nemzetközi átutalást kell indítanod**. Bitcoin (vagy egyéb kriptovaluták) vásárlásával kapcsolatban rengeteg cikk van a neten, míg a nemzetközi átutalásokkal kapcsolatban a bankodnál érdeklõdj.
 
 Egyes országokban a hormontartalmú készítményeket recept nélkül árulják.
 
@@ -54,6 +54,58 @@ Még ha felveszik veled a kapcsolatot (általában csak akkor lépnek kapcsolatb
 
 Árthatsz az eladónak/forgalmazónak, ha a vámhatóságnak bevallod, hogy vény nélkül rendelsz HRT-t. Legyél szolidáris az eladóval és a többi transz sorstársaddal.
 
+## Rendelés (Transzfeminin tranzícióhoz)
+
+<div class="infobox warning">
+    
+Az itt vagy a hrt.coffee oldalon nem szereplő források kockázatosak lehetnek. Rendelés leadása előtt mindenképpen végezz kutatást az itt fel nem sorolt HRT-forrásokról.
+
+</div>
+
+* A gyógyszerészeti minőségű HRT nemzetközi megrendelései általában 3-6 hét alatt érkeznek meg.
+
+* A nemzetközi házi készítésű HRT szállítása általában 2-3 hétig tart.
+
+### Nemzetközi beszerzés (gyógyszerészeti minőségű)
+
+A források teljes listáját lásd a [hrt.coffee](https://hrt.coffee) oldalon:
+
+➡️ [hrt.coffee - Tabletták](https://hrt.coffee/pills/)
+
+➡️ [hrt.coffee - Tapaszok](https://hrt.coffee/patches/)
+
+➡️ [hrt.coffee - Gél](https://hrt.coffee/gel/)
+
+➡️ [hrt.coffee - Cyproterone](https://hrt.coffee/cypro/)
+
+➡️ [hrt.coffee - Bicalutamide](https://hrt.coffee/bicalutamide/)
+
+➡️ [hrt.coffee - Spironolactone](https://hrt.coffee/spironolactone/)
+
+Az orosz oldalakról történő szállítás hosszabb időt vehet igénybe, mint más forrásokból (4-8 hét).
+
+### Házi készítésű beszerzés
+
+➡️ [Otokonoko Pharmaceuticals](https://otkph.am)
+
+Nemzetközi szállítás Brazíliából - $20 USD nemzetközi szállítás. Bitcoinnal lehet vásárolni.
+Az Otokonoko Pharmaceuticals-t egy transz nő vezeti Brazíliában. Házi készítésű ösztradiol injekciókat és néhány más terméket árul, többek között transzdermális géleket, ösztradiol tablettákat, bikalutamide-ot és egyéb HRT-gyógyszereket.
+
+## Rendelés (Transzmaszkulin tranzícióhoz)
+
+<div class="infobox warning">
+    
+Az itt vagy nem szereplő források kockázatosak lehetnek. Rendelés leadása előtt mindenképpen ellenõrizd a [https://www.eroids.com/reviews/](https://www.eroids.com/reviews/) oldalon a forrásodat!
+
+</div>
+
+➡️ [RoidBazaar EU - Testosterone Enanthate](https://eu.roidbazaar.me/human-labs/testo-e/)
+
+➡️ [RoidBazaar EU - Testosterone Enanthate, II.](https://eu.roidbazaar.me/europe-domestic/testosterone-enanthate-250-1297/)
+
+➡️ [RoidBazaar EU - Testosterone Cypionate](https://eu.roidbazaar.me/human-labs/testo-c/)
+
+➡️ [RoidBazaar EU - Testosterone Cypionate II.](https://eu.roidbazaar.me/europe-domestic/testosterone-cypionate-250-1296/)
 
 
 ## Kapcsolódó oldalak

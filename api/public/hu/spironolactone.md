@@ -16,6 +16,8 @@ BEVEZETŐ
 
 [Hatások](/#/entry?id=feminizalo-hormonterapia-hatasok)
 
+[Vérvizsgálatok](/#/entry?id=feminizalo-hormonterapia-vervizsgalatok)
+
 [Különböző technikák](/#/entry?id=feminizalo-hormonterapia-technikak)
 
 [GYIK Feminziáló HRT](/#/entry?id=feminizalo-hormonterapia-gyik)
@@ -154,5 +156,9 @@ Végül pedig a spironolactone gyakran nem elég hatékony a tesztoszteron blokk
 Ez a pletyka [ebből a tanulmányból](https://academic.oup.com/jcem/article/97/12/4422/2536439) származik, amelyet 2012-ben végzett Dr. Seal. Ezt a tanulmányt azonban később több okból is erősen kritizálták. A legfontosabb az volt, hogy a tanulmány által előterjesztett számadatok nem igazán voltak megbízhatóak. Mivel a résztvevők melleinek méretét soha nem mérték meg, a kutatók egyszerűen megszámolták a később elvégzett mellnagyobbítások számát, és azt feltételezték, hogy a többi résztvevőnél a mellek fejlődése helyes volt.
 
 Végül is, ha a spiro kritizálható a mell gyenge fejlődésének okozásáért, az elsősorban azért van, mert meglehetősen gyenge antiandrogén, és sok esetben nem nyomja el kellőképpen a tesztoszteront.
+
+## DIY beszerzési források
+
+➡️ [hrt.coffee - Spironolactone](https://hrt.coffee/spironolactone/)
 
 </div>

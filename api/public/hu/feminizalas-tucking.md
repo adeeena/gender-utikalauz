@@ -38,15 +38,31 @@ BEVEZETŐ
 
 # Tucking
 
+<div class="infobox warning">
+
+⚠️ Ez a cikk és explicit grafikus ábrákat tartalmaz.
+
+</div>
+
 A tucking egy szükséges lépés, hogy passzos ruhákat, cicanacit, szűk farmereket vagy fürdőruhát viselhess anélkül, hogy a lábad közti dudor eláruljon téged.
+
+Egyes transz nők minden nap tuckingolnak, mások alkalmanként, és természetesen néhány AMAB transz nõ nem érzi szükségét a tuckingnak.
 
 Ez egy olyan technika, amely során a két gonádot (a herék semleges megnevezése) felnyomják a hozzájuk megközelebbi üregbe, közvetlenül a pénisz alá. Ez az üreg a testnek az a része, ahol az ivarmirigyek voltak, mielőtt az embrionális fejlődés során lentebb vándoroltak volna. Más szóval, a cél az, hogy az ivarmirigyeket oda helyezzük, ahol akkor lettek volna, ha nem tudtak volna teljesen lefelé menni.
 
-Ennek a technikának az elsajátítása egy kis időt vesz igénybe. Szánj időt arra, hogy megkeresd a pénisz mögött lévő üregeket, és kitapogasd ezt a két üreges területet. Ha már rutinosan megtalálod őket, akkor már csak annyit kell tenned, hogy felnyomod őket, a péniszedet a testedhez hajtod a végbélnyílásod felé, és egy szűk alsóneművel rögzíted.
+<div class="content-image"><img src="assets/images/tucking.jpg" /></div>
+
+Ennek a technikának az elsajátítása egy kis időt vesz igénybe. Szánj időt arra, hogy megkeresd a pénisz mögött lévő üregeket, és kitapogasd ezt a két üreges területet. Ha már rutinosan megtalálod őket, akkor már csak annyit kell tenned, hogy felnyomod őket, a péniszedet a testedhez hajtod a végbélnyílásod felé, és egy szűk alsóneművel rögzíted. E technika mellett vagy azzal kombinálva használhatunk orvosi vagy speciális tucingszalagot is.
 
 Használhatsz egy erre a célra tervezett alsóneműt vagy egy alul rögzíthető bodyt is, ahogy az első videón látható.
 
+## Veszélyek
+
+Ha hosszabb ideig (mondjuk egy egész nap) viselsz tuckingot, próbálj meg legalább naponta többször rövid szünetekre kiengedni a tuckingot. **Légy óvatos, hogy elkerüld az irritációt és a fertőzést, és használj orvosi ragasztószalagot a hagyományos ragasztószalag helyett.**
+
 ## Források
+
+➡️ [WikiHow - Tuck and Tape](https://www.wikihow.com/Tuck-and-Tape)
 
 ➡️ [wikitrans.co](https://wikitrans.co)
 

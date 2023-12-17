@@ -1,6 +1,6 @@
 ---
 title: "T-blokkolók"
-description: "Bevezetõ a tesztoszteron-blokkolókhoz, valamint általuk kifejtett hatásaira."
+description: "Bevezető a tesztoszteron-blokkolókhoz, valamint általuk kifejtett hatásaira."
 lang: hu
 ---
 

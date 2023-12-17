@@ -1,6 +1,6 @@
 ---
 title: "Tesztoszteron, menstruáció és termékenység"
-description: "Milyen kapcsolatban áll a hormonterápia a menstruációs ciklussal, illetve a meddõséggel?"
+description: "Milyen kapcsolatban áll a hormonterápia a menstruációs ciklussal, illetve a meddőséggel?"
 lang: hu
 ---
 

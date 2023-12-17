@@ -8,7 +8,7 @@ lang: hu
 
 <div class="floating-bar">
 
-MÛTÉTEK
+MŰTÉTEK
 
 [Masztektómia](/#/entry?id=maszkulinizalas-masztektomia)
 

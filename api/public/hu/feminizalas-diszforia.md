@@ -8,13 +8,13 @@ lang: hu
 
 # A diszfória leküzdése és szembenézés másokkal
 
-A diszfória rövid vagy hosszú távú kényelmetlenség, elégedetlenség és nehézségek megtapasztalása, amely a saját nemi identitás és a születéskor hozzárendelt nem különbözõségébõl fakad.
+A diszfória rövid vagy hosszú távú kényelmetlenség, elégedetlenség és nehézségek megtapasztalása, amely a saját nemi identitás és a születéskor hozzárendelt nem különbözőségéből fakad.
 
 Nem minden transz tapasztal feltétlenül nemi diszfóriát.
 
-Az emberek különböző módon tapasztalják a nemi diszfóriát, pl. különösen erős negatív érzelmekkel bizonyos testrészeivel kapcsolatban vagy pl. azzal kapcsolatban, hogy a társadalomban folyamatosan olyan névmásokkal illetik meg õket, amellyel nem azonosulnak.
+Az emberek különböző módon tapasztalják a nemi diszfóriát, pl. különösen erős negatív érzelmekkel bizonyos testrészeivel kapcsolatban vagy pl. azzal kapcsolatban, hogy a társadalomban folyamatosan olyan névmásokkal illetik meg őket, amellyel nem azonosulnak.
 
-A diszfória az enyhe kényelmetlenségtől a szélsőséges kényelmetlenségig és akár az öngyilkossági gondolatokig terjedhet, akár perceken belül fokozódva egyik végletbõl a másikba.
+A diszfória az enyhe kényelmetlenségtől a szélsőséges kényelmetlenségig és akár az öngyilkossági gondolatokig terjedhet, akár perceken belül fokozódva egyik végletből a másikba.
 
 ## Taktikák az átmenet akadályainak kezelésére - A kihívásokkal való közös szembenézés
 

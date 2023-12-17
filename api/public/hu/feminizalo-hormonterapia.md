@@ -1,6 +1,6 @@
 ---
 title: "Feminizáló hormonterápia"
-description: "Információkat transz nõk és transzfeminin személyek számára elérhető feminizáló hormonkezelésekkel kapcsolatban. Tudj meg mindent a HRT-ről, és készülj fel az informált döntésre."
+description: "Információkat transz nők és transzfeminin személyek számára elérhető feminizáló hormonkezelésekkel kapcsolatban. Tudj meg mindent a HRT-ről, és készülj fel az informált döntésre."
 lang: hu
 ---
 

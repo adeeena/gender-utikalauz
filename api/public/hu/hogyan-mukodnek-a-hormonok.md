@@ -1,6 +1,6 @@
 ---
 title: "Hogyan működnek a hormonok?"
-description: "Gyorstalpaló, hogy hogyan is mûködnek a nemi hormonok."
+description: "Gyorstalpaló, hogy hogyan is működnek a nemi hormonok."
 lang: hu
 ---
 

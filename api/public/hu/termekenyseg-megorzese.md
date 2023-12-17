@@ -1,6 +1,6 @@
 ---
 title: "Termékenység megőrzése"
-description: "Milyen lehetõségek állnak a transz emberek részére, hogy megõrizzék termékenységüket?"
+description: "Milyen lehetőségek állnak a transz emberek részére, hogy megőrizzék termékenységüket?"
 lang: hu
 ---
 

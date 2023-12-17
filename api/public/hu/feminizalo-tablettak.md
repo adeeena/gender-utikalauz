@@ -94,6 +94,10 @@ Ez a cikk bemutatja az ösztrogének tablettával való alkalmazásának sajáto
             <td><b>Napi 1-8 mg között</b><br />szájon át</td>
         </tr>
         <tr>
+            <td><b>Ár</b></td>
+            <td>1500-2000 Ft/hó (hivatalos úton)<br />7200 Ft/hó (DIY)</td>
+        </tr>
+        <tr>
             <td><b>Miket kell vizsgálni vérvételkor</b></td>
             <td>
                 <a href="https://hu.wikipedia.org/wiki/%C3%96sztradiol">Ösztradiol</a>,

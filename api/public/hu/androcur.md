@@ -133,6 +133,10 @@ Ez a cikk az Androcur sajátos jellemzőit ismerteti. A HRT általános hatásai
             <td>40 óra</td>
         </tr>
         <tr>
+            <td><b>Ár</b></td>
+            <td>3750 Ft/hó (hivatalos úton, napi 12,5mg, 50x doboz)<br />5500 Ft/hó (DIY, napi 12,5mg, 50x doboz)</td>
+        </tr>
+        <tr>
             <td><b>Hatás</b></td>
             <td>Progesztin, Anti-androgén</td>
         </tr>

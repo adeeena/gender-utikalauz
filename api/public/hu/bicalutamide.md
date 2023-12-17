@@ -132,7 +132,7 @@ A transz nők által leginkább kedvelt antiandrogének egyike, annak ellenére,
         </tr>
         <tr>
             <td><b>Ár</b></td>
-            <td>kb. 12 ezer forint egy hónapra</td>
+            <td>2150 Ft/hó (hivatalos úton, napi 25mg)<br />7500 Ft/hó (DIY, napi 25mg)</td>
         </tr>
         <tr>
             <td><b>Hatás</b></td>

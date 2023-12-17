@@ -1,6 +1,6 @@
 ---
 title: "Masztektómia"
-description: "Minden, amit tudni akartál a masztektómia mûtétrôl a transzmaszkulin hormonterápiával kapcsolatban"
+description: "Minden, amit tudni akartál a masztektómia műtétrôl a transzmaszkulin hormonterápiával kapcsolatban"
 lang: hu
 ---
 
@@ -8,7 +8,7 @@ lang: hu
 
 <div class="floating-bar">
 
-MÛTÉTEK
+MŰTÉTEK
 
 [Masztektómia](/#/entry?id=maszkulinizalas-masztektomia)
 

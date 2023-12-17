@@ -8,9 +8,9 @@ lang: hu
 
 <div class="floating-bar">
 
-[Bevezetõ](/#/entry?id=feminizalas-mutetek)
+[Bevezető](/#/entry?id=feminizalas-mutetek)
 
-MÛTÉTEK
+MŰTÉTEK
 
 [Mellnagyobbítás](/#/entry?id=feminizalas-mellnagyobbito-mutet)
 

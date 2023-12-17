@@ -1,6 +1,6 @@
 ﻿---
 title: "Mit jelent nem binárisnak lenni?"
-description: "Hogyan értelmezhetõ a nem-binaritás egy alapvetõen bináris társadalomban?"
+description: "Hogyan értelmezhető a nem-binaritás egy alapvetően bináris társadalomban?"
 lang: hu
 ---
 

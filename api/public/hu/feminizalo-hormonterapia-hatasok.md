@@ -95,7 +95,7 @@ Ne felejtsd el, hogy **a változások nagy része más módon is megtörténik a
 
 * Izomtömeg és fizikai erő csökkenése.
 
-* Mimika megváltozik a zsírok áthelyeződésével. Az arc kerekebbé válik, az arccsontok és az ajkak megduzzadnak. Ezek a változások általában nagyon finomak és több év alatt történhetnek meg.
+* Mimika megváltozik a zsírok áthelyeződésével. Az arc kerekebbé válik, az arccsont előtti zsírpárnák és az ajkak megduzzadnak. Ezek a változások általában nagyon finomak és több év alatt történhetnek meg.
 
 * A kezek és lábak kissé összemennek (1-2 számmal kisebb cipőméret lehetséges), valamint a testmagasság kicsit csökkenhet. Ezek a változások általában nagyon enyhék, ne várj túl sokat tőlük.
 

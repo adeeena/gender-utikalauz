@@ -1,6 +1,6 @@
 ---
 title: "Kiegészítők - Női passing"
-description: "Fokozd és tökéletesítsd nõies megjelenésedet kiegészítõkkel."
+description: "Fokozd és tökéletesítsd nőies megjelenésedet kiegészítőkkel."
 lang: hu
 ---
 

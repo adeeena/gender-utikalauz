@@ -1,6 +1,6 @@
 ---
 title: "Feminizáló hormonterápia alapjai"
-description: "Bevezetõ a feminizáló hormonterápiába."
+description: "Bevezető a feminizáló hormonterápiába."
 lang: hu
 ---
 

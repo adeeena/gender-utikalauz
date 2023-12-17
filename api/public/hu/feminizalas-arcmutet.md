@@ -9,9 +9,9 @@ lang: hu
 <div class="floating-bar">
 
 
-[Bevezetõ](/#/entry?id=feminizalas-mutetek)
+[Bevezető](/#/entry?id=feminizalas-mutetek)
 
-MÛTÉTEK
+MŰTÉTEK
 
 [Mellnagyobbítás](/#/entry?id=feminizalas-mellnagyobbito-mutet)
 
@@ -53,7 +53,7 @@ A beavatkozás általában több műtétet foglal magában, mind a csontvázon, 
 * A homlokdudorok (kiálló szélek a szemek felett) csökkentése.
 * Homlokemelés.
 * Szemöldökfelvarrás.
-* Az arccsontok átformálása.
+* Az arccsontok (és az azt körülvevő izmok, zsírok) átformálása.
 * Orrplasztika (orrműtét).
 * Ajkak felhúzása.
 * Áll átformálása.

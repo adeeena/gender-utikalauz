@@ -1,6 +1,6 @@
 ---
 title: "Különböző feminizáló hormonkezelési technikák"
-description: "Összefoglaló, milyen különbözõ lehetõségeink és technikák állnak rendelkezésre feminizáló hormonkezelés során."
+description: "Összefoglaló, milyen különböző lehetőségeink és technikák állnak rendelkezésre feminizáló hormonkezelés során."
 lang: hu
 ---
 

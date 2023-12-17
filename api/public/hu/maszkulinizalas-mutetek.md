@@ -8,9 +8,9 @@ lang: hu
 
 <div class="floating-bar">
 
-[Bevezetõ](/#/entry?id=maszkulinizalas-mutetek)
+[Bevezető](/#/entry?id=maszkulinizalas-mutetek)
 
-MÛTÉTEK
+MŰTÉTEK
 
 [Masztektómia](/#/entry?id=maszkulinizalas-masztektomia)
 

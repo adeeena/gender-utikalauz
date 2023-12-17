@@ -24,11 +24,11 @@ A hangfeminizáció ennél sokkal többről szól. A saját hang befolyásolás�
 
 * **A harc az internalizált transzfóbia és a szégyen ellen**, amely akkor is jelen lehet, ha valaki a saját hangját hallja. Gyakran az első lépés a hangképzésben az, hogy megengedjük magunknak, hogy "szokatlan hangokat" produkáljunk anélkül, hogy elítélnénk magunkat.
 
-* **Legyenek meg a feltételeid a gyakorláshoz**: kezdetben nagyon valószínű, hogy azt szeretnéd, ha senki sem hallaná, miközben gyakorolsz. Azoknak, akiknek nincs otthon lehetõségük, azoknak nehezebben megy a gyakorlás.
+* **Legyenek meg a feltételeid a gyakorláshoz**: kezdetben nagyon valószínű, hogy azt szeretnéd, ha senki sem hallaná, miközben gyakorolsz. Azoknak, akiknek nincs otthon lehetőségük, azoknak nehezebben megy a gyakorlás.
 
 * **Küzdj a berögzült szokások ellen**: a hangod edzése azt jelenti, hogy újra megtanulsz beszélni, ami nem könnyű dolog. Gyakran előfordulhat, hogy például rossz névmást használsz magadra. Hasonló módon a hang is lejjebb ereszkedhet, vagy visszatérhet a korábbi mintákhoz. Minden új helyzet, fáradtság vagy hangemelés kihívást jelenthet.
 
-* **A környezeti nyomásnak való ellenállás képessége**: amikor elkezded használni a hangodat nyilvánosan, előfordulhat, hogy mások kezdetben nem fogadják elfogadni az új hangod. Az megváltozott hangot a környezetednek nehezebb lehet elfogadni, mint a külsõdben bekövetkezett változásokat, ami befolyásolhatja az új hangod fenntartásának képességét.
+* **A környezeti nyomásnak való ellenállás képessége**: amikor elkezded használni a hangodat nyilvánosan, előfordulhat, hogy mások kezdetben nem fogadják elfogadni az új hangod. Az megváltozott hangot a környezetednek nehezebb lehet elfogadni, mint a külsődben bekövetkezett változásokat, ami befolyásolhatja az új hangod fenntartásának képességét.
 
 * **Az új hang elfogadásának pszichológiai és mentális folyamata**: Egy dolog naponta néhány órán keresztül használni egy új hangot, de egészen más dolog megszokni és saját hangként elfogadni azt.
 Az egyensúly megtalálása a saját célod és a hangod hasznossága között: Nehéz lehet egész nap kontrollálni a hangodat, különösen, ha egy "tökéletes" hangra vágysz, amelyet optimális körülmények között egyedül is el tudsz érni. Szükség lehet arra, hogy csökkentsük a hang elnőiesedésével kapcsolatos elvárásokat, és kompromisszumot kössünk a mindennapi használat érdekében.
@@ -45,7 +45,7 @@ Nemcsak a hangszalagok helyzete a fontos, hanem a légzés is. A légzést úgy 
 
 **Minél mélyebben érzed a rezgéseket (has, mellkas, torok alsó része), annál inkább úgy hangzik a hang, mint amit az átlagember "férfi" hangként ismer fel.** Minél inkább érzed, hogy a rezgések magasan a torokban, a szájban, az arcon és a fejben történnek, annál sikeresebben teszi nőiesebbé a hangját.
 
-**Az artikuláció is befolyásolja azt, hogy mások hogyan értenek meg minket.** Ez persze sztereotipikus, de részben a szavak kiejtése alapján feltételezzük az általunk nem látott emberek nemét. **Azok az emberek, akiknek születésükkor női nemet rendeltek, szebben, érthetõbben artikulálnak**, míg azok, akiknek születésükkor férfi nemet rendeltek, akikkevésbé valószínű, hogy érthetően ejtik ki a szavakat.
+**Az artikuláció is befolyásolja azt, hogy mások hogyan értenek meg minket.** Ez persze sztereotipikus, de részben a szavak kiejtése alapján feltételezzük az általunk nem látott emberek nemét. **Azok az emberek, akiknek születésükkor női nemet rendeltek, szebben, érthetőbben artikulálnak**, míg azok, akiknek születésükkor férfi nemet rendeltek, akikkevésbé valószínű, hogy érthetően ejtik ki a szavakat.
 
 **A szókincs is szerepet játszhat a hang elnőiesedésében.** Ez is persze sztereotipikus, de az általunk nem látott emberek nemét részben az általuk használt szókincs alapján érthetjük meg. A nők egyes elemzések szerint (angolul) több olyan szót használnak, amelyeknek önmagukban nincs minőségi jelentésük *(pl. "It is such a lovely day today" - a "lovely" valójában nem írja le a napot)*, és általában több közvetett megfogalmazást használnak, mint a férfiak.
 

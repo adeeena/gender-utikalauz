@@ -1,6 +1,6 @@
 ---
 title: "Különböző maszkulinizáló hormonkezelési technikák"
-description: "Összefoglaló, milyen különbözõ lehetõségeink és technikák állnak rendelkezésre maszkulinizáló hormonkezelés során."
+description: "Összefoglaló, milyen különböző lehetőségeink és technikák állnak rendelkezésre maszkulinizáló hormonkezelés során."
 lang: hu
 ---
 

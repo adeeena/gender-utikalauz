@@ -96,6 +96,10 @@ Ez a cikk bemutatja az ösztrogének injekcióval való alkalmazásának sajáto
                 Ösztradiol-enantát: 7 mg 10 naponta</td>
         </tr>
         <tr>
+            <td><b>Ár</b></td>
+            <td>Magyarországon hivatalos úton nem elérhető.<br />7500 - 11400 Ft/hó (DIY)</td>
+        </tr>
+        <tr>
             <td><b>Miket kell vizsgálni vérvételkor</b></td>
             <td>
                 <a href="https://hu.wikipedia.org/wiki/%C3%96sztradiol">Ösztradiol</a>,

@@ -148,7 +148,7 @@ Szájon át szedve a részegséghez hasonló álmosságot okozhat.
         </tr>
         <tr>
             <td><b>Ár</b></td>
-            <td>kb. 2 ezer forint egy hónapra</td>
+            <td>2000 Ft/hó (hivatalos úton)<br />9100 Ft/hó (DIY)</td>
         </tr>
          <tr>
             <td><b>Szedési javaslat</b></td>

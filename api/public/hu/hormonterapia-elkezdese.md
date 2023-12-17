@@ -1,6 +1,6 @@
 ---
 title: "Hormonterápia elkezdése"
-description: "Mik elõzik meg a hormonterápia kezdetét?"
+description: "Mik előzik meg a hormonterápia kezdetét?"
 lang: hu
 ---
 

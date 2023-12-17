@@ -46,7 +46,7 @@ BEVEZETŐ
 
 A tucking egy szükséges lépés, hogy passzos ruhákat, cicanacit, szűk farmereket vagy fürdőruhát viselhess anélkül, hogy a lábad közti dudor eláruljon téged.
 
-Egyes transz nők minden nap tuckingolnak, mások alkalmanként, és természetesen néhány AMAB transz nõ nem érzi szükségét a tuckingnak.
+Egyes transz nők minden nap tuckingolnak, mások alkalmanként, és természetesen néhány AMAB transz nő nem érzi szükségét a tuckingnak.
 
 Ez egy olyan technika, amely során a két gonádot (a herék semleges megnevezése) felnyomják a hozzájuk megközelebbi üregbe, közvetlenül a pénisz alá. Ez az üreg a testnek az a része, ahol az ivarmirigyek voltak, mielőtt az embrionális fejlődés során lentebb vándoroltak volna. Más szóval, a cél az, hogy az ivarmirigyeket oda helyezzük, ahol akkor lettek volna, ha nem tudtak volna teljesen lefelé menni.
 

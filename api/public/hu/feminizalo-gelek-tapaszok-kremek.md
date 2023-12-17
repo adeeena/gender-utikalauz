@@ -124,7 +124,7 @@ Azonban az eredmények jelentősen eltérhetnek személyenként. Ha a bőröd ro
         </tr>
         <tr>
             <td><b>Ár</b></td>
-            <td>Havi kb. 4-10 e Ft</td>
+            <td>5000 Ft/hó (hivatalos úton)<br />9100 Ft/hó (DIY)</td>
         </tr>
         <tr>
             <td><b>Miket kell vizsgálni vérvételkor</b></td>
@@ -148,7 +148,7 @@ Magyarországon főként két termék létezik: az Divigél és az Ovestin. Nem 
             <th>Termék</th>
             <th>Ösztradiol egy adagban</th>
             <th>Átlagos adagolás</th>
-            <th>Ûrtartalom</th>
+            <th>Űrtartalom</th>
         </tr>
     </thead>
     <tbody>

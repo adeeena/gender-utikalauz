@@ -32,7 +32,7 @@ A Reddit egy olyan oldal, amely tematikus fórumokat (subreddit) gyűjt össze.
 
 ➡️ [r/transvoice](https://www.reddit.com/r/transvoice/): *passing* hang kialakitására való hanggyakorlatok és közösség
 
-➡️ [r/transtimeline](https://www.reddit.com/r/transtimeline/): Albumok tranzíció előttről/utánról
+➡️ [r/transTimelines](https://www.reddit.com/r/transtimelines/): Albumok tranzíció előttről/utánról
 
 ➡️ [r/transpositive](https://www.reddit.com/r/transpositive/): pozitív hírek transz dolgokkal kapcsolatban
 

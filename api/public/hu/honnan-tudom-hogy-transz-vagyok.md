@@ -132,7 +132,7 @@ Az egyetlen kérdés, amit fel kell tenned magadnak: **ki akarok lenni, hogyan �
 
 Az tranzíció megkezdésével kapcsolatos egyik leggyakoribb félelem, hogy majd mindenki egyből kiszúrja, hogy transz vagy. A hormonterápia elején kockáztatni fogod, hogy az utcán az emberek észrevesznek, diszkriminálnak, stb. Vegyél bátorságot és legyél türelmes. Nézd meg az alábbi galériákat, amelyekben transz emberek mutatják be a tranzíció előtti és utáni kinézetüket. Hamar rájöhetsz, hogy néhány hónap/év után a legtöbb transznemű embernek sikerül az új nemének megfelelően kinézni.
 
-➡️ [TransTimeline fórum (előtte-utána)](http://reddit.com/r/transtimeline)
+➡️ [TransTimelines fórum (előtte-utána)](http://reddit.com/r/transtimelines)
 
 ➡️ [Transpassing fórum (csak utána)](http://reddit.com/r/TransPassing)
 

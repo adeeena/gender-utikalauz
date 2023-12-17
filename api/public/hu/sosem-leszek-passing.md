@@ -45,7 +45,7 @@ Nagyon tanulságos lehet végignézni a transz emberek képeit, ahol a tranzíci
 
 ➡️ [Férfi passing](/#/entry?id=maszkulinizalo-hormonterapia-passing)
 
-➡️ [TransTimeline fórum (előtte-utána)](http://reddit.com/r/transtimeline)
+➡️ [TransTimelines fórum (előtte-utána)](http://reddit.com/r/transtimelines)
 
 ➡️ [Transpassing fórum (csak utána)](http://reddit.com/r/TransPassing)
 

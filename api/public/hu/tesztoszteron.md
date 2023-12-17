@@ -1,5 +1,6 @@
 ---
 title: "Bemutató tesztoszteronhoz"
+description: "Tesztoszteron a transzmaszkulin tranzíció kontextusában."
 lang: hu
 ---
 
@@ -14,7 +15,6 @@ BEVEZETŐ
 [Különböző technikák](/#/entry?id=maszkulinizalo-hormonterapia-technikak)
 
 [Hatások](/#/entry?id=maszkulinizalo-hormonterapia-hatasok)
-
 
 [Menstruáció és meddőség](/#/entry?id=maszkulinizalo-hormonterapia-menstruacio-meddoseg)
 
@@ -53,9 +53,13 @@ NEM-HORMONÁLIS TERMÉKEK
 
 ## Bemutató
 
+A hormonterápia befolyásolja a személyek másodlagos nemi jellemzőit, és átalakítja azokat a társadalmilag férfiasnak elismert tulajdonságokká.
+
 A tesztoszteron egy nemi hormon, amely serkenti az úgynevezett férfi pubertás kialakulását, ellentétben az ösztrogénnel, amely a női pubertást segíti elő. Ezért a maszkulinizáló HRT-vel a tesztoszteronszintet igyekszünk növelni. 
 
 A tesztoszteron alapú kezeléssel a szervezet férfiasabbá válik. A lehetséges hatások listája [ebben a cikkben](/#/entry?id=maszkulinizalo-hormonterapia-hatasok) olvasható.
+
+A hormonterápia minden szinten hatással van a szervezetre, és sok hormonterápiát alkalmazó számol be észrevehető változásokról a hangulatban, az étvágyban, a mentális egészségben, az általános fizikai energiában stb.
 
 ## Hormonszintek
 

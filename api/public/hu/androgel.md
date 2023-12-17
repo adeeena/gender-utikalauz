@@ -73,7 +73,7 @@ Az olykor enyhébb eredmények miatt az Androgel lehetséges alternatíva az eny
             <td><b>Termékek</b></td>
             <td>
                 <a href="https://www.hazipatika.com/gyogyszerkereso/termek/androgel_50_mg_transzdermalis_gel/15082">Androgel</a>,
-                Testogel, Fortigel, Pantestone
+                Testogel, Fortigel, Pantestone, Androtop
             </td>
         </tr>
         <tr>

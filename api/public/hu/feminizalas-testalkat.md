@@ -28,6 +28,8 @@ BEVEZETŐ
 
 [Tucking](/#/entry?id=feminizalas-tucking)
 
+[Cipők](/#/entry?id=feminizalas-cipok)
+
 [Kiegészítők](/#/entry?id=feminizalas-kiegeszitok)
 
 </div>
@@ -42,9 +44,19 @@ A férfiakkal ellentétben, akik hajlamosak a testalkatuknak megfelelően könny
 
 Az [interneten](https://www.noklapja.hu/szinkavalkad/2022/06/21/nyari-ruhak-amik-minden-testalkaton-jol-mutatnak/) [több](https://nageastore.com/testalkatelemzes/) [száz](https://femina.hu/egeszseg/noi-testalkat-tipus-dieta/) [cikk](https://feminafree.blogspot.com/2016/03/noi-testalkatok.html) található a témában, ezért most csak néhány tippet osztok meg, amit a transz nők hasznosnak találhatnak.
 
-A legtöbb transz nő V, H vagy O testalkatú.
+A legtöbb transz nő V, H vagy O testalkatú. Sok transz nőnek vizuálisan „nőiesebben” kell kinéznie, hogy biztonságban érezze magát, vagy hogy segítsen a diszfóriáján.
 
 A magas nők vagy a V alakú nők számára a passzolás fő kihívása az lesz, hogy nőiesítsék a felsőtestüket. Más szóval, hogy vékonyabbá, "hangsúlytalanabbá" tedd.
+
+A nyugati szépségideálok azt diktálják, hogy azok a nők, akiknek homokóra alakú a testük „a legszebbek” (vagy a legvonzóbbak a férfiak számára – *a szépségideálok alapvetően szexisták és ciszheteronormatívak*). Úgy, hogy a társadalomban minden nőies embertől elvárják, hogy homokóra alakú legyen.
+
+Ez a szabvány még problémásabb, ha figyelembe vesszük, hogy a homokóra forma valójában a legkevésbé elterjedt testforma. Ennek ellenére érthető, hogy mindannyian ennek a társadalomnak a részei vagyunk, és bizonyos mértékig úgy akarunk kinézni, mint a nők az arckrémreklámokban. Persze ez sokaknak nem lehetséges, még a legtöbb cisz nőnek sem. De ez nem baj, mert a megjelenésünkre is nagy befolyást tudunk gyakorolni a ruháinkkal.
+
+<div class="infobox warning">
+
+A ruháknak nincs neme, és testalkatától függetlenül természetesen azt viselhetsz, amit csak akarsz. A legfontosabb az, hogy hogyan érzed magad, és hogy magabiztos és boldog legyél a mindennapokban.
+
+</div>
 
 ## Hagyd szabadon a vállad
 

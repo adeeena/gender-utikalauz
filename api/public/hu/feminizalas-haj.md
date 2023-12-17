@@ -28,6 +28,8 @@ BEVEZETŐ
 
 [Tucking](/#/entry?id=feminizalas-tucking)
 
+[Cipők](/#/entry?id=feminizalas-cipok)
+
 [Kiegészítők](/#/entry?id=feminizalas-kiegeszitok)
 
 </div>

@@ -6,7 +6,8 @@
     text-align: center;
 
     img {
-      height: 30vh;
+      max-height: 30vh;
+      max-width: calc(100% - 3rem);
     }
   }
 

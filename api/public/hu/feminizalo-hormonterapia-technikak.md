@@ -119,7 +119,7 @@ A monoterápia azt jelenti, hogy csak egyfajta gyógyszert használunk. Az öszt
 
 Az [ösztrogéneknek](/#/entry?id=osztrogenek) van egy nagyon hasznos tulajdonságuk, hogy kiváló [antigonadotropinok](https://en.wikipedia.org/wiki/Gonadotropin), ami azt jelenti, hogy ha a vérben eléggé nagy számban jelennek meg, akkor kényszerítik a testet a saját nemi hormonok (jelen esetben a tesztoszteron) termelésének csökkentésére, vagy akár leállítására.
 
-***Forrás:** “Levels of estradiol of 200 pg/mL and above suppress testosterone levels by about 90%, while estradiol levels of 500 pg/mL and above suppress testosterone levels by about 95%” https://en.wikipedia.org/wiki/Transgender_hormone_therapy_(male-to-female)#Estrogens*
+***Forrás:** ➡️ [“Levels of estradiol of 200 pg/mL and above suppress testosterone levels by about 90%, while estradiol levels of 500 pg/mL and above suppress testosterone levels by about 95%”](https://en.wikipedia.org/wiki/Transgender_hormone_therapy_(male-to-female)#Estrogens)*
 
 Ez a módszer általában csak ösztradiol injekciókkal érhető el könnyen, amelyek lehetővé teszik, hogy az ember könnyebben érjen el magas ösztradiolszintet, mint más beviteli módszerek.
 
@@ -127,13 +127,13 @@ Egyesek képesek az ösztradiol monoterápiás kezelést transzdermális ösztro
 
 Kezdetekben ez volt a transznemű nők számára létező első típusú hormonpótló kezelés. Akkoriban nem bio-azonos ösztrogéneket használtak, hanem összekapcsolt ösztrogéneket, mint a Premarin, amelyek rendkívül veszélyesek voltak az egészségre, és ez vezetett az anti-androgénekkel kiegészített hormonpótló kezelések kifejlesztéséhez a kockázatok csökkentése érdekében.
 
-***Forrás a Premarin veszélyeiről: **Bińkowska M (October 2014). « Menopausal hormone therapy and venous thromboembolism ». PRZ Menopauzalny. 13 (5): 267–72. doi:10.5114/pm.2014.46468. PMC 4520375. PMID 26327865.*
+***Forrás a Premarin veszélyeiről:** Bińkowska M (October 2014). « Menopausal hormone therapy and venous thromboembolism ». PRZ Menopauzalny. 13 (5): 267–72. doi:10.5114/pm.2014.46468. PMC 4520375. PMID 26327865.*
 
-***Forrás a Premarin veszélyeiről: **Smith NL, Blondon M, Wiggins KL, Harrington LB, van Hylckama Vlieg A, Floyd JS, Hwang M, Bis JC, McKnight B, Rice KM, Lumley T, Rosendaal FR, Heckbert SR, Psaty BM (January 2014). « Lower risk of cardiovascular events in postmenopausal women taking oral estradiol compared with oral conjugated equine estrogens ». JAMA Intern Med. 174 (1): 25–31. doi:10.1001/jamainternmed.2013.11074. PMC 4636198. PMID 24081194.*
+***Forrás a Premarin veszélyeiről:** Smith NL, Blondon M, Wiggins KL, Harrington LB, van Hylckama Vlieg A, Floyd JS, Hwang M, Bis JC, McKnight B, Rice KM, Lumley T, Rosendaal FR, Heckbert SR, Psaty BM (January 2014). « Lower risk of cardiovascular events in postmenopausal women taking oral estradiol compared with oral conjugated equine estrogens ». JAMA Intern Med. 174 (1): 25–31. doi:10.1001/jamainternmed.2013.11074. PMC 4636198. PMID 24081194.*
 
-* **Forrás a Premarin veszélyeiről: Smith NL, Heckbert SR, Lemaitre RN, Reiner AP, Lumley T, Weiss NS, Larson EB, Rosendaal FR, Psaty BM (October 2004). « Esterified estrogens and conjugated equine estrogens and the risk of venous thrombosis ». JAMA. 292 (13): 1581–7.**
+***Forrás a Premarin veszélyeiről:** Smith NL, Heckbert SR, Lemaitre RN, Reiner AP, Lumley T, Weiss NS, Larson EB, Rosendaal FR, Psaty BM (October 2004). « Esterified estrogens and conjugated equine estrogens and the risk of venous thrombosis ». JAMA. 292 (13): 1581–7.*
 
-*Forrás, hogy a Premarin veszélyesebb az ösztradiolnál:*➡️ [Kockázat trombózis kialakulására](https://en.wikipedia.org/wiki/Template:Risk_of_venous_thromboembolism_with_hormone_therapy_and_birth_control_pills_(QResearch/CPRD))
+**Forrás, hogy a Premarin veszélyesebb az ösztradiolnál:** ➡️ [Kockázat trombózis kialakulására](https://en.wikipedia.org/wiki/Template:Risk_of_venous_thromboembolism_with_hormone_therapy_and_birth_control_pills_(QResearch/CPRD))
 
 Bár az ösztrogén monoterápiák az elvükben régóta léteznek, népszerűségüket az ösztrogén injekcióknak és az öngyógyszeres kezelési közösségeknek köszönhetően nyerték vissza.
 
@@ -196,6 +196,6 @@ Gyakorlatilag ez azt jelenti, hogy a páciens ösztrogéntablettákkal kezd, maj
 
 Ez a módszer folyamatosan fejlődik: a legújabb változatai a [bicalutamid](/#/entry?id=bicalutamid) hozzáadásával kiegészültek T-blokkolóként, így közelebb hozva egy hagyományosabb módszerhez.
 
-[A módszer teljes bemutatása elérhető itt (PPT prezentáció)](https://powersfamilymedicine.com/s/Healthcare-of-the-Transgender-Patient-V60.pptx).
+➡️ [A módszer teljes bemutatása elérhető itt (PPT prezentáció)](https://powersfamilymedicine.com/s/Healthcare-of-the-Transgender-Patient-V60.pptx).
 
 </div>

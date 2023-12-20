@@ -182,7 +182,7 @@ A szoptatás viszont rendkívül veszélyeztetett, mivel az ehhez szükséges me
 
 Az alábbi brosúra választ adhat néhány kérdésedre, mint hogy mikor kell abbahagyni a tesztoszteront, vagy hogy hogy szoptathatsz HRT mellett.
 
-➡️ [Transzmaszkulinként, terhesen](https://genderutikalauz.hu/public/transzmaskulinkent-terhesen.pdf)
+➡️ [Transzmaszkulinként, terhesen](https://genderutikalauz.hu/public/transzmaszkulinkent-terhesen.pdf)
 
 
 ### Csökkenti a mellrák kockázatát a masztektómia?

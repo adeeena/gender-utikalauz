@@ -14,4 +14,4 @@ lang: hu
 
 ➡️ [Műtéti hegmasszázs](https://genderutikalauz.hu/public/muteti-hegmasszazs.pdf)
 
-➡️ [Transzmaszkulinként, terhesen](https://genderutikalauz.hu/public/transzmaskulinkent-terhesen.pdf)
+➡️ [Transzmaszkulinként, terhesen](https://genderutikalauz.hu/public/transzmaszkulinkent-terhesen.pdf)

@@ -4,7 +4,7 @@
     "children": [
       {
         "id": "/intro",
-        "title": "A legalapvetőbb tudnivalók"
+        "title": "Alapvető tudnivalók"
       },
       {
         "entryId": "mit-jelent-transznak-lenni",
@@ -19,6 +19,10 @@
         "title": "Mit jelent az interszex?"
       },
       {
+        "entryId": "mikroagressziok",
+        "title": "Mikroagressziókat tartalmazó mondatok"
+      },
+      {
         "id": "/lexikon",
         "title": "Lexikon"
       },
@@ -29,15 +33,11 @@
     ]
   },
   {
-    "title": "📚 Brosúrák",
+    "title": "📚 Brosúrák, Kiadványok",
     "children": [
       {
-        "entryId": "brosura-szuloknek",
-        "title": "Szülőknek"
-      },
-      {
-        "entryId": "brosura-hormonok-kitoltheto-utmutato",
-        "title": "Tájékozott döntés meghozatala a hormonterápia mellett"
+        "entryId": "brosurak",
+        "title": "Brosúragyűjtemény"
       }
     ]
   },

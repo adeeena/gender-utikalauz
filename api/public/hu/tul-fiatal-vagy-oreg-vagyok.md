@@ -21,7 +21,7 @@ Soha nem vagy túl fiatal ahhoz, hogy megértsd, ki vagy és ki akarsz lenni. Ak
 
 Ha te vagy az a gyermek vagy fiatal, használd a rendelkezésedre álló forrásokat és lépj kapcsolatba egyesületekkel, hogy minél több emberhez eljusson a hangod.
 
-➡️ [Olvasd el a szülőknek szóló brosúránkat](/#/entry?id=brosura-szuloknek)
+➡️ [Olvasd el a szülőknek szóló brosúránkat](/#/entry?id=brosura-10-tevhit-a-transzidentitasrol)
 
 ## Túl idős vagyok már!
 

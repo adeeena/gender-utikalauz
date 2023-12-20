@@ -166,6 +166,8 @@ A mikrodózisban adagolt HRT mellékhatásai kevésbé kutatott területek, így
 
 ➡️ [Reddit r/transtimelines](http://reddit.com/r/transtimelines)
 
+➡️ [30 plus years on hormones. What effects did I notice?](https://www.reddit.com/r/asktransgender/comments/9hrj9g/30_plus_years_on_hormones_what_effects_did_i/)
+
 
 </div>
 

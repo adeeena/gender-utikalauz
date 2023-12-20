@@ -53,7 +53,7 @@ Az utolsó oldalon egy előtte-utána kép található rólam, a mosolyommal és
 
 Ha valamiért nem vihetem magammal a levelet, akkor e-mailt küldök nekik, vagy egy kedves üzenetet, hogy lehetőséget adjak nekik a válaszadásra (és hogy lehetőleg kedves dolgokat mondjanak nekem is).
 
-[Továbbá letölthetitek ezt a brosúrát](/#/entry?id=brosura-szuloknek), ami kifejezetten az ilyen alkalmakra készült. Nyomtasd ki (körülbelül 20 oldalas), és add oda a családtagodnak, amikor kibújsz. Így, miután a bejelentés okozta érzelmek lecsillapodtak, nyugodtan elolvashatják.
+[Továbbá letölthetitek ezt a kiadványt](/#/entry?id=brosura-10-tevhit-a-transzidentitasrol), ami kifejezetten az ilyen alkalmakra készült. Nyomtasd ki (körülbelül 20 oldalas), és add oda a családtagodnak, amikor kibújsz. Így, miután a bejelentés okozta érzelmek lecsillapodtak, nyugodtan elolvashatják.
 
 Ráadásul a kinyomtatással ez az egész még kézzelfoghatóbbá és valóságosabbá válik.
 

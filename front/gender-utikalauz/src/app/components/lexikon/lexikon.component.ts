@@ -558,7 +558,7 @@ export class LexikonComponent implements OnInit {
           },
           {
             'title': 'Trigger warning',
-            'explain': 'Figyelmeztetés a potenciálisan érzékeny tartalomra, amely traumás visszahívást válthat ki.            Jelzi, hogy a cikk olyan szavakat tartalmaz vagy olyan témákat tárgyal, amelyek egyeseket kellemetlenül érinthetnek, diszfóriát válthatnak ki, vagy traumát idézhetnek fel.'
+            'explain': 'Figyelmeztetés a potenciálisan érzékeny tartalomra, amely traumás visszahívást válthat ki. Jelzi, hogy a cikk olyan szavakat tartalmaz vagy olyan témákat tárgyal, amelyek egyeseket kellemetlenül érinthetnek, diszfóriát válthatnak ki, vagy traumát idézhetnek fel.'
           },
           {
             'title': 'Tucking',

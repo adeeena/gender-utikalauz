@@ -248,18 +248,37 @@
 
 @media (min-width: 601px) {
   ::ng-deep {
-    .floating-columns {
-      display: flex;
+    .content {
+      .entry-content {
+        .entry-markdown {
+          .floating-columns {
+            display: flex;
 
-      .floating-bar {
-        order: 1;
-        margin-right: 1rem;
-        width: 15rem;
-      }
+            .floating-bar {
+              order: 1;
+              margin-right: 1rem;
+              width: 15rem;
+            }
 
-      .wiki-content {
-        order: 2;
-        width: 100%;
+            .wiki-content {
+              order: 2;
+              width: 100%;
+
+              &.agression-title {
+                h1 {
+                  background: white;
+                  border: 1px solid #eb387d;
+                  box-shadow: 5px 5px 0 0 #FFCADE;
+                  color: #eb387d;
+                  font-weight: bold;
+                  margin: 1rem 0 2rem;
+                  padding: 1rem;
+                  transform: rotate(-1.5deg);
+                }
+              }
+            }
+          }
+        }
       }
     }
   }

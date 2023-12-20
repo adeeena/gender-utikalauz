@@ -38,7 +38,7 @@ Lehetsz transz és:
 * Félhetsz az tranzíciótól, vagy nem akarod/nem tudod jelenleg elkezdeni az tranzíciót.
 * Élvezed a transzpornót (megjegyzés: ha ez az érdeklődés CSAK szexuális jellegű, akkor talán tedd fel magadnak a megfelelő kérdéseket ezzel kapcsolatban).
 
-További tévhitek és válaszok a transz emberek szüleinek szóló kiadványunkban: ➡️ [10 tévhit a transzidentitásról](/#/entry?id=brosura-szuloknek).
+További tévhitek és válaszok a transz emberek szüleinek szóló kiadványunkban: ➡️ [10 tévhit a transzidentitásról](/#/entry?id=brosura-10-tevhit-a-transzidentitasrol).
 
 
 ## Miért most?

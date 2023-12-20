@@ -82,4 +82,11 @@ A kezelés alatt azonban továbbra is előfordulhatnak, néha évekig tartó kih
 
 Ha a menstruációd nem szűnt meg teljesen, és szeretnéd, hogy abbamaradjanak, vannak alternatív megoldások: menstruációblokkolók / csak progesztin tartalmú tabletta.
 
+## Mi történik, ha terhes leszek?
+
+Az alábbi brosúra választ adhat néhány kérdésedre, mint hogy mikor kell abbahagyni a tesztoszteront, vagy hogy hogy szoptathatsz HRT mellett.
+
+➡️ [Transzmaszkulinként, terhesen](https://genderutikalauz.hu/public/transzmaskulinkent-terhesen.pdf)
+
+
 </div>

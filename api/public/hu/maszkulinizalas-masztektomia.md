@@ -180,6 +180,11 @@ Bár lehetséges teherbe esni még masztektómia után is, a terhesség előtt �
 
 A szoptatás viszont rendkívül veszélyeztetett, mivel az ehhez szükséges mellszövet nagy részét eltávolították a műtét során. [Egy 2016-os tanulmány azonban arról számolt be, hogy a masztektómián átesett embereknél a mellek visszanőttek, így a szoptatás is lehetővé vált](https://bmcpregnancychildbirth.biomedcentral.com/articles/10.1186/s12884-016-0907-y).
 
+Az alábbi brosúra választ adhat néhány kérdésedre, mint hogy mikor kell abbahagyni a tesztoszteront, vagy hogy hogy szoptathatsz HRT mellett.
+
+➡️ [Transzmaszkulinként, terhesen](https://genderutikalauz.hu/public/transzmaskulinkent-terhesen.pdf)
+
+
 ### Csökkenti a mellrák kockázatát a masztektómia?
 
 A mellrák kialakulásának kockázata még a masztektómia után sem nulla. A cisz férfiak esetében sem nulla. A kockázat azonban sokkal kisebb, mint a masztektómia előtt volt, mivel gyakorlatilag az emlőrák kialakulásában szerepet játszó összes emlőszövetet eltávolították.

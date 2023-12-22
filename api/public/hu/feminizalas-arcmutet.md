@@ -184,7 +184,7 @@ Az arc nőiesítésére alkalmazható orvosi eljárások a következők:
 * botulinum toxin,
 * specifikus bőrkezelések.
 
-# Hyarulonsav
+### Hyarulonsav
 Injekciókat használnak, céljuk a volumenek/bőség újraelosztása, az arc nőies vonásainak hangsúlyozása. Nap mint nap alkalmazzák a fiatalító és szépítő eljárások részeként.
 
 Az arc nőiesítése azt jelenti, hogy a harmónia fenntartása mellett hatni kell az arc térfogatára és kontúrjaira.

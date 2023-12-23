@@ -169,9 +169,10 @@ A közhiedelemmel ellentétben úgy tűnik, hogy a PCOS-ben szenvedőknek nincs 
 
 Másrészt úgy tűnik, hogy a HRT hatása gyorsabb és erősebb a PCOS-ben szenvedőknél.
 
-## Forrás:
+## Kapcsolódó
 
 ➡️ [Gender Diszfória Biblia](https://genderdysphoria.fyi/hu/masodik-pubertas-masc)
 
+➡️ [Trans Memo - hormonal follow-up for trans people - Android](https://play.google.com/store/apps/details?id=chrysalide.testomemo)
 
 </div>

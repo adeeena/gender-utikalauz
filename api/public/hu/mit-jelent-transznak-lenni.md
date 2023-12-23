@@ -67,7 +67,7 @@ Csak tudd, hogy transz emberek mindenféle családban, minden környezetben, min
 
 Lehet, hogy olyan híres transznemű emberekre probalsz gondolni; vagy olyan emberekre, akik "láthatóan" transzneműek.
 
-A legtöbb esetben ezek a **transz emberek az átmenet korai szakaszában** vannak. Valójában a legtöbb ember számára, aki hormonális tranzíciót hajt végre, van egy néhány hónapos vagy éves időszak, amely alatt ezek a változások zajlanak le. Ahogy a ciszgender embereknél a pubertás alatt, úgy a transz emberek is próbálnak új nemükben megvetni a lábukat. Hasonlóképpen a testük is megváltozik, ha hormonokat szednek és/vagy műtétnek vetik alá magukat. Mivel ebben az átmeneti időszakban a többség kibújik, elkezdik a tarsadalmi tranzíciót, a transz emberek több erőszakot tapasztalhatnak, és különösen nagy szükségük van segítségre a továbblépéshez.
+A legtöbb esetben ezek a **transz emberek az tranzíció korai szakaszában** vannak. Valójában a legtöbb ember számára, aki hormonális tranzíciót hajt végre, van egy néhány hónapos vagy éves időszak, amely alatt ezek a változások zajlanak le. Ahogy a ciszgender embereknél a pubertás alatt, úgy a transz emberek is próbálnak új nemükben megvetni a lábukat. Hasonlóképpen a testük is megváltozik, ha hormonokat szednek és/vagy műtétnek vetik alá magukat. Mivel ebben az átmeneti időszakban a többség kibújik, elkezdik a tarsadalmi tranzíciót, a transz emberek több erőszakot tapasztalhatnak, és különösen nagy szükségük van segítségre a továbblépéshez.
 
 **Néhány év elteltével sok transz ember visszatér a "normális" élethez, ahol transz-identitásuk már nem látható sem maguk, sem mások számára.**
 

@@ -10,7 +10,7 @@ lang: hu
 
 Nos, mint láthatod, nem probléma! **A transzoknak csak 22%-a heteroszexuális.** A többség biszexuális, ami azt jelenti, hogy nemtől függetlenül vonzódik az emberekhez. Sokféle transz ember van, sokféle ízléssel és gondolkodással; hatalmas a diverzifikáció.
 
-A transzneműek egy része **az átmenet során szexuális irányultságában is változást tapasztal.** Ennek oka az lehet, hogy a tranzíció lehetővé teszi, hogy a társadalmi nyomás miatt korábban elfojtott érzések felszínre kerüljenek.
+A transzneműek egy része **a tranzíció során szexuális irányultságában is változást tapasztal.** Ennek oka az lehet, hogy a tranzíció lehetővé teszi, hogy a társadalmi nyomás miatt korábban elfojtott érzések felszínre kerüljenek.
 
 A tanulmányban a megkérdezett **transz emberek 50%-a párkapcsolatban élt.**
 

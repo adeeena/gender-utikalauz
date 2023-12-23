@@ -125,6 +125,8 @@ Egy hangtanár soha nem fog kényszeríteni arra, hogy énekelj; ez egy gyakori 
 
 ➡️ [Reddit r/TransVoice](https://www.reddit.com/r/transvoice/)
 
+➡️ [Trans Voice Party](https://transvoice.party)
+
 ➡️ [Trans Voice Lessons videók](https://www.youtube.com/channel/UCBYlEnfAUbrYSwF0VujcmHA)
 
 ➡️ [Hacking the voice – a Physicists approach to training a female voice](hhttps://www.reddit.com/r/asktransgender/comments/5hgusl/hacking_the_voice_a_physicists_approach_to/)

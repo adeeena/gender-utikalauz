@@ -89,7 +89,7 @@ Szövetségesként kifejezheted támogatásodat ismerőseidnek:
 * az új keresztnév tiszteletben tartásával (és tévedés esetén helyesbítéssel);
 * azáltal, hogy kijavítod azokat a kollégákat vagy barátokat, akik hibáznak, vagy nem hajlandók kijavítani magukat;
 * felajánlani, hogy elkíséred a boltokba, új ruhákat ajánlani neki;
-* elkísérni őket az egészségügyi átmenetükkel kapcsolatos orvosi időpontokra;
+* elkísérni őket a tranzíciójukkal kapcsolatos orvosi időpontokra;
 * azzal, hogy felajánlod, hogy mellette leszel (fizikailag vagy lelkileg) a kibújáskor;
 * hajlandó vagy kibújni helyettük, ha kérik (pl. ha nem tudják, hogy hogyan bújjanak ki);
 * stb.
@@ -104,7 +104,7 @@ Nincs igazi "trükk" a megértéshez. Arról van szó, hogy meghallgatjuk, amit 
 
 Példa a nem bináris emberek életútjára:
 
-* Hormonális átváltozáson és bizonyos műtéteken átesett személy, aki a nemsemleges névmásokat részesíti előnyben, mert a nemét "inkább nőneműnek, de nem teljesen" érzékeli.
+* Hormonális átváltozáson és bizonyos műtéteken átesett személy, aki a gendersemleges névmásokat részesíti előnyben, mert a nemét "inkább nőneműnek, de nem teljesen" érzékeli.
 * Egy olyan személy, aki nem akar orvosi átváltozást végrehajtani, és arra kéri a rokonait, hogy gendersemleges néven szólítsák, mert így találja meg a személy az egészséges egyensúlyt.
 * Egy transzmaszkulin személy (születésekor nőnek rendelték), aki hormonális átváltáson esett át, és szeretné megtartani nagyon férfias megjelenését, miközben ismét női névmásokat használ, mert így találta meg az egyensúlyt nem-binaritásának kifejezésében. (Vagy fordítva egy transzfeminin személy esetében).
 * Egy olyan személy, aki kinézetre nagyon férfiasnak vagy nagyon nőiesnek tűnik. Ez a személy nem változtatta meg a keresztnevét, mert a keresztneve már gendersemleges volt.

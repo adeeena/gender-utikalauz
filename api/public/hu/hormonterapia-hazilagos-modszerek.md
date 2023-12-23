@@ -108,11 +108,13 @@ Az itt vagy nem szereplő források kockázatosak lehetnek. Rendelés leadása e
 ➡️ [RoidBazaar EU - Testosterone Cypionate II.](https://eu.roidbazaar.me/europe-domestic/testosterone-cypionate-250-1296/)
 
 
-## Kapcsolódó oldalak
+## Kapcsolódó
 
 ➡️ [Reddit r/TransDIY](https://reddit.com/r/transdiy)
 
 ➡️ [DIY HRT Wiki](https://diyhrt.wiki)
+
+➡️ [Trans Memo - hormonal follow-up for trans people - Android](https://play.google.com/store/apps/details?id=chrysalide.testomemo)
 
 
 

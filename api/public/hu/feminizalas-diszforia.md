@@ -1,6 +1,6 @@
 ---
 title: "Diszfória transzfeminin személyeknek"
-description: "Légy erős a nemi diszfória ellen! Tapasztalatok, különböző érzelmek és a szembenézés fontossága. Taktikák az átmenet kihívásainak kezelésére, segítség a közös szembenézésben. 👭🌈"
+description: "Légy erős a nemi diszfória ellen! Tapasztalatok, különböző érzelmek és a szembenézés fontossága. Taktikák a tranzíció kihívásainak kezelésére, segítség a közös szembenézésben. 👭🌈"
 lang: hu
 ---
 
@@ -16,7 +16,7 @@ Az emberek különböző módon tapasztalják a nemi diszfóriát, pl. különö
 
 A diszfória az enyhe kényelmetlenségtől a szélsőséges kényelmetlenségig és akár az öngyilkossági gondolatokig terjedhet, akár perceken belül fokozódva egyik végletből a másikba.
 
-## Taktikák az átmenet akadályainak kezelésére - A kihívásokkal való közös szembenézés
+## Taktikák az tranzíció akadályainak kezelésére - A kihívásokkal való közös szembenézés
 
 Kettő jobb, mint egy! Egyszer először próbáltam meg sminket vásárolni. Egyedül voltam, és a sminküzlet előtt szorongásos rohamot kaptam.
 

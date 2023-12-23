@@ -192,4 +192,5 @@ Továbbá a tanulmányok arra utalnak, hogy a progeszteron nem szükséges a tra
 
 ➡️ [Reference ranges for blood tests](https://en.m.wikipedia.org/wiki/Reference_ranges_for_blood_tests) (Wikipedia)
 
+➡️ [Trans Memo - hormonal follow-up for trans people - Android](https://play.google.com/store/apps/details?id=chrysalide.testomemo)
 </div>

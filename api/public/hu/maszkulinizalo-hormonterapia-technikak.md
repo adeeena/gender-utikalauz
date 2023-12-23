@@ -72,4 +72,8 @@ Ezeknek a termékeknek az az előnye, hogy vény nélkül kaphatók; ezért kön
 
 Ezeket a kezeléseket a HRT mellett kell alkalmazni, hogy fokozzák annak hatását, de természetesen HRT nélkül is használhatod őket, ha nem akarsz és/vagy nem kaphatsz HRT-t.
 
+## Kapcsolódó
+
+➡️ [Trans Memo - hormonal follow-up for trans people - Android](https://play.google.com/store/apps/details?id=chrysalide.testomemo)
+
 </div>

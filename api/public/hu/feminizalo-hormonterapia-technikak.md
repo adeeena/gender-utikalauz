@@ -198,4 +198,6 @@ Ez a módszer folyamatosan fejlődik: a legújabb változatai a [bicalutamid](/#
 
 ➡️ [A módszer teljes bemutatása elérhető itt (PPT prezentáció)](https://powersfamilymedicine.com/s/Healthcare-of-the-Transgender-Patient-V60.pptx).
 
+➡️ [Trans Memo - hormonal follow-up for trans people - Android](https://play.google.com/store/apps/details?id=chrysalide.testomemo)
+
 </div>

@@ -212,6 +212,7 @@ A kezelés néhány hónapos szedése után a legtöbb transznemű ember termék
 
 Ha hormonkezelést szeretnél kezdeni és a jövőben gyermeket tervezel, tájékozódj a petesejtjeid vagy spermád megőrzéséről a kezelés megkezdése előtt. [Részletesebben ebben a cikkben olvashatsz a termékenységről a tranzícióval kapcsolatban.](/#/entry?id=termekenyseg-megorzese)
 
+## Kapcsolódó
 
-
+➡️ [Trans Memo - hormonal follow-up for trans people - Android](https://play.google.com/store/apps/details?id=chrysalide.testomemo)
 

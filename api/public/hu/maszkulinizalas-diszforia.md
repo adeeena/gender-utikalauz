@@ -1,6 +1,6 @@
 ﻿---
 title: "Diszfória transzmaszkulin személyeknek"
-description: "Légy erős a nemi diszfória ellen! Tapasztalatok, különböző érzelmek és a szembenézés fontossága. Taktikák az átmenet kihívásainak kezelésére, segítség a közös szembenézésben."
+description: "Légy erős a nemi diszfória ellen! Tapasztalatok, különböző érzelmek és a szembenézés fontossága. Taktikák az tranzíció kihívásainak kezelésére, segítség a közös szembenézésben."
 lang: hu
 ---
 

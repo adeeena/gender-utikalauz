@@ -74,4 +74,6 @@ Jó olvasást!
 
 ➡️ [wikitrans.co](https://wikitrans.co)
 
+➡️ [Trans Memo - hormonal follow-up for trans people - Android](https://play.google.com/store/apps/details?id=chrysalide.testomemo)
+
 </div>

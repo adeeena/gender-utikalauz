@@ -36,7 +36,7 @@ Ne közvetíts sztereotípiákat, különösen akkor, ha egy nem bináris karakt
 
 </div>
 
-Mindezek ellenére igaz, hogy az androgün átmenet keresése cél és eufória forrása lehet egyes nem bináris emberek számára. **Azonban nem lehet általános tanácsokat adni arra vonatkozóan, hogyan lehet ezt elérni. Az androgünség állapotok és lehetőségek egész sorát fedi le, amelyek az adott személytől, a kontextustól és az adott kultúrától függnek.** Te vagy a legalkalmasabb arra, hogy eldöntsd, mi teszi lehetővé, hogy saját kritériumaid szerint androgünebbé válhass.
+Mindezek ellenére igaz, hogy az androgün tranzíció keresése cél és eufória forrása lehet egyes nem bináris emberek számára. **Azonban nem lehet általános tanácsokat adni arra vonatkozóan, hogyan lehet ezt elérni. Az androgünség állapotok és lehetőségek egész sorát fedi le, amelyek az adott személytől, a kontextustól és az adott kultúrától függnek.** Te vagy a legalkalmasabb arra, hogy eldöntsd, mi teszi lehetővé, hogy saját kritériumaid szerint androgünebbé válhass.
 
 ## Androgün és nem-bináris
 
@@ -74,19 +74,19 @@ A SERM és SARM még mindig erősen kísérleti kezelések; Európában gyakorla
 
 * a nem bináris emberek is használnak néha "bináris" HRT-t igényeiknek megfelelően,
 
-* a kifejezés azt sugallja, hogy a nem bináris emberek számára csak egyetlen lehetséges hormonális átmenet létezik - ami nem igaz. Mi több, **a hormonok szedése egy lehetőség, nem pedig kötelezettség.**
+* a kifejezés azt sugallja, hogy a nem bináris emberek számára csak egyetlen lehetséges hormonális tranzíció létezik - ami nem igaz. Mi több, **a hormonok szedése egy lehetőség, nem pedig kötelezettség.**
 
 Mindezen okok miatt nem használjuk ezt a terminológiát. A mikrodózissal és a HRT abbahagyásával kapcsolatos információkat a [Maszkulinizáló hormonterápia hatásai](/#/entry?id=maszkulinizalo-hormonterapia-hatasok) és a [Feminizáló hormonterápia hatásai](/#/entry?id=feminizalo-hormonterapia-hatasok) cikkekben találod meg.
 
 ## Coming out nem-binárisként
 
-Nem lehet megmondani, hogy valaki nem-bináris-e pusztán a megjelenése alapján. Ennek eredményeképpen a nem-bináris személyek láthatósága mindenekelőtt a társadalmi átmenet aktusaitól függ (coming out és más nyelvekben a hozzájuk társított (neo)pronounok).
+Nem lehet megmondani, hogy valaki nem-bináris-e pusztán a megjelenése alapján. Ennek eredményeképpen a nem-bináris személyek láthatósága mindenekelőtt a társadalmi tranzíció aktusaitól függ (coming out és más nyelvekben a hozzájuk társított (neo)pronounok).
 
 A nem bináris embereknek többször is fel kell tenniük maguknak a kérdést, hogy mikor és kinek beszéljenek a nem-binaritásukról, figyelembe kell venniük az elutasítás kockázatát és azt, hogy mennyire állnak közel az emberekhez, és fel kell mérniük, hogy érdemes-e másokat kijavítaniuk a mindennapi interakciókban (például az üzletekben, vagy ha valaki ismerősök hiányában nem tudja helyesen megnevezni őket).
 
 A nem-bináris nemre való tranzíció során úgy tűnik, hogy kompromisszumokat kell kötni a következők között: egyrészt a (néha létfontosságú) igény, hogy a férfi és a női kategóriákon kívül éljünk, hogy a lehető legjobban csökkentsük a diszfóriát; másrészt figyelembe kell venni az ehhez szükséges energiát, a lehetséges félreértéseket, a bosszantástól, a túl sok mindentől való félelmet.
 
-## Nem lineáris átmenetek
+## Nem lineáris tranzíciók
 
 Az "*passing*" elérése azt feltételezi, hogy az ember idővel elér egy pólust (az ellenkező nemű passingot), ahonnan soha (vagy legtöbbször) nem mozdul el. Bár ez nem feltétlenül igaz a transz férfiakra vagy nőkre, a nem-bináris személyek tranzíciói még inkább lebontják ezt az elképzelést.
 

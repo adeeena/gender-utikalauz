@@ -90,12 +90,12 @@ Ebben a dossziéban megtudhatod, hogyan kaphatsz ilyen kezelést. De azt is megi
 
 Ha jobban meg akarod érteni, hogyan működik a HRT, ismerkedj meg részletesebben a hormonok működésével.
 
-<!-- A dossziéban való navigáláshoz keress a tartalomjegyzéket minden cikk alján és tetején (mint ezen) vagy használd a webhely keresési funkcióját. -->
-
 Jó olvasást!
 
 ## Források
 
 ➡️ [wikitrans.co](https://wikitrans.co)
+
+➡️ [Trans Memo - hormonal follow-up for trans people - Android](https://play.google.com/store/apps/details?id=chrysalide.testomemo)
 
 </div>

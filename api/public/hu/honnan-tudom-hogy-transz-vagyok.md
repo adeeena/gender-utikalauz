@@ -151,3 +151,12 @@ Ne feledd azonban, hogy nem minden transz személy végső célja a passing. [B�
 Ez az oldal egy tudástár, amelyet a transz embereknek, a bizonytalanoknak, vagy esetleg már tranzíció alatt lévő személyek és hozzátartozóik számára szenteltünk. Itt találsz olyan forrásokat, amelyek megválaszolják a kérdéseidet, és segítenek a továbblépéshez.
 
 További olvasmányt találhatsz még a [Nemi Diszfória Biblia](http://genderdysphoria.fyi/hu) oldalon is.
+
+
+## Kapcsolódó oldalak
+
+➡️ [Gender ellenőrzőkönyv](/#/entry?id=brosurak)
+
+➡️ [Pronoun Dressing Room - kisérletezés nevekkel, névmásokkal](http://www.pronouns.failedslacker.com)
+
+➡️ [Baby Name Test Drive](https://www.babynamegenie.com/baby-name-test-drive)

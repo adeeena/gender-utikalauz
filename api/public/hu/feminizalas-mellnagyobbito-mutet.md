@@ -188,7 +188,7 @@ A műtétet követő 2 hónapig kerüld a sportolást.
 A műtét után a mellkasi fájdalom 3-5 hónapig tart. Súlyos lehet, különösen akkor, ha az implantátumot a mellizom alá helyezik. A sebész fájdalomcsillapítót fog felírni, hogy segítsen ebben az időszakban.
 
 ### Hogyan gyógyulnak a hegek?
-Az első néhány hét után sebészed azt fogja javasolni, [hogy a hegeket rendszeresen masszírozzad, hogy segítsd a gyógyulásukat](https://genderutikalauz.hu/public/muteti-hegmasszazs.pdf).
+Az első néhány hét után sebészed azt fogja javasolni, [hogy a hegeket rendszeresen masszírozzad, hogy segítsd a gyógyulásukat](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf).
 
 Ha a varratok nem szívódóak fel, akkor a műtét után 10-15 nappal el kell távolítani őket.
 

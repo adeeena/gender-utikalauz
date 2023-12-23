@@ -15,11 +15,11 @@ A *Feminizáló hormonok - kitölthető útmutató*, illetve a *Maszkulinizáló
 Akár te magad fontolgatod a hormonterápia elkezdését, akár kísérsz valakit, aki fontolgatja a folyamatot; ez az eszköz segíthet abban, hogy teljes mértékben megértsétek a hatásokat, és megalapozott döntést hozzatok.
 
 ### 👸 Feminizáló hormonok
-<a class="center-button" target="_blank" href="https://genderutikalauz.hu/public/feminizalo-hormonok.pdf">Letöltés</a>
+<a class="center-button" target="_blank" href="https://public.genderutikalauz.hu/feminizalo-hormonok.pdf">Letöltés</a>
 
 <br />
 <br />
 
 ### 👨 Maszkulinizáló hormonok
-<a class="center-button" target="_blank" href="https://genderutikalauz.hu/public/maszkulinizalo-hormonok.pdf">Letöltés</a>
+<a class="center-button" target="_blank" href="https://public.genderutikalauz.hu/maszkulinizalo-hormonok.pdf">Letöltés</a>
 

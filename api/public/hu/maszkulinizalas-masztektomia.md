@@ -165,7 +165,7 @@ A jó gyógyulás a bőröd minőségétől, az ápolástól és az általános 
 
 * A kötszereket legalább az első héten a fertőzésveszély csökkentése és a hegek megjelenésének figyelemmel kísérése érdekében ápolónak kell cserélnie. Ha szeretnéd, ha ezt egy orvosi képzettséggel nem rendelkező családtagod végezné, kérd meg, hogy az első néhány napra jöjjön el, hogy a nővérrel együtt megtanulja, hogyan kell ezt elvégezni. Ebben a szakaszban még mindig lehetséges, hogy saját magad is elvégezd, ha karjainak motorikus képességei megfelelőek.
 
-* A műtött területek masszírozása és a termékek alkalmazása (krémek, olajok stb., minden sebésznek megvannak a maga preferenciái, kétségtelenül neked is megvannak a sajátjai). Az önmasszázs fontos! Lehetővé teszik, hogy megszelídítse új törzsét és lebontsa a letapadásokat. [Brosúra a műtéti hegmasszázsról.](https://genderutikalauz.hu/public/muteti-hegmasszazs.pdf)
+* A műtött területek masszírozása és a termékek alkalmazása (krémek, olajok stb., minden sebésznek megvannak a maga preferenciái, kétségtelenül neked is megvannak a sajátjai). Az önmasszázs fontos! Lehetővé teszik, hogy megszelídítse új törzsét és lebontsa a letapadásokat. [Brosúra a műtéti hegmasszázsról.](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf)
 
 * A műtét után legalább 15 napig kerüld a dohányzást.
 
@@ -190,7 +190,7 @@ A szoptatás viszont rendkívül veszélyeztetett, mivel az ehhez szükséges me
 
 Az alábbi brosúra választ adhat néhány kérdésedre, mint hogy mikor kell abbahagyni a tesztoszteront, vagy hogy hogy szoptathatsz HRT mellett.
 
-➡️ [Transzmaszkulinként, terhesen](https://genderutikalauz.hu/public/transzmaszkulinkent-terhesen.pdf)
+➡️ [Transzmaszkulinként, terhesen](https://public.genderutikalauz.hu/transzmaszkulinkent-terhesen.pdf)
 
 
 ### Csökkenti a mellrák kockázatát a masztektómia?

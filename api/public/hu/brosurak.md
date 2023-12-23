@@ -10,6 +10,8 @@ lang: hu
 
 ➡️ [10 tévhit a transzidentitásról](/#/entry?id=brosura-10-tevhit-a-transzidentitasrol)
 
+➡️ [Gender ellenőrzőkönyv](https://genderutikalauz.hu/public/gender-ellenorzokonyv.pdf)
+
 ➡️ [Tájékozott döntés meghozatala a hormonterápia mellett](/#/entry?id=brosura-hormonok-kitoltheto-utmutato)
 
 ➡️ [Műtéti hegmasszázs](https://genderutikalauz.hu/public/muteti-hegmasszazs.pdf)

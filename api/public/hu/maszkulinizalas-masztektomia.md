@@ -22,6 +22,14 @@ MŰTÉTEK
 
 # Masztektómia
 
+<div class="infobox warning">
+
+**A tudományos bizonyítékok jelenleg egyöntetűek a dohányzás káros hatásait illetően a műtétet megelőző, valamint az azt követő hetekben.** Ezek a hatások sokrétűek, és jelentős hegesedési komplikációkhoz, műtéti hibákhoz és a beültethető eszközök fertőzéséhez vezethetnek.
+
+A bőr leválásával járó műtéteknél, mint például a hasplasztika, a mellplasztika vagy a nyak- és arcbőr balesete, a dohányzás szintén súlyos bőrszövődményeket okozhat. A műtéti beavatkozással közvetlenül összefüggő kockázatokon kívül a dohányzás az altatás során légzőszervi vagy szívpanaszokért is felelős lehet. Ezt szem előtt tartva a plasztikai sebészek közössége egyetért abban, hogy a dohányzást legalább egy hónappal a műtét előtt és a bőr gyógyulásáig (általában 15 nappal a műtét után) teljesen abba kell hagyni. Az elektronikus cigarettákat ugyanígy kell kezelni. Ha dohányzol, beszélj a sebészeddel és altatóorvosoddal. Lehet, hogy nikotinpótló készítményt is felírnak erre az időszakra.
+
+</div>
+
 **A masztektómia az emlőmirigy, a zsír és néha a bőr bizonyos részének eltávolításával járó sebészeti beavatkozás. Jelentősen csökkenti a mellek méretét, és "férfiasabb" megjelenést kölcsönöz a felsőtestnek.**
 
 A "torsoplasztika" kifejezés egy másik típusú műtétre utal, amelynek nincs köze a transz-identitáshoz, de a transz közösségben is használják, hogy a masztektómiára nem mint ablatív műtétre, hanem mint építő/módosító műtétre utaljanak. **Ebben a cikkben ezért a masztektómia és torsoplasztika szavakat felváltva fogjuk használni.**

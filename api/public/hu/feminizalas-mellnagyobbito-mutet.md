@@ -32,6 +32,14 @@ MŰTÉTEK
 Ez a cikk a mammoplasztikáról vagy mellnagyobbításról nyújt tájékoztatást, mint a transzfeminin tranzíció részeként.
 
 
+<div class="infobox warning">
+
+**A tudományos bizonyítékok jelenleg egyöntetűek a dohányzás káros hatásait illetően a műtétet megelőző, valamint az azt követő hetekben.** Ezek a hatások sokrétűek, és jelentős hegesedési komplikációkhoz, műtéti hibákhoz és a beültethető eszközök fertőzéséhez vezethetnek.
+
+A bőr leválásával járó műtéteknél, mint például a hasplasztika, a mellplasztika vagy a nyak- és arcbőr balesete, a dohányzás szintén súlyos bőrszövődményeket okozhat. A műtéti beavatkozással közvetlenül összefüggő kockázatokon kívül a dohányzás az altatás során légzőszervi vagy szívpanaszokért is felelős lehet. Ezt szem előtt tartva a plasztikai sebészek közössége egyetért abban, hogy a dohányzást legalább egy hónappal a műtét előtt és a bőr gyógyulásáig (általában 15 nappal a műtét után) teljesen abba kell hagyni. Az elektronikus cigarettákat ugyanígy kell kezelni. Ha dohányzol, beszélj a sebészeddel és altatóorvosoddal. Lehet, hogy nikotinpótló készítményt is felírnak erre az időszakra.
+
+</div>
+
 Mivel a mell természetes úton történő növekedése több évig is eltarthat, ajánlatos legalább két évet várni a mellnagyobbító műtét elvégzése előtt, mivel fennáll a veszélye annak, hogy a reméltnél nagyobb mellek lesznek a végén.
 
 A mellimplantátumok beültetése az egyik leggyakrabban végzett műtét a világon, 2013-ban közel 1,8 millió beavatkozást végeztek el (forrás: ISAPS).

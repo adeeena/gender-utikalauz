@@ -1,6 +1,6 @@
 <div class="header" [routerLink]="'/'">
   <div class="image">
-    <img src="assets/images/wikitransz.png" />
+    <span [innerHTML]="'🏳️‍⚧️' | utf8EmojisToImages:'apple':32"></span>
 
     <span>
       {{ 'general.title' | translate }}

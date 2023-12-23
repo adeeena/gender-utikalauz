@@ -74,4 +74,6 @@ Ha hosszabb ideig (mondjuk egy egész nap) viselsz tuckingot, próbálj meg lega
 
 ➡️ [Etsy - LeoLines bolt - tucking alsók](https://www.etsy.com/shop/LeoLines)
 
+➡️ [Trans Tapes - Tucking](hhttps://transtape.life/pages/tucking)
+
 </div>

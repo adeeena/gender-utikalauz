@@ -19,7 +19,7 @@ A binder nem mindig áll rendelkezésre. Szinte kizárólag speciális online á
 
 ## Trans Tape, vagy ragasztószalag
 
-Ragasztószalaggal lelapíthatod a melleidet. Ennek a technikának az az előnye, hogy diszkrétebb és kényelmesebb, mint a bordakötés. Azonban rendkívül kellemetlen lehet bőrrel való érintkezés (különösen a mellbimbó körüli résznél, amely nagyon érzékeny terület). BAmennyire csak lehetséges, fordulj a bőrre készült ragasztószalag márkákhoz (mint például a [Trans Tapes](https://transtape.life/)), **ez a technika nem mindenki számára alkalmas**, a bőr érzékenységétől függően.
+Ragasztószalaggal lelapíthatod a melleidet. Ennek a technikának az az előnye, hogy diszkrétebb és kényelmesebb, mint a bordakötés. Azonban rendkívül kellemetlen lehet bőrrel való érintkezés (különösen a mellbimbó körüli résznél, amely nagyon érzékeny terület). Bármennyire csak lehetséges, használj a bőrhöz készült ragasztószalag márkákat (mint például a [Trans Tapes](https://transtape.life/)), **ez a technika nem mindenki számára alkalmas**, a bőr érzékenységétől függően.
 
 ## A binder
 A binder nem ártalmatlan ruhadarab. Nem mentes az egészségügyi kockázatoktól, ha bizonyos óvintézkedéseket nem teszünk meg.
@@ -59,6 +59,8 @@ A binder vagy a túl szoros kötszer viselése azonban negatív következmények
 ➡️ [Underworks](https://www.underworks.com/)
 
 ➡️ [lio](https://www.lio-lettheinsideout.com/binders)
+
+➡️ [Trans Tapes](https://transtape.life/)
 
 Ha a testalkatod nem illik bele az ezeken az oldalakon található táblázatokba (például a törzséhez képest nagy a mellkasa), vannak olyan binderminták, amelyeket saját magad is elkészíthetsz, és a saját méreteidhez igazíthatod.
 

@@ -105,7 +105,7 @@ Ennek eredményeképpen a mellékhatásaik miatt nagyobb valószínűséggel ír
 * Álmosságot és szédülést okozhat (csak progeszteron).
 * Növelheti a diszfória érzését.
 * Növelheti a depresszió kockázatát.
-➡️ [Növeli az emlőrák kockázatát](https://en.wikipedia.org/wiki/Progesterone_(medication)#Breast_cancer) (különösen a szintetikus progesztinek esetében).
+* [Növeli az emlőrák kockázatát](https://en.wikipedia.org/wiki/Progesterone_(medication)#Breast_cancer) (különösen a szintetikus progesztinek esetében).
 
 ## ⚗️ Mellek fejlődése
 A progesztinek transz nőkre gyakorolt specifikus hatásairól szóló tanulmányok hiánya miatt a progesztinek tényleges hatásai még mindig kevéssé ismertek. A gyakorlatban úgy tűnik, hogy a hatások között egyénenként óriási különbségek vannak.

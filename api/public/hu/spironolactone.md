@@ -137,6 +137,22 @@ Ez egy meglehetősen szokatlan gyógyszer, mivel az antiandrogén hatása másod
     </tbody>
 </table>
 
+<br />
+
+<div class="infobox info">
+
+[Rendszeres vérvétellel](/#/entry?id=feminizalo-hormonterapia-vervizsgalatok) tudja az orvosod, illetve te magad is felügyelni, hogy megfelelő-e a hormonmennyiség, amit terápián kapsz.
+
+Azonban, két vérvétel között, megfigyelve a tested reakcióit, te magad is figyelhetsz az ösztrogén- és tesztoszteron-adagolásodra:
+
+* **Migrén, fáradtság, tapintási túlérzékenység, alacsony libidó = túl sok ösztrogén.**
+
+* **Hőhullámok, álmatlanság, fáradtság, ingerlékenység, szorongás, ízületi fájdalom = túl kevés ösztrogén.**
+
+* **Akaratlan éjszakai erekció, pattanások az arcon, nem megnagyobbodó mellek = túl sok tesztoszteron.**
+
+</div>
+
 ## Bemutató
 
 Ez egy olyan gyógyszer, amely egyszerre hat vízhajtóként és antiandrogénként.

@@ -1,6 +1,6 @@
 <div class="content">
   <div class="entry-content" *ngIf="entry">
-    <div class="entry-markdown" [@enter1] [innerHTML]="entry | utf8EmojisToImages"></div>
+    <div class="entry-markdown" [@enter1] [innerHTML]="entry | utf8EmojisToImages:'apple':16"></div>
 
     <div class="entry-actions" [@enter3]>
       <div class="back-to-home">

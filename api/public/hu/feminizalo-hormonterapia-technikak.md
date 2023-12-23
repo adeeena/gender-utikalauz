@@ -83,6 +83,22 @@ Függetlenül a választott módszertől, az emberi testnek szüksége van nemi 
 
 </div>
 
+<br />
+
+<div class="infobox info">
+
+[Rendszeres vérvétellel](/#/entry?id=feminizalo-hormonterapia-vervizsgalatok) tudja az orvosod, illetve te magad is felügyelni, hogy megfelelő-e a hormonmennyiség, amit terápián kapsz.
+
+Azonban, két vérvétel között, megfigyelve a tested reakcióit, te magad is figyelhetsz az ösztrogén- és tesztoszteron-adagolásodra:
+
+* **Migrén, fáradtság, tapintási túlérzékenység, alacsony libidó = túl sok ösztrogén.**
+
+* **Hőhullámok, álmatlanság, fáradtság, ingerlékenység, szorongás, ízületi fájdalom = túl kevés ösztrogén.**
+
+* **Akaratlan éjszakai erekció, pattanások az arcon, nem megnagyobbodó mellek = túl sok tesztoszteron.**
+
+</div>
+
 A cikkben említett technikák:
 
 * 1. módszer: Ösztrogén és T-blokkoló bevétele

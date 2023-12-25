@@ -20,6 +20,12 @@ MŰTÉTEK
 
 [Orchidektómia](/#/entry?id=feminizalas-orchidectomia)
 
+KAPCSOLÓDÓ KIADVÁNYOK
+
+➡️ [Orvosi konzultáció - kérdéssor](https://public.genderutikalauz.hu/orvosi-konzultacio-kerdessor.pdf)
+
+➡️ [Műtéti hegmasszázs](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf)
+
 </div>
 
 <div class="wiki-content">
@@ -49,6 +55,14 @@ A felépülési idő körülbelül 2 hét.
 A műtét körülbelül 6-800 ezer forintba kerül.
 
 Megjegyzendő, hogy ez a műtét semmilyen módon nem változtatja meg a hangot, de kombinálható más műtétekkel, például hangszálműtéttel vagy arcfeminizációval.
+
+<div class="infobox info">
+
+A műtétet megelőző konzultáció(k)hoz készíts össze néhány kérdést, amit megbeszélnél mindenképp az orvosoddal; vagy aggodalomra ad okot a műtéteddel kapcsolatban. Segítségként használhatod az előre összeállított kérdéssorunkat:
+
+➡️ [Orvosi konzultáció - kérdéssor](https://public.genderutikalauz.hu/orvosi-konzultacio-kerdessor.pdf)
+
+</div>
 
 ## A műtét utáni hegesedés
 

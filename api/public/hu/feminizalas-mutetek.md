@@ -8,6 +8,10 @@ lang: hu
 
 <div class="floating-bar">
 
+[Bevezető](/#/entry?id=feminizalas-mutetek)
+
+MŰTÉTEK
+
 [Mellnagyobbítás](/#/entry?id=feminizalas-mellnagyobbito-mutet)
 
 [Arcműtét (FFS)](/#/entry?id=feminizalas-arcmutet)
@@ -15,6 +19,12 @@ lang: hu
 [Ádámcsutka-műtét](/#/entry?id=feminizalas-adamcsutka-mutet)
 
 [Orchidektómia](/#/entry?id=feminizalas-orchidectomia)
+
+KAPCSOLÓDÓ KIADVÁNYOK
+
+➡️ [Orvosi konzultáció - kérdéssor](https://public.genderutikalauz.hu/orvosi-konzultacio-kerdessor.pdf)
+
+➡️ [Műtéti hegmasszázs](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf)
 
 </div>
 

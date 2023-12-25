@@ -20,6 +20,12 @@ MŰTÉTEK
 
 [Orchidektómia](/#/entry?id=feminizalas-orchidectomia)
 
+KAPCSOLÓDÓ KIADVÁNYOK
+
+➡️ [Orvosi konzultáció - kérdéssor](https://public.genderutikalauz.hu/orvosi-konzultacio-kerdessor.pdf)
+
+➡️ [Műtéti hegmasszázs](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf)
+
 </div>
 
 <div class="wiki-content">
@@ -51,6 +57,14 @@ Az orchidektómia nem véd a szexuális úton terjedő betegségek ellen.
 **A tudományos bizonyítékok jelenleg egyöntetűek a dohányzás káros hatásait illetően a műtétet megelőző, valamint az azt követő hetekben.** Ezek a hatások sokrétűek, és jelentős hegesedési komplikációkhoz, műtéti hibákhoz és a beültethető eszközök fertőzéséhez vezethetnek.
 
 A bőr leválásával járó műtéteknél, mint például a hasplasztika, a mellplasztika vagy a nyak- és arcbőr balesete, a dohányzás szintén súlyos bőrszövődményeket okozhat. A műtéti beavatkozással közvetlenül összefüggő kockázatokon kívül a dohányzás az altatás során légzőszervi vagy szívpanaszokért is felelős lehet. Ezt szem előtt tartva a plasztikai sebészek közössége egyetért abban, hogy a dohányzást legalább egy hónappal a műtét előtt és a bőr gyógyulásáig (általában 15 nappal a műtét után) teljesen abba kell hagyni. Az elektronikus cigarettákat ugyanígy kell kezelni. Ha dohányzol, beszélj a sebészeddel és altatóorvosoddal. Lehet, hogy nikotinpótló készítményt is felírnak erre az időszakra.
+
+</div>
+
+<div class="infobox info">
+
+A műtétet megelőző konzultáció(k)hoz készíts össze néhány kérdést, amit megbeszélnél mindenképp az orvosoddal; vagy aggodalomra ad okot a műtéteddel kapcsolatban. Segítségként használhatod az előre összeállított kérdéssorunkat:
+
+➡️ [Orvosi konzultáció - kérdéssor](https://public.genderutikalauz.hu/orvosi-konzultacio-kerdessor.pdf)
 
 </div>
 

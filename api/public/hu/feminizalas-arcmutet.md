@@ -8,7 +8,6 @@ lang: hu
 
 <div class="floating-bar">
 
-
 [Bevezető](/#/entry?id=feminizalas-mutetek)
 
 MŰTÉTEK
@@ -20,6 +19,12 @@ MŰTÉTEK
 [Ádámcsutka-műtét](/#/entry?id=feminizalas-adamcsutka-mutet)
 
 [Orchidektómia](/#/entry?id=feminizalas-orchidectomia)
+
+KAPCSOLÓDÓ KIADVÁNYOK
+
+➡️ [Orvosi konzultáció - kérdéssor](https://public.genderutikalauz.hu/orvosi-konzultacio-kerdessor.pdf)
+
+➡️ [Műtéti hegmasszázs](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf)
 
 </div>
 
@@ -71,6 +76,14 @@ Ez a felvétel lehetővé teszi a sebész számára, hogy meghatározza a fronto
 A kívánt eredményt fényképes retusálással vagy számítógépes morfizálással lehet szimulálni. Az így kapott virtuális kép csupán egy tervrajz, amely segíthet megérteni a páciens elvárásait; nem garantálható azonban, hogy a tényleges eredmény pontosan ugyanilyen lesz.
 
 Az altatóorvossal a műtét előtt legalább 48 órával kell konzultálni.
+
+<div class="infobox info">
+
+A műtétet megelőző konzultáció(k)hoz készíts össze néhány kérdést, amit megbeszélnél mindenképp az orvosoddal; vagy aggodalomra ad okot a műtéteddel kapcsolatban. Segítségként használhatod az előre összeállított kérdéssorunkat:
+
+➡️ [Orvosi konzultáció - kérdéssor](https://public.genderutikalauz.hu/orvosi-konzultacio-kerdessor.pdf)
+
+</div>
 
 <div class="infobox warning">
 

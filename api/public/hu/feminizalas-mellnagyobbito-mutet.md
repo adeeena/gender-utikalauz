@@ -8,7 +8,6 @@ lang: hu
 
 <div class="floating-bar">
 
-
 [Bevezető](/#/entry?id=feminizalas-mutetek)
 
 MŰTÉTEK
@@ -20,6 +19,12 @@ MŰTÉTEK
 [Ádámcsutka-műtét](/#/entry?id=feminizalas-adamcsutka-mutet)
 
 [Orchidektómia](/#/entry?id=feminizalas-orchidectomia)
+
+KAPCSOLÓDÓ KIADVÁNYOK
+
+➡️ [Orvosi konzultáció - kérdéssor](https://public.genderutikalauz.hu/orvosi-konzultacio-kerdessor.pdf)
+
+➡️ [Műtéti hegmasszázs](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf)
 
 </div>
 
@@ -55,6 +60,14 @@ A mellimplantátumok beültetése az egyik leggyakrabban végzett műtét a vil�
 A mammoplasztika ára 500 ezer és 2 millió forint között mozoghat, beleértve a járulékos költségeket is.
 
 A kiegészítő díjak (altatás, konzultációk) 4-800 ezer forint között változhatnak.
+
+<div class="infobox info">
+
+A műtétet megelőző konzultáció(k)hoz készíts össze néhány kérdést, amit megbeszélnél mindenképp az orvosoddal; vagy aggodalomra ad okot a műtéteddel kapcsolatban. Segítségként használhatod az előre összeállított kérdéssorunkat:
+
+➡️ [Orvosi konzultáció - kérdéssor](https://public.genderutikalauz.hu/orvosi-konzultacio-kerdessor.pdf)
+
+</div>
 
 ## Mellnagyobbítási módszerek
 

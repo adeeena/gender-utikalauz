@@ -16,6 +16,12 @@ MŰTÉTEK
 
 [Hiszterektómia, vaginektómia, oophorektómia](/#/entry?id=maszkulinizalas-hiszterektomia-vaginektomia-oophorektomia)
 
+KAPCSOLÓDÓ KIADVÁNYOK
+
+➡️ [Orvosi konzultáció - kérdéssor](https://public.genderutikalauz.hu/orvosi-konzultacio-kerdessor.pdf)
+
+➡️ [Műtéti hegmasszázs](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf)
+
 </div>
 
 <div class="wiki-content">

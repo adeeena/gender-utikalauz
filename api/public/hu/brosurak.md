@@ -8,12 +8,21 @@ lang: hu
 
 # 📚 Brosúrák, kiadványok
 
+## Kezdetekhez
+
 ➡️ [10 tévhit a transzidentitásról](/#/entry?id=brosura-10-tevhit-a-transzidentitasrol)
 
 ➡️ [Gender ellenőrzőkönyv](https://public.genderutikalauz.hu/gender-ellenorzokonyv.pdf)
 
 ➡️ [Tájékozott döntés meghozatala a hormonterápia mellett](/#/entry?id=brosura-hormonok-kitoltheto-utmutato)
 
-➡️ [Műtéti hegmasszázs](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf)
+## Transzmaszkulin személyeknek
 
 ➡️ [Transzmaszkulinként, terhesen](https://public.genderutikalauz.hu/transzmaszkulinkent-terhesen.pdf)
+
+## Műtéttel kapcsolatos
+
+➡️ [Orvosi konzultáció - kérdéssor](https://public.genderutikalauz.hu/orvosi-konzultacio-kerdessor.pdf)
+
+➡️ [Műtéti hegmasszázs](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf)
+

@@ -8,11 +8,19 @@ lang: hu
 
 <div class="floating-bar">
 
+[Bevezető](/#/entry?id=maszkulinizalas-mutetek)
+
 MŰTÉTEK
 
 [Masztektómia](/#/entry?id=maszkulinizalas-masztektomia)
 
 [Hiszterektómia, vaginektómia, oophorektómia](/#/entry?id=maszkulinizalas-hiszterektomia-vaginektomia-oophorektomia)
+
+KAPCSOLÓDÓ KIADVÁNYOK
+
+➡️ [Orvosi konzultáció - kérdéssor](https://public.genderutikalauz.hu/orvosi-konzultacio-kerdessor.pdf)
+
+➡️ [Műtéti hegmasszázs](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf)
 
 </div>
 
@@ -22,13 +30,7 @@ MŰTÉTEK
 
 # Méheltávolítás (hiszterektómia), oophorektómia és vaginektómia
 
-<div class="infobox warning">
 
-**A tudományos bizonyítékok jelenleg egyöntetűek a dohányzás káros hatásait illetően a műtétet megelőző, valamint az azt követő hetekben.** Ezek a hatások sokrétűek, és jelentős hegesedési komplikációkhoz, műtéti hibákhoz és a beültethető eszközök fertőzéséhez vezethetnek.
-
-A bőr leválásával járó műtéteknél, mint például a hasplasztika, a mellplasztika vagy a nyak- és arcbőr balesete, a dohányzás szintén súlyos bőrszövődményeket okozhat. A műtéti beavatkozással közvetlenül összefüggő kockázatokon kívül a dohányzás az altatás során légzőszervi vagy szívpanaszokért is felelős lehet. Ezt szem előtt tartva a plasztikai sebészek közössége egyetért abban, hogy a dohányzást legalább egy hónappal a műtét előtt és a bőr gyógyulásáig (általában 15 nappal a műtét után) teljesen abba kell hagyni. Az elektronikus cigarettákat ugyanígy kell kezelni. Ha dohányzol, beszélj a sebészeddel és altatóorvosoddal. Lehet, hogy nikotinpótló készítményt is felírnak erre az időszakra.
-
-</div>
 
 **A hiszterektómia a méh eltávolítását jelenti. "Teljesnek" mondják, ha a méhnyakat eltávolítják, és "szubtotálisnak", ha a méhnyak a helyén marad.** Ezt a műtétet kísérheti a petevezetékek és a petefészkek eltávolítása (oophorektómia vagy adnexektómia) és/vagy hüvelyzárás (vaginektómia vagy kolektómia), de ez nem kötelező.
 
@@ -110,9 +112,25 @@ A sebész kérhet a medencei ultrahangvizsgálatot is.
 ### Dohányzás és alkohol
 Lehetőleg ne dohányozz a műtétet megelőző hónapban és a műtétet követő 15 napban. Beszélj a sebészeddel és altatóorvosoddal, ha dohányzol, mivel ez hatással lehet a gyógyulás minőségére. Hasonlóképpen beszélj velük az alkoholfogyasztásodról, valamint a műtét előtti és utáni óvintézkedésekről.
 
+<div class="infobox warning">
+
+**A tudományos bizonyítékok jelenleg egyöntetűek a dohányzás káros hatásait illetően a műtétet megelőző, valamint az azt követő hetekben.** Ezek a hatások sokrétűek, és jelentős hegesedési komplikációkhoz, műtéti hibákhoz és a beültethető eszközök fertőzéséhez vezethetnek.
+
+A bőr leválásával járó műtéteknél, mint például a hasplasztika, a mellplasztika vagy a nyak- és arcbőr balesete, a dohányzás szintén súlyos bőrszövődményeket okozhat. A műtéti beavatkozással közvetlenül összefüggő kockázatokon kívül a dohányzás az altatás során légzőszervi vagy szívpanaszokért is felelős lehet. Ezt szem előtt tartva a plasztikai sebészek közössége egyetért abban, hogy a dohányzást legalább egy hónappal a műtét előtt és a bőr gyógyulásáig (általában 15 nappal a műtét után) teljesen abba kell hagyni. Az elektronikus cigarettákat ugyanígy kell kezelni. Ha dohányzol, beszélj a sebészeddel és altatóorvosoddal. Lehet, hogy nikotinpótló készítményt is felírnak erre az időszakra.
+
+</div>
+
 ### Túlsúly
 
 Sajnos nem ritka, hogy a túlsúlyos embereknél elutasítják el a műtét(ek)et, pedig ez semmiképpen sem műtéti követelmény.
+
+<div class="infobox info">
+
+A műtétet megelőző konzultáció(k)hoz készíts össze néhány kérdést, amit megbeszélnél mindenképp az orvosoddal; vagy aggodalomra ad okot a műtéteddel kapcsolatban. Segítségként használhatod az előre összeállított kérdéssorunkat:
+
+➡️ [Orvosi konzultáció - kérdéssor](https://public.genderutikalauz.hu/orvosi-konzultacio-kerdessor.pdf)
+
+</div>
 
 ## Műtét után
 
@@ -135,7 +153,7 @@ A műtét nagy űrt hagy a szervezetben, ami nagyon ritkán szervleereszkedéshe
 Ne feledd azonban, hogy a méheltávolítás manapság nagyon gyakori műtét, amelyet mára már rutinműtétként végeznek. Természetesen ezek a kockázatok nem minden kórházi beavatkozásra vonatkoznak.
 
 ## Árak
-A méheltávolítás kb. 900 ezer forint. Az oophorektómia hasonló ában van és a vaginektómia ennek többszöröse is lehet.
+A méheltávolítás kb. 900 ezer forint. Az oophorektómia hasonló árban van és a vaginektómia ennek többszöröse is lehet.
 
 Azonban előfordulhat, hogy többet kell fizetnie, ha a sebész bármi tényező miatt többet számol fel.
 

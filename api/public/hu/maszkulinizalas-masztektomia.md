@@ -8,11 +8,19 @@ lang: hu
 
 <div class="floating-bar">
 
+[Bevezető](/#/entry?id=maszkulinizalas-mutetek)
+
 MŰTÉTEK
 
 [Masztektómia](/#/entry?id=maszkulinizalas-masztektomia)
 
 [Hiszterektómia, vaginektómia, oophorektómia](/#/entry?id=maszkulinizalas-hiszterektomia-vaginektomia-oophorektomia)
+
+KAPCSOLÓDÓ KIADVÁNYOK
+
+➡️ [Orvosi konzultáció - kérdéssor](https://public.genderutikalauz.hu/orvosi-konzultacio-kerdessor.pdf)
+
+➡️ [Műtéti hegmasszázs](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf)
 
 </div>
 
@@ -94,6 +102,14 @@ Beszéld meg vele a lehetséges változtatásokat is, ha az eredmény nem felelt
 ## Műtét előtti követelmények és első találkozó
 
 A műtét elvégzéséhez nincs szükség különleges fizikai állapotra. Az egyetlen lehetséges ellenjavallat az altatással és az intubációval kapcsolatos, nem pedig magával a masztektómiával.
+
+<div class="infobox info">
+
+A műtétet megelőző konzultáció(k)hoz készíts össze néhány kérdést, amit megbeszélnél mindenképp az orvosoddal; vagy aggodalomra ad okot a műtéteddel kapcsolatban. Segítségként használhatod az előre összeállított kérdéssorunkat:
+
+➡️ [Orvosi konzultáció - kérdéssor](https://public.genderutikalauz.hu/orvosi-konzultacio-kerdessor.pdf)
+
+</div>
 
 A találkozókra célszerű, ha valaki olyan kísér el, akiben megbízol: a konzultáció okozta stressz miatt előfordulhat, hogy elfelejtesz dolgokat, nehezen tudod kifejezni magadat vagy nehezen emlékszel vissza az információkra. Készíts elő együtt a kérdéseket. Hozhatsz fényképeket, hogy képet kapj arról, hogy mit szeretnél. Végül ne felejts el tollat és papírt hozni, hogy jegyzetelni tudj. Előzetesen kérdezd meg a kezelőorvost az esetlegesen szükséges dokumentumokról is (háziorvosától kapott levél, pszichiáter igazolása, endokrinológus igazolása).
 

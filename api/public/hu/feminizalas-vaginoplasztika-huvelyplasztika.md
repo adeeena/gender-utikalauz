@@ -58,10 +58,10 @@ Ez a műtét a következőkből áll:
 
 * a két here és a pénisz csontvázának (corpus cavernosum) eltávolítása
 * a lehető legközelebbi szeméremtest létrehozása, a következőkkel:
-** egy olyan méretű nemi üreggel, amely lehetővé teszi a nemi közösülést,
-** erogén érzékenységű, érrendszerrel ellátott neoclitoris,
-** húgycsővezetékkel,
-** nagy és kis ajkakkal.
+* - egy olyan méretű nemi üreggel, amely lehetővé teszi a nemi közösülést,
+* - erogén érzékenységű, érrendszerrel ellátott neoclitoris,
+* - húgycsővezetékkel,
+* - nagy és kis ajkakkal.
 
 <div class="header-image"><img src="assets/images/vaginoplastie.png" /></div>
 

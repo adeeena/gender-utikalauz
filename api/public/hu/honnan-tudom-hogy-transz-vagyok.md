@@ -40,6 +40,13 @@ Lehetsz transz és:
 
 További tévhitek és válaszok a transz emberek szüleinek szóló kiadványunkban: ➡️ [10 tévhit a transzidentitásról](/#/entry?id=brosura-10-tevhit-a-transzidentitasrol).
 
+<div class="infobox error">
+<h5>Transznak lenni nem választás és nem is betegség.</h5>
+
+Ahogyan az sem, hogy valaki heteroszexuális, alacsony, laktózérzékeny vagy balkezes, **a transzneműség sem választás. És nem is pszichiátriai betegség.** Ez nem jelenti azt, hogy az orvostudomány nem játszik szerepet, mivel az tranzíció gyakran orvosi és/vagy sebészeti beavatkozásokat igényel. **Nem is divat vagy kényelem kérdése.** Az egyetlen "választás", amit meghozunk, az az, hogy elindulunk az tranzíció útján vagy sem; ez inkább döntés kérdése.
+
+</div>
+
 
 ## Miért most?
 

@@ -26,6 +26,13 @@ A transzidentitás megnyilvánulhat egy **olyan személyes érzésben, hogy töb
 
 💡 Nézd meg a ["Mindent a transzneműekről 5 percben"](/#/intro) című oldalunkat.
 
+<div class="infobox error">
+<h5>Transznak lenni nem választás és nem is betegség.</h5>
+
+Ahogyan az sem, hogy valaki heteroszexuális, alacsony, laktózérzékeny vagy balkezes, **a transzneműség sem választás. És nem is pszichiátriai betegség.** Ez nem jelenti azt, hogy az orvostudomány nem játszik szerepet, mivel az tranzíció gyakran orvosi és/vagy sebészeti beavatkozásokat igényel. **Nem is divat vagy kényelem kérdése.** Az egyetlen "választás", amit meghozunk, az az, hogy elindulunk az tranzíció útján vagy sem; ez inkább döntés kérdése.
+
+</div>
+
 ## Diszfória és tranzíció
 
 Ezek az ellentmondások **az énképtől való elszakadáshoz** vezethetnek. Ez az egyszerű kellemetlen érzéstől kezdve a születési név hallásán át a test iránti gyűlöletig terjedhet, ami néha depresszióhoz vagy akár öngyilkossághoz is vezethet, különösen ellenséges környezetben. **A fájdalom fizikai és lelki is lehet**.

@@ -129,7 +129,7 @@ Egy hangtanár soha nem fog kényszeríteni arra, hogy énekelj; ez egy gyakori 
 
 ➡️ [Trans Voice Lessons videók](https://www.youtube.com/channel/UCBYlEnfAUbrYSwF0VujcmHA)
 
-➡️ [Hacking the voice – a Physicists approach to training a female voice](hhttps://www.reddit.com/r/asktransgender/comments/5hgusl/hacking_the_voice_a_physicists_approach_to/)
+➡️ [Hacking the voice – a Physicists approach to training a female voice](https://www.reddit.com/r/asktransgender/comments/5hgusl/hacking_the_voice_a_physicists_approach_to/)
 
 ➡️ [MtF Voice Training Regimen](https://reddit.com/r/asktransgender/comments/1ske7b/mtf_voice_training_regimen/?utm_content=title)
 

@@ -24,9 +24,11 @@ Ennek a problémának a megoldására a hereszövet sebészi úton lefagyaszthat
 A fagyasztott hereszövet használata jelenleg még kísérleti stádiumban van, bár egyes klinikákon elérhető, ez a technika nem nyújt bizonyosságot a jövőbeni termékenységi kezelés részeként vett szövet felhasználását illetően.
 
 ### Transznemű férfiak számára
-A transz férfiaknál lehetőség van a petesejtek lefagyasztására. A petesejtek kinyerését 18 éves kortól, ideális esetben a hormonkezelés megkezdése előtt érdemes elvégezni.
 
-Ha a hormonkezelés már megkezdődött, azt átmenetileg, 3-6 hónapra le kell állítani. Ehhez először három héten át női hormonokkal történő hormonális stimuláción kell átesni, ami lehetővé teszi, hogy több petesejt megérjen. A petefészek-stimulációt hüvelyi ultrahanggal ellenőrzik.
+A tranzíció fontos és izgalmas döntés, amely kihatással lesz az egész további életedre. Mielőtt hormonális vagy műtéti tranzícióba kezdesz, érdemes megfontolni a termékenység megőrzésének lehetőségeit, például a petesejtek és embriók lefagyasztását. Ha szeretnéd, hogy genetikailag hozzád köthető gyermekeid lehessenek, de nem vagy biztos abban, hogy ki fogod-e hordani őket, beszélj egészségügyi szakemberével a termékenységi lehetőségeidről.
+
+
+Ha már elkezdted a tesztoszteron szedését, és szeretné megőrizni termékenységedet, a petesejt vagy embrió lefagyasztása megoldást jelenthet. Egy svéd tanulmány, amelyben transznemű férfiak egy kis csoportját vizsgálták, akik termékenységmegőrző kezelésen estek át ivarsejtjeik (petesejtjeik) kinyerése és lefagyasztása céljából, kimutatta, hogy ez lehetséges módszer. A férfiak közül heten a termékenységmegőrző kezelés megkezdése előtt tesztoszteront szedtek. Le kellett állniuk a tesztoszteron szedésével, meg kellett várniuk, hogy visszatérjen a menstruációjuk. Bár ez a termékenységmegőrző kezelés lehetővé tette a petesejtek visszanyerését és lefagyasztását, a változások néhány résztvevő számára szorongatóak voltak, akik különösen nehéznek találták a menstruáció visszatérését vagy a nőgyógyászati vizsgálatokat.
 
 Lehetőség van a petefészekszövet lefagyasztására is 18 éves kor előtt. De a transz nőkhöz hasonlóan ez is még kísérleti jellegű, és nem nyújt bizonyosságot a termékenységi kezelésben való felhasználásáról.
 
@@ -42,7 +44,24 @@ Ha azonban a partner cisz nő, a transz nő fagyasztott spermája felhasználhat
 Ha a partner férfi, petesejtdonorra és béranyára lesz szükség.
 
 ### Transznemű férfiak számára
+
+**A legfontosabb tudnivalók:**
+* A tesztoszteron **nem** a fogamzásgátlás egyik formája.
+
+* Egyesek (beleértve néhány egészségügyi szakembert is) tévesen úgy vélik, hogy a tesztoszteron szedése a fogamzásgátlás egyik formája.
+
+* A tesztoszteron szedése születési rendellenességeket okozhat a magzatnál.
+
+Még mindig nagyon keveset tudunk arról, hogy milyen összetett hormonális összefüggések játszódnak le a tesztoszteront szedő AFAB-emberek szervezetében. **Viszonylag kevés transz férfi esett teherbe és szült gyermeket.** A hormonkezelések és a nemi megerősítő műtétek területe meglehetősen új keletű, így még sok a felfedeznivaló az orvosoknak. A legtöbb információ kisebb tanulmányokból, felmérésekből és a transz egészséggel és reprodukcióval foglalkozó szakemberek véleményéből származik.
+
+
 Ha a partner cisz nő, a transz férfi lefagyasztott petesejtjei felhasználhatók megtermékenyítésre (IVF) vagy intracitoplazmatikus spermiuminjekcióval (ICSI) történő megtermékenyítésre egy donortól származó spermamintával.
 
 Ha a transz férfinak férfi partnere van, a partner spermamintája felhasználható a fagyasztott petesejtek megtermékenyítéséhez. Ez lehetővé teszi, hogy mindkét szülővel biológiai rokonságban álló gyermek szülessen, bár ehhez béranya is szükséges.
+
+## Források
+
+➡️ [Clue - Comment le traitement à la testostérone affecte la fertilité](https://helloclue.com/fr/articles/lgbtqia/comment-le-traitement-a-la-testosterone-affecte-la-fertilite)
+
+➡️ [Wikitrans - Preservation la fertilité](https://wikitrans.co/2019/05/14/fertilite/)
 

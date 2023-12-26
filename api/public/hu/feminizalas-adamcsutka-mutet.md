@@ -20,6 +20,8 @@ MŰTÉTEK
 
 [Orchidektómia](/#/entry?id=feminizalas-orchidectomia)
 
+[Vaginoplasztika / hüvelyplasztika](/#/entry?id=feminizalas-vaginoplasztika-huvelyplasztika)
+
 KAPCSOLÓDÓ KIADVÁNYOK
 
 ➡️ [Orvosi konzultáció - kérdéssor](https://public.genderutikalauz.hu/orvosi-konzultacio-kerdessor.pdf)

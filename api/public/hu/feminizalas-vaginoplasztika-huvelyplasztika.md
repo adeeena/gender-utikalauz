@@ -40,7 +40,15 @@ KAPCSOLÓDÓ KIADVÁNYOK
 
 A vaginoplasztika/hüvelyplasztika (más néven aidoiopoiesis (a görög aidoios, vulva, és poiesis, építeni)) olyan műtét, amely a nemi diszfóriában (vagy inkongruenciában) szenvedő transzidentitású betegek esetében a férfi nemi szervek átalakítását jelenti, a női nemi szervek alakjának és külső megjelenésének kialakításával.
 
+A nemi szervek külalakja nem feltétlenül függ össze a szexuális kielégüléssel vagy élvezettel. Még optimális műtéti eredmények esetén is nagyon nehéz megjósolni, hogy a vaginoplasztika után megmarad-e az orgazmuskapacitás. Ajánlott a nemi szervek területének feltárása és masszírozása, az idegek helyreállítása és az erogén zónák azonosítása érdekében. 
+
 Végleges és visszafordíthatatlan jellege, nehézsége és kockázatai miatt ezt a műtétet csak speciális és tapasztalt csapatok végezhetik, kizárólag azokon a pácienseken, akik teljes mértékben biztosak a dolgukban.
+
+<div class="infobox warning">
+
+⚠️ Ez a cikk explicit grafikus ábrákat tartalmaz.
+
+</div>
 
 ## Célok
 
@@ -54,6 +62,8 @@ Ez a műtét a következőkből áll:
 ** erogén érzékenységű, érrendszerrel ellátott neoclitoris,
 ** húgycsővezetékkel,
 ** nagy és kis ajkakkal.
+
+<div class="header-image"><img src="assets/images/vaginoplastie.png" /></div>
 
 **A tartós vizeletinkontinencia nagy kockázatának elkerülése érdekében a prosztata mindig megmarad.**
 
@@ -195,7 +205,7 @@ A műtét során fellépő ritka szövődményektől eltekintve, mint már látt
 
 * Botriomycomák: nem ritkák, a 3. fázisban jelenhetnek meg. Ezek kis jóindulatú érburjánzások, amelyek heges területeken jelennek meg, és vérzésért és a gyógyulás elmaradásáért felelősek. Teljesen fájdalommentesek, konzultáció keretében ollóval kell eltávolítani őket, néhány napig kortizonos olajos kötést használva a kiújulás megelőzésére.
 
-## Egyéb szövődmények:
+## Egyéb szövődmények
 
 * A csikló túlérzékenysége. A csikló érzékenysége igen fejlett és néha kellemetlenül érezhető lehet. Ez a túlérzékenység átmeneti és idővel, néhány hónapon belül spontán javul. Az "érzékszervi önképzés" felgyorsíthatja ezt a javulást. Ez azt jelenti, hogy néhány héten keresztül a lehető leggyakrabban, naponta többször megérinted a csikló területét. Ennek a gesztusnak az ismétlése fokozatosan csökkenti a kellemetlenségét, és arra edzi az agyát, hogy ne keverje össze a csikló újdonságának érzését a fájdalommal.
 
@@ -239,5 +249,10 @@ Meg kell azonban jegyezni, hogy minden szeméremtest más és más, és hogy a s
 
 ➡️ [Chirurgie de transformation génitale homme vers femme ou aïdoïopoïèse ou vaginoplastie](https://www.sofcpre.fr/src/fiches-informations/fr/chirurgie-de-transformation-genitale-homme-vers-femme-ou-aidoiopoitese-ou-vaginoplastie.pdf)
 
+➡️ [GRS Montréal - Vaginoplasty - Booklet A](https://www.grsmontreal.com/DATA/TEXTEDOC/Vaginoplasty-information-booklet-Part-A-2021-09-.pdf)
+
+➡️ [GRS Montréal - Vaginoplasty - Booklet B](http://www.grsmontreal.com/DATA/DOCUMENT/43.pdf)
+
+➡️ [GRS Montréal - Vaginoplasty - Booklet C](https://www.grsmontreal.com/DATA/TEXTEDOC/Booklet-VAGINOPLASTY-Part-C.pdf)
 
 </div>

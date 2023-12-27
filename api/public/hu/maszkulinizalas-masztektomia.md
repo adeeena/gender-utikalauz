@@ -230,6 +230,13 @@ A masztektómiát nem csak a születéskor nőnek rendelt transz vagy nem binár
 
 * Korrekt módon, helyes genderrel/névmásokkal hív.
 
+## Felhelyezhető mellbimbó-tapaszok (ha a műtét során eltávolították)
+
+➡️ [Your Rules Prosthetics](https://yourrulesprosthetics.com/product/self-adhesive-nipples-ftm/)
+
+➡️ [Pink Perfect](https://www.pink-perfect.com/prosthetic-nipple-overview/#ready-made)
+
+➡️ [GenderCat](https://gendercat.com/collections/gendermender-prosthetic-nipples-for-men-and-women-in-over-100-skin-tones-1/products/gendermender-prosthetic-nipples-for-men-and-women-in-over-100-skin-tones)
 
 ## Források:
 

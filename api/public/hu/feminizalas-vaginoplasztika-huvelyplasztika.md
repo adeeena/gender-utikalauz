@@ -244,6 +244,9 @@ Meg kell azonban jegyezni, hogy minden szeméremtest más és más, és hogy a s
 
 **Ez a műtéti átalakulás visszafordíthatatlan, és a korábbi állapotba véglegesen nem lehet visszatérni.**
 
+## További olvasmányok
+
+➡️ [What Trans Women Aren’t Told About Bottom Surgery](https://joellemaslak.medium.com/what-trans-women-arent-told-about-bottom-surgery-10f4c1e47212)
 
 ## Forrás
 

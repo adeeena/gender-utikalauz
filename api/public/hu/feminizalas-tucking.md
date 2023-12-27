@@ -68,9 +68,15 @@ Ha hosszabb ideig (mondjuk egy egész nap) viselsz tuckingot, próbálj meg lega
 
 ➡️ [wikitrans.co](https://wikitrans.co)
 
-➡️ [Tucking - youtube](https://www.youtube.com/watch?v=X3nj7wdK8Ys)
+➡️ [Tucking - youtube](https://www.youtube.com/watch?v=OMfMAh7-RSU)
 
 ➡️ [Tucking részletesen - youtube](https://www.youtube.com/watch?v=RCAMDIXkxps)
+
+➡️ [UNTAG](https://untag.com/)
+
+➡️ [Unclockable](https://unclockable.com/)
+
+➡️ [Carmen Liu](https://www.carmenliulingerie.co.uk)
 
 ➡️ [Etsy - LeoLines bolt - tucking alsók](https://www.etsy.com/shop/LeoLines)
 

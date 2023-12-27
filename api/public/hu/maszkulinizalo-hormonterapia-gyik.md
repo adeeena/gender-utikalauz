@@ -63,6 +63,17 @@ Ugyanakkor bizonyos nem-bináris emberek, akik nem kívánják a testük teljes 
 
 * Egy szintetikus ösztrogén típust használnak, amelyet SARM-nek ([Selective Androgen Receptor Modulators - Szelektív Androgén Receptor Modulátorok](https://en.wikipedia.org/wiki/Selective_androgen_receptor_modulator)) neveznek, és amely csak bizonyos testrészekben viselkedik tesztoszteronként, míg máshol semlegesen viselkedik.
 
+### Mennyi ideig kell fenntartani a kezelést?
+A kezelést addig alkalmazd, amíg az hormonok hatásait szeretnéd élvezni, **ugyanakkor nagyon sokunknak a hormonterápia egész életen át tart**. Az igények és profilok alapján néhány transznemű ember egész életén át szedi azokat, mások úgy döntenek, hogy meghatározott idő elteltével abbahagyják a kezelést (6 hónap, 2 év, 10 év stb.).
+
+**Bármikor le lehet állítani azokat kockázat nélkül, ha a testben vannak szexuális hormonokat termelő szervek (funkcionális here vagy petefészek jelenléte).** Az alkalmazott hormonterápiás készítmények változhatnak az egészségi állapotod, az esetlegesen végzett műtétek és saját személyes döntéseid alapján. Azonban azt tanácsoljuk, hogy ne hagyd abba hirtelen a kezelést. Ha komolyan gondolkodsz a HRT abbahagyásán, előbb beszélj a kezelőorvosoddal.
+
+<div class="infobox warning">
+<h5>⚠️ Figyelem</h5>
+	
+Gonádok (here vagy petefészek) eltávolítása után **állandó hormonkezelésre lesz szükség annak elkerülése érdekében, hogy hormonhiány ne alakulhasson ki**, ami gyengébb egészségi állapotot és [csontritkulást](https://www.webbeteg.hu/cikkek/csontritkulas/218/a-csontritkulas-okai-es-rizikofaktorai) eredményezhet.
+
+</div>
 
 ## Milyen hatással van a hormonterápia a termékenységemre?
 

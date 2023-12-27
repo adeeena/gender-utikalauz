@@ -267,3 +267,7 @@ Az egyesületek potenciálisan segíthetnek az ösztrogénbevitelnek erre a mód
 Ha ezt az utat választod, győződj meg róla, hogy képzett szakemberekkel vagy más transz emberekkel állsz kapcsolatban, akik hozzászoktak ehhez, és tanácsot tudnak adni, mind a termékek érvényességének ellenőrzésével, mind a használatukkal kapcsolatban!
 
 </div>
+
+## Kapcsolódó
+
+➡️ [Injectable Estradiol Simulator](https://transfemscience.org/misc/injectable-e2-simulator/)

@@ -55,6 +55,25 @@ Maszkulinizáló hormonterápia alatt érdemes legalább 3 havonta vérvizsgála
 
 **Minden alkalommal végeztess ösztradiol (E2) és teljes tesztoszteron (T) tesztet.** Vetesd le a vért a lehető legközelebb a következő beütemezett injekcióhoz, a tényleges adag beadása előtti napon (azaz a mélyponton).
 
+# Kezdeti vérvizsgálat
+
+A hormonkezelés kezdetekor egy vérvizsgálat során általában az alábbi értékeket tesztelik:
+
+* <a href="https://hu.wikipedia.org/wiki/Tesztoszteron">tesztoszteron</a>,
+* <a href="https://hu.wikipedia.org/wiki/%C3%96sztradiol">Ösztradiol</a>,
+* <a href="https://hu.wikipedia.org/wiki/Prolaktin">prolaktin</a>,
+* <a href="https://hu.wikipedia.org/wiki/Luteiniz%C3%A1l%C3%B3_hormon">LH</a>,
+* <a href="https://hu.wikipedia.org/wiki/Follikuluszstimul%C3%A1l%C3%B3_hormon">FSH</a>,
+* TSH
+* vörövértest
+* Éhgyomri vércukor
+* Májfunkció (<a href="https://medy.hu/got/">GOT</a>,
+                <a href="https://medy.hu/gpt/">GPT</a>,
+                <a href="https://medicover.hu/laborvizsgalatok/laborvizsgalatok-tipus/klinikai-kemiai-laborvizsgalatok-2/ggt/">GGT</a>)
+* Kreatinin
+* <a href="https://hu.wikipedia.org/wiki/B12-vitamin">B12-vitamin</a>
+* béta-hCG (terhességvizsgálat)
+
 ## Mennyi legyen a teljes tesztoszteron (T) értékem?
 
 Az Endokrin Társaság 2017-es, a transznemű HRT-re vonatkozó klinikai irányelvei azt javasolják, hogy a transz férfiak tartsák fenn a „tesztoszteronszintet a fiziológiás normál férfi tartományban”, ezt a tartományt általában **300–1000 ng/dl-ben adják meg** ([Tesztoszteron mértékegységváltó (kalkulátor)](#/tesztoszteron-kalkulator)). Valamivel magasabb vagy alacsonyabb tesztoszteronszint felett vagy alatt nem kell aggódni, kivéve, ha az ösztradiol szinted is túl magas.

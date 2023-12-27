@@ -212,7 +212,7 @@ Egy "feminizáló" kezelés keretében néhány orvos Androcur-alapú kezelést 
 </div>
 
 ### Mennyi ideig kell fenntartani a kezelést?
-A kezelést addig alkalmazd, amíg az hormonok hatásait szeretnéd élvezni. Az igények és profilok alapján néhány transznemű ember egész életén át szedi azokat, mások úgy döntenek, hogy meghatározott idő elteltével abbahagyják a kezelést (6 hónap, 2 év, 10 év stb.).
+A kezelést addig alkalmazd, amíg az hormonok hatásait szeretnéd élvezni, **ugyanakkor nagyon sokunknak a hormonterápia egész életen át tart**. Az igények és profilok alapján néhány transznemű ember egész életén át szedi azokat, mások úgy döntenek, hogy meghatározott idő elteltével abbahagyják a kezelést (6 hónap, 2 év, 10 év stb.).
 
 **Bármikor le lehet állítani azokat kockázat nélkül, ha a testben vannak szexuális hormonokat termelő szervek (funkcionális here vagy petefészek jelenléte).** Az alkalmazott hormonterápiás készítmények változhatnak az egészségi állapotod, az esetlegesen végzett műtétek és saját személyes döntéseid alapján. Azonban azt tanácsoljuk, hogy ne hagyd abba hirtelen a kezelést. Ha komolyan gondolkodsz a HRT abbahagyásán, előbb beszélj a kezelőorvosoddal.
 

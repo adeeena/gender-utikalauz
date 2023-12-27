@@ -148,11 +148,17 @@ Hasonló a [Finasteride-hez](/#/entry?id=finasteride), fő különbsége, hogy a
 
 Azonban, két vérvétel között, megfigyelve a tested reakcióit, te magad is figyelhetsz az ösztrogén- és tesztoszteron-adagolásodra:
 
-* **Migrén, fáradtság, tapintási túlérzékenység, alacsony libidó = túl sok ösztrogén.**
+* **Migrén, fáradtság, nehéz lábak, melltájéki erős fájdalom, alacsony libidó = túl sok ösztrogén.**
 
 * **Hőhullámok, álmatlanság, fáradtság, ingerlékenység, szorongás, ízületi fájdalom = túl kevés ösztrogén.**
 
 * **Akaratlan éjszakai erekció, pattanások az arcon, nem megnagyobbodó mellek = túl sok tesztoszteron.**
+
+Adj a szervezetének időt az alkalmazkodásra a kezelés megkezdése vagy az adagolás megváltoztatása után. Egyes hatások néhány hét elteltével maguktól megszűnhetnek. Hasonlóképpen, a migrén, zsibbadás, a mellekben tapasztalt fokozott érzékenység az első hónapokban teljesen normális.
+
+Előfordulhat egy több hónapig tartó platóhatás is, amelynek során is tapasztalható, amely során úgy érezzük, mintha semmi sem történik. Ez nem feltétlenül a kezelés hatástalanságának a jele.
+
+Előfordulhat, hogy a várt hatások lassúak, gyengék vagy nem jelentkeznek. Ebben az esetben egy vagy több vérvizsgálat is kellhet az ösztradiolszint mérésére. Ha az ösztradiolszint alacsony marad a magas dózis ellenére, akkor előfordulhat, hogy a készítmény átmegy a bőrgáton, vagy rosszul asszimilálódik. Egyeseknél azonban előfordulhat, hogy a hatás nem tartós, egyeseknél a hatás csekély maradhat a normán belüli hormonszintek ellenére.
 
 </div>
 

@@ -82,6 +82,22 @@ Ezek a boxeralsók beépített packer héjjal rendelkeznek.
 A jockstrap is használható, mivel szoros és a helyén tartja a packert.
 
 
+## Áruházak
+
+➡️ [UNTAG](https://untag.com/)
+
+➡️ [Mr. Limpy](https://untag.com/products/mister-limpy-packer)
+
+➡️ [RealMagik](http://www.reelmagik.com/ftm-store-directory/all-in-one.html)
+
+➡️ [Rodeoh](https://rodeoh.com/collections/ftm-gear)
+
+➡️ [Joey Packer Pouch](https://www.getyourjoey.com)
+
+➡️ [speakeasy briefs](https://speakeasybriefs.com)
+
+➡️ [Paxsies](https://paxsies.com)
+
 
 
 

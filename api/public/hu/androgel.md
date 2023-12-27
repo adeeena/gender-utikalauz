@@ -53,7 +53,7 @@ NEM-HORMONÁLIS TERMÉKEK
 
 <div class="infobox warning">
 
-Költségesebb megoldás az injekciókhoz.
+Költségesebb megoldás az injekciókhoz képest.
 
 </div>
 
@@ -92,6 +92,23 @@ Az olykor enyhébb eredmények miatt az Androgel lehetséges alternatíva az eny
         </tr>
     </tbody>
 </table>
+
+<div class="infobox info">
+
+
+[Rendszeres vérvétellel](/#/entry?id=maszkulinizalo-hormonterapia-vervizsgalatok) tudja az orvosod, illetve te magad is felügyelni, hogy megfelelő-e a hormonmennyiség, amit terápián kapsz.
+
+Azonban, két vérvétel között, megfigyelve a tested reakcióit, te magad is figyelhetsz a tesztoszteron-adagolásodra:
+
+* **vízvisszatartás, hőhullámok, fáradtság, bizsergés a kézben vagy a lábban, ízületi vagy izomfájdalom = túl sok tesztoszteron.**
+
+* **idegesség vagy túlzott izgatottság, fáradtságérzet, különösen a ciklus végén = túl kevés tesztoszteron.**
+
+Mivel minden szervezet egyedi, az emberek eltérően reagálhatnak a kezelésre.
+
+Egyeseknél a HRT egyes hatásai a normálisnak megfelelő hormonszintek ellenére is enyhék maradnak. A kezelés megkezdése vagy az adagolás megváltoztatása után adj időt a szervezetnek az alkalmazkodásra: egyes hatások néhány nap vagy hét után eltűnhetnek. Előfordulhat, hogy a várt hatások csekélyek vagy nem léteznek.
+
+</div>
 
 
 </div>

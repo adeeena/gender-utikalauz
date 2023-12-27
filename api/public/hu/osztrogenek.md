@@ -138,3 +138,10 @@ Többféle kezelés létezik az ösztrogének szedésére. Összesen 5 fő utat 
 
 
 </div>
+
+# Források
+
+➡️ [Properties of HRT estrogens](https://moderntranshormones.com/2017/11/16/chart-properties-of-hrt-estrogens/)
+
+➡️ [Wikitrans](https://wikitrans.co)
+

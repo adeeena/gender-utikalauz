@@ -171,3 +171,9 @@ Ha tehát úgy teszünk, mintha semmi sem történt volna, és továbbra is pont
 Idővel kialakult egy alkategóriákból álló lexikon, amely a különböző nem-bináris tapasztalatokat írja le. Például: gendersemleges, genderqueer, demiboy vagy demigirl, genderfluid...
 
 További információért [tekintsd meg a nem-binaritással kapcsolatos kifejezések szójegyzékét.](/#/lexikon)
+
+## Forrás
+
+➡️ [Non Binary Wiki](https://nonbinary.wiki/wiki/Nonbinary)
+
+➡️ [Wikitrans](https://wikitrans.co/2020/01/07/la-non-binarite-cest-quoi/)

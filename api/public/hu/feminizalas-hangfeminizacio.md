@@ -120,6 +120,10 @@ Egy hangtanár soha nem fog kényszeríteni arra, hogy énekelj; ez egy gyakori 
 
 ➡️ [Voice Sonogram](https://apps.apple.com/us/app/wavelet-voice-sonogram/id1574131130)
 
+### Web
+
+➡️ [AcousticGender.space - A website that facilitates gender voice training by visualizing pitch and resonance in recordings on a 2D graph](https://acousticgender.space)
+
 
 ## Források
 

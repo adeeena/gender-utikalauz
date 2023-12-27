@@ -59,9 +59,19 @@ Ha a partner cisz nő, a transz férfi lefagyasztott petesejtjei felhasználhat�
 
 Ha a transz férfinak férfi partnere van, a partner spermamintája felhasználható a fagyasztott petesejtek megtermékenyítéséhez. Ez lehetővé teszi, hogy mindkét szülővel biológiai rokonságban álló gyermek szülessen, bár ehhez béranya is szükséges.
 
-## Források
+## Források, cikkek
+
+➡️ [Transgender Pregnancy: Moving Past Misconceptions](https://www.healthline.com/health/pregnancy/transgender-pregnancy-moving-past-misconceptions#Expectations-regarding-pregnancy-are-barriers-to-care-and-support)
+
+➡️ [The story of one man’s pregnancy: ‘It felt joyous, amazing and brilliant’](https://www.theguardian.com/lifeandstyle/2018/mar/22/story-one-mans-pregnancy-trans-jason-barker)
+
+➡️ [Breastfeeding as a trans dad: ‘A baby doesn’t know what your pronouns are’](https://www.theguardian.com/society/2016/jun/20/transgender-dad-breastfeeding-pregnancy-trevor-macdonald)
+
+➡️ [NYTimes - Preparing for Trans Pregnancy](https://web.archive.org/web/20230705100038/https://www.nytimes.com/2020/04/16/parenting/fertility/transgender-pregnancy.html)
 
 ➡️ [Clue - Comment le traitement à la testostérone affecte la fertilité](https://helloclue.com/fr/articles/lgbtqia/comment-le-traitement-a-la-testosterone-affecte-la-fertilite)
+
+➡️ [Non Binary Wiki - Fertility Preservation](https://nonbinary.wiki/wiki/Fertility_preservation)
 
 ➡️ [Wikitrans - Preservation la fertilité](https://wikitrans.co/2019/05/14/fertilite/)
 

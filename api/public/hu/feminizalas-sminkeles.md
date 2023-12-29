@@ -64,7 +64,7 @@ A szemceruza egy ecset, ceruza vagy filctoll, amelyet a szem körüli vonalak fe
 
 A vonal helyes felviteléhez némi gyakorlásra van szükség, de továbbra is az egyik legegyszerűbben használható sminkeszköz. Egy kis gyakorlással pillanatok alatt diszkréten fel lehet vinni a szemsminket.
 
-➡️  [Viszkok Fruzsi – cicaszem tusvonal](https://www.youtube.com/watch?v=I0I4g9pU7cc)
+➡️ [Viszkok Fruzsi – cicaszem tusvonal](https://www.youtube.com/watch?v=I0I4g9pU7cc)
 
 ### Szemhéjfesték
 
@@ -119,6 +119,12 @@ Még akkor is, ha nem akarsz kockáztatni, válassz klasszikus színeket. (piros
 A mosolya egy hatalmas lépés a passinghoz. A nők gyakrabban mosolyognak, mint a férfiak; és a mosolygással megváltoztatod az arcod és a hangmagasságod.
 
 Ha például boltba belépve mosolyogsz, amikor azt mondod, hogy "Jó napot", könnyebben befolyásolhatod az emberek megítélését a nemeddel kapcsolatban.
+
+## Kapcsolódó
+
+➡️ [Transition 101 - Make-up Class for Beginners! | Stef Sanjati](https://www.youtube.com/watch?v=V1V8Qo5v8Uc)
+
+➡️ [Guy to Girl Makeup Transformation](https://www.youtube.com/watch?v=_4FoWD6zpKU&t=6s)
 
 ## Források
 

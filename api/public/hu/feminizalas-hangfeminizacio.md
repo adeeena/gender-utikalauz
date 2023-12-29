@@ -129,11 +129,15 @@ Egy hangtanár soha nem fog kényszeríteni arra, hogy énekelj; ez egy gyakori 
 
 ➡️ [Reddit r/TransVoice](https://www.reddit.com/r/transvoice/)
 
+➡️ [Reddit MTF Voice Training Regimen](https://www.reddit.com/r/asktransgender/comments/1ske7b/mtf_voice_training_regimen/)
+
 ➡️ [Trans Voice Party](https://transvoice.party)
 
 ➡️ [Trans Voice Lessons videók](https://www.youtube.com/channel/UCBYlEnfAUbrYSwF0VujcmHA)
 
 ➡️ [Hacking the voice – a Physicists approach to training a female voice](https://www.reddit.com/r/asktransgender/comments/5hgusl/hacking_the_voice_a_physicists_approach_to/)
+
+➡️ [How To Achieve A Natural Female Voice](https://www.youtube.com/watch?v=TxlvvEmyBEk)
 
 ➡️ [MtF Voice Training Regimen](https://reddit.com/r/asktransgender/comments/1ske7b/mtf_voice_training_regimen/?utm_content=title)
 

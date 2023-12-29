@@ -1,6 +1,6 @@
 ---
-title: "Kibújás"
-description: "Transzidentitás a munkahelyen"
+title: "Transzidentitás a munkahelyen"
+description: "Hogyan tegyük meg az outolást a munkahelyünkön, transzként?"
 lang: hu
 ---
 

@@ -18,6 +18,9 @@ export class AppComponent implements OnInit {
   // @ts-ignore
   @ViewChild('sidenav') public sidenav: MatSidenav;
 
+  @ViewChild("mainContent")
+  private mainContentDiv!: any;
+
   constructor(private translate: TranslateService,
               private appConfigService: AppConfigService,
               private meta: Meta,
@@ -30,6 +33,9 @@ export class AppComponent implements OnInit {
         return event instanceof NavigationEnd;
       })).subscribe((event: any) => {
         this.isHeaderVisible = this.router.url !== '/';
+        if (this.mainContentDiv) {
+          (this.mainContentDiv.elementRef!.nativeElement as HTMLElement).scrollTop = 0;
+        }
       });
   }
 

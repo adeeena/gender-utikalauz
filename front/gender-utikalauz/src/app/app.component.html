@@ -12,7 +12,7 @@
   <mat-sidenav #sidenav mode="over" [opened]="isOpened">
     <app-sidebar (closing)="closeSidenav()"></app-sidebar>
   </mat-sidenav>
-  <mat-sidenav-content>
+  <mat-sidenav-content #mainContent>
     <app-header *ngIf="isHeaderVisible"></app-header>
     <router-outlet></router-outlet>
     <app-footer></app-footer>

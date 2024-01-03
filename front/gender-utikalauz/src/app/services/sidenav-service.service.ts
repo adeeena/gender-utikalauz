@@ -14,28 +14,14 @@ export class SidenavService {
 
   public open() {
     return this.sidenav.open();
-    document.body.style.overflow = "hidden";
-    document.body.style.height = "100%";
   }
 
 
   public close() {
-    return this.sidenav.close().then(_ => {
-      document.body.style.overflow = "auto";
-      document.body.style.height = "auto";
-    })
-
+    return this.sidenav.close();
   }
 
   public toggle() {
-    this.sidenav.toggle().then(_ => {
-      if (this.sidenav.opened) {
-        document.body.style.overflow = "hidden";
-        document.body.style.height = "100%";
-      } else {
-        document.body.style.overflow = "auto";
-        document.body.style.height = "auto";
-      }
-    });
+    this.sidenav.toggle();
   }
 }

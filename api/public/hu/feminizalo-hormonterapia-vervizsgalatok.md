@@ -72,22 +72,107 @@ T-BLOKKOLÓK ÉS PROGESZTINEK
 
 # Vérvizsgálatok és azok kiértékelése transzfeminin személyeknek
 
-A hormonkezelés kezdetekor egy vérvizsgálat során általában az alábbi értékeket tesztelik:
+A feminizáló hormonkezelés standard ellenőrzése során a a kezelés kezdete előtt, majd a 3., 6. és 12. hónapban vérvizsgálattal szokás kiértékelni az adagolás helyességét. Ezt követően évente elegendő általában az ellenőrzés.
 
-* <a href="https://hu.wikipedia.org/wiki/Tesztoszteron">tesztoszteron</a>,
-* <a href="https://hu.wikipedia.org/wiki/%C3%96sztradiol">Ösztradiol</a>,
-* <a href="https://hu.wikipedia.org/wiki/Prolaktin">prolaktin</a>,
-* <a href="https://hu.wikipedia.org/wiki/Luteiniz%C3%A1l%C3%B3_hormon">LH</a>,
-* <a href="https://hu.wikipedia.org/wiki/Follikuluszstimul%C3%A1l%C3%B3_hormon">FSH</a>,
-* TSH
-* Éhgyomri vércukor
-* Májfunkció (<a href="https://medy.hu/got/">GOT</a>,
+<div class="infobox info">
+
+⚠️ A hormonterápia célja a [hormonok klinikai hatásai](/#/entry?id=feminizalo-hormonterapia-hatasok), nem pedig a konkrét laboratóriumi értékek.
+
+Ha még nem változtattad meg a személyin a nemedet, akkor a vérvizsgálatos papíron közölt referenciatartományok a születéskor meghatározott nemre vonatkoznak.
+
+</div>
+
+<table>
+    <thead>
+        <tr>
+            <th>Vizsgálat</th>
+            <th>Kezdet</th>
+            <th>3. hónap</th>
+            <th>6. hónap</th>
+            <th>12. hónap</th>
+            <th>évente</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://medicover.hu/laborvizsgalatok/laborvizsgalatok-tipus/veralvadasi-laborvizsgalatok/verkep/">vérkép</a></td>
+            <td>✅</td>
+            <td>✅ (<a href="/#/entry?id=androcur">Androcur esetén</a>)</td>
+            <td>✅ (<a href="/#/entry?id=androcur">Androcur esetén</a>)</td>
+            <td>✅</td>
+            <td>✅ (<a href="/#/entry?id=androcur">Androcur esetén</a>)</td>
+        </tr>
+        <tr>
+            <td> Májfunkció (<a href="https://medy.hu/got/">GOT</a>,
                 <a href="https://medy.hu/gpt/">GPT</a>,
-                <a href="https://medicover.hu/laborvizsgalatok/laborvizsgalatok-tipus/klinikai-kemiai-laborvizsgalatok-2/ggt/">GGT</a>)
-* Kreatinin
-* <a href="https://hu.wikipedia.org/wiki/B12-vitamin">B12-vitamin</a>
+                <a href="https://medicover.hu/laborvizsgalatok/laborvizsgalatok-tipus/klinikai-kemiai-laborvizsgalatok-2/ggt/">GGT</a>)</td>
+            <td>✅</td>
+            <td>✅ (<a href="/#/entry?id=androcur">Androcur esetén</a>)</td>
+            <td>✅ (<a href="/#/entry?id=androcur">Androcur esetén</a>)</td>
+            <td>✅</td>
+            <td>✅ (<a href="/#/entry?id=androcur">Androcur esetén</a>)</td>
+        </tr>
+        <tr>
+            <td>Kreatinin</td>
+            <td>✅</td>
+            <td>✅ (<a href="/#/entry?id=spironolactone">Spiro esetén</a>)</td>
+            <td>✅ (<a href="/#/entry?id=spironolactone">Spiro esetén</a>)</td>
+            <td>✅</td>
+            <td>✅ (<a href="/#/entry?id=spironolactone">Spiro esetén</a>)</td>
+        </tr>
+        <tr>
+            <td>Éhgyomri vércukor</td>
+            <td>✅</td>
+            <td> </td>
+            <td> </td>
+            <td>✅</td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td><a href="https://hu.wikipedia.org/wiki/Tesztoszteron">tesztoszteron</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>✅</td>
+        </tr>
+        <tr>
+            <td><a href="https://hu.wikipedia.org/wiki/%C3%96sztradiol">Ösztradiol</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>✅</td>
+        </tr>
+        <tr>
+            <td><a href="https://hu.wikipedia.org/wiki/Prolaktin">prolaktin</a></td>
+            <td>✅</td>
+            <td> </td>
+            <td> </td>
+            <td>✅ (<a href="/#/entry?id=androcur">Androcur esetén</a>)</td>
+            <td>✅ (<a href="/#/entry?id=androcur">Androcur esetén</a>)</td>
+        </tr>
+        <tr>
+            <td><a href="https://hu.wikipedia.org/wiki/Luteiniz%C3%A1l%C3%B3_hormon">LH</a>,
+* <a href="https://hu.wikipedia.org/wiki/Follikuluszstimul%C3%A1l%C3%B3_hormon">FSH</a>, TSH</td>
+            <td>✅</td>
+            <td> </td>
+            <td> </td>
+            <td>✅</td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td><a href="https://hu.wikipedia.org/wiki/B12-vitamin">B12-vitamin</a></td>
+            <td>✅</td>
+            <td> </td>
+            <td> </td>
+            <td>✅</td>
+            <td> </td>
+        </tr>
+    </tbody>
+</table>
 
-Ezt követően lehetséges, hogy nem minden értéket tesztelnek rendszeresen, de ajánlott rendszeresen átfogó vizsgálatot végezni.
+<br />
 
 <div class="infobox info">
 
@@ -98,6 +183,8 @@ Ezt követően lehetséges, hogy nem minden értéket tesztelnek rendszeresen, d
 ➡️ [A hormontáblázatot itt találod](/#/entry?id=hormontablazat-es-kalkulatorok).
 
 ## Források
+
+➡️ [RainbowHealth Ontario](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-femht.html)
 
 ➡️ [DIY HRT Wiki](https://diyhrt.wiki/transfem)
 

@@ -55,24 +55,80 @@ Maszkulinizáló hormonterápia alatt érdemes legalább 3 havonta vérvizsgála
 
 **Minden alkalommal végeztess ösztradiol (E2) és teljes tesztoszteron (T) tesztet.** Vetesd le a vért a lehető legközelebb a következő beütemezett injekcióhoz, a tényleges adag beadása előtti napon (azaz a mélyponton).
 
-# Kezdeti vérvizsgálat
+<div class="infobox info">
 
-A hormonkezelés kezdetekor egy vérvizsgálat során általában az alábbi értékeket tesztelik:
+⚠️ A hormonterápia célja a [hormonok klinikai hatásai](/#/entry?id=maszkulinizalo-hormonterapia-hatasok), nem pedig a konkrét laboratóriumi értékek.
 
-* <a href="https://hu.wikipedia.org/wiki/Tesztoszteron">tesztoszteron</a>,
-* <a href="https://hu.wikipedia.org/wiki/%C3%96sztradiol">Ösztradiol</a>,
-* <a href="https://hu.wikipedia.org/wiki/Prolaktin">prolaktin</a>,
-* <a href="https://hu.wikipedia.org/wiki/Luteiniz%C3%A1l%C3%B3_hormon">LH</a>,
-* <a href="https://hu.wikipedia.org/wiki/Follikuluszstimul%C3%A1l%C3%B3_hormon">FSH</a>,
-* TSH
-* vörövértest
-* Éhgyomri vércukor
-* Májfunkció (<a href="https://medy.hu/got/">GOT</a>,
+Ha még nem változtattad meg a személyin a nemedet, akkor a vérvizsgálatos papíron közölt referenciatartományok a születéskor meghatározott nemre vonatkoznak.
+
+</div>
+
+<table>
+    <thead>
+        <tr>
+            <th>Vizsgálat</th>
+            <th>Kezdet</th>
+            <th>3. hónap</th>
+            <th>6. hónap</th>
+            <th>12. hónap</th>
+            <th>évente</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://medicover.hu/laborvizsgalatok/laborvizsgalatok-tipus/veralvadasi-laborvizsgalatok/verkep/">vérkép</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>✅</td>
+        </tr>
+        <tr>
+            <td> Májfunkció (<a href="https://medy.hu/got/">GOT</a>,
                 <a href="https://medy.hu/gpt/">GPT</a>,
-                <a href="https://medicover.hu/laborvizsgalatok/laborvizsgalatok-tipus/klinikai-kemiai-laborvizsgalatok-2/ggt/">GGT</a>)
-* Kreatinin
-* <a href="https://hu.wikipedia.org/wiki/B12-vitamin">B12-vitamin</a>
-* béta-hCG (terhességvizsgálat)
+                <a href="https://medicover.hu/laborvizsgalatok/laborvizsgalatok-tipus/klinikai-kemiai-laborvizsgalatok-2/ggt/">GGT</a>)</td>
+            <td>✅</td>
+            <td> </td>
+            <td>✅</td>
+            <td>✅</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Éhgyomri vércukor</td>
+            <td>✅</td>
+            <td> </td>
+            <td>✅</td>
+            <td>✅</td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td><a href="https://hu.wikipedia.org/wiki/Tesztoszteron">tesztoszteron</a></td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>✅</td>
+            <td>✅</td>
+        </tr>
+        <tr>
+            <td><a href="https://hu.wikipedia.org/wiki/Luteiniz%C3%A1l%C3%B3_hormon">LH</a></td>
+            <td>✅</td>
+            <td> </td>
+            <td> </td>
+            <td>✅</td>
+            <td>✅</td>
+        </tr>
+        <tr>
+            <td>béta-hCG (terhességvizsgálat)</td>
+            <td>✅</td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+        </tr>
+    </tbody>
+</table>
+
+<br />
 
 ## Mennyi legyen a teljes tesztoszteron (T) értékem?
 
@@ -90,6 +146,8 @@ A teljes vérkép (CBC), a májfunkciós tesztek (<a href="https://medy.hu/got/"
 
 
 ## Források
+
+➡️ [RainbowHealth Ontario](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-mascht.html)
 
 ➡️ [DIY HRT Wiki](https://diyhrt.wiki/transmasc)
 

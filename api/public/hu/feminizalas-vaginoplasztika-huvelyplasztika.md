@@ -248,6 +248,8 @@ Meg kell azonban jegyezni, hogy minden szeméremtest más és más, és hogy a s
 
 ➡️ [What Trans Women Aren’t Told About Bottom Surgery](https://joellemaslak.medium.com/what-trans-women-arent-told-about-bottom-surgery-10f4c1e47212)
 
+➡️  [I had GRS with Brassard 6 weeks ago, AMA -- plus info and photos](https://www.reddit.com/r/asktransgender/comments/9n2mzu/i_had_grs_with_brassard_6_weeks_ago_ama_plus_info/)
+
 ## Forrás
 
 ➡️ [Chirurgie de transformation génitale homme vers femme ou aïdoïopoïèse ou vaginoplastie](https://www.sofcpre.fr/src/fiches-informations/fr/chirurgie-de-transformation-genitale-homme-vers-femme-ou-aidoiopoitese-ou-vaginoplastie.pdf)

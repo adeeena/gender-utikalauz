@@ -42,6 +42,8 @@ Az alábbi táblázat összefoglalja az ösztrogének standard értékeit ciszne
             <th></th>
             <th>Ösztradiol-érték (pg/ml)</th>
             <th>Ösztradiol-érték (pmol/l)</th>
+            <th>Ösztron-érték (pg/ml)</th>
+            <th>Ösztron-érték (pmol/l)</th>
         </tr>
     </thead>
     <tbody>
@@ -49,73 +51,101 @@ Az alábbi táblázat összefoglalja az ösztrogének standard értékeit ciszne
             <td>Gyerekkor</td>
             <td><b>Átlag: 9 pg/ml</b><br />9 - 20 pg/ml között változhat</td>
             <td><b>Átlag: 33 pmol/ml</b><br />33 - 73 pmol/l között változhat</td>
+            <td>N/A</td>
+            <td>N/A</td>
         </tr>
         <tr>
             <td>Kiskamasz lány<br />Tanner 2 (8-12 év között)</td>
             <td><b>Átlag: 15 pg/ml</b><br />9 - 30 pg/ml között változhat</td>
             <td><b>Átlag: 55 pmol/l</b><br />33 - 130 pmol/l között változhat</td>
+            <td>N/A</td>
+            <td>N/A</td>
         </tr>
         <tr>
             <td>Kiskamasz lány<br />Tanner 3 (10-13 év között)</td>
             <td><b>Átlag: 27 pg/ml</b><br />9 - 60 pg/ml között változhat</td>
             <td><b>Átlag: 100 pmol/l</b><br />33 - 220 pmol/l között változhat</td>
+            <td>N/A</td>
+            <td>N/A</td>
         </tr>
         <tr>
             <td>Kiskamasz lány<br />Tanner 4 (11-14 év között)</td>
             <td><b>Átlag: 55 pg/ml</b><br />16 - 85 pg/ml között változhat</td>
             <td><b>Átlag: 55 pmol/l</b><br />58 - 312 pmol/l között változhat</td>
+            <td>N/A</td>
+            <td>N/A</td>
         </tr>
         <tr>
             <td>Felnőtt nő<br />Follikuláris fázis kezdete (1-4. nap)</td>
             <td>40-60 pg/ml között változhat</td>
             <td>146 - 220 pmol/l között változhat</td>
+            <td>1,5 - 15 pg/ml között változhat</td>
+            <td>55 - 555 pg/ml között változhat</td>
         </tr>
         <tr>
             <td>Felnőtt nő<br />Follikuláris fázis közepe (5-9. nap)</td>
             <td>60 - 100 pg/ml között változhat</td>
             <td>220 - 367 pmol/l között változhat</td>
+            <td>1,5 - 20 pg/ml között változhat</td>
+            <td>55 - 740 pg/ml között változhat</td>
         </tr>
         <tr>
             <td>Felnőtt nő<br />Follikuláris fázis vége (10-14. nap)</td>
             <td>200 - 400 pg/ml között változhat</td>
             <td>734 - 1468 pmol/l között változhat</td>
+            <td>1,5 - 20 pg/ml között változhat</td>
+            <td>55 - 740 pg/ml között változhat</td>
         </tr>
         <tr>
             <td>Felnőtt nő<br />Ovuláció és luteális fázis (15-28. nap)</td>
             <td>Átlag: 190 pg/ml</td>
             <td>Átlag: 697 pmol/l</td>
+            <td>1,5 - 20 pg/ml között változhat</td>
+            <td>55 - 740 pg/ml között változhat</td>
         </tr>
         <tr>
             <td>Terhesség<br />1. trimeszter</td>
             <td>1000 - 5000 pg/ml között változhat</td>
             <td>3670 - 18350 pmol/l között változhat</td>
+            <td>N/A</td>
+            <td>N/A</td>
         </tr>
         <tr>
             <td>Terhesség<br />2. trimeszter</td>
             <td>5000 - 15000 pg/ml között változhat</td>
             <td>18350 - 55050 pmol/l között változhat</td>
+            <td>N/A</td>
+            <td>N/A</td>
         </tr>
         <tr>
             <td>Terhesség<br />3. trimeszter</td>
             <td>10000 - 40000 pg/ml között változhat</td>
             <td>6700 - 146800 pmol/l között változhat</td>
+            <td>N/A</td>
+            <td>N/A</td>
         </tr>
         <tr>
             <td>Menopauza</td>
             <td>5 - 20 pg/ml között változhat</td>
             <td>18 - 73 pmol/l között változhat</td>
+            <td>1,5 - 5,5 pg/ml között változhat</td>
+            <td>55 - 204 pg/ml között változhat</td>
         </tr>
         <tr>
             <td>Férfiak</td>
             <td>25 - 55 pg/ml között változhat</td>
             <td>92 - 202 pmol/l között változhat</td>
+            <td>1,5 - 6,5 pg/ml között változhat</td>
+            <td>55 - 240 pg/ml között változhat</td>
         </tr>
     </tbody>
 </table>
 
 <div class="center">
 
-[Táblázat forrása](https://en.wikipedia.org/wiki/Estradiol)
+[Táblázat forrása, estrogene](https://en.wikipedia.org/wiki/Estradiol)
+
+[Táblázat forrása, estrone](https://account.allinahealth.org/library/content/49/150297)
 
 </div>
 
@@ -230,6 +260,66 @@ Az alábbi táblázat összefoglalja a progeszteron standard értékeit cisznem�
 <div class="center">
 
 [Táblázat forrása](https://www.healthline.com/health/serum-progesterone#test-results)
+
+</div>
+
+
+## FSH, LH
+
+Az alábbi táblázat összefoglalja az FSH és LH standard értékeit cisznemű férfiak és nők számára.
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>FSH-érték (mIU/ml)</th>
+            <th>FSH-érték (IU/l)</th>
+            <th>LH-érték (mIU/ml)</th>
+            <th>LH-érték (IU/l)</th>
+        </tr>
+    </thead>
+    <tbody>
+         <tr>
+            <td>Felnőtt nő<br />Follikuláris fázis</td>
+            <td>3 - 20 mIU/ml között változhat</td>
+            <td>3 - 20 IU/l között változhat</td>
+            <td>2 - 15 mIU/ml között változhat</td>
+            <td>2 - 15 IU/l között változhat</td>
+        </tr>
+        <tr>
+            <td>Felnőtt nő<br />Ovuláció</td>
+            <td>9 - 26 mIU/ml között változhat</td>
+            <td>9 - 26 IU/l között változhat</td>
+            <td>1,5 - 20 mIU/ml között változhat</td>
+            <td>1,5 - 20 IU/l között változhat</td>
+        </tr>
+        <tr>
+            <td>Felnőtt nő<br />Luteális fázis</td>
+            <td>1 - 12 mIU/ml között változhat</td>
+            <td>1 - 12 IU/l között változhat</td>
+            <td>0,6 - 19 mIU/ml között változhat</td>
+            <td>0,6 - 19 IU/l között változhat</td>
+        </tr>
+        <tr>
+            <td>Felnőtt nő<br />menopauza</td>
+            <td>18 - 153 mIU/ml között változhat</td>
+            <td>18 - 153 IU/l között változhat</td>
+            <td>16 - 64 mIU/ml között változhat</td>
+            <td>16 - 64 IU/l között változhat</td>
+        </tr>
+        <tr>
+            <td>Felnőtt férfi</td>
+            <td>1 - 12 mIU/ml között változhat</td>
+            <td>1 - 12 IU/l között változhat</td>
+            <td>2 - 12 mIU/ml között változhat</td>
+            <td>2 - 12 IU/l között változhat</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="center">
+
+[Táblázat forrása](https://www.ebmconsult.com/articles/lab-test-follicle-stimulating-hormone-fsh-level)
 
 </div>
 

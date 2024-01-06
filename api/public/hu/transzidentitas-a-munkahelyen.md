@@ -18,7 +18,7 @@ Néhány egyszerű és alapvető üzenet emlékeztetőül:
 
 * Tartsuk tiszteletben mások magánéletét;
 
-* Feltétel nélkül jár a megfelelő elismerés a transz munkavállalók részére
+* Feltétel nélkül jár a megfelelő elismerés a transz munkavállalók részére;
 
 * Támogatás és védelem a vállalat részéről a transz munkavállalók felé;
 
@@ -28,17 +28,19 @@ Néhány egyszerű és alapvető üzenet emlékeztetőül:
 
 Mindegyik vezető megfelelő hozzáállása lényeges eleme a szervezet zökkenőmentes működésének, és az elkötelezettség egyik fő vektora lehet minden csapat számára. Ez a fő célja az LMBT+ diszkrimináció elleni üzenetnek, amit munkahelyen elérnünk szükséges.
 
-A cspat minősége a gazdasági teljesítmény egyik mozgatórugója, és a vállalatnak gondoskodnia kell arról, hogy mindenki jól érezze magát a munkakapcsolatában, és hogy a munkavállalói élmény (történet, jellemzők, törekvések stb. szempontjából) egyedi legyen.
+A csapat minősége a gazdasági teljesítmény egyik mozgatórugója, és a vállalatnak gondoskodnia kell arról, hogy mindenki jól érezze magát a munkakapcsolatában, valamint hogy a munkavállalói élmény (történet, jellemzők, törekvések stb. szempontjából) egyedi legyen.
 
-Az elkövetkező évek egyik kihívása a HR és a vezetőség számára, hogy reagáljon a munkavállalók által kifejezett igényekre, arra, ami számukra lényeges, és ami hozzájárul az egyéniségükhöz. Tehát milyen értékajánlatokat lehet kínálni egymának, amelyek igazodnak a törekvéseidhez? Hogyan tudjuk megosztani és ápolni a potenciált? Hogyan mutathatjuk be a cégnek az egyéni elkötelezettségeinket?
+Az elkövetkező évek egyik kihívása a HR és a vezetőség számára, hogy reagáljon a munkavállalók által kifejezett igényekre, arra, ami számukra lényeges, és ami hozzájárul az egyéniségükhöz. Tehát milyen értékajánlatokat lehet kínálni egymásnak, amelyek igazodnak a törekvéseidhez? Hogyan tudjuk megosztani és ápolni a potenciált? Hogyan mutathatjuk be a cégnek az egyéni elkötelezettségeinket?
 
-A HR-nek kulcsszerepe van abban, hogy a transznemű embereket figyelembe vegyék a munkahelyen. Vegyük a fáradtságot és az eszközöket, hogy bemutathassuk, hogyan léphet a munkahely és a dolgozói túl az előítéleteken. Szánjunk időt arra, hogy megértessük mi, a transznemű munkavállalók sajátos igényeit az esélyegyenlőség biztosítása érdekében.
+A HR-nek kulcsszerepe van abban, hogy a transznemű embereket figyelembe vegyék a munkahelyen. Vegyük a fáradságot és az eszközöket, hogy bemutathassuk, hogyan léphetnek a munkahely és a dolgozói túl az előítéleteken. Szánjunk időt arra, hogy megértessük mi, a transznemű munkavállalók sajátos igényeit az esélyegyenlőség biztosítása érdekében.
 
 A HR-menedzserek ritkán szakértői a transzidentitással kapcsolatos kérdéseknek.
 
-## Hogyan kerülhetjük el a munkahelyi transzidentitással kapcsolatos tabukat, és hogyan kezelhetjük a témát professzionális módon?
+Sok munkáltató manapság nyújt valamiféle egészségügyi ellátással kapcsolatos támogatási csomagot. Ha ilyesmi van a munkahelyi bónuszok között, akkor érdemes olyat választani, ami támogatja az orvosi tranzíciót, vagy legalább az azzal járó költségekből minél többet.
 
-## Hogy kezdjem a tranzíciót anélkül, hogy elidegenednék a csapatomtól?
+Azonban a nyitottság a legfontosabb mind a munkavállaló, mind a munkáltató részéről, ami azonban (főként Kelegt-Európában) nem alapértelmezetten jár. Kibújás előtt nagyon nehéz megállapítani, hogy a cég, ahol dolgoozl, hogyan fog reagálni, fog-e bárminemű hátrányos megkülönböztetés érni, vagy nem fognak-e valamilyen egyéb indok miatt elbocsájtani.
+
+## Hogyan kerülhetjük el a munkahelyi transzidentitással kapcsolatos tabukat, és hogyan kezelhetjük a témát professzionális módon?
 
 Az emberek besorolástól, életkortól, képzettségtől vagy származástól függetlenül elindulhatnak a tranzíciójukban. [Európában minden 2500 emberből egy](http://ai.eecs.umich.edu/people/conway/TS/TSprevalence.html) emberről beszélünk. Ez Magyarországon körülbelül 4 500 embert jelent.
 
@@ -50,11 +52,18 @@ Ez annál is nehezebb, mert nincs egységes tapasztalat vagy tipikus tranzíció
 
 **Bár a tranzíció fontos időszak az ember életében, ez az az időszak, amikor a munkahelyi környezet egyensúlya is megváltozik, az egyén, a kollégái, a hierarchia, valamint az ügyfelekkel és a beszállítókkal való kapcsolatok szempontjából. De nem a vezetők feladata-e a változás támogatása? A közvetlen vezető áll a mindennapi ellenőrzés középpontjában, akit az általános kereteket biztosító HR támogat. A cél az, hogy az egyén fejlődése pozitív esemény legyen, mint más életesemények, de az is, hogy a tranzíció különböző szakaszaiban erős támogatást nyújtson.**
 
+A céges kultúrát is úgy kell kialakítani, hogy egy esetleges tranzíció minél zökkenőmentesebben menjen, ha előfordul. Például, a cégnek bele lehet foglalni a küldetésébe, hogy támogatja az esélyegyenlőséget (vagy kiemelten figyel az inkluzivitásra). Ezen kívül rendszerint léteznek olyan belsős policy-k, amik előírják, hogy hogyan kell kezelnie a munkahelynek és a munkatársaknak az ilyen helyzeteket. Ebben általában azt is definitálja a policy, hogy mit tehet egy munkavállaló, ha diszkrimináció éri a munkahelyén. Ezeket az információkat általában onboarding és a tréningek alatt szokta a HR átadni.
+
 ## Köteles-e a személy tájékoztatni a munkáltatóját a tranzícióról?
 
 **Ha a tranzíció befejeződött, és a jogi papírok mind rendben vannak, összhangban azzal a személlyel, amilyennek látszol minden nap, akkor nem vagy köteles erre a bejelentésre.** Lehetséges azonban, hogy egy napon fény derül születési személyazonosságodra (nyomok az interneten, találkozások régi ismerősökkel, nyugdíjpapírok, egészségügyi problémák stb.) Ezt csak szükség esetén és teljes titoktartás mellett beszéld meg a feletteseiddel és a HR-rel.
 
 **Másrészt, ha a felvétel után kezdődik a tranzíció, akkor a hatás látható, és kihatással lehet a munkakörnyezetre. Előbb vagy utóbb az illetőnek tájékoztatnia kell a munkáltatóját, még akkor is, ha erre törvényileg nem köteles.** Minél előbb, annál jobb. Az a transznemű személy azonban, aki soha nem kapott a sokszínűség és a diszkrimináció elleni küzdelem iránti nyitottság jelét a vállalatától, félhet attól, hogy félreértik, vagy rosszindulatú megjegyzésekkel kell szembenéznie, esetleg elveszítheti az állását. Ezért előfordulhat, hogy az utolsó pillanatig várnak.
+
+Bár senkit nem lehet erre kötelezni, van olyan, hogy az ember még a tranzíciója megkezdése előtt motivált erre a beszélgetésre. Nem csak az orvosi tranzíció látható eredményei miatt szükséges az ilyen beszélgetés, de a szociális tranzícióban is fontos szerepet játszik, hogy az ember megbeszélje a munkatársaival azokat a szituációkat vagy rituálékat, amelyek kellemetlenül érintik őt a mindennapokban. Ebbe beletartozik az új név, új pronounok, a tény, hogy más tereket használ (pl. mosdó), illetve más viselkedés (pl. transz férfiaknak ne puszival köszönjenek hanem kézfogással).
+
+Sokat segít egy transzneműnek, ha a munkahelynek van egy kidolgozott folyamata arra, hogy mi történik, ha valaki előbújik - és ezt érdemes úgy megírni, hogy transz munkavállalóktól jöjjön, és a transz munkások igényeit helyezze előtérbe, főleg olyan értelemben, hogy mindenki a saját tempójában és a saját biztonságérzetének megfelelően haladjon.
+
 
 ## Hogyan kezeljük a tranzíció bejelentését?
 
@@ -124,11 +133,15 @@ Tranzíció során többször előfordulhat, hogy rövidebb-hosszabb időszakra 
 
 ## Külsős ügyfelekkel is dolgozom. Feljogosítja-e a céget, hogy más pozícióba helyezzen, csak mert elkezdem a tranzíciót?
 
-A jogi válasz "nem", feltéve, hogy a munkavállaló betartja a vállalat öltözködési és viselkedési szabályait (amennyiben azokat a vállalat belső szabályzata és a munkaszerződés kifejezetten rögzíti). Néha a munkáltató és a munkavállaló közös megegyezésével kívánatos lehet, hogy a tranzíciós időszak alatt a munkavállaló szokásos ügyfélkörével való kapcsolatfelvétel elkerülhető legyen. Ennek fő oka az kell, hogy legyen, hogy megóvják az egyént és a munkacsoportot az olyan helyzetektől, amelyekben más emberek viselkedése a tranzíció alatt lévő személlyel szemben ellentétes lehet. Ez a helyzet azonban az egyén teljesítményének csökkenéséhez vezethet, és megteremtheti a kötelességszegés feltételeit.
+A jogi válasz "nem", feltéve, hogy a munkavállaló betartja a vállalat öltözködési és viselkedési szabályait (amennyiben azokat a vállalat belső szabályzata és a munkaszerződés kifejezetten rögzíti). Néha a munkáltató és a munkavállaló közös megegyezésével kívánatos lehet, hogy a tranzíciós időszak alatt a munkavállaló szokásos ügyfélkörével való kapcsolatfelvétel elkerülhető legyen. Ennek fő oka az kell, hogy legyen, hogy megóvják az egyént és a munkacsoportot az olyan helyzetektől, amelyekben más emberek viselkedése a tranzíció alatt lévő személlyel szemben ellentétes érdekben állhat. Ez a helyzet azonban az egyén teljesítményének csökkenéséhez vezethet, és megteremtheti a kötelességszegés feltételeit.
 
 **Ha az transz munkavállaló a munkahelyén akar maradni, a vállalatnak kötelessége támogatni őt. Ez csak pozitív lehet egy olyan vállalat számára, amely meg akarja mutatni a környezetének, hogy progresszív értékeket vall, és hogy elismeri alkalmazottai képességeit, függetlenül azok nemi identitásától.**
 
 Ha viszont az egyén a vállalatnál kíván maradni, de a HR-vezető úgy ítéli meg, hogy ez őt, a munkahelyet vagy az ügyfélkört veszélyeztetné, a végső döntés meghozatala a munkáltató felelőssége.
+
+## LMBT-dolgozói összefogás mukahelyen belül
+
+Bizonyos cégméret felett szokott lenni LMBTQ+ csoport is, aminek segítségével akár önszervezeő módon lehet egymást segíteni; vagy a HR-rel együtt érzékenyítő/oktató előadásokat tarthatnak a többi dolgozónak.
 
 ## Források
 

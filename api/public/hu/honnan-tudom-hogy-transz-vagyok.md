@@ -167,3 +167,5 @@ További olvasmányt találhatsz még a [Nemi Diszfória Biblia](http://genderdy
 ➡️ [Pronoun Dressing Room - kisérletezés nevekkel, névmásokkal](http://www.pronouns.failedslacker.com)
 
 ➡️ [Baby Name Test Drive](https://www.babynamegenie.com/baby-name-test-drive)
+
+➡️ [How to really know if you’re transgender | Doubts & insecurities](https://www.youtube.com/watch?v=l6qrWWoEswY)

@@ -241,6 +241,8 @@ A botulinum toxin az arc nőiesítésére is használható az orrhegy mérsékel
 
 ➡️ [FacialTeam](https://facialteam.eu/facial-feminization-surgery/)
 
+➡️ [Youtube - Facial bone surgery, ASO, Jaw surgery](https://www.youtube.com/watch?v=zMpO9D0rVRM)
+
 ## Forrás
 
 ➡️ [Féminisation faciale ou chirurgie de féminisation du visage](https://www.sofcpre.fr/src/fiches-informations/fr/feminisation-faciale-ou-chirurgie-de-feminisation-du-visage.pdf)

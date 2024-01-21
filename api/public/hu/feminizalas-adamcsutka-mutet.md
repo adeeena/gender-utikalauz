@@ -26,6 +26,8 @@ KAPCSOLÓDÓ KIADVÁNYOK
 
 ➡️ [Orvosi konzultáció - kérdéssor](https://public.genderutikalauz.hu/orvosi-konzultacio-kerdessor.pdf)
 
+➡️ [Feminizáló műtétek](https://public.genderutikalauz.hu/feminizalo-mutetek.pdf)
+
 ➡️ [Műtéti hegmasszázs](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf)
 
 </div>
@@ -69,5 +71,9 @@ A műtétet megelőző konzultáció(k)hoz készíts össze néhány kérdést, 
 ## A műtét utáni hegesedés
 
 A diszkrétebb ádámcsutkán kívül az egyetlen közvetlen következmény egy 1,5-2,5 cm hosszú kis heg, amely gyakran vagy a nyak bőrredőiben vagy az áll alatt helyezkedik el, és így alig látható.
+
+## Kapcsolódó
+
+➡️ [Adam´s Apple Reduction / Trachea Shave feminization in 3-D | FACIALTEAM](https://www.youtube.com/watch?v=jJFwuzwNMQQ)
 
 </div>

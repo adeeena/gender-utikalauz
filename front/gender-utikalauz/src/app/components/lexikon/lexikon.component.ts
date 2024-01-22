@@ -294,7 +294,7 @@ export class LexikonComponent implements OnInit {
           {
             'title': 'Homofóbia',
             'subtitle': '- homophobia',
-            'explain': 'A transz emberek orvosi tranzíciójával összefüggésben a hormonok a hormonpótló terápiára (HRT) utalnak, amelynek célja a testalkat "feminizálása" vagy "maszkulinizálása": progeszteron és ösztrogén a transzfeminin emberek esetében, és tesztoszteron a transzmaszkulin emberek esetében.'
+            'explain': 'Megvetés, elutasítás és gyűlölet a valós vagy feltételezett homoszexuális személyekkel, gyakorlatokkal vagy ábrázolásokkal szemben.'
           },
           {
             'title': 'HRT',
@@ -303,9 +303,7 @@ export class LexikonComponent implements OnInit {
           },
           {
             'title': 'Hüvelyplasztika',
-            'explain': 'Sebészeti műtét, amelynek során a férfi nemi szervből (neo)vaginát és néha (neo)csiklót építenek. Az új nemi szerv, amelyet egy innervált (neo)csikló kísér, funkcionális (kivéve a nemzés szempontjából) és orgazmikus lehet, ha a műtétet jól végzik; esztétikailag nagyon nehéz megkülönböztetni természetes megfelelőjétől. A hüvelyplasztikát általában szeméremajkplasztika kíséri, vagy ugyanazon műtéti eljárás során, vagy egy későbbi műtét során.\n' +
-              '\n' +
-              'Translated with www.DeepL.com/Translator (free version)'
+            'explain': 'Sebészeti műtét, amelynek során a férfi nemi szervből (neo)vaginát és néha (neo)csiklót építenek. Az új nemi szerv, amelyet egy innervált (neo)csikló kísér, funkcionális (kivéve a nemzés szempontjából) és orgazmikus lehet, ha a műtétet jól végzik; esztétikailag nagyon nehéz megkülönböztetni természetes megfelelőjétől. A hüvelyplasztikát általában szeméremajkplasztika kíséri, vagy ugyanazon műtéti eljárás során, vagy egy későbbi műtét során.'
           }
         ]
       },

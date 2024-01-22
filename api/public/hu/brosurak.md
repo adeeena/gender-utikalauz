@@ -24,7 +24,9 @@ lang: hu
 
 ➡️ [Orvosi konzultáció - kérdéssor](https://public.genderutikalauz.hu/orvosi-konzultacio-kerdessor.pdf)
 
-➡️ [Feminizáló műtétek](https://public.genderutikalauz.hu/feminizalo-mutetek.pdf)
+➡️ [Feminizáló műtétek](/#/entry?id=brosura-feminizalo-maszkulinizalo-mutetek)
+
+➡️ [Maszkulinizáló műtétek](/#/entry?id=brosura-feminizalo-maszkulinizalo-mutetek)
 
 ➡️ [Műtéti hegmasszázs](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf)
 

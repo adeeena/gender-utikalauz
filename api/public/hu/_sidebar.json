@@ -122,6 +122,10 @@
       {
         "entryId": "termekenyseg-megorzese",
         "title": "Termékenység megõrzése"
+      },
+      {
+        "entryId": "hormonok-haziallatok-cicak-kutyak",
+        "title": "Hormonterápia és háziállatok"
       }
     ]
   },

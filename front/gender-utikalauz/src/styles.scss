@@ -55,11 +55,11 @@ a {
 }
 
 .trans-background {
-  background-color:#ff99e5;
+  background-color:#00011d;
   background-image:
-  radial-gradient(at 6% 13%, hsla(196,85%,64%,1) 0px, transparent 50%),
-  radial-gradient(at 87% 20%, hsla(347,66%,78%,1) 0px, transparent 50%),
-  radial-gradient(at 45% 86%, hsla(90,0%,96%,1) 0px, transparent 50%);
+  radial-gradient(at 6% 13%, #00005a 0, transparent 50%),
+  radial-gradient(at 87% 20%, #00002f 0, transparent 50%),
+  radial-gradient(at 45% 86%, #0102c5 0px, transparent 50%);
 }
 
 .gray-box {

@@ -103,8 +103,8 @@ Azonban az eredmények jelentősen eltérhetnek személyenként. Ha a bőröd ro
 
 * A felszívódás nagymértékben eltér az emberek között, ami néha túl alacsony szintet eredményezhet
 * A krém esetében: Ügyelni kell arra, hogy a krém jól megszáradjon
-* A tapaszok esetében: Irritálhatja a bőrt
-* A tapaszok esetében: Izzadás és/vagy fizikai aktivitás esetén leeshet a tapasz.
+* A tapaszok esetében: irritálhatja a bőrt.
+* A tapaszok esetében: izzadás és/vagy fizikai aktivitás esetén leeshet a tapasz.
 
 ## Gélek, krémek
 
@@ -215,7 +215,7 @@ Elméletben egy naponta 50 μg dózist leadó tapasz hatása nagyjából azonosn
 
 Ajánlott a gélt vagy a tapaszt a következők szerint alkalmazni:
 
-* Tiszta bőrön. Vagy zuhanyzás után alkalmazd, vagy gyorsan tisztítsd meg a területet előtte.
+* Tiszta bőrön. Vagy zuhanyzás után alkalmazd, vagy gyorsan tisztítsd meg a területet előtte. [A gél hatása szignifikánsan csökken, ha alkalmazást követő fél órában tusolni mész.](https://obgyn.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1471-0528.1997.tb11562.x)
 
 * Szőrtelen területen, borotvált vagy epilált bőrön.
 

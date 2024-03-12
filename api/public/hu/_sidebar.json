@@ -76,7 +76,7 @@
     ]
   },
   {
-    "title": "🔊 Kibújás",
+    "title": "🔊 Transznak lenni a mindennapokban",
     "children": [
       {
         "entryId": "kibujas",
@@ -89,6 +89,10 @@
       {
         "entryId": "transzidentitas-a-munkahelyen",
         "title": "Transzidentitás a munkahelyen"
+      },
+      {
+        "entryId": "transzidentitas-utazas",
+        "title": "✈️ Felkészülés utazásra"
       }
     ]
   },
@@ -151,6 +155,10 @@
       {
         "entryId": "feminizalas-mutetek",
         "title": "Műtétek"
+      },
+      {
+        "entryId": "feminizalas-tucking",
+        "title": "Tucking"
       },
       {
         "entryId": "feminizalas-hangfeminizacio",

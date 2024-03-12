@@ -18,6 +18,8 @@ BEVEZETŐ
 
 [Testtartás](/#/entry?id=feminizalas-testtartas)
 
+[Mell (műtét nélkül)](/#/entry?id=feminizalas-mell-mutet-nelkul)
+
 [Haj](/#/entry?id=feminizalas-haj)
 
 [Testalkat, ruházat](/#/entry?id=feminizalas-testalkat)
@@ -55,5 +57,9 @@ Nem számít, milyen magas vagy, amíg egyenes háttal vagy.
 ## Források
 
 ➡️ [wikitrans.co](https://wikitrans.co)
+
+➡️ [How do I make my masculine walk more feminine?](https://transgenderteensurvivalguide.com/post/107893083580/how-do-i-make-my-masculine-walk-more-feminine)
+
+➡️ [Would going on estrogen effect broad shoulders?](https://transgenderteensurvivalguide.com/post/126939418665/would-going-on-estrogen-effect-broad-shoulders-i)
 
 </div>

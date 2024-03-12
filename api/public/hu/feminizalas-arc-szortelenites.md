@@ -18,6 +18,8 @@ BEVEZETŐ
 
 [Testtartás](/#/entry?id=feminizalas-testtartas)
 
+[Mell (műtét nélkül)](/#/entry?id=feminizalas-mell-mutet-nelkul)
+
 [Haj](/#/entry?id=feminizalas-haj)
 
 [Testalkat, ruházat](/#/entry?id=feminizalas-testalkat)

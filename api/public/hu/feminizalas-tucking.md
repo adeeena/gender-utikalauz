@@ -18,6 +18,8 @@ BEVEZETŐ
 
 [Testtartás](/#/entry?id=feminizalas-testtartas)
 
+[Mell (műtét nélkül)](/#/entry?id=feminizalas-mell-mutet-nelkul)
+
 [Haj](/#/entry?id=feminizalas-haj)
 
 [Testalkat, ruházat](/#/entry?id=feminizalas-testalkat)
@@ -56,7 +58,27 @@ Ez egy olyan technika, amely során a két gonádot (a herék semleges megnevez�
 
 Ennek a technikának az elsajátítása egy kis időt vesz igénybe. Szánj időt arra, hogy megkeresd a pénisz mögött lévő üregeket, és kitapogasd ezt a két üreges területet. Ha már rutinosan megtalálod őket, akkor már csak annyit kell tenned, hogy felnyomod őket, a péniszedet a testedhez hajtod a végbélnyílásod felé, és egy szűk alsóneművel rögzíted. E technika mellett vagy azzal kombinálva használhatunk orvosi vagy speciális tucingszalagot is.
 
-Használhatsz egy erre a célra tervezett alsóneműt vagy egy alul rögzíthető bodyt is, ahogy az első videón látható.
+Használhatsz egy erre a célra tervezett alsóneműt vagy egy alul rögzíthető bodyt is.
+
+## Tanácsok
+
+### Alapvető higiéniai lépések
+
+A tucking azzal jár, hogy a szabadon levő, viszonylag nagyobb hőt termelő testrészek össze vannak zárva egy kis helyre, ami izzadsággal jár. Ahol pedig izzadság van, ott baktériumok is. Alapvető higiéniai szabályok betartásával azonban a komolyabb problémák elkerülhetőek. 
+
+### Rendszeresen szőrteleníts
+
+Nemcsak szebbnek tűnik/érződik, hanem csökkenti az egész nap dörzsölődő testfelületek okozta irritációt is. Ezen felül segít tisztábban tartani a tucking által érintett területet.
+
+### Fájdalom esetén azonnal állj! 
+
+A tuckingnak fájdalommentesnek kell lennie. A legapróbb diszkomfort-érzet esetén érdemes nem erőltetni tovább a tuckingot.
+
+### Ne aludj tuckingban
+
+Ha alszol, akkor forgolóni fogsz, és nyomást gyakorolsz arra a területre, amit általában nem tennél, és mivel arról álmodsz, hogy találsz egy csillogó Charizardot, hogy pótold azt, amit gyerekkorodban elloptak tőled, nem fogod érzékelni az okozott kellemetlenséget.
+
+Ráadásul, ha meleg van, izzadni fogsz.
 
 ## Veszélyek
 
@@ -65,6 +87,8 @@ Ha hosszabb ideig (mondjuk egy egész nap) viselsz tuckingot, próbálj meg lega
 ## Források
 
 ➡️ [WikiHow - Tuck and Tape](https://www.wikihow.com/Tuck-and-Tape)
+
+➡️ [All The Questions You Had About Tucking But Were Afraid To Ask](https://www.buzzfeed.com/meredithtalusan/all-the-questions-you-had-about-tucking-but-were-afraid-to-a?utm_term=.svg6xRV2G#.fqPdXZpLn)
 
 ➡️ [wikitrans.co](https://wikitrans.co)
 

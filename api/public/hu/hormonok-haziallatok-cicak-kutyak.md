@@ -35,6 +35,8 @@ A háziállatokra kitettségének elkerülése érdekében minden szükséges ó
 Ezek a használattal kapcsolatos óvintézkedések minden, a bőrön át felszívódó gyógyszerre vonatkoznak.
 
 
-## Forrás
+## Források
 
 ➡️ [Traitements hormonaux humains : attention à ne pas exposer les animaux de compagnie](https://www.anses.fr/fr/content/traitements-hormonaux-humains-attention-%C3%A0-ne-pas-exposer-les-animaux-de-compagnie)
+
+➡️ [petMD: Hormone Replacement Poisoning in Cats](https://www.petmd.com/cat/conditions/poisoning-toxicity/c_ct_hormone_replacement_poisoning_in_cats)

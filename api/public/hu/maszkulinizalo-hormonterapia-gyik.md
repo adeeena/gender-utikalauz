@@ -99,6 +99,8 @@ Ha DIY tesztoszteronnal KELL utaznod, akkor szerezz be egy nagy átlátszó lez�
 
 Egyszerűbb és biztonságosabb, ha jogszerűen beszerzett, felírt tesztoszteronnal utazol. Csak győződj meg róla, hogy a recept/vény nálad van.
 
+[További infók az utazásról szóló bejegyzésben.](/#/entry?id=transzidentitas-utazas)
+
 ## Források
 
 ➡️ [wikitrans.co](https://wikitrans.co)

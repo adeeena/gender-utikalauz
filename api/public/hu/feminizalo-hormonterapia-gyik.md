@@ -251,6 +251,6 @@ A legtöbb feminizáló hormonterápiás készítménnyel lehet utazni. Még het
 
 A légi közlekedésnél győződj meg, hogy a készítményeid egyértelműen fel vannak címkézve, hogy mi is az valójában (írd rá a gyógyszer teljes nevét az üvegre/ampullára/stb., ha szükséges). Ne próbálj meg rosszul felcímkézett HRT-t felvinni a repülőgépre, például ne tegyél HRT tablettákat egy vitaminos üvegbe. Ha injekciót használsz, tárold a feladott poggyászában.
 
-Ha extra biztonságban akarsz lenni, dobj egy doboz aszpirint és néhány allergiagyógyszert egy nagy, átlátszó lezárható tasakba a HRT-d mellé.
+[További infók az utazásról szóló bejegyzésben.](/#/entry?id=transzidentitas-utazas)
 
 </div>

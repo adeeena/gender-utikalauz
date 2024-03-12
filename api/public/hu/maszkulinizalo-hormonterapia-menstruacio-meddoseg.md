@@ -16,6 +16,8 @@ BEVEZETŐ
 
 [Hatások](/#/entry?id=maszkulinizalo-hormonterapia-hatasok)
 
+[Mi nem fog változni?](/#/entry?id=hormonterapia-mi-nem-fog-valtozni)
+
 [Menstruáció és meddőség](/#/entry?id=maszkulinizalo-hormonterapia-menstruacio-meddoseg)
 
 [Vérvizsgálatok](/#/entry?id=maszkulinizalo-hormonterapia-vervizsgalatok)

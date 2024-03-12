@@ -16,6 +16,8 @@ BEVEZETŐ
 
 [Hatások](/#/entry?id=feminizalo-hormonterapia-hatasok)
 
+[Mi nem fog változni?](/#/entry?id=hormonterapia-mi-nem-fog-valtozni)
+
 [Vérvizsgálatok](/#/entry?id=feminizalo-hormonterapia-vervizsgalatok)
 
 [Különböző technikák](/#/entry?id=feminizalo-hormonterapia-technikak)
@@ -83,6 +85,12 @@ Egyes embereknél a HRT hatásai kisebb vagy nagyobb mértékben jelentkeznek cs
 Ne felejtsd el, hogy **a változások nagy része más módon is megtörténik a hormonokon kívül**: a ruhák, a frizura, a tartás, a hang is befolyásolhatja, hogy mennyire leszel magadnak vagy a környezetednek nőies, illetve passing.
 
 **Lehetőség van a feminizáló arcsebészeti beavatkozásokra is**, ha szükségét érzed. [További információk ebben a cikkben.](/#/entry?id=sosem-leszek-passing)
+
+<div class="infobox warning">
+
+Bár a hormonok számos változást hoznak magukkal, azonban nem adnak mindenre megoldást. [Hogy miket nem változtat meg a hormonterápia, arról ebben a cikkben olvashatsz részletesebben.](/#/entry?id=hormonterapia-mi-nem-fog-valtozni)
+
+</div>
 
 
 ## Várható hatások

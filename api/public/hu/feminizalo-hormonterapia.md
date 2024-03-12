@@ -16,6 +16,8 @@ BEVEZETŐ
 
 [Hatások](/#/entry?id=feminizalo-hormonterapia-hatasok)
 
+[Mi nem fog változni?](/#/entry?id=hormonterapia-mi-nem-fog-valtozni)
+
 [Vérvizsgálatok](/#/entry?id=feminizalo-hormonterapia-vervizsgalatok)
 
 [Különböző technikák](/#/entry?id=feminizalo-hormonterapia-technikak)

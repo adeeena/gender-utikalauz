@@ -16,6 +16,8 @@ BEVEZETŐ
 
 [Hatások](/#/entry?id=maszkulinizalo-hormonterapia-hatasok)
 
+[Mi nem fog változni?](/#/entry?id=hormonterapia-mi-nem-fog-valtozni)
+
 [Menstruáció és meddőség](/#/entry?id=maszkulinizalo-hormonterapia-menstruacio-meddoseg)
 
 [Vérvizsgálatok](/#/entry?id=maszkulinizalo-hormonterapia-vervizsgalatok)
@@ -52,6 +54,12 @@ NEM-HORMONÁLIS TERMÉKEK
 # A maszkulinizáló hormonkezelés hatása a transz férfiakra és a transzmaszkulin emberekre
 
 Minden maszkulinizáló hormonkezelésnek ugyanazok a hatásai, de ezek intenzitása az adagolástól és a fizikai/genetikai hajlamtól függően változik.
+
+<div class="infobox warning">
+
+Bár a hormonok számos változást hoznak magukkal, azonban nem adnak mindenre megoldást. [Hogy miket nem változtat meg a hormonterápia, arról ebben a cikkben olvashatsz részletesebben.](/#/entry?id=hormonterapia-mi-nem-fog-valtozni)
+
+</div>
 
 ## A leggyakoribb hatások
 

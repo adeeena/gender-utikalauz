@@ -14,6 +14,12 @@ Ez a cikk az emberi hormonrendszer általános működését ismerteti. Nem kell
 
 </div>
 
+<div class="infobox warning">
+
+Bár a hormonok számos változást hoznak magukkal, azonban nem adnak mindenre megoldást. [Hogy miket nem változtat meg a hormonterápia, arról ebben a cikkben olvashatsz részletesebben.](/#/entry?id=hormonterapia-mi-nem-fog-valtozni)
+
+</div>
+
 ## Általános működési elv
 
 ### Először is, mi az a hormon?
@@ -69,6 +75,7 @@ A gének aktiválása ezután a hírvivő RNS egy szálának szintéziséhez, v�
 [Kép forrása](https://www.thoughtco.com/how-steroid-hormones-work-373393)
 
 ## Nemi hormonok
+
 A nemi hormonok a szteroid hormonok egyik alcsoportja. Ezek 3 fő kategóriába sorolhatók:
 
 * Androgének

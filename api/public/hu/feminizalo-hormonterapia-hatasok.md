@@ -178,6 +178,8 @@ A mikrodózisban adagolt HRT mellékhatásai kevésbé kutatott területek, így
 
 ➡️ [Trans Memo - hormonal follow-up for trans people - Android](https://play.google.com/store/apps/details?id=chrysalide.testomemo)
 
+➡️ [Hormones: A guide for MTFs](https://d31kydh6n6r5j5.cloudfront.net/uploads/sites/161/2019/08/hormones_MTF.pdf)
+
 </div>
 
 

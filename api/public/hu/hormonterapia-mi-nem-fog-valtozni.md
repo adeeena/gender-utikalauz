@@ -39,6 +39,6 @@ Attól függően, hogy hogyan élsz szexuális életet, lehet, hogy meg kell fon
 
 ## Források
 
-[Hormones: A guide for FTMs](https://d31kydh6n6r5j5.cloudfront.net/uploads/sites/161/2019/08/hormones_FTM.pdf)
+➡️ [Hormones: A guide for FTMs](https://d31kydh6n6r5j5.cloudfront.net/uploads/sites/161/2019/08/hormones_FTM.pdf)
 
-[Hormones: A guide for MTFs](https://d31kydh6n6r5j5.cloudfront.net/uploads/sites/161/2019/08/hormones_MTF.pdf)
+➡️ [Hormones: A guide for MTFs](https://d31kydh6n6r5j5.cloudfront.net/uploads/sites/161/2019/08/hormones_MTF.pdf)

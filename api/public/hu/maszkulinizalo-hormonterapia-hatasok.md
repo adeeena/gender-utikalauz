@@ -185,4 +185,6 @@ Másrészt úgy tűnik, hogy a HRT hatása gyorsabb és erősebb a PCOS-ben szen
 
 ➡️ [Trans Man Vaginal Atrophy: Discussion](https://www.youtube.com/watch?v=ZhDnKSru6jE)
 
+➡️ [Hormones: A guide for FTMs](https://d31kydh6n6r5j5.cloudfront.net/uploads/sites/161/2019/08/hormones_FTM.pdf)
+
 </div>

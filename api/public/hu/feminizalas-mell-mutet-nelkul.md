@@ -18,7 +18,7 @@ BEVEZETŐ
 
 [Testtartás](/#/entry?id=feminizalas-testtartas)
 
-[Mell (műtét nélkül)](/#/entry?id=feminizalas-mell-mutet-nelkul)
+[Mell, melltartók](/#/entry?id=feminizalas-mell-mutet-nelkul)
 
 [Haj](/#/entry?id=feminizalas-haj)
 
@@ -31,6 +31,8 @@ BEVEZETŐ
 [Tucking](/#/entry?id=feminizalas-tucking)
 
 [Cipők](/#/entry?id=feminizalas-cipok)
+
+[Nőies sétálás](/#/entry?id=feminizalas-noies-setalas)
 
 [Kiegészítők](/#/entry?id=feminizalas-kiegeszitok)
 

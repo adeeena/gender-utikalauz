@@ -127,6 +127,8 @@ Bár a hormonok számos változást hoznak magukkal, azonban nem adnak mindenre 
 
 * Testhőmérséklet megváltozik, a végtagok sokkal hidegebbek, fázósabbak lesznek (kezek és lábak).
 
+* [Premenstruációs tünetek](/#/entry?id=transz-nok-es-pms).
+
 ### Szex és szexualitás
 
 * Libidó (ideiglenes) csökkenése, amíg a test alkalmazkodik az ösztrogénekhez.

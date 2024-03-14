@@ -16,6 +16,8 @@ Akár te magad fontolgatod a hormonterápia elkezdését, akár kísérsz valaki
 
 ### 👸 Feminizáló hormonok
 <a class="center-button" target="_blank" href="https://public.genderutikalauz.hu/feminizalo-hormonok.pdf">Letöltés</a>
+<br />
+<a class="center-button" target="_blank" href="https://public.genderutikalauz.hu/feminizalo-hormonok-lowcolor.pdf">Nyomtatóbarát verzió</a>
 
 <br />
 <br />

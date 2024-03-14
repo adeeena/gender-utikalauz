@@ -14,7 +14,10 @@ A brosúrában bemutatott műtétek nem arra szolgálnak, hogy egyik eljá
 
 
 ### 👸 Feminizáló műtétek
+
+<div class="buttons">
 <a class="center-button" target="_blank" href="https://public.genderutikalauz.hu/feminizalo-mutetek.pdf">Letöltés</a>
+</div>
 
 <br />
 <br />

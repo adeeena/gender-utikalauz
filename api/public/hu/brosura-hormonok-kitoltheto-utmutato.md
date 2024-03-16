@@ -29,5 +29,7 @@ Akár te magad fontolgatod a hormonterápia elkezdését, akár kísérsz valaki
 
 <div class="buttons">
 <a class="center-button" target="_blank" href="https://public.genderutikalauz.hu/maszkulinizalo-hormonok.pdf">Letöltés</a>
+<br />
+<a class="center-button" target="_blank" href="https://public.genderutikalauz.hu/maszkulinizalo-hormonok-lowcolor.pdf">Nyomtatóbarát verzió</a>
 </div>
 

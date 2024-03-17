@@ -141,7 +141,8 @@ export class AppComponent implements OnInit {
     this.escapeKeyPressCount++;
 
     if (this.escapeKeyPressCount >= 3) {
-      window.location.href = 'https://www.google.hu';
+      window.location.assign("https://www.google.hu");
+      //window.location.href = 'https://www.google.hu';
     }
   }
 
@@ -155,7 +156,9 @@ export class AppComponent implements OnInit {
       this.escapeKeyPressCount++;
 
       if (this.escapeKeyPressCount >= 3) {
-        window.location.href = 'https://www.google.hu';
+        setTimeout(function() {
+          window.location.assign("https://www.google.hu");
+        }, 400); // bloody firefox
       }
     }
   }

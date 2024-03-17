@@ -87,6 +87,8 @@ export class AppComponent implements OnInit {
         ? 'Az oldalunk gyors elhagyásához háromszor koppints bárhová a képernyőn.'
         : 'Az oldalunk gyors elhagyásához nyomd meg háromszor az ESC billentyűt.';
       this.showPopup(message);
+    } else {
+      document.addEventListener('keydown', this.handleKeyDown.bind(this));
     }
   }
 
@@ -138,7 +140,7 @@ export class AppComponent implements OnInit {
     this.lastKeyPressTime = Date.now();
     this.escapeKeyPressCount++;
 
-    if (this.escapeKeyPressCount === 3) {
+    if (this.escapeKeyPressCount >= 3) {
       window.location.href = 'https://www.google.hu';
     }
   }
@@ -152,7 +154,7 @@ export class AppComponent implements OnInit {
       this.lastKeyPressTime = Date.now();
       this.escapeKeyPressCount++;
 
-      if (this.escapeKeyPressCount === 3) {
+      if (this.escapeKeyPressCount >= 3) {
         window.location.href = 'https://www.google.hu';
       }
     }

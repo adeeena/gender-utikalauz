@@ -75,7 +75,9 @@ app.get('/search', (req, res) => {
   const maxResults = 5;
 
   const removeAccents = (str) => {
-    return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    return str.normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .replace(/-/g, ' ');
   };
 
   const files = fs.readdirSync(path.join(__dirname, 'public', languageCode));
@@ -85,7 +87,12 @@ app.get('/search', (req, res) => {
     if (file.endsWith('.md') && count < maxResults) {
       const filePath = path.join(__dirname, 'public', languageCode, file);
       const pureContent = fs.readFileSync(filePath, 'utf-8');
-      const content = marked.parse(pureContent).replace(/<[^>]*>/g, '').replace(/&quot;/g, '"');
+      const content = marked
+        .parse(pureContent)
+        .replace(/<[^>]*>/g, '')
+        .replace(/&quot;/g, '"');
+
+
       const normalizedContent = removeAccents(content.toLowerCase());
       const normalizedQuery = removeAccents(query.toLowerCase());
 
@@ -100,6 +107,19 @@ app.get('/search', (req, res) => {
           }
         }
 
+        if (removeAccents(title.toLowerCase()).includes(normalizedQuery)) {
+          searchResults.push({
+            fileName: file.replace('.md', ''),
+            title: title,
+            contextBefore: '',
+            match: '',
+            contextAfter: '',
+            mustInclude: true
+          });
+
+          return;
+        }
+
         const matchStartIndex = normalizedContent.indexOf(normalizedQuery);
         const matchEndIndex = matchStartIndex + normalizedQuery.length;
         const contextBefore = content.substring(Math.max(0, matchStartIndex - 50), matchStartIndex);
@@ -111,16 +131,21 @@ app.get('/search', (req, res) => {
           contextBefore: contextBefore,
           match: content.substring(matchStartIndex, matchEndIndex),
           contextAfter: contextAfter,
+          mustInclude: false
         });
-
-        count += 1; // Increment the counter for each result
       }
     }
 
-    return count >= maxResults; // Return true to exit the loop when the limit is reached
+    //return count >= maxResults; // Return true to exit the loop when the limit is reached
   });
 
-  res.status(200).json(searchResults);
+  var resultSet =
+    searchResults.filter(q => q.mustInclude)
+      .concat(searchResults.filter(q => !q.mustInclude))
+      .slice(0, maxResults);
+
+
+  res.status(200).json(resultSet);
 });
 
 // Start the server

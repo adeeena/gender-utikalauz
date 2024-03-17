@@ -20,6 +20,11 @@ mat-sidenav {
   overflow: hidden;
 }
 
+::ng-deep .floating {
+  display: flex;
+  flex-direction: column;
+}
+
 ::ng-deep .search-result-item {
   font-size: .9rem;
     margin-bottom: 1rem;

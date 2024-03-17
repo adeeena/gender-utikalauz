@@ -139,6 +139,16 @@ A tesztoszteronszintek az injekciók között változnak. Az első néhány napb
 
 Az injekciókat meghatározott számú napra oszd el, és ne naptári napon (pl. "minden hónap 1-jén") add be, ami nem egy rendszeres ritmus.
 
+### Tesztoszteron különböző formáinak farmakokinetikai profiljai
+
+<div class="content-image"><img src="assets/images/Testosterone_levels_with_intramuscular_injection_of_testosterone_esters_in_hypogonadal_men.png" /></div>
+
+Rózsaszín: TE 250mg im = 250 mg tesztoszteron-enanthate intramuszkuláris injekció (egy Androtardyl ampulla megfelelője)
+
+Lila: TU 1000mg im = 1000 mg tesztoszteron-undekanoát intramuszkuláris injekció (egy Nebido ampulla megfelelője)
+
+⚠️ Figyelem, ezek a profilok átlagokon alapulnak, és egyénenként változhatnak.
+
 ## Öninjekciózás
 
 <div class="infobox warning">
@@ -230,6 +240,10 @@ Mivel minden szervezet egyedi, az emberek eltérően reagálhatnak a kezelésre.
 Egyeseknél a HRT egyes hatásai a normálisnak megfelelő hormonszintek ellenére is enyhék maradnak. A kezelés megkezdése vagy az adagolás megváltoztatása után adj időt a szervezetnek az alkalmazkodásra: egyes hatások néhány nap vagy hét után eltűnhetnek. Előfordulhat, hogy a várt hatások csekélyek vagy nem léteznek.
 
 </div>
+
+## Források
+
+➡️ [Le sous-dosage de testostérone](https://hackmd.io/@biyokea/sous-dosage_testosterone)
 
 ## Kapcsolódó
 

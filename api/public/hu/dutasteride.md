@@ -156,7 +156,7 @@ Azonban, két vérvétel között, megfigyelve a tested reakcióit, te magad is 
 
 * **Akaratlan éjszakai erekció, pattanások az arcon, nem megnagyobbodó mellek = túl sok tesztoszteron.**
 
-Adj a szervezetének időt az alkalmazkodásra a kezelés megkezdése vagy az adagolás megváltoztatása után. Egyes hatások néhány hét elteltével maguktól megszűnhetnek. Hasonlóképpen, a migrén, zsibbadás, a mellekben tapasztalt fokozott érzékenység az első hónapokban teljesen normális.
+Adj a szervezetednek időt az alkalmazkodásra a kezelés megkezdése vagy az adagolás megváltoztatása után. Egyes hatások néhány hét elteltével maguktól megszűnhetnek. Hasonlóképpen, a migrén, zsibbadás, a mellekben tapasztalt fokozott érzékenység az első hónapokban teljesen normális.
 
 Előfordulhat egy több hónapig tartó platóhatás is, amelynek során is tapasztalható, amely során úgy érezzük, mintha semmi sem történik. Ez nem feltétlenül a kezelés hatástalanságának a jele.
 

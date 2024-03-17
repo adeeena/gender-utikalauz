@@ -177,6 +177,18 @@ A közhiedelemmel ellentétben úgy tűnik, hogy a PCOS-ben szenvedőknek nincs 
 
 Másrészt úgy tűnik, hogy a HRT hatása gyorsabb és erősebb a PCOS-ben szenvedőknél.
 
+## Prosztataszövetek
+
+A közvélemény ismerete a hormonális tranzíció által okozott fizikai változások jellegéről meglepően hiányos lehet: gyakran tévesen gondolják, hogy a transznemű nők mellei műmellek; a régóta meggyógyult neovaginájukat gyakran kegyetlenül „nyitott sebeknek” nevezik; és az, hogy a hormonális terápia egy gyakorlati célra szolgál, és nem az élvezet miatt van, ritkán értelmezett helyesen. Valójában a „nemi átalakító” hormonális kezelések [néhány gént aktiválnak, amelyek közös minden ember számára, függetlenül a hozzárendelt nemtől](https://genderanalysis.net/2016/08/gender-basics-how-sex-hormones-work-and-their-use-by-trans-people/), és a hozzájuk kapcsolódó másodlagos nemi jellegek kialakulását okozzák. A transznemű nők, akik ösztrogént szednek, [anatómiailag azonos emlőszövetet fognak fejleszteni](https://genderanalysis.net/resources/studies-on-trans-womens-breast-development/), mint a cisznemű nők. A neovaginák rétegekbe rendeződhetnek, amelyek nagyon hasonlítanak egy tipikus hüvelyi szövethez ([Grosse et al., 2017](https://onlinelibrary.wiley.com/doi/abs/10.1111/cyt.12417)). És egy friss tanulmány „úttörő és korábban nem elismert” felfedezésről számolt be: prosztatarák fejlődése a transznemű férfiak és a tesztoszteront szedő transznemű személyek nemi szervezetében.
+[Anderson et al. (2020)](https://pubmed.ncbi.nlm.nih.gov/32282346/) nyolc transznemű férfit vizsgált meg, akik átlagosan 43 hónapja szedtek tesztoszteront, és akiknél nem rég végzett nemváltó műtét keretében vaginectomia (hüvelycsatorna eltávolítása) történt, valamint négy interszex személyt, akiknek hüvelye volt és spontán tesztoszteront termeltek. A nyolc transznemű férfi közül hétben nagyon kicsi „prosztataszövet” volt jelen, amelyek eloszlottak a hüvelyi szövet felszínén; néhányukat „jól kifejlettnek” írták le:
+
+<div class="content-image"><img src="assets/images/anderson2020-fig3.png" /></div>
+
+Az esetek 100%-ában ezek a prosztatasejtek tartalmaztak az androgénreceptorokat. Kisebb gyakorisággal ─ az esetek 69%-ában ─ a szövetek pozitívan reagáltak a prosztatára jellemző specifikus antigénre. A szerzők arra a következtetésre jutottak, hogy „ezek a lézió jellemzői különösen összhangban vannak egyféle hámsejtes differenciációból prosztatadifferenciációba történő átalakulással, amit az androgének indukálnak”, és ezek a prosztatasejtek szintén megjelentek az interszex vizsgált személyeknél is. Megjegyzik, hogy ez a felfedezés tükrözi a „vaginának és a prosztatának az urogenitális sinusban való közös embriológiai eredetét” és „bizonyítékot szolgáltat arra, hogy a méhnyak-vaginális epitélium felnőttkorban is rugalmas maradhat”.
+
+Ezt a prosztataszövetet „androgén-assoziált prosztatametapláziának” nevezik, és úgy tűnik, hogy nincs egészségügyi kockázata. Megjegyzik, hogy „nem jellemző histológiai megjelenésű”, és a betegeknél egyetlen esetben sem alakult ki daganat vagy tömeg ezen a területen 156 hónapos követési időszakban, ami a szerzőket arra késztette, hogy jóindulatúnak nevezzék. Ez a jelenség azt mutatja, hogy az emberi test nemi jellegzetességei messze vannak a szigorú és merev bináris megkülönböztetésektől ─ olyan rendszernek felelnek meg, amely legalább olyan folyékony és bonyolult, mint az egymást átsző prosztatarák számtalan fejlődése a hüvelyi csatornán keresztül.
+
+
 ## Kapcsolódó
 
 ➡️ [Gender Diszfória Biblia](https://genderdysphoria.fyi/hu/masodik-pubertas-masc)
@@ -186,5 +198,7 @@ Másrészt úgy tűnik, hogy a HRT hatása gyorsabb és erősebb a PCOS-ben szen
 ➡️ [Trans Man Vaginal Atrophy: Discussion](https://www.youtube.com/watch?v=ZhDnKSru6jE)
 
 ➡️ [Hormones: A guide for FTMs](https://d31kydh6n6r5j5.cloudfront.net/uploads/sites/161/2019/08/hormones_FTM.pdf)
+
+➡️ [Les hommes trans et personnes transmasculines sous testostérone peuvent développer du tissu prostatique](https://hackmd.io/@biyokea/tissu_prostatique_htrans)
 
 </div>

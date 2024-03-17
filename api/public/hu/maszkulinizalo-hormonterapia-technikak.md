@@ -55,6 +55,22 @@ NEM-HORMONÁLIS TERMÉKEK
 
 Többféle különböző technika létezik a maszkulinizáló hormonterápiához. A választott technikától függően a maszkulinizáció hatékonysága változhat, valamint a mentális és fizikai egészségre gyakorolt kockázatok is eltérnek.
 
+<div class="infobox info">
+
+[Rendszeres vérvétellel](/#/entry?id=maszkulinizalo-hormonterapia-vervizsgalatok) tudja az orvosod, illetve te magad is felügyelni, hogy megfelelő-e a hormonmennyiség, amit terápián kapsz.
+
+Azonban, két vérvétel között, megfigyelve a tested reakcióit, te magad is figyelhetsz a tesztoszteron-adagolásodra:
+
+* **vízvisszatartás, hőhullámok, fáradtság, bizsergés a kézben vagy a lábban, ízületi vagy izomfájdalom = túl sok tesztoszteron.**
+
+* **idegesség vagy túlzott izgatottság, fáradtságérzet, különösen a ciklus végén = túl kevés tesztoszteron.**
+
+Mivel minden szervezet egyedi, az emberek eltérően reagálhatnak a kezelésre.
+
+Egyeseknél a HRT egyes hatásai a normálisnak megfelelő hormonszintek ellenére is enyhék maradnak. A kezelés megkezdése vagy az adagolás megváltoztatása után adj időt a szervezetnek az alkalmazkodásra: egyes hatások néhány nap vagy hét után eltűnhetnek. Előfordulhat, hogy a várt hatások csekélyek vagy nem léteznek.
+
+</div>
+
 ## Injekciók
 
 Az injekció a leggyakoribb beadási mód. Az injekciókat a választott injekciós oldattól függően két hét és több hónap közötti időközönként adják be, így elkerülhető a gél napi alkalmazása. 

@@ -167,6 +167,13 @@ Szájon át szedve a részegséghez hasonló álmosságot okozhat.
 
 Az ösztrogénnel ellentétben a progeszteronnak viszonylag kevés fizikai hatása van. **Mellékhatásait a transz nők körében heves viták övezik, és az eredmények nagyon gyakran ellentmondásosak.**
 
+<div class="infobox error">
+<h5>❗Figyelem</h5>
+
+Progeszteron szájon át történő szedése altatóként működik, ittassághoz / kimerültséghez hasonló kábultsággal. Ne szedd be vezetés vagy bármilyen más tevékenység előtt, ahol teljesen ébernek kell lenned.
+
+</div>
+
 A progeszteron szedésének hatásait lásd a [progeszteronokról szóló általános cikkben](/#/entry?id=progesztinek).
 
 A szintetikus progesztinekhez képest a progeszteron fő különbsége az, hogy rendkívül rövid felezési ideje van, ami azt jelenti, hogy a szervezet nagyon gyorsan kiüríti, ezáltal jelentősen korlátozva a hatását. A lenyelt progeszteront a szervezet néhány óra alatt teljesen kiüríti.
@@ -179,6 +186,9 @@ Jobb szinteket lehet azonban elérni, ha a progeszteront kúp formájában szedj
 
 Bár nagyon nehéz előre megbecsülni, hogy ki hogyan fog reagálni a progeszteronra, a legbölcsebb tanács, amit adhatunk, hogy a teszteléssel várjuk meg, amíg a mellek fejlődése kellően előrehaladott, és azután a tapasztalt hatások alapján nézzük meg, hogy akarjuk-e folytatni vagy sem.
 
+## Források
+
+➡️ [Why progesterone?](https://docs.google.com/document/d/1OGiomfiMk18nPb3ITKZD9pWPvWRUlyI06enxahQpHBI/edit)
 
 
 </div>

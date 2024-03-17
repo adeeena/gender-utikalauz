@@ -109,6 +109,13 @@ Ennek eredményeképpen a mellékhatásaik miatt nagyobb valószínűséggel ír
 * Növelheti a depresszió kockázatát.
 * [Növeli az emlőrák kockázatát](https://en.wikipedia.org/wiki/Progesterone_(medication)#Breast_cancer) (különösen a szintetikus progesztinek esetében).
 
+<div class="infobox error">
+<h5>❗Figyelem</h5>
+
+Progeszteron szájon át történő szedése altatóként működik, ittassághoz / kimerültséghez hasonló kábultsággal. Ne szedd be vezetés vagy bármilyen más tevékenység előtt, ahol teljesen ébernek kell lenned.
+
+</div>
+
 ## ⚗️ Mellek fejlődése
 A progesztinek transz nőkre gyakorolt specifikus hatásairól szóló tanulmányok hiánya miatt a progesztinek tényleges hatásai még mindig kevéssé ismertek. A gyakorlatban úgy tűnik, hogy a hatások között egyénenként óriási különbségek vannak.
 
@@ -133,5 +140,10 @@ A szervezet ekkor rájön, hogy túladagolta a nemi hormonokat, és leállítja 
 Mivel gyakori, hogy az ösztrogénszint túl alacsony ahhoz, hogy elnyomja a tesztoszterontermelést, általában progesztineket adnak hozzá, hogy antiandrogénként működjenek.
 
 Meg kell jegyezni, hogy bár csökkentik a tesztoszteronszintet, a progesztinek maguk is rendelkeznek enyhe androgén és antiösztrogén hatással, ami egyeseknél korlátozhatja hatékonyságukat.
+
+## Források
+
+➡️ [Why progesterone?](https://docs.google.com/document/d/1OGiomfiMk18nPb3ITKZD9pWPvWRUlyI06enxahQpHBI/edit)
+
 
 </div>

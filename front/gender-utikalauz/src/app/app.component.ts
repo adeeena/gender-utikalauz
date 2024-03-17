@@ -4,9 +4,13 @@ import {TranslateService} from "@ngx-translate/core";
 import { Router, NavigationEnd } from '@angular/router';
 import {AppConfigService} from "./services/app-config.service";
 import { filter } from 'rxjs/operators';
+import {MatInputModule} from '@angular/material/input';
+import { BrowserModule } from '@angular/platform-browser';
+import {MatFormFieldModule} from '@angular/material/form-field';
 import {SidenavService} from "./services/sidenav-service.service";
 import {MatSidenav} from "@angular/material/sidenav";
 import {MatDialog, MatDialogRef, MAT_DIALOG_DATA} from '@angular/material/dialog';
+import {SearchService} from "./services/search.service";
 
 export interface CookieDialogData {
   message: string;
@@ -58,8 +62,6 @@ export class AppComponent implements OnInit {
     this.innerWidth = window.innerWidth;
   }
 
-  
-
   ngOnInit() {
     this.translate.get('general.title').subscribe((translated: string) => {
       this.title.setTitle(translated);
@@ -97,7 +99,7 @@ export class AppComponent implements OnInit {
     dialogRef.afterClosed().subscribe(result => {
       document.addEventListener('keydown', this.handleKeyDown.bind(this));
       
-      this.setCookie('QuickCloseConfirmed', '', 15);
+      this.setCookie('QuickCloseConfirmed', 'yes', 15);
     });
   }
 
@@ -156,12 +158,61 @@ export class AppComponent implements OnInit {
     }
   }
 
+  toggleSearch() {
+    const dialogRef = this.dialog.open(SearchDialogComponent, {
+      width: this.innerWidth <= 600 ? '90vw' : '50vw'
+    });
+  }
+
   toggleSidenav() {
     this.sidenavService.toggle();
   }
 
   closeSidenav() {
     this.sidenavService.close();
+  }
+}
+
+@Component({
+  selector: 'search-dialog',
+  templateUrl: './search-dialog.component.html',
+})
+export class SearchDialogComponent implements OnInit {
+  private searchText: string = '';
+  public searchResults: any = [];
+
+  constructor(public dialogRef: MatDialogRef<SearchDialogComponent>,
+              @Inject(MAT_DIALOG_DATA) public data: any,
+              private searchService: SearchService
+  ) {}
+
+  ngOnInit() {
+    this.searchResults = [];
+  }
+
+  onClick(): void {
+    this.dialogRef.close();
+  }
+
+  searchUpdated($event: Event) {
+    if (($event as any).target) {
+      this.searchText = ($event as any).target.value;
+
+      if (this.searchText.length < 3) {
+        this.searchResults = [];
+        return;
+      }
+
+      this.searchService.search(this.searchText, 'hu').subscribe(
+        (results) => {
+          this.searchResults = results;
+          console.dir(results);
+        },
+        (error) => {
+          console.error('Error fetching search results:', error);
+        }
+      );
+    }
   }
 }
 
@@ -180,6 +231,7 @@ export class AppComponent implements OnInit {
 export class PopupDialogComponent {
   constructor(public dialogRef: MatDialogRef<PopupDialogComponent>,
               @Inject(MAT_DIALOG_DATA) public data: CookieDialogData,
+
   ) {}
 
   onClick(): void {

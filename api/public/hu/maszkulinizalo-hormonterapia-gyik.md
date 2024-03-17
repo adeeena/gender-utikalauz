@@ -89,6 +89,24 @@ Ezek miatt az okok miatt a legbölcsebb tanács, amit adhatunk:
 
 Ha hormonkezelést szeretnél kezdeni és a jövőben gyermeket tervezel, [tájékozódj a petesejtjeid megőrzéséről a kezelés megkezdése előtt](/#/entry?id=termekenyseg-megorzese).
 
+### Mi történik a kezelés abbahagyása esetén?
+
+A HRT által kiváltott néhány változás végleges.
+
+**Maszkulinizáló hormonkezelés abbahagyása után:**
+* a hang egyes emberek esetében valamennyire magasabbá válhat, de a változások megmaradnak;
+* a szőrzet valamelyest csökkenhet, de megmarad;
+* a megduzzadt klitorisz megmarad;
+* a többi változás (testszag, bőr textúrája, haj sűrűsége, zsír eloszlása) visszafordítható.
+
+A változások bekövetkezésének sebessége egyénenként változik, de általában minél hosszabb ideig tartott a kezelés, annál lassabban következnek be a változások.
+
+Ha nem szeretnéd ezt, vagy ha a szervezeted már nem képes szexuális hormonokat termelni (működő petefészek hiányában), akkor valamilyen fajtájú hormonkezelés élethosszig kell, hogy tartson.
+
+Ezen kívül teljesen lehetséges egy hormonkezelés megszakítása, majd későbbi újrakezdése.
+
+Létezik mikroadagolású hormonkezelés is (amely csak részben helyettesíti természetes hormonjaidat). A változások megegyeznek a "hagyományos" hormonkezeléssel, de kevésbé intenzívek és hosszabb idő alatt következnek be.
+
 ## Utazás hormonkészítményekkel
 
 NEM javasolt DIY tesztoszteronnal utazni, mivel a repülőtéri biztonsági szolgálat minden poggyászt átvizsgálhat. Ha a T injekciós üvege megjelenik egy szkenneren, akkor anyag birtoklásáért vádolhatják.

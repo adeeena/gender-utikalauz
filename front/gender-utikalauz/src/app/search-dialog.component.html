@@ -1,0 +1,23 @@
+<div class="search-section">
+  <h1 mat-dialog-title>
+    <mat-icon>
+      search
+    </mat-icon>
+    Keresés
+  </h1>
+  
+  <mat-form-field class="search-field" [style.width.%]="100">
+    <input matInput #message (input)="searchUpdated($event)">
+  </mat-form-field>
+
+  <div *ngIf="searchResults && searchResults.length" class="floating">
+    <a class="search-result-item"
+      routerLink="/entry"
+      (click)="onClick()"
+      [queryParams]="{ id: res.fileName }"
+      *ngFor="let res of searchResults">
+      <div class="title">{{ res.title }}</div>
+      {{ res.contextBefore }}<b>{{ res.match }}</b>{{ res.contextAfter }}...
+    </a>
+  </div>
+</div>

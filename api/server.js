@@ -1,6 +1,7 @@
 const express = require('express');
 const path = require('path');
 const fs = require('fs');
+const marked = require('marked');
 const cors = require('cors'); // Import the cors package
 
 const app = express();
@@ -66,6 +67,60 @@ app.get('/entry', (req, res) => {
   } catch (error) {
     res.status(404).json({ error: 'Entry ' + id + ' (lang:' + languageCode + ') not found.' });
   }
+});
+
+app.get('/search', (req, res) => {
+  const { query, languageCode } = req.query;
+  const searchResults = [];
+  const maxResults = 5;
+
+  const removeAccents = (str) => {
+    return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  };
+
+  const files = fs.readdirSync(path.join(__dirname, 'public', languageCode));
+  let count = 0;
+
+  files.forEach((file) => {
+    if (file.endsWith('.md') && count < maxResults) {
+      const filePath = path.join(__dirname, 'public', languageCode, file);
+      const pureContent = fs.readFileSync(filePath, 'utf-8');
+      const content = marked.parse(pureContent).replace(/<[^>]*>/g, '').replace(/&quot;/g, '"');
+      const normalizedContent = removeAccents(content.toLowerCase());
+      const normalizedQuery = removeAccents(query.toLowerCase());
+
+      if (normalizedContent.includes(normalizedQuery)) {
+        // Parse the Markdown content to extract the title
+        const tokens = marked.lexer(pureContent);
+        let title = '';
+        for (const token of tokens) {
+          if (token.type === 'heading' && token.depth === 1) {
+            title = token.text;
+            break;
+          }
+        }
+
+        const matchStartIndex = normalizedContent.indexOf(normalizedQuery);
+        const matchEndIndex = matchStartIndex + normalizedQuery.length;
+        const contextBefore = content.substring(Math.max(0, matchStartIndex - 50), matchStartIndex);
+        const contextAfter = content.substring(matchEndIndex, matchEndIndex + 50);
+
+        searchResults.push({
+          fileName: file.replace('.md', ''),
+          title: title,
+          contextBefore: contextBefore,
+          match: content.substring(matchStartIndex, matchEndIndex),
+          contextAfter: contextAfter,
+        });
+
+        count += 1; // Increment the counter for each result
+      }
+    }
+
+    return count >= maxResults; // Return true to exit the loop when the limit is reached
+  });
+
+  res.status(200).json(searchResults);
 });
 
 // Start the server

@@ -8,6 +8,10 @@
   <mat-icon>close</mat-icon>
 </button>
 
+<button class="bottombar" mat-fab (click)="toggleSearch()">
+  <mat-icon>search</mat-icon>
+</button>
+
 <mat-sidenav-container disableClose (backdropClick)="closeSidenav()" fullscreen>
   <mat-sidenav #sidenav mode="over" [opened]="isOpened">
     <app-sidebar (closing)="closeSidenav()"></app-sidebar>

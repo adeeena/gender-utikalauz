@@ -229,23 +229,17 @@ Gonádok (here vagy petefészek) eltávolítása után **állandó hormonkezelé
 
 A HRT által kiváltott néhány változás végleges.
 
-**Maszkulinizáló hormonkezelés abbahagyása után:**
-* a hang egyes emberek esetében valamennyire magasabbá válhat, de a változások megmaradnak;
-* a szőrzet valamelyest csökkenhet, de megmarad;
-* a megduzzadt klitorisz megmarad;
-* a többi változás (testszag, bőr textúrája, haj sűrűsége, zsír eloszlása) visszafordítható.
-
 **Feminizáló hormonkezelés abbahagyása után:**
 * a mellek kisebbekké válnak, de megmaradnak;
 * a többi változás (testszag, bőr textúrája, haj sűrűsége, zsír eloszlása) visszafordítható.
 
-Így mindkét esetben a zsír "ellentétes irányba" fog újra eloszlani. A változások bekövetkezésének sebessége egyénenként változik, de általában minél hosszabb ideig tartott a kezelés, annál lassabban következnek be a változások.
+A változások bekövetkezésének sebessége egyénenként változik, de általában minél hosszabb ideig tartott a kezelés, annál lassabban következnek be a változások.
 
-Ha nem szeretnéd ezt, vagy ha a szervezete már nem képes szexuális hormonokat termelni (működő here vagy petefészek hiányában), a kezelés élethosszig kell, hogy tartson.
+Ha nem szeretnéd ezt, vagy ha a szervezeted már nem képes szexuális hormonokat termelni (működő here hiányában), akkor valamilyen fajtájú hormonkezelés élethosszig kell, hogy tartson.
 
 Ezen kívül teljesen lehetséges egy hormonkezelés megszakítása, majd későbbi újrakezdése.
 
-Létezik mikroadagolású hormonkezelés is (amely csak részben helyettesíti természetes hormonjait). A változások megegyeznek a "hagyományos" hormonkezeléssel, de kevésbé intenzívek és hosszabb idő alatt következnek be.
+Létezik mikroadagolású hormonkezelés is (amely csak részben helyettesíti természetes hormonjaidat). A változások megegyeznek a "hagyományos" hormonkezeléssel, de kevésbé intenzívek és hosszabb idő alatt következnek be.
 
 ## Utazás hormonkészítményekkel
 

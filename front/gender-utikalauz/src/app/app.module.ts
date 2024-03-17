@@ -1,5 +1,6 @@
 import { NgModule, APP_INITIALIZER } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { CommonModule } from '@angular/common';
 import { MatToolbarModule} from "@angular/material/toolbar";
 import { MatIconModule} from "@angular/material/icon";
 import { MatButtonModule} from "@angular/material/button";
@@ -12,6 +13,7 @@ import { FooterComponent } from './components/footer/footer.component';
 import { SidebarComponent } from './components/sidebar/sidebar.component';
 import {HttpClient, HttpClientModule} from "@angular/common/http";
 import {MatCardModule} from "@angular/material/card";
+import {PopupDialogComponent, SearchDialogComponent} from './app.component';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import {DialogElementsExampleDialog, EntryComponent} from './components/entry/entry.component';
 import {MatChipsModule} from "@angular/material/chips";
@@ -31,6 +33,7 @@ import { HeaderComponent } from './components/header/header.component';
 import { MarkdownModule } from 'ngx-markdown';
 import { LexikonComponent } from './components/lexikon/lexikon.component';
 import { SzovetsegesekComponent } from './components/szovetsegesek/szovetsegesek.component';
+import { SearchService} from "./services/search.service";
 import {SidenavService} from "./services/sidenav-service.service";
 import { GaleryComponent } from './components/galery/galery.component';
 import { OsztrogenKalkulatorComponent } from './components/osztrogen-kalkulator/osztrogen-kalkulator.component';
@@ -54,6 +57,8 @@ export function initConfig(appConfig: AppConfigService) {
     SidebarComponent,
     EntryComponent,
     DialogElementsExampleDialog,
+    PopupDialogComponent,
+    SearchDialogComponent,
     HomeExplainComponent,
     IntroComponent,
     HeaderComponent,
@@ -67,6 +72,7 @@ export function initConfig(appConfig: AppConfigService) {
   ],
   imports: [
     BrowserModule,
+    CommonModule,
     AppRoutingModule,
     BrowserAnimationsModule,
     MatToolbarModule,
@@ -98,7 +104,7 @@ export function initConfig(appConfig: AppConfigService) {
     useFactory: initConfig,
     deps: [AppConfigService],
     multi: true,
-  }, SidenavService],
+  }, SidenavService, SearchService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

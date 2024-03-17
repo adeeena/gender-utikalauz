@@ -37,7 +37,7 @@ Nem tudhatod előre, hogy olyan "passing" leszel, amelyet elfogadhatónak tartas
 
 Fontos azonban megjegyezni, hogy a passing nem csak a kinézetről szól. Ez több társadalmi jelenség alkímiája; beleértve az öltözködést, a járást, a beszédstílust, a környezetet stb. Mindezek az elemek megtanulhatók, és egy kis gyakorlással segíthetnek a passing elérésében. Például egy transz személy, aki több hónapos beszédtechnika-órán vett részt, akkor is lehet passing, ha a fizikai megjelenése kétséget hagy a nemét illetően. Egy laza, mélyen kivágott póló (transz férfiak számára) vagy egy széles gallér (transz nők számára) valóban sokat számíthat az összképen.
 
-A tesztoszteron általában remek eredményt végez az arc férfiasításában a transz férfiak esetében. A transz nők számára ugyanakkor lehetőség van arc feminizációs műtétre (FFS), amely nagyon jó eredménnyel jár. [Lásd erről szóló cikkünket.](/#/entry?id=feminizalo-hormonterapia-arcfeminizacio)
+A tesztoszteron általában remek eredményt végez az arc férfiasításában a transz férfiak esetében. A transz nők számára ugyanakkor lehetőség van arc feminizációs műtétre (FFS), amely nagyon jó eredménnyel jár. [Lásd erről szóló cikkünket.](/#/entry?id=feminizalas-arcmutet)
 
 Nagyon tanulságos lehet végignézni a transz emberek képeit, ahol a tranzíció előtti és utáni kinézetüket mutatják be. Néhány hónap/év elteltével a legtöbb (inkább bináris) transznemű embernek sikerül a saját nemének megfelelően kinézni.
 

@@ -1,6 +1,6 @@
 ---
 title: "Transz történelem"
-description: "A nemek közötti átjárás az ókortól napjainkig"
+description: "A középkori Bizánci Birodalom háromnemű rendszere"
 lang: hu
 ---
 

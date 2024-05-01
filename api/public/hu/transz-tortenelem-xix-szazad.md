@@ -1,6 +1,6 @@
 ---
 title: "Transz történelem"
-description: "A nemek közötti átjárás az ókortól napjainkig"
+description: "Törvényszéki harcok a nemi megkülönböztetések ellen a XIX. században"
 lang: hu
 ---
 

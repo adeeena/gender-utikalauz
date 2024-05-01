@@ -1,6 +1,6 @@
 ---
 title: "Transz történelem"
-description: "A nemek közötti átjárás az ókortól napjainkig"
+description: "A középkori Nyugaton a merev binarizmus ellenére megjelennek néhol nemváltáson átesett, pozitívan ábrázolt személyiségek"
 lang: hu
 ---
 

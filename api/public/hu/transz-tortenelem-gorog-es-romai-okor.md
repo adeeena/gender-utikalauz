@@ -1,6 +1,6 @@
 ---
 title: "Transz történelem"
-description: "A nemek közötti átjárás az ókortól napjainkig"
+description: "A hagyományos európai társadalmak a szigorú binaritás és a három nemű rendszer közötti ingadozása - a görög és római ókor hermafroditái"
 lang: hu
 ---
 

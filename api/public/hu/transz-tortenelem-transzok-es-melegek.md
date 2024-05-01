@@ -1,6 +1,6 @@
 ---
 title: "Transz történelem"
-description: "A nemek közötti átjárás az ókortól napjainkig"
+description: "Transzok és melegek: közös és különálló terek"
 lang: hu
 ---
 
@@ -51,6 +51,7 @@ VÉGSZÓ
 <div class="header-image"><img src="assets/images/undraw_moving.svg" /></div>
 
 # Transzok és melegek: közös és különálló terek
+
 A homoszexuális és transz közösségi terek mindenekelőtt bizonyos szükségletekre reagálnak, legyen szó a szexualitás vagy az identitás felfedezéséről, különösen egy olyan társadalomban, amely elnyomja a jogi, művészeti, orvosi vagy politikai erőforrások megosztásáról; illetve a társadalmi elnyomás és kirekesztés rendszereinek megszüntetéséért folytatott kampányról. Az 1950-es és 1960-as években alakultak ki melegtámogató egyesületek és kiadványok, mint például a [Mattachine Society](https://en.wikipedia.org/wiki/Mattachine_Society), amely 1957 és 1967 között adta ki a [Mattachine Review](https://guides.loc.gov/lgbtq-studies/before-stonewall/mattachine) című folyóiratot az Egyesült Államokban, vagy a franciaországi Arcadie csoport, amely 1954 és 1982 között adta ki az azonos című folyóiratot. Vannak transz kiadványok is, mint például a [Transvestia Magazine](https://vault.library.uvic.ca/collections/6576cedf-1282-4089-8351-08f73f4199b4), amelyben a transz és transzvesztita emberek megoszthatják tapasztalataikat és véleményüket, valamint kapcsolatba léphetnek egymással, sajátos támogató hálózatot hozva létre. Ezek a kiadványok egy olyan transz közösség kiépüléséről tanúskodnak, amely a helyszínek tekintetében különbözik a melegek és leszbikusok közösségétől, de a hálózatok létrehozására használt eszközökben hasonló.
 
 E kiadványokon kívül a transz emberek a felvonulásokon, vagy [Beauty Pageant-eken](https://en.wikipedia.org/wiki/Beauty_pageant) is megtalálhatók voltak, amelyek értékes élet- és kölcsönös támogatási környezetet biztosítottak a nagyvárosokban élő, a családon belüli és állami elnyomás okozta bizonytalan körülmények között élő emberek számára. Az esetek túlnyomó többségében transznak lenni, amikor az ember nem tudja megváltoztatni a papírjaiban szereplő anyakönyvi státuszt, társadalmi elítélést jelent a munkavállalás, az állami szolgáltatások és a rendőrségi igazoltat'sok szempontjából. Anno kevés munkaadó fogad transz embereket, undorból vagy a botránytól való félelem miatt, és ez évtizedekkel ezelőtt még markánsabb volt. A kabarék is közösségi teret jelentenek, ahol a fellépők és a közönség kölcsönös támogatásra találnak, mind a rendőri ellenőrzéssel szemben, mind pedig az orvosi átváltozásokról való tájékozódáshoz. Bár nem minden kabaré-előadó és drag queen transznemű, az e helyszínek által kínált szabadság legalábbis lehetővé teszi néhányuk számára, hogy megtalálják önmagukat és érvényesítsék nemüket.

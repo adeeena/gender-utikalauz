@@ -1,6 +1,6 @@
 ---
 title: "Transz történelem"
-description: "A nemek közötti átjárás az ókortól napjainkig"
+description: "1900-1939: a "nemváltoztató" orvosi technikák megjelenése"
 lang: hu
 ---
 
@@ -59,7 +59,8 @@ Németországban ebben az időben jött létre az első olyan struktúra, amely 
 
 Magnus Hirschfeld nemcsak orvosi segítséget nyújtott a transzneműeknek, hanem aktívan kampányolt társadalmi elfogadásukért is. Amellett, hogy klinikáján munkát kínált a transzneműeknek, az 1920-as években a berlini hatóságokkal együttműködve kitalálta a "transzvesztita engedélyt", hogy megvédje a "transzvesztitákat" a prostitúció gyanújával történő letartóztatástól. Ezek az előrelépések tették Berlint a transz emberek meghatározásának és orvosi segítségének központi helyszínévé. De rövid életűek voltak: 1933. május 6-án, nem sokkal Adolf Hitler kancellárrá való kinevezése után a nácik kifosztották és felgyújtották a Szexológiai Intézetet. Magnus Hirschfeld, akit Hitler halálosan megfenyegetett, és "Németország legveszélyesebb zsidójának" nevezte, francia száműzetésbe vonult, ahol 1935-ben szívrohamban halt meg.
 
-
+<div class="content-image"><img src="assets/images/transpass.jpg" />
+<span>Transzvesztita engedély.</span></div>
 
 ## Forrás
 

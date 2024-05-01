@@ -1,6 +1,6 @@
 ---
 title: "Transz történelem"
-description: "A nemek közötti átjárás az ókortól napjainkig"
+description: "A nemek közötti átjárás az ókortól napjainkig - Végszó"
 lang: hu
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Transz történelem"
-description: "A nemek közötti átjárás az ókortól napjainkig"
+description: "A homoszexuális tiszteletreméltóság politikája a transz emberek kirekesztésének kísértéséhez vezet"
 lang: hu
 ---
 

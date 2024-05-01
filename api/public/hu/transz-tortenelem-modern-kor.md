@@ -1,6 +1,6 @@
 ---
 title: "Transz történelem"
-description: "A nemek közötti átjárás az ókortól napjainkig"
+description: "A modern kor ellentmondásai: a bináris rendszer szilárdsága és a nemek elmosódása és inverziója iránti kulturális érdeklődés"
 lang: hu
 ---
 

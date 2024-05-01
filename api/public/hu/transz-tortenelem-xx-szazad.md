@@ -1,6 +1,6 @@
 ---
 title: "Transz történelem"
-description: "A nemek közötti átjárás az ókortól napjainkig"
+description: "1950-2010: a transz társadalmi és támogató hálózatok formalizálják az "tranzíció útját"."
 lang: hu
 ---
 

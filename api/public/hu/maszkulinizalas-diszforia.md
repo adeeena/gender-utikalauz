@@ -3,10 +3,48 @@ title: "Diszfória transzmaszkulin személyeknek"
 description: "Légy erős a nemi diszfória ellen! Tapasztalatok, különböző érzelmek és a szembenézés fontossága. Taktikák az tranzíció kihívásainak kezelésére, segítség a közös szembenézésben."
 lang: hu
 ---
+<div class="floating-columns">
+
+<div class="floating-bar">
+
+[A nemi diszfória jelei](/#/entry?id=diszforia)
+
+[Feminizáló hormonterápia - a diszfória leküzdése](/#/entry?id=feminizalas-diszforia)
+
+[Maszkulinizáló hormonterápia - a diszfória leküzdése](/#/entry?id=maszkulinizalas-diszforia)
+
+</div>
+
+<div class="wiki-content">
 
 <div class="header-image"><img src="assets/images/undraw_junior_soccer.svg" /></div>
 
-# Diszfória leküzdése transzmaszkulin személyek számára
+# Tranzíció érzelmi mélypontjai
+
+Vannak rossz napok. Különböző okok miatt, vagy egyáltalán nem ok nélkül, magányosnak, elégtelennek, csúnyának, félelemmel telinek, kedvetlennek vagy motiválatlannak érezzük magunkat. Nem lesz energiád semmit sem csinálni, és amit csinálsz is reménytelennek vagy értelmetlennek fogod érezni. A legrosszabb napok azok, amikor megkérdőjelezed magadat vagy a döntéseidet, és azon tűnődsz, vajon nem lett volna-e minden könnyebb, ha továbbra is elfojtod a valódi nemi identitásodat.
+
+Ismerősen hangzik? Ne aggódj, jó társaságban vagy. Mindenkinek, aki hormonterápián van, voltak ilyen napjai. A tranzíció egy hihetetlenül nehéz folyamat, és biztosan lesznek olyan napok, amikor egyszerűen nem érzed magad alkalmasnak semmire sem.
+
+És ez teljesen rendben van. Vannak napok, amikor nem kell megfelelni a feladatnak. Van olyan nap, amikor teljesen rendben van, hogy a régi ruháidat veszed fel, és csak pizsiben tévézel.
+
+Általában, amikor így érzem magam, annak néhány általános oka van:
+
+### Alváshiány
+
+Amikor nem alszom eleget, a hangulatom és a motivációm a mélybe zuhan. Mindent nehéznek érzek, még azokat az egyszerű dolgokat is, amelyeket általában szívesen csinálok. Már napi egy órával kevesebb alvás is ilyen hatással lehet, és általában néhány napba telik, mire teljesen helyreállok.
+
+### Túlzásba vitt testmozgás
+Ha túl sokat sportolok, és nem pihenek eleget, nagyon szorongok és nyilvánvalóan fáradtnak érzem magam. A túlzásba vitt testmozgás megemeli a kortizolszintet, és azt az elsöprő fáradtságérzetet kelti, amely lehetetlenné teszi a rendszeres dolgok elvégzését.
+
+### Hormonváltozások
+Úgy veszem észre, hogy a HRT-kezelésem bármilyen változása néhány hétig elég rossz hangulatot okozhat. A tesztoszteron vagy az ösztrogén szintjének emelkedése vagy csökkenése egyaránt okozhat eufóriát vagy depresszív érzéseket.
+
+### Alkohol és egészségtelen ételek
+Észrevettem, hogy a hangulatomra lényeges hatással lehet, hogy mit ettem, különösen, ha alkoholt fogyasztottam és nagyon zsíros ételeket ettem. Mindkettő nagyon mélyen befolyásolhatja a hangulatom, és úgy tűnik, hogy ez egyre rosszabb lesz, minél idősebb leszek. Néhány ital után nem alszom túl jól, ami egy nehéz reggelhez vezet.
+
+Néha pedig egyszerűen csak rossz napom van, és nem tudok rá okot találni.
+
+## Diszfória leküzdése transzmaszkulin személyek számára
 
 A diszfória rövid vagy hosszú távú kényelmetlenség, elégedetlenség és nehézségek megtapasztalása, amely a saját nemi identitás és a születéskor hozzárendelt nem különbözőségéből fakad.
 
@@ -26,7 +64,7 @@ Ezek bár az alapok, de a felgyülemlett erőszakot nem tarthatod meg magadnak, 
 
 Én több éven keresztül minden nap ugyanabban az időben írtam legalább egy kis bekezdést mindenről, ami rosszul ment a napomban/életemben, és mindig könnyebbnek éreztem magam a végén.
 
-## Sport
+### Sport
 A sport jó eszköz arra, hogy jobban érezd magad a bőrödben.
 
 Az erőnléti edzés lassan kezdve (például heti 1x), majd a gyakorlatok intenzitását növelve látható fizikai eredményeket érhet el, és javíthatja az önbizalmát.
@@ -35,7 +73,7 @@ Az erőnléti edzés lassan kezdve (például heti 1x), majd a gyakorlatok inten
 
 Ha van rá lehetőséged, próbálj ki több sportágat, több edzőtermet, több klubot, több edzést, amíg meg nem találod a neked megfelelőt vagy megfelelőket. A box például nagyon euforikus sport lehet.
 
-## A szakáll
+### A szakáll
 Ha nem vagy hormonkezelés alatt, elég bonyolult olyan szőrzetet növeszteni, amit mások férfiasnak tartanának. Íme néhány tipp, hogy férfiasabbnak érezd magad az arcszőrzeteddel!
 
 
@@ -82,7 +120,7 @@ A hagyományosan "saját fajtádnak" tekintett ruhákat viselni gyakran nagyon e
 
 Ruhaboltokban való válogatás azonban nehéz, sőt egyenesen kellemetlen élmény lehet. Bizonyos típusú ruhák még akkor is nagyon diszforikus érzéseket kelthetnek, amikor csak felpróbálod őket... Több megoldásom is van ezekre a megpróbáltatásokra:
 
-#### Menj el kísérettek
+#### Menj el kísérettel
 
 Menj vásárolni egy hozzád közel álló személy és egy szövetséges (vagy akár egy transz személy) kíséretében, aki megérti a nehézségeidet. Mindig könnyebb együtt szembenézni ezekkel a dolgokkal, és a biztonságos környezet megteremtése az első lépés a nyugalom felé!
 
@@ -115,6 +153,14 @@ Az, hogy képes vagy úszni a boldogság tengerében anélkül, hogy félnél m�
 
 Ha teheted, a legjobb ajándék, amit adhatsz magadnak, ha olyan emberekkel veszed körül magad, akiket szeretsz, és akiknek a jelenléte jó érzéssel tölt el. A mérgező emberek már túl sok kárt okoztak neked; az életedből való kiszorításuk nagy csata, amit hosszú távon érdemes megvívni.
 
+## Forrás
+
+➡️ [Nemi Diszfória Biblia](https://genderdysphoria.fyi/hu/nyomtathato)
+
+➡️ [Lutter contre la dysphorie pour les personnes transmasculines](https://wikitrans.co/2019/08/08/lutter-contre-la-dysphorie-pour-les-personnes-transmasculines/)
+
+
+</div>
 
 
 

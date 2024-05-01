@@ -61,7 +61,7 @@ Ez a dosszié végigmegy minden olyan elemen, amely segíthet vagy akadályozhat
 
 </div>
 
-Épp ellenkezőleg, ezek a tippek arra szolgálnak, hogy segítsenek azonosítani a nőiesség azon elemeit, amelyeket a sajátoddá szeretnél tenni.
+Épp ellenkezőleg, ezek a tippek arra szolgálnak, hogy segítsenek azonosítani a nőiesség azon elemeit, amelyeket a sajátoddá szeretnél tenni. A passing nem egy spektrum, és nem egészen bináris, szélsőséges értékekkel. A világon 7 milliárd különböző ember 7 milliárd különböző módon értelmezi a női vagy férfi passingot.
 
 Több ezer transz és cisz nő van, aki pólóban és farmerben jár; aki nem hord válltáskát, hanem egy uniszex hátizsákot; aki nem sminkel, nem visel ékszert, stb... És mégis nők.
 
@@ -95,10 +95,22 @@ Mindenekelőtt arra van szükséged, hogy csökkentsd azokat a férfias tulajdon
 
 <div class="content-image"><img src="assets/images/feminine-passing-3.png" /></div>
 
-Példák a nőies és férfias tulajdonságjegyekok mintázataira a különböző, nőként, többé-kevésbé férfiasnak és nőiesnek érzékelt embertípusok esetében.
+Példák a nőies és férfias tulajdonságjegyek mintázataira a különböző, nőként, többé-kevésbé férfiasnak és nőiesnek érzékelt embertípusok esetében.
+
+## Hogyan működik a passing?
+
+A nemek felismerése több lépcsőben történik: első-egy pillantás, közelebbi megnézés, és valakinek a megismerése.
+
+*Az első pillantás* az első 1-2 másodperc, amikor valaki meglát. Ha csak az első pillantás alatt vagy passing, akkor a társadalomba már be tudsz olvadni láthatatlanul. Nem hívod fel magadra a figyelmet.
+
+*A közelebbi megnézés* az első fél perc, amikor valaki rád néz hosszabb ideig, beszélgetést kezdeményez. Ha ez a rövid idő alatt passing maradsz, akkor általnosságban mondható, hogy passing vagy.
+
+Ha valaki első pillantásod után nőnek minősít, akkor sokkal nagyobb esélyed van arra, hogy harminc másodperc alatt is passing maradj. Mert sokkal több kell ahhoz, hogy valaki megváltoztassa a véleményét, mint ahhoz, hogy megerősítsd a véleményét. Ha viszont androgün hajad és ruhád van, és az első két másodpercben nem lehet egyértelmően meghatározni a nemedet, akkor a következő harminc másodpercben sokkal jobban megnéznek. És ha az első két másodpercben férfinak olvasnak, akkor nagyon nehéz, de nem lehetetlen, hogy valaki a következő harminc másodpercben mégiscsak nőnek minősítsenek.
 
 ## Források
 
 ➡️ [wikitrans.co](https://wikitrans.co)
+
+➡️ [Reddit r/MtF: How Passing Actually Works](https://web.archive.org/web/20190609034146/https://www.reddit.com/r/MtF/comments/aib80p/how_passing_actually_works/)
 
 </div>

@@ -55,8 +55,8 @@ Az Egyesült Államokban és Európában egyaránt virulens reakciós offenzíva
 ések normától való bármilyen eltérése ellen. Azáltal, hogy ezeket a nemi eltéréseket veszik célba, legyen szó akár
  nem heteroszexuális szexuális orientációról, művészi előadásokról, vagy a férfiaknak vagy nőknek rendelt öltözködési
   normák elmosódásáról, az ellenzők a transzellenes gyűlölet sajátos stratégiáit fejlesztik ki, mint mozgalmuk
-   élvonalát. 2022-ben például az amerikai törvényhozók naponta átlagosan három olyan törvényt hoztak, amelyek elvett
-   ék a kisebbségi szexuális irányultsággal vagy nemi kifejezéssel rendelkező emberek jogait (az "LMBTQI+", azaz
+   élvonalát. [2023-ben például az amerikai törvényhozók naponta átlagosan három olyan törvényt terjesztettek elő, amelyek elvett
+   ék a kisebbségi szexuális irányultsággal vagy nemi kifejezéssel rendelkező emberek jogait](https://edition.cnn.com/politics/anti-lgbtq-plus-state-bill-rights-dg/index.html) (az "LMBTQI+", azaz
     "leszbikus, meleg, biszexuális, transz, queer, interszexuális és mások" kifejezéssel), és ezek 6%-a a transz
      embereket érintette. A transzellenes rögeszme, amely elősegíti a rasszizált emberek és a nők jogainak visszavétel
      ét, például az abortuszjogok betiltását, erőteljes eszköz a progresszív mozgalom megosztására, a jobboldal egyesítésére és a 20. század során elvesztett dominancia visszaszerzésére.

@@ -8,6 +8,7 @@ lang: hu
 
 <div class="floating-bar">
 
+
 BEVEZETÖ
 
 [Bevezető](/#/entry?id=transz-tortenelem)
@@ -26,7 +27,21 @@ MODERNKORI ORVOSLÁS
 
 [1900-1939: a "nemváltoztató" orvosi technikák megjelenése](/#/entry?id=transz-tortenelem-nemvaltoztato-orvosi-technikak-megjelenese)
 
+[1950-2010: a transz társadalmi és támogató hálózatok formalizálják az "tranzíció útját"](/#/entry?id=transz-tortenelem-xx-szazad)
 
+TRANSZNEMŰEK A PROGRESSZÍV POLITIKAI ÉS TARSADALMI MOZGALMAKBAN
+
+[Transzok és melegek: közös és különálló terek](/#/entry?id=transz-tortenelem-transzok-es-melegek)
+
+[A homoszexuális tiszteletreméltóság politikája a transz emberek kirekesztésének kísértéséhez vezet](/#/entry?id=transz-tortenelem-meleg-tisztelet-transz-kirekesztes)
+
+[A transzneműekkel szembeni feminista elméletek megfordítása](/#/entry?id=transz-tortenelem-feminista-elmeletek-megforditasa)
+
+[Egy konzervatív transzellenes világ](/#/entry?id=transz-tortenelem-konzervativ-transzellenes-vilag)
+
+VÉGSZÓ
+
+[Végszó](/#/entry?id=transz-tortenelem-konkluzio)
 
 </div>
 

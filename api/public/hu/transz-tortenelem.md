@@ -34,7 +34,15 @@ MODERNKORI ORVOSLÁS
 
 # A nemek közötti átjárás az ókortól napjainkig
 
-Az Egyesült Államokban és Európában egyaránt virulens reakciós offenzíva dúl. Fő rögeszméje a gyűlölet a nemi kifejezések normától való bármilyen eltérése ellen. Azáltal, hogy ezeket a nemi eltéréseket veszik célba, legyen szó akár nem heteroszexuális szexuális orientációról, művészi előadásokról, vagy a férfiaknak vagy nőknek rendelt öltözködési normák elmosódásáról, az ellenzők a transzellenes gyűlölet sajátos stratégiáit fejlesztik ki, mint mozgalmuk élvonalát. 2022-ben például az amerikai törvényhozók naponta átlagosan három olyan törvényt hoztak, amelyek elvették a kisebbségi szexuális irányultsággal vagy nemi kifejezéssel rendelkező emberek jogait (az "LMBTQI+", azaz "leszbikus, meleg, biszexuális, transz, queer, interszexuális és mások" kifejezéssel), és ezek 6%-a a transz embereket érintette. A transzellenes rögeszme, amely elősegíti a faji alapú emberek és a nők jogainak visszavételét, például az abortuszjogok betiltását, erőteljes eszköz a progresszív mozgalom megosztására, a jobboldal egyesítésére és a 20. század során elvesztett dominancia visszaszerzésére.
+Az Egyesült Államokban és Európában egyaránt virulens reakciós offenzíva dúl. Fő rögeszméje a gyűlölet a nemi kifejez
+ések normától való bármilyen eltérése ellen. Azáltal, hogy ezeket a nemi eltéréseket veszik célba, legyen szó akár
+ nem heteroszexuális szexuális orientációról, művészi előadásokról, vagy a férfiaknak vagy nőknek rendelt öltözködési
+  normák elmosódásáról, az ellenzők a transzellenes gyűlölet sajátos stratégiáit fejlesztik ki, mint mozgalmuk
+   élvonalát. 2022-ben például az amerikai törvényhozók naponta átlagosan három olyan törvényt hoztak, amelyek elvett
+   ék a kisebbségi szexuális irányultsággal vagy nemi kifejezéssel rendelkező emberek jogait (az "LMBTQI+", azaz
+    "leszbikus, meleg, biszexuális, transz, queer, interszexuális és mások" kifejezéssel), és ezek 6%-a a transz
+     embereket érintette. A transzellenes rögeszme, amely elősegíti a rasszizált emberek és a nők jogainak visszavétel
+     ét, például az abortuszjogok betiltását, erőteljes eszköz a progresszív mozgalom megosztására, a jobboldal egyesítésére és a 20. század során elvesztett dominancia visszaszerzésére.
 
 Ezért létfontosságú, hogy nyíltan harcoljunk ez ellen a reakciós offenzíva ellen, amely tönkreteszi LMBTQI+ kortársaink életét, és tágabb értelemben véve a mindenki számára egyenlő jogok felé vezető fejlődés időszakának lezárására szolgál. Talán az első lépés ebben a küzdelemben az, hogy széles körben megértessük, hogy a transz tény hosszú távon az emberiség ténye. A "transz" egy általános kifejezés, amelyet a transznemű vagy nem bináris emberek megjelölésére használnak, akik nem a születési nemük alapján határozzák meg magukat, vagy interszexuálisok. Bár a "transz" szó viszonylag új keletű, az általa lefedett sokféle valóság az évszázadok során az intézményesülés, az elfogadás vagy éppen ellenkezőleg, a kriminalizáció számos formáján ment keresztül.
 

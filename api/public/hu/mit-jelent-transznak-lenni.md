@@ -47,6 +47,8 @@ Tranzíciónak nevezhetünk mindent, amit egy transz személy megtehet annak ér
 
 **Mindezek az elemek opcionálisak, és egyéni döntés és lehetőség kérdése.**
 
+[Diszfóriával részletesebben itt olvashatsz](/#/entry?id=diszforia).
+
 ## Néhány definíció
 
 **Egy transz nő** az a személy, akit születésekor fiúnak jelöltek ki, és később lányként/nőként azonosítja magát. **Nőnemű névmásokkal hivatkozunk rá.**
@@ -69,6 +71,8 @@ Sokan igyekeznek **megérteni, hogy honnan es miért vannak transz emberek**. Ho
 Mindenesetre az, hogy mindenáron megpróbáljuk megérteni, honnan származik, az egy **zsákutca**. Az aktuális tudományos megértés szerint a genetikai, hormonális és idegrendszeri tényezők együttesen játszanak szerepet. Azt gondolják, hogy a magzati fejlődés során az agy nemi azonossága függetlenül alakulhat ki a külső fizikai jegyektől. Ennek eredményeként ellentmondás alakulhat ki valakinek a megtapasztalt nemük és a hozzájuk rendelt nemi azonosság között.
 
 Csak tudd, hogy transz emberek mindenféle családban, minden környezetben, minden időben léteznek, és hogy **nem te, nem a szüleid, nem a környezeted felelős a saját transz-ságodért**.
+
+[A transz történelemmel kapcsolatban itt részleteiben is olvashatsz](/#/entry?id=transz-tortenelem).
 
 ## Hogy néznek ki a transz emberek?
 

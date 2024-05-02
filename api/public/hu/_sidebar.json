@@ -145,10 +145,6 @@
     "title": "👩🏼 Feminizáló Hormonterápia",
     "children": [
       {
-        "entryId": "feminizalas-diszforia",
-        "title": "Diszfória"
-      },
-      {
         "entryId": "transz-nok-es-ferfi-elojogok",
         "title": "Van-e a transz nőknek bármilyen férfi előjoguk?"
       },
@@ -181,10 +177,6 @@
   {
     "title": "👨🏽 Maszkulinizáló Hormonterápia",
     "children": [
-      {
-        "entryId": "maszkulinizalas-diszforia",
-        "title": "Diszfória"
-      },
       {
         "entryId": "maszkulinizalas-passing",
         "title": "Férfi passing - tippek és tanácsok"

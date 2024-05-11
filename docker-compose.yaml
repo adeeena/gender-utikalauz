@@ -6,23 +6,23 @@ services:
     container_name: websites-gender-utikalauz-public-files
     restart: always
     volumes:
-      - /home/adena/docker/websites-gender-utikalauz/public-files/htdocs:/usr/local/apache2/htdocs
-      - /home/adena/docker/websites-gender-utikalauz/public-files/conf:/usr/local/apache2/conf
+      - /docker/websites-gender-utikalauz/public-files/htdocs:/usr/local/apache2/htdocs
+      - /docker/websites-gender-utikalauz/public-files/conf:/usr/local/apache2/conf
     ports:
-      - 4204:80
+      - 5000:80
 
   websites-gender-utikalauz-front:
     image: httpd
     restart: always
     volumes:
-      - /home/adena/docker/websites-gender-utikalauz/front:/usr/local/apache2/htdocs
+      - /docker/websites-gender-utikalauz/front:/usr/local/apache2/htdocs
     ports:
-      - 4201:80
+      - 4200:80
     container_name: websites-gender-utikalauz-front
 
   websites-gender-utikalauz-api:
     build: api
     restart: always
     ports:
-      - 4202:3000
+      - 4201:3000
     container_name: websites-gender-utikalauz-api

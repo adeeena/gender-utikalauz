@@ -67,34 +67,6 @@
           margin-left: .5rem;
         }
       }
-
-      &:nth-child(1) {
-        background: map-get($my-accent, 900);
-      }
-
-      &:nth-child(2) {
-        background: map-get($my-accent, 800);
-      }
-
-      &:nth-child(3) {
-        background: map-get($my-accent, 700);
-      }
-
-      &:nth-child(4) {
-        background: map-get($my-accent, 600);
-      }
-
-      &:nth-child(5) {
-        background: map-get($my-accent, 500);
-      }
-
-      &:nth-child(6) {
-        background: map-get($my-accent, 400);
-      }
-
-      &:nth-child(7) {
-        background: map-get($my-accent, 300);
-      }
     }
   }
 }

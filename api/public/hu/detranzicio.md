@@ -217,5 +217,7 @@ Ez a szám tehát sokféle valóságot foglal magába.
 
 ➡️ [Thoughts on detransitioning (MtFtM) and the trans community](https://www.youtube.com/watch?v=hvBiFX_zBVA)
 
+➡️ [Dispelling myths around detransition](https://www.stonewall.org.uk/about-us/news/dispelling-myths-around-detransition)
+
 ➡️ [The making of a detransitioner](https://xtramagazine.com/power/detransition-terf-movement-elisa-shupe-247592)
 

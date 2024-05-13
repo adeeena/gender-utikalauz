@@ -46,3 +46,6 @@ Szülőként az az egyik feladatod, hogy megadj a gyermekednek minden lehetősé
 * 9 - "Ez csak egy divathullám"
 * 10 - "Nem gondoltad végig eléggé"
 
+## További olvasmány
+
+➡️ [Tévhitek és mítoszok transz nőkről és a transzfeminin identitással kapcsolatban](/#/entry?id=transz-nok-tevhitek-es-mitoszok)

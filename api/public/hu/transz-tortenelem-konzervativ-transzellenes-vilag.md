@@ -9,7 +9,7 @@ lang: hu
 <div class="floating-bar">
 
 
-BEVEZETÖ
+BEVEZETŐ
 
 [Bevezető](/#/entry?id=transz-tortenelem)
 

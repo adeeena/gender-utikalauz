@@ -32,5 +32,5 @@ jobs:
         name: angular-build
         path: front/gender-utikalauz/dist
 
-#    - name: Call URL
-#      run: curl -X GET https://webhooks.adena.dev/hooks/gender-utikalauz-webhook
+    - name: Call URL
+      run: curl -X GET https://webhook.adena.dev/hooks/gender-utikalauz-deploy

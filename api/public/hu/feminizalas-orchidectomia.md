@@ -26,7 +26,7 @@ KAPCSOLÓDÓ KIADVÁNYOK
 
 ➡️ [Orvosi konzultáció - kérdéssor](https://public.genderutikalauz.hu/orvosi-konzultacio-kerdessor.pdf)
 
- ➡️ [Feminizáló műtétek](/#/entry?id=brosura-feminizalo-maszkulinizalo-mutetek)
+➡️ [Feminizáló műtétek](/#/entry?id=brosura-feminizalo-maszkulinizalo-mutetek)
 
 ➡️ [Műtéti hegmasszázs](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf)
 
@@ -38,23 +38,15 @@ KAPCSOLÓDÓ KIADVÁNYOK
 
 # Orchidektómia
 
-Az orchidektómia az egyik vagy mindkét here sebészi amputációja. Ez a műtét nem specifikus a transzidentitásra, és elvégezhető például hererák esetén is.
+Az orchidektómia az egyik vagy mindkét here sebészi amputációja, a herét vérrel ellátó erekkel együtt. Ez a műtét nem specifikus a transzidentitásra, és elvégezhető például hererák esetén is.
 
 Megjegyzendő, hogy a műtétnek több típusa létezik, gyakran a kezelőorvostól függően. Kérdezd meg sebészedet a műtéti technikájáról. **Egyes sebészek eltávolítják a herezacskót, ami összeegyeztethetetlen a hüvelyplasztikával.**
 
-## Következmények
+Megbeszélheted sebészével a hereprotézis lehetőségét pusztán kozmetikai céllal. Ez a beavatkozás a műtéttel egy időben vagy egy későbbi időpontban is elvégezhető.
 
-Az orchiektómia célja mindkét here eltávolítása. Ennek számos oka lehet, akár orvosi, akár egyszerűen csak az illető kényelmi szempontjai miatt.
+A műtét helyi vagy általános érzéstelenítésben végezhető. Mint minden műtéti beavatkozásnál, itt is szükséges az altatás előtti konzultáció néhány nappal a műtét előtt.
 
-**A herék eltávolítása leállítja a tesztoszteron- és spermiumtermelést.**
-
-Mivel a műtét után már nem termelnek tesztoszteront, a transz embereknek hormonkezelésben kell részt venniük, vagy át kell állítaniuk a jelenlegi kezelésüket.
-
-Ez a műtét nem változtatja meg a merevedési vagy magömlési képességet, és nem akadályozza meg az orgazmust. Ezért nem ajánlott, ha a személy el akarja kerülni a merevedést és/vagy a magömlést.
-
-Az orchidektómia nem véd a szexuális úton terjedő betegségek ellen.
-
-## Műtét és lábadozás
+## Műtét
 
 <div class="infobox warning">
 
@@ -72,9 +64,85 @@ A műtétet megelőző konzultáció(k)hoz készíts össze néhány kérdést, 
 
 </div>
 
-A műtét átlagosan csak 30 percig tart, és ambulánsan történik (még aznap hazamehet). A lábadozás, amely kissé fájdalmas lehet, 10 napig tart otthon.
+A műtét a here és az azt ellátó erek eltávolításából áll:
 
-A műtétet követően a fizikai és sporttevékenységek folytatása előtt egy hónapot kell várni.
+- vagy az elváltozással azonos oldalon az alhasban végzett metszéssel,
+
+- vagy a herezacskó bemetszésével.
+
+Nagyon ritka esetekben a herével együtt a herezacskó bőrének egy részét is eltávolíthatják. A sebész döntése szerint néhány napig szükség lehet a műtéti terület vízelvezetésére.
+
+A műtét átlagosan csak 30 percig tart, és ambulánsan történik (még aznap hazamehetsz).
+
+## Szokásos utóhatások
+
+A fájdalom a bemetszés helyén általában mérsékelt és átmeneti. Gyógyszeres fájdalomcsillapításra és jegelésre lesz szükség.
+
+## Hazatérés
+
+A kórházi tartózkodás időtartama a sebész utasításaitól függően egy és több nap között változik. A háziorvosodnak összefoglaló levelet kúldenek, hogy tájékoztassák az egészségi állapotodról.
+
+A műtéti beavatkozás helye egyben a fertőzések kapuja. Ezért elengedhetetlen a megfelelő helyi higiénia biztosítása. A teljes gyógyulásig nem ajánlott a fürdés. A zuhanyozás azonban lehetséges, amennyiben a műtéti területet védik és óvatosan, alaposan lefertőtlenítik utána a műtét helyét.
+
+A varratok gyakran 2-3 hét alatt maguktól felszívódnak. Szükség esetén a varratokat vagy kapcsokat orvosi rendelvény alapján az otthoni ápoló eltávolíthatja.
+
+Néha előfordulhat bőrfelszakadás.
+
+Ha a nyílás felületes (nincs jelentős váladékozás), egyszerűen meg kell várni, amíg bezáródik, ami több hétig is eltarthat (különösen cukorbetegeknél vagy kortikoszteroidokat szedő betegeknél).
+
+Nagyméretű hegnyílás vagy mély szétválás esetén a lehető leghamarabb fordulj urológusodhoz.
+
+Ha protézist helyeztek be, azt a műtét utáni első napokban naponta többször kézzel le kell dörzsölni, hogy az megfelelően elhelyezkedjen a megfelelő helyen.
+
+
+## Következmények
+
+Az orchiektómia célja mindkét here eltávolítása. Ennek számos oka lehet, akár orvosi, akár egyszerűen csak az illető kényelmi szempontjai miatt.
+
+**A herék eltávolítása leállítja a tesztoszteron- és spermiumtermelést.** A műtét előtt le kell fagyasztanod a spermáidat, ha tervezel valaha is gyerekeket biológiai úton.
+
+Mivel a műtét után már nem termelnek tesztoszteront, a transz embereknek hormonkezelésben kell részt venniük, vagy át kell állítaniuk a jelenlegi kezelésüket.
+
+Ez a műtét nem változtatja meg a merevedési vagy magömlési képességet, és nem akadályozza meg az orgazmust. Ezért nem ajánlott, ha a személy el akarja kerülni a merevedést és/vagy a magömlést.
+
+Az orchidektómia nem véd a szexuális úton terjedő betegségek ellen.
+
+## Kockázatok és szövődmények
+
+Az esetek többségében a műtét komplikációmentesen fog lezajlani. Azonban minden műtéti beavatkozás bizonyos számú kockázattal és szövődménnyel jár, ahogyan azt fentebb leírtuk.
+
+Néhány komplikáció az általános egészségi állapotoddal függ össze. Minden műtéti eljáráshoz érzéstelenítésre van szükség, akár helyi, akár általános érzéstelenítésre, ami kockázatokkal jár. Ezeket az altatóorvossal folytatott műtét előtti konzultáció során ismertetik majd.
+
+A műtéttel közvetlenül összefüggő egyéb szövődmények ritkák, de lehetségesek:
+
+A minden műtétre jellemző szövődmények a következők:
+* helyi vagy általános fertőzés
+* vérzés, esetleges vérömlennyel és néha transzfúzióval.
+* vénagyulladás és tüdőembólia
+* allergia
+
+**A műtétre jellemző szövődmények a gyakoriság sorrendjében a következők:**
+
+* véraláfutások
+A bőr kékes elszíneződése, amely nem fájdalmas és nincs következménye. Ez magától eltűnik.
+
+* Fájdalom
+A csípőideg sérülése fájdalmat vagy csökkent érzékenységet okozhat a comb vagy a herezacskó tövében.
+A tünetek általában maguktól tompulnak, de ha továbbra is fennállnak, speciális kezelést igényelhetnek.
+
+* Hematomák
+Ez a bőr alatti vérzés. Duzzanat vagy váladékozás, amely gyakran fájdalmas. Általában helyi kezeléssel gyógyul, de néha további műtétet igényelhet. Ha a műtéti terület vagy a bursa jelentősen megnagyobbodik, forduljon orvosához vagy urológusához.
+
+* Fertőzés, amely különböző formákban jelentkezhet.
+A heg vörös, forró és fájdalmas lesz, vagy a heg megemelkedik, váladékozni kezd. Gyakran jár lázzal.
+
+Minden esetben fontos, hogy újra kapcsolatba lépj sebészeddel.
+
+A hasi bemetszés esetén a műtött hasfal gyengülése következtében lágyéksérv alakulhat ki. Ez műtéti javítást igényelhet.
+
+A műtétet követően tilos:
+* 3 héten át 5 kg.-nál nehezebbet emelni,
+* 4 héten át szexuális együttléteknek.
 
 ## Orchiektómia és azt követő hüvelyplasztika
 

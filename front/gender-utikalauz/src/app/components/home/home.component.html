@@ -12,10 +12,10 @@
 
         <div class="buttons">
           <a routerLink="/intro">
-            <button class="close-button" mat-stroked-button
+            <button class="close-button" matButton="outlined"
                          color="primary">{{ 'general.intro' | translate }}</button>
           </a>
-          <button class="main-button" mat-flat-button color="primary" (click)="sidenavToggle()">
+          <button class="main-button" matButton="outlined" color="primary" (click)="sidenavToggle()">
             {{ 'general.allArticle' | translate }}
           </button>
         </div>

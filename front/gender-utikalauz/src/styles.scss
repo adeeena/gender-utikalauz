@@ -13,8 +13,6 @@ $my-theme: mat.m2-define-light-theme((
   )
 ));
 
-@include mat.all-legacy-component-themes($my-theme);
-
 .mat-drawer-content::-webkit-scrollbar {
   display: none;
 }

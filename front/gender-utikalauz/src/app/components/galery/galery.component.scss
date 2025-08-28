@@ -3,7 +3,7 @@
 
 .galery-container {
 	.galery-top {
-		background: map-get(mat.$indigo-palette, 50);
+		background: map-get(mat.$m2-indigo-palette, 50);
 		display: flex;
 		margin: 0 auto 1rem;
 		padding: 1rem 10vw 1rem;
@@ -28,7 +28,7 @@
 		}
 
 		.gender {
-			color: map-get(mat.$gray-palette, 700);
+			color: map-get(mat.$m2-gray-palette, 700);
 			font-size: .75rem;
 			margin-bottom: .5rem;
 			text-transform: uppercase;

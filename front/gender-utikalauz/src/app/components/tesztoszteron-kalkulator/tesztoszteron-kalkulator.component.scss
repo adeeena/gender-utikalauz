@@ -2,7 +2,7 @@
 @import '../../../styles';
 
 .content {
-  background: map-get(mat.$gray-palette, 100);
+  background: map-get(mat.$m2-gray-palette, 100);
   min-height: 90vh;
 
   a {
@@ -48,16 +48,16 @@
       }
 
       a, button {
-        color: map-get(mat.$gray-palette, 500);
+        color: map-get(mat.$m2-gray-palette, 500);
       }
     }
 
     .disclaimer {
-      color: map-get(mat.$gray-palette, 500);
+      color: map-get(mat.$m2-gray-palette, 500);
       margin: 2rem 0;
 
       a {
-        color: map-get(mat.$gray-palette, 500);
+        color: map-get(mat.$m2-gray-palette, 500);
       }
     }
 
@@ -88,7 +88,7 @@
   .close-button {
     border: 0;
     border-radius: 5px;
-    background: map-get(mat.$gray-palette, 200);
+    background: map-get(mat.$m2-gray-palette, 200);
     margin-top: 1rem;
   }
 }

@@ -55,13 +55,6 @@ Before you start, ensure you have met the following requirements:
    ng serve
    ```
 
-5. Start the development server with the server:
-
-   ```bash
-   cd ../api
-   npm install
-   node server.js
-   ```
 
 6. Open your web browser and visit [http://localhost:4200](http://localhost:4200) to access the application.
 

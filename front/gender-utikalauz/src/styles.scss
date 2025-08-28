@@ -1,7 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
 @use '@angular/material' as mat;
+@use '@ctrl/ngx-emoji-mart/picker';
 @import '@angular/cdk/overlay-prebuilt.css';
-@import '~@ctrl/ngx-emoji-mart/picker';
 
 $my-primary: mat.define-palette(mat.$blue-palette, 600);
 $my-accent: mat.define-palette(mat.$blue-palette, A200, A100, A400);

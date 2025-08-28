@@ -1,11 +1,10 @@
 import {Component, HostListener, Inject, OnInit} from '@angular/core';
 import {ActivatedRoute} from "@angular/router";
 import {EntryService} from "../../services/entry.service";
-import {MatLegacyDialog as MatDialog, MatLegacyDialogRef as MatDialogRef, MAT_LEGACY_DIALOG_DATA as MAT_DIALOG_DATA} from '@angular/material/legacy-dialog';
+import {MatDialog, MatDialogRef, MAT_DIALOG_DATA} from '@angular/material/dialog';
 import {fadeInUpOnEnterAnimation} from "angular-animations";
 import {Meta, Title} from "@angular/platform-browser";
 import {TranslateService} from "@ngx-translate/core";
-import {Utf8EmojisToImagesPipe} from "../../lib/pipes/utf8-emojis-to-images.pipe";
 import {MarkdownService} from "ngx-markdown";
 
 export interface DialogData {

@@ -1,7 +1,7 @@
 @use '@angular/material' as mat;
 @import '../../../styles';
 
-::ng-deep {
+::ng-deep body {
   .header-image {
     text-align: center;
 
@@ -244,7 +244,7 @@
   }
 }
 
-.mat-dialog-content {
+::ng-deep body {.mat-dialog-content, .mdc-dialog__container {
   overflow: hidden;
 
   input {
@@ -264,9 +264,10 @@
     margin-top: 1rem;
   }
 }
+}
 
 @media (min-width: 601px) {
-  ::ng-deep {
+  ::ng-deep body {
     .content {
       .entry-content {
         .entry-markdown {
@@ -312,7 +313,7 @@
 }
 
 @media (max-width: 600px) {
-  ::ng-deep {
+  ::ng-deep body {
     .floating-columns {
       display: flex;
       flex-direction: column;

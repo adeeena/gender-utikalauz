@@ -4,12 +4,9 @@ import {TranslateService} from "@ngx-translate/core";
 import { Router, NavigationEnd } from '@angular/router';
 import {AppConfigService} from "./services/app-config.service";
 import { filter } from 'rxjs/operators';
-import {MatLegacyInputModule as MatInputModule} from '@angular/material/legacy-input';
-import { BrowserModule } from '@angular/platform-browser';
-import {MatLegacyFormFieldModule as MatFormFieldModule} from '@angular/material/legacy-form-field';
 import {SidenavService} from "./services/sidenav-service.service";
 import {MatSidenav} from "@angular/material/sidenav";
-import {MatLegacyDialog as MatDialog, MatLegacyDialogRef as MatDialogRef, MAT_LEGACY_DIALOG_DATA as MAT_DIALOG_DATA} from '@angular/material/legacy-dialog';
+import {MatDialog, MatDialogRef, MAT_DIALOG_DATA} from '@angular/material/dialog';
 import {SearchService} from "./services/search.service";
 
 export interface CookieDialogData {

@@ -20,17 +20,17 @@ jobs:
 
     - name: Install dependencies
       run: npm install --legacy-peer-deps
-      working-directory: front/gender-utikalauz
+      working-directory: sources/gender-utikalauz
 
     - name: Build Angular project
       run: npm run build
-      working-directory: front/gender-utikalauz
+      working-directory: sources/gender-utikalauz
 
     - name: Archive Build Artifacts
       uses: actions/upload-artifact@v4
       with:
         name: angular-build
-        path: front/gender-utikalauz/dist
+        path: sources/dist
 
 #    - name: Call URL
 #      run: curl -X GET https://webhook.adena.dev/hooks/gender-utikalauz-deploy

@@ -1,5 +1,5 @@
-import { Pipe, PipeTransform, Inject } from '@angular/core';
-import { DOCUMENT } from '@angular/common';
+import { Pipe, PipeTransform, Inject, DOCUMENT } from '@angular/core';
+
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import { emojis, EmojiService, CompressedEmojiData } from '@ctrl/ngx-emoji-mart/ngx-emoji';
 

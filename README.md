@@ -1,6 +1,6 @@
 # Gender Utikalauz
 
-Welcome to Gender Utikalauz, a project built with Angular 13, dedicated to serving as a Hungarian LGBTQ Info Sharing Wiki and community resource.
+Welcome to Gender Utikalauz, a project built with Angular 20, dedicated to serving as a Hungarian LGBTQ Info Sharing Wiki and community resource.
 
 ## Table of Contents
 

@@ -49,6 +49,6 @@
     "karma-jasmine": "~4.0.0",
     "karma-jasmine-html-reporter": "~1.7.0",
     "markdown-yaml-metadata-parser": "^3.0.0",
-    "typescript": "5.5.4"
+    "typescript": "5.8.3"
   }
 }

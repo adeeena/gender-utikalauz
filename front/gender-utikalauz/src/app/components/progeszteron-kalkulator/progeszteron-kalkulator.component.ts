@@ -1,7 +1,5 @@
 import {Component, HostListener, Inject, OnInit, Renderer2, ViewChild, ElementRef, AfterViewInit} from '@angular/core';
 import {MatDialog, MatDialogRef, MAT_DIALOG_DATA} from '@angular/material/dialog';
-import {MatLegacyInputModule as MatInputModule} from '@angular/material/legacy-input';
-import {MatFormFieldModule} from '@angular/material/form-field';
 import {fadeInUpOnEnterAnimation} from "angular-animations";
 import {TranslateService} from "@ngx-translate/core";
 import {DialogElementsExampleDialog} from '../entry/entry.component';

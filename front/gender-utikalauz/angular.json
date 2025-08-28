@@ -80,10 +80,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "gender-utikalauz:build:production"
+              "buildTarget": "gender-utikalauz:build:production"
             },
             "development": {
-              "browserTarget": "gender-utikalauz:build:development"
+              "buildTarget": "gender-utikalauz:build:development"
             }
           },
           "defaultConfiguration": "development",
@@ -94,7 +94,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "gender-utikalauz:build"
+            "buildTarget": "gender-utikalauz:build"
           }
         }
     }

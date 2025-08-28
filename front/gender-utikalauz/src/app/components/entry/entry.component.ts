@@ -58,7 +58,7 @@ export class EntryComponent implements OnInit {
               [0].split(': ')[1]
               .replace(/['"]+/g, '');
 
-            this.entry = this.markdownService.compile(values[2]);
+            this.entry = this.markdownService.parse(values[2]);
 
             while (this.entry.indexOf('<a href="https://') > -1) {
               this.entry = this.entry.replace('<a href="https://', '<a target="_blank" href="https://');

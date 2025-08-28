@@ -1,7 +1,7 @@
 import {Component, HostListener, Inject, OnInit} from '@angular/core';
 import {ActivatedRoute} from "@angular/router";
 import {EntryService} from "../../services/entry.service";
-import {MatDialog, MatDialogRef, MAT_DIALOG_DATA} from '@angular/material/dialog';
+import {MatLegacyDialog as MatDialog, MatLegacyDialogRef as MatDialogRef, MAT_LEGACY_DIALOG_DATA as MAT_DIALOG_DATA} from '@angular/material/legacy-dialog';
 import {fadeInUpOnEnterAnimation} from "angular-animations";
 import {Meta, Title} from "@angular/platform-browser";
 import {TranslateService} from "@ngx-translate/core";

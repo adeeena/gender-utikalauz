@@ -29,7 +29,7 @@
     "@ngx-translate/core": "^14.0.0",
     "@ngx-translate/http-loader": "^7.0.0",
     "angular-animations": "^0.11.0",
-    "ngx-markdown": "^13.1.0",
+    "ngx-markdown": "^15",
     "ngx-translate": "^0.0.1-security",
     "npm": "^9.8.1",
     "rxjs": "~7.5.0",

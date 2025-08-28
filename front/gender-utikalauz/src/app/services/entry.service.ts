@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import {HttpClient} from "@angular/common/http";
+import { HttpClient } from "@angular/common/http";
 import {Entry} from "../models/entry";
 import * as myGlobals from '../globals';
 declare let process: any;

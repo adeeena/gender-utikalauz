@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import {Category} from "../models/category";
-import {HttpClient} from "@angular/common/http";
+import { HttpClient } from "@angular/common/http";
 import * as myGlobals from '../globals';
 import {AppConfigService} from "./app-config.service";
 declare let process: any;

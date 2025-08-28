@@ -11,7 +11,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HomeComponent } from './components/home/home.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { SidebarComponent } from './components/sidebar/sidebar.component';
-import {HttpClient, HttpClientModule} from "@angular/common/http";
+import { HttpClient, provideHttpClient, withInterceptorsFromDi } from "@angular/common/http";
 import {MatCardModule} from "@angular/material/card";
 import {PopupDialogComponent, SearchDialogComponent} from './app.component';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
@@ -49,62 +49,55 @@ export function initConfig(appConfig: AppConfigService) {
   return () => appConfig.loadConfig();
 }
 
-@NgModule({
-  declarations: [
-    AppComponent,
-    HomeComponent,
-    FooterComponent,
-    SidebarComponent,
-    EntryComponent,
-    DialogElementsExampleDialog,
-    PopupDialogComponent,
-    SearchDialogComponent,
-    HomeExplainComponent,
-    IntroComponent,
-    HeaderComponent,
-    LexikonComponent,
-    SzovetsegesekComponent,
-    GaleryComponent,
-    OsztrogenKalkulatorComponent,
-    TesztoszteronKalkulatorComponent,
-    ProgeszteronKalkulatorComponent,
-    HighamHiszterektomiaVervesztesegKalkulatorComponent
-  ],
-  imports: [
-    BrowserModule,
-    CommonModule,
-    AppRoutingModule,
-    BrowserAnimationsModule,
-    MatToolbarModule,
-    MatSidenavModule,
-    MatIconModule,
-    MatButtonModule,
-    HttpClientModule,
-    MatCardModule,
-    FontAwesomeModule,
-    MatChipsModule,
-    MatFormFieldModule,
-    MatInputModule,
-    FormsModule,
-    MatDialogModule,
-    MatExpansionModule,
-    PickerModule,
-    Utf8EmojisToImagesModule,
-    MarkdownModule.forRoot(),
-    TranslateModule.forRoot({
-      loader: {
-        provide: TranslateLoader,
-        useFactory: HttpLoaderFactory,
-        deps: [HttpClient]
-      }
-    }),
-  ],
-  providers: [{
-    provide: APP_INITIALIZER,
-    useFactory: initConfig,
-    deps: [AppConfigService],
-    multi: true,
-  }, SidenavService, SearchService],
-  bootstrap: [AppComponent]
-})
+@NgModule({ declarations: [
+        AppComponent,
+        HomeComponent,
+        FooterComponent,
+        SidebarComponent,
+        EntryComponent,
+        DialogElementsExampleDialog,
+        PopupDialogComponent,
+        SearchDialogComponent,
+        HomeExplainComponent,
+        IntroComponent,
+        HeaderComponent,
+        LexikonComponent,
+        SzovetsegesekComponent,
+        GaleryComponent,
+        OsztrogenKalkulatorComponent,
+        TesztoszteronKalkulatorComponent,
+        ProgeszteronKalkulatorComponent,
+        HighamHiszterektomiaVervesztesegKalkulatorComponent
+    ],
+    bootstrap: [AppComponent], imports: [BrowserModule,
+        CommonModule,
+        AppRoutingModule,
+        BrowserAnimationsModule,
+        MatToolbarModule,
+        MatSidenavModule,
+        MatIconModule,
+        MatButtonModule,
+        MatCardModule,
+        FontAwesomeModule,
+        MatChipsModule,
+        MatFormFieldModule,
+        MatInputModule,
+        FormsModule,
+        MatDialogModule,
+        MatExpansionModule,
+        PickerModule,
+        Utf8EmojisToImagesModule,
+        MarkdownModule.forRoot(),
+        TranslateModule.forRoot({
+            loader: {
+                provide: TranslateLoader,
+                useFactory: HttpLoaderFactory,
+                deps: [HttpClient]
+            }
+        })], providers: [{
+            provide: APP_INITIALIZER,
+            useFactory: initConfig,
+            deps: [AppConfigService],
+            multi: true,
+        }, SidenavService, SearchService, provideHttpClient(withInterceptorsFromDi())] })
 export class AppModule { }

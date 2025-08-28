@@ -19,10 +19,3 @@ services:
     ports:
       - 4200:80
     container_name: websites-gender-utikalauz-front
-
-  websites-gender-utikalauz-api:
-    build: api
-    restart: always
-    ports:
-      - 4201:3000
-    container_name: websites-gender-utikalauz-api

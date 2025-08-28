@@ -10,7 +10,8 @@ import { emojis, EmojiService, CompressedEmojiData } from '@ctrl/ngx-emoji-mart/
  */
 /** @dynamic */
 @Pipe({
-  name: 'utf8EmojisToImages'
+    name: 'utf8EmojisToImages',
+    standalone: false
 })
 export class Utf8EmojisToImagesPipe implements PipeTransform {
   private static cachedEmojiRegex: RegExp;

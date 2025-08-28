@@ -1,4 +1,4 @@
-import { NgModule, APP_INITIALIZER } from '@angular/core';
+import { NgModule, inject, provideAppInitializer } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { CommonModule } from '@angular/common';
 import { MatToolbarModule} from "@angular/material/toolbar";
@@ -94,10 +94,8 @@ export function initConfig(appConfig: AppConfigService) {
                 useFactory: HttpLoaderFactory,
                 deps: [HttpClient]
             }
-        })], providers: [{
-            provide: APP_INITIALIZER,
-            useFactory: initConfig,
-            deps: [AppConfigService],
-            multi: true,
-        }, SidenavService, SearchService, provideHttpClient(withInterceptorsFromDi())] })
+        })], providers: [provideAppInitializer(() => {
+        const initializerFn = (initConfig)(inject(AppConfigService));
+        return initializerFn();
+      }), SidenavService, SearchService, provideHttpClient(withInterceptorsFromDi())] })
 export class AppModule { }

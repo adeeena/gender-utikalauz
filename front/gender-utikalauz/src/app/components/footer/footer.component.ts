@@ -3,9 +3,10 @@ import { faGithub, faDiscord, faPatreon, faDev, faPaypal } from "@fortawesome/fr
 import {faMugSaucer} from "@fortawesome/free-solid-svg-icons";
 
 @Component({
-  selector: 'app-footer',
-  templateUrl: './footer.component.html',
-  styleUrls: ['./footer.component.scss']
+    selector: 'app-footer',
+    templateUrl: './footer.component.html',
+    styleUrls: ['./footer.component.scss'],
+    standalone: false
 })
 export class FooterComponent implements OnInit {
   faGithub = faGithub;

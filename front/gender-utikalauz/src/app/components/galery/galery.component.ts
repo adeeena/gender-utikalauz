@@ -4,9 +4,10 @@ import * as myGlobals from "../../globals";
 declare let process: any;
 
 @Component({
-  selector: 'app-galery',
-  templateUrl: './galery.component.html',
-  styleUrls: ['./galery.component.scss']
+    selector: 'app-galery',
+    templateUrl: './galery.component.html',
+    styleUrls: ['./galery.component.scss'],
+    standalone: false
 })
 export class GaleryComponent implements OnInit {
   public galery: any[] = [];

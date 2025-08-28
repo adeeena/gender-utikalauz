@@ -5,12 +5,13 @@ import {Title} from "@angular/platform-browser";
 import {SidenavService} from "../../services/sidenav-service.service";
 
 @Component({
-  selector: 'app-home',
-  templateUrl: './home.component.html',
-  styleUrls: ['./home.component.scss'],
-  animations: [
-    fadeInUpOnEnterAnimation({ anchor: 'enter1', duration: 1000, delay: 100, translate: '30px' })
-  ]
+    selector: 'app-home',
+    templateUrl: './home.component.html',
+    styleUrls: ['./home.component.scss'],
+    animations: [
+        fadeInUpOnEnterAnimation({ anchor: 'enter1', duration: 1000, delay: 100, translate: '30px' })
+    ],
+    standalone: false
 })
 export class HomeComponent implements OnInit {
   private searchText: string = '';

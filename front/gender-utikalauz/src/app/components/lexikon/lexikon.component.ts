@@ -1,9 +1,10 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-lexikon',
-  templateUrl: './lexikon.component.html',
-  styleUrls: ['./lexikon.component.scss']
+    selector: 'app-lexikon',
+    templateUrl: './lexikon.component.html',
+    styleUrls: ['./lexikon.component.scss'],
+    standalone: false
 })
 export class LexikonComponent implements OnInit {
   entries: any[] = [];

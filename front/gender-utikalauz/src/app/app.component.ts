@@ -14,9 +14,10 @@ export interface CookieDialogData {
 }
 
 @Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss']
+    selector: 'app-root',
+    templateUrl: './app.component.html',
+    styleUrls: ['./app.component.scss'],
+    standalone: false
 })
 export class AppComponent implements OnInit {
   public isOpened: boolean = false;
@@ -176,8 +177,9 @@ export class AppComponent implements OnInit {
 }
 
 @Component({
-  selector: 'search-dialog',
-  templateUrl: './search-dialog.component.html',
+    selector: 'search-dialog',
+    templateUrl: './search-dialog.component.html',
+    standalone: false
 })
 export class SearchDialogComponent implements OnInit {
   private searchText: string = '';
@@ -219,8 +221,8 @@ export class SearchDialogComponent implements OnInit {
 }
 
 @Component({
-  selector: 'popup-dialog',
-  template: `
+    selector: 'popup-dialog',
+    template: `
     <h1 mat-dialog-title>Gyors Bezárás</h1>
     <div mat-dialog-content>
       <p>{{ data.message }}</p>
@@ -229,6 +231,7 @@ export class SearchDialogComponent implements OnInit {
       <button class="main-button" mat-button (click)="onClick()">OK</button>
     </div>
   `,
+    standalone: false
 })
 export class PopupDialogComponent {
   constructor(public dialogRef: MatDialogRef<PopupDialogComponent>,

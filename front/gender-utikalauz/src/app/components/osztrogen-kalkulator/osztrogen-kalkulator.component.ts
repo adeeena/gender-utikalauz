@@ -9,16 +9,17 @@ export interface DialogData {
 }
 
 @Component({
-  selector: 'app-osztrogen-kalkulator',
-  templateUrl: './osztrogen-kalkulator.component.html',
-  styleUrls: ['./osztrogen-kalkulator.component.scss'],
-  animations: [
-    fadeInUpOnEnterAnimation({ anchor: 'enter1', duration: 1000, delay: 100, translate: '30px' }),
-    fadeInUpOnEnterAnimation({ anchor: 'enter2', duration: 1000, delay: 300, translate: '30px' }),
-    fadeInUpOnEnterAnimation({ anchor: 'enter3', duration: 1000, delay: 500, translate: '30px' }),
-    fadeInUpOnEnterAnimation({ anchor: 'enter4', duration: 1000, delay: 800, translate: '30px' }),
-    fadeInUpOnEnterAnimation({ anchor: 'enter5', duration: 1000, delay: 1500, translate: '30px' }),
-  ]
+    selector: 'app-osztrogen-kalkulator',
+    templateUrl: './osztrogen-kalkulator.component.html',
+    styleUrls: ['./osztrogen-kalkulator.component.scss'],
+    animations: [
+        fadeInUpOnEnterAnimation({ anchor: 'enter1', duration: 1000, delay: 100, translate: '30px' }),
+        fadeInUpOnEnterAnimation({ anchor: 'enter2', duration: 1000, delay: 300, translate: '30px' }),
+        fadeInUpOnEnterAnimation({ anchor: 'enter3', duration: 1000, delay: 500, translate: '30px' }),
+        fadeInUpOnEnterAnimation({ anchor: 'enter4', duration: 1000, delay: 800, translate: '30px' }),
+        fadeInUpOnEnterAnimation({ anchor: 'enter5', duration: 1000, delay: 1500, translate: '30px' }),
+    ],
+    standalone: false
 })
 
 export class OsztrogenKalkulatorComponent implements OnInit, AfterViewInit {

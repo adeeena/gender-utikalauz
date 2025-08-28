@@ -1,5 +1,6 @@
 @use '@angular/material' as mat;
-@import '../../../styles';
+@use "sass:map";
+@use '../../../styles';
 
 .content {
   .header-card {
@@ -12,7 +13,7 @@
       .home-box {
         background: white;
         border-radius: 5px;
-        color: map-get(mat.$m2-blue-palette, 700);
+        color: map.get(mat.$m2-blue-palette, 700);
         padding: 1rem;
 
         .home-box-title {

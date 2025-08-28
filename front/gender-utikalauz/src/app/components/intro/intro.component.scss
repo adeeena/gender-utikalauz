@@ -1,5 +1,5 @@
 @use '@angular/material' as mat;
-@import '../../../styles';
+@use '../../../styles';
 
 .intro-container {
   .pink-container {
@@ -278,8 +278,8 @@
       }
 
       .recommendation-item {
-        border: 2px solid $pink-color;
-        box-shadow: 5px 5px $pink-light-color; //#FFCADE;
+        border: 2px solid styles.$pink-color;
+        box-shadow: 5px 5px styles.$pink-light-color; //#FFCADE;
         background: white;
         padding: 1rem;
 

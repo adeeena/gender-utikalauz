@@ -1,9 +1,10 @@
 @use '@angular/material' as mat;
-@import '../../../styles';
+@use "sass:map";
+@use '../../../styles';
 
 .galery-container {
 	.galery-top {
-		background: map-get(mat.$m2-indigo-palette, 50);
+		background: map.get(mat.$m2-indigo-palette, 50);
 		display: flex;
 		margin: 0 auto 1rem;
 		padding: 1rem 10vw 1rem;
@@ -21,14 +22,14 @@
 		}
 
 		h5 {
-			color: $pink-color;
+			color: styles.$pink-color;
 			font-size: 1.2rem;
 			margin-top: .5rem;
 			margin-bottom: 0;
 		}
 
 		.gender {
-			color: map-get(mat.$m2-gray-palette, 700);
+			color: map.get(mat.$m2-gray-palette, 700);
 			font-size: .75rem;
 			margin-bottom: .5rem;
 			text-transform: uppercase;

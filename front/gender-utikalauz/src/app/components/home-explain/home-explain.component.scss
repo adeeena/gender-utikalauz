@@ -1,8 +1,9 @@
 @use '@angular/material' as mat;
-@import '../../../styles';
+@use "sass:map";
+@use '../../../styles';
 
 .explain-card-content {
-  border-top: 4px solid $pink-color;
+  border-top: 4px solid styles.$pink-color;
   display: flex;
   flex-direction: column;
   height: 100%;
@@ -15,7 +16,7 @@
   }
 
   a {
-    color: map-get(mat.$m2-gray-palette, 600);
+    color: map.get(mat.$m2-gray-palette, 600);
   }
 
   .recommendation-items {
@@ -37,8 +38,8 @@
     }
 
     .recommendation-item {
-      border: 2px solid $pink-color;
-      box-shadow: 5px 5px $pink-light-color; //#FFCADE;
+      border: 2px solid styles.$pink-color;
+      box-shadow: 5px 5px styles.$pink-light-color; //#FFCADE;
       background: white;
       
 

@@ -1,8 +1,9 @@
 @use '@angular/material' as mat;
-@import '../../../styles';
+@use "sass:map";
+@use '../../../styles';
 
 .content {
-  border-top: .3rem solid $blue-color;
+  border-top: .3rem solid styles.$blue-color;
   color: white;
   min-height: 10rem;
 
@@ -34,7 +35,7 @@
         display: flex;
 
         a {
-          background: map-get(mat.$m2-blue-palette, 400);
+          background: map.get(mat.$m2-blue-palette, 400);
           border-radius: 50px;
           justify-content: center;
           display: flex;

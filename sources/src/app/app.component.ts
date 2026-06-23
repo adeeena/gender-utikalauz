@@ -48,11 +48,23 @@ export class AppComponent implements OnInit {
         if (this.mainContentDiv) {
           (this.mainContentDiv.elementRef!.nativeElement as HTMLElement).scrollTop = 0;
         }
+        this.trackPageView(event.urlAfterRedirects || this.router.url);
       });
   }
 
   ngAfterViewInit(): void {
     this.sidenavService.setSidenav(this.sidenav);
+  }
+
+  private trackPageView(path: string): void {
+    const gtag = (window as any).gtag;
+    if (typeof gtag === 'function') {
+      gtag('event', 'page_view', {
+        page_path: path,
+        page_location: window.location.href,
+        page_title: document.title
+      });
+    }
   }
 
   @HostListener('window:resize', ['$event'])

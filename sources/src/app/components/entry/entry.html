@@ -1,0 +1,25 @@
+<div class="content">
+  @if (entry) {
+    <div class="entry-content">
+      <div class="entry-markdown" [@enter1] [innerHTML]="entry | utf8EmojisToImages:'apple':16"></div>
+      <div class="entry-actions" [@enter3]>
+        <div class="back-to-home">
+          <a [routerLink]="['/']">
+            {{ 'general.backToHome' | translate }}
+          </a>
+        </div>
+        <div class="actions">
+          <button mat-icon-button (click)="openShareDialog()">
+            <mat-icon>share</mat-icon>
+          </button>
+        </div>
+      </div>
+      <div class="disclaimer" [@enter4]>
+        <b>{{ 'entry.foundErrorTitle' | translate }} </b>
+        <span [innerHTML]="'entry.foundErrorText' | translate"></span>
+      </div>
+      <div class="disclaimer" [@enter4]>
+      </div>
+    </div>
+  }
+</div>

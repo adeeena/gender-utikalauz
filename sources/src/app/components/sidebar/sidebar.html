@@ -1,0 +1,30 @@
+<div class="sidebar-container">
+  <div class="sidebar-title">
+    {{ 'sidebar.title' | translate }}
+  </div>
+
+  <a [routerLink]="['/']" class="back-to-home" (click)="linkClicked()">
+    {{ 'general.backToHome' | translate }}
+  </a>
+
+  <div class="sidebar-item-container">
+    @for (category of categories; track category) {
+      <div class="category">
+        <div class="category-title" [innerHTML]="category.title | utf8EmojisToImages:'apple':14">
+        </div>
+        @for (subcategory of category.children; track subcategory) {
+          <a [routerLink]="[subcategory.id ? subcategory.id : '/entry']"
+            [queryParams]="{ id: subcategory.id ? '' : subcategory.entryId}"
+            (click)="linkClicked()"
+            class="sidebar-item">
+            <button>
+              <div class="text">
+                {{subcategory.title}}
+              </div>
+            </button>
+          </a>
+        }
+      </div>
+    }
+  </div>
+</div>

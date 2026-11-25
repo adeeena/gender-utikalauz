@@ -42,10 +42,6 @@
               "src/fonts.scss",
               "src/styles.scss"
             ],
-            "scripts": [
-              "node_modules/emoji-toolkit/lib/js/joypixels.min.js",
-              "node_modules/marked/marked.min.js"
-            ],
             "browser": "src/main.ts"
           },
           "configurations": {
@@ -65,7 +61,7 @@
               "fileReplacements": [
                 {
                   "replace": "src/environments/environment.ts",
-                  "with": "src/environments/environment.prod.ts"
+                  "with": "src/environments/environment.production.ts"
                 }
               ],
               "outputHashing": "all"
@@ -89,10 +85,7 @@
               "buildTarget": "gender-utikalauz:build:development"
             }
           },
-          "defaultConfiguration": "development",
-          "scripts": [
-            "node_modules/emoji-toolkit/lib/js/joypixels.min.js",
-            "node_modules/marked/marked.min.js"]
+          "defaultConfiguration": "development"
         },
         "extract-i18n": {
           "builder": "@angular/build:extract-i18n",

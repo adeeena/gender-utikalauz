@@ -1,0 +1,30 @@
+<div class="container">
+  <div class="header-container">
+    <div class="title">Lexikon</div>
+    <div class="subtitle">a transzidentitásról</div>
+  </div>
+
+  <div class="entries">
+    @for (entry of entries; track entry) {
+      <div class="category">
+        <div class="letter">
+          {{ entry.letter }}
+        </div>
+        <div class="category-entries">
+          @for (e of entry.entries; track e) {
+            <div class="entry">
+              <div class="title" [innerHTML]="e.title | utf8EmojisToImages:'apple':20">
+              </div>
+              <div class="subtitle">
+                {{ e.subtitle }}
+              </div>
+              <div class="explain">
+                {{ e.explain }}
+              </div>
+            </div>
+          }
+        </div>
+      </div>
+    }
+  </div>
+</div>

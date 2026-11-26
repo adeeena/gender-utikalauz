@@ -1,25 +1,32 @@
-import { ComponentFixture, TestBed } from '@angular/core/testing';
+import {renderEntryDocument} from '@components/entry/entry';
 
-import { EntryComponent } from '@components/entry/entry';
+describe('renderEntryDocument', () => {
+  it('waits for markdown rendering and keeps the complete article body', async () => {
+    const raw = [
+      '---',
+      'title: "Masztektómia"',
+      'description: "Mellkasi műtétről: rövid összefoglaló."',
+      '---',
+      '# Masztektómia',
+      '',
+      '---',
+      '',
+      '[Tovább](https://example.org)'
+    ].join('\n');
 
-describe('EntryComponent', () => {
-  let component: EntryComponent;
-  let fixture: ComponentFixture<EntryComponent>;
+    const document = await renderEntryDocument(raw, async (markdown) => {
+      await Promise.resolve();
+      expect(markdown).toContain('\n---\n');
+      return `<article>${markdown.replace(
+        '[Tovább](https://example.org)',
+        '<a href="https://example.org">Tovább</a>'
+      )}</article>`;
+    });
 
-  beforeEach(async () => {
-    await TestBed.configureTestingModule({
-      declarations: [ EntryComponent ]
-    })
-    .compileComponents();
-  });
-
-  beforeEach(() => {
-    fixture = TestBed.createComponent(EntryComponent);
-    component = fixture.componentInstance;
-    fixture.detectChanges();
-  });
-
-  it('should create', () => {
-    expect(component).toBeTruthy();
+    expect(document.title).toBe('Masztektómia');
+    expect(document.description).toContain('összefoglaló.');
+    expect(document.html).toContain('# Masztektómia');
+    expect(document.html).toContain('\n---\n');
+    expect(document.html).toContain('target="_blank"');
   });
 });

@@ -1,13 +1,15 @@
-@use '@angular/material' as mat;
-@use "sass:map";
-@use '../../../styles';
+@use '../../../tokens' as styles;
 
 .galery-container {
 	.galery-top {
-		background: map.get(mat.$m2-indigo-palette, 50);
+		background: #e8eaf6;
 		display: flex;
 		margin: 0 auto 1rem;
 		padding: 1rem 10vw 1rem;
+
+		.left-side h1 {
+			text-align: left;
+		}
 	}
 
 	.galery-items {
@@ -29,7 +31,7 @@
 		}
 
 		.gender {
-			color: map.get(mat.$m2-gray-palette, 700);
+			color: #616161;
 			font-size: .75rem;
 			margin-bottom: .5rem;
 			text-transform: uppercase;
@@ -48,7 +50,7 @@
 		.left-side {
 			order: 2;
 
-			h2 {
+			h1 {
 				text-align: center;
 			}
 		}
@@ -96,4 +98,9 @@
 		grid-template-columns: repeat(4, 1fr);
 		padding: 1rem 10vw 1rem;
 	}
+}
+.left-side a {
+  display: inline-block;
+  line-height: 1.5;
+  min-height: 24px;
 }

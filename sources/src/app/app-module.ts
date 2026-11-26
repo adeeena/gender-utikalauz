@@ -1,27 +1,17 @@
 import { NgModule, inject, provideAppInitializer } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { CommonModule } from '@angular/common';
-import { MatToolbarModule} from "@angular/material/toolbar";
-import { MatIconModule} from "@angular/material/icon";
-import { MatButtonModule} from "@angular/material/button";
 import { AppRoutingModule } from '@app/app-routing';
-import {MatSidenavModule} from "@angular/material/sidenav";
 import { AppComponent } from '@app/app';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HomeComponent } from '@components/home/home';
 import { FooterComponent } from '@components/footer/footer';
 import { SidebarComponent } from '@components/sidebar/sidebar';
 import { HttpClient, provideHttpClient, withInterceptorsFromDi, withXhr } from "@angular/common/http";
-import {MatCardModule} from "@angular/material/card";
 import {PopupDialogComponent, SearchDialogComponent} from '@app/app';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import {DialogElementsExampleDialog, EntryComponent} from '@components/entry/entry';
-import {MatChipsModule} from "@angular/material/chips";
-import {MatFormFieldModule} from "@angular/material/form-field";
-import {MatInputModule} from "@angular/material/input";
 import {FormsModule} from "@angular/forms";
-import {MatDialogModule} from "@angular/material/dialog";
-import {MatExpansionModule} from "@angular/material/expansion";
 import { TranslateModule, TranslateLoader } from '@ngx-translate/core';
 import {TranslationLoader} from "@i18n/translation-loader";
 import {AppConfigService} from "@services/app-config";
@@ -40,6 +30,7 @@ import { OsztrogenKalkulatorComponent } from '@components/osztrogen-kalkulator/o
 import { TesztoszteronKalkulatorComponent } from '@components/tesztoszteron-kalkulator/tesztoszteron-kalkulator';
 import { ProgeszteronKalkulatorComponent } from '@components/progeszteron-kalkulator/progeszteron-kalkulator';
 import { HighamHiszterektomiaVervesztesegKalkulatorComponent } from '@components/higham-hiszterektomia-verveszteseg-kalkulator/higham-hiszterektomia-verveszteseg-kalkulator';
+import { IconComponent } from '@components/icon/icon';
 
 export function HttpLoaderFactory(http: HttpClient): TranslationLoader {
   return new TranslationLoader(http);
@@ -61,6 +52,7 @@ export function initConfig(appConfig: AppConfigService) {
         HomeExplainComponent,
         IntroComponent,
         HeaderComponent,
+        IconComponent,
         LexikonComponent,
         SzovetsegesekComponent,
         GaleryComponent,
@@ -73,18 +65,8 @@ export function initConfig(appConfig: AppConfigService) {
         CommonModule,
         AppRoutingModule,
         BrowserAnimationsModule,
-        MatToolbarModule,
-        MatSidenavModule,
-        MatIconModule,
-        MatButtonModule,
-        MatCardModule,
         FontAwesomeModule,
-        MatChipsModule,
-        MatFormFieldModule,
-        MatInputModule,
         FormsModule,
-        MatDialogModule,
-        MatExpansionModule,
         PickerModule,
         Utf8EmojisToImagesModule,
         MarkdownModule.forRoot(),

@@ -1,7 +1,7 @@
 <div class="galery-container">
   <div class="galery-top">
     <div class="left-side">
-      <h2>Galéria</h2>
+      <h1>Galéria</h1>
 
       <p>
         A transznemű emberek láthatóságának hiánya és negatív képe miatt gyakran sztereotípiáknak esnek áldozatul.
@@ -22,14 +22,14 @@
     </div>
 
     <div class="right-side">
-      <img src="assets/images/undraw_awards.svg" />
+      <img src="assets/images/undraw_awards.svg" alt="" />
     </div>
   </div>
 
   <div class="galery-items">
     @for (item of galery; track item) {
       <div class="galery-item">
-			<a href="{{ item.link }}" target="_blank" [ngStyle]="{
+			<a href="{{ item.link }}" target="_blank" rel="noopener" [attr.aria-label]="'További információ: ' + item.name" [ngStyle]="{
 				'background-image': 'url(' + baseUrl + '/images/' + item.image + ')'
 			}">
         </a>

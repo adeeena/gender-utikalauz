@@ -1,27 +1,20 @@
 import { Injectable } from '@angular/core';
-import {MatSidenav} from "@angular/material/sidenav";
-
+import { BehaviorSubject } from 'rxjs';
 
 @Injectable()
 export class SidenavService {
-  // @ts-ignore
-  private sidenav: MatSidenav;
-
-
-  public setSidenav(sidenav: MatSidenav) {
-    this.sidenav = sidenav;
-  }
+  private readonly state = new BehaviorSubject<boolean>(false);
+  public readonly isOpen$ = this.state.asObservable();
 
   public open() {
-    return this.sidenav.open();
+    this.state.next(true);
   }
 
-
   public close() {
-    return this.sidenav.close();
+    this.state.next(false);
   }
 
   public toggle() {
-    this.sidenav.toggle();
+    this.state.next(!this.state.value);
   }
 }

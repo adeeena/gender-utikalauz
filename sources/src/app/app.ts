@@ -1,12 +1,11 @@
 import { Meta, Title } from '@angular/platform-browser';
-import {Component, OnInit, HostListener, Inject, ViewChild, ChangeDetectionStrategy} from '@angular/core';
+import {Component, OnInit, HostListener, Inject, ViewChild, ChangeDetectionStrategy, ElementRef} from '@angular/core';
 import {TranslateService} from "@ngx-translate/core";
 import { Router, NavigationEnd } from '@angular/router';
 import {AppConfigService} from "@services/app-config";
 import { filter } from 'rxjs/operators';
 import {SidenavService} from "@services/sidenav";
-import {MatSidenav} from "@angular/material/sidenav";
-import {MatDialog, MatDialogRef, MAT_DIALOG_DATA} from '@angular/material/dialog';
+import {DIALOG_DATA, DialogRef, DialogService} from "@services/dialog";
 import {SearchService} from "@services/search";
 
 export interface CookieDialogData {
@@ -25,36 +24,38 @@ export class AppComponent implements OnInit {
   public isHeaderVisible: boolean = false;
   escapeKeyPressCount: number = 0;
   lastKeyPressTime: number = Date.now();
-  private innerWidth: number = 0;
 
-  // @ts-ignore
-  @ViewChild('sidenav') public sidenav: MatSidenav;
-
-  @ViewChild("mainContent")
-  private mainContentDiv!: any;
+  @ViewChild('mainContent', {read: ElementRef})
+  private mainContentDiv!: ElementRef<HTMLElement>;
 
   constructor(private translate: TranslateService,
               private appConfigService: AppConfigService,
               private meta: Meta,
               private title: Title,
               private router: Router,
-              private dialog: MatDialog,
+              private dialog: DialogService,
               private sidenavService: SidenavService) {
     translate.setDefaultLang(appConfigService.getConfig().languageCode);
+
+    this.sidenavService.isOpen$.subscribe((isOpen) => {
+      this.isOpened = isOpen;
+    });
 
     this.router.events.pipe(filter((event: any) => {
         return event instanceof NavigationEnd;
       })).subscribe((event: any) => {
-        this.isHeaderVisible = this.router.url !== '/';
-        if (this.mainContentDiv) {
-          (this.mainContentDiv.elementRef!.nativeElement as HTMLElement).scrollTop = 0;
-        }
+        this.isHeaderVisible = event.urlAfterRedirects !== '/';
+        this.resetPagePosition();
         this.trackPageView(event.urlAfterRedirects || this.router.url);
       });
   }
 
-  ngAfterViewInit(): void {
-    this.sidenavService.setSidenav(this.sidenav);
+  private resetPagePosition(): void {
+    requestAnimationFrame(() => {
+      const mainContent = this.mainContentDiv?.nativeElement;
+      mainContent?.scrollTo({top: 0, left: 0});
+      window.scrollTo({top: 0, left: 0});
+    });
   }
 
   private trackPageView(path: string): void {
@@ -66,11 +67,6 @@ export class AppComponent implements OnInit {
         page_title: document.title
       });
     }
-  }
-
-  @HostListener('window:resize', ['$event'])
-  onResize(event: any) {
-    this.innerWidth = window.innerWidth;
   }
 
   ngOnInit() {
@@ -105,7 +101,6 @@ export class AppComponent implements OnInit {
 
   showPopup(message: string) {
     const dialogRef = this.dialog.open(PopupDialogComponent, {
-      width: this.innerWidth <= 600 ? '90vw' : '50vw',
       data: { message: message }
     });
 
@@ -175,13 +170,19 @@ export class AppComponent implements OnInit {
   }
 
   toggleSearch() {
-    const dialogRef = this.dialog.open(SearchDialogComponent, {
-      width: this.innerWidth <= 600 ? '90vw' : '50vw'
+    this.dialog.open(SearchDialogComponent, {
+      panelClass: 'search-dialog-panel',
+      autoFocus: '.search-input'
     });
   }
 
   toggleSidenav() {
     this.sidenavService.toggle();
+  }
+
+  focusMainContent(event: Event): void {
+    event.preventDefault();
+    document.getElementById('main-content')?.focus();
   }
 
   closeSidenav() {
@@ -198,9 +199,13 @@ export class AppComponent implements OnInit {
 export class SearchDialogComponent implements OnInit {
   private searchText: string = '';
   public searchResults: any = [];
+  public searching = false;
+  public searchError = false;
+  public searchAttempted = false;
+  private requestId = 0;
 
-  constructor(public dialogRef: MatDialogRef<SearchDialogComponent>,
-              @Inject(MAT_DIALOG_DATA) public data: any,
+  constructor(public dialogRef: DialogRef,
+              @Inject(DIALOG_DATA) public data: any,
               private searchService: SearchService
   ) {}
 
@@ -214,22 +219,34 @@ export class SearchDialogComponent implements OnInit {
 
   searchUpdated($event: Event) {
     if (($event as any).target) {
-      this.searchText = ($event as any).target.value;
+      this.searchText = ($event as any).target.value.trim();
+      this.searchError = false;
 
       if (this.searchText.length < 3) {
         this.searchResults = [];
+        this.searching = false;
+        this.searchAttempted = false;
+        this.requestId++;
         return;
       }
 
-      this.searchService.search(this.searchText, 'hu').subscribe(
-        (results) => {
+      const requestId = ++this.requestId;
+      this.searchAttempted = true;
+      this.searching = true;
+      this.searchService.search(this.searchText, 'hu').subscribe({
+        next: (results) => {
+          if (requestId !== this.requestId) return;
           this.searchResults = results;
-          console.dir(results);
+          this.searching = false;
         },
-        (error) => {
+        error: (error) => {
+          if (requestId !== this.requestId) return;
           console.error('Error fetching search results:', error);
+          this.searchResults = [];
+          this.searching = false;
+          this.searchError = true;
         }
-      );
+      });
     }
   }
 }
@@ -237,20 +254,20 @@ export class SearchDialogComponent implements OnInit {
 @Component({
     selector: 'popup-dialog',
     template: `
-    <h1 mat-dialog-title>Gyors Bezárás</h1>
-    <div mat-dialog-content>
+    <div class="dialog-panel">
+      <h2>Gyors Bezárás</h2>
       <p>{{ data.message }}</p>
-    </div>
-    <div align="end" mat-dialog-actions>
-      <button class="main-button" mat-button (click)="onClick()">OK</button>
+      <div class="dialog-actions">
+        <button class="btn btn-primary" type="button" (click)="onClick()">OK</button>
+      </div>
     </div>
   `,
     changeDetection: ChangeDetectionStrategy.Eager,
     standalone: false
 })
 export class PopupDialogComponent {
-  constructor(public dialogRef: MatDialogRef<PopupDialogComponent>,
-              @Inject(MAT_DIALOG_DATA) public data: CookieDialogData,
+  constructor(public dialogRef: DialogRef,
+              @Inject(DIALOG_DATA) public data: CookieDialogData,
 
   ) {}
 

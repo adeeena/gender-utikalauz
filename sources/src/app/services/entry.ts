@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from "@angular/common/http";
-import type {Entry} from "@types";
+import type {RecentEntry} from "@types";
 import * as myGlobals from '@app/globals';
 declare let process: any;
 
@@ -33,5 +33,9 @@ export class EntryService {
 
   searchBy(query: string) {
     return this.http.get<any>(this.baseUrl + this.searchByUrl + query);
+  }
+
+  getRecentlyModified() {
+    return this.http.get<RecentEntry[]>(this.baseUrl + '/recent-entries?languageCode=hu');
   }
 }

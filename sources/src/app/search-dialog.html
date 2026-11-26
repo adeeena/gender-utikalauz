@@ -1,27 +1,53 @@
 <div class="search-section">
-  <h1 mat-dialog-title>
-    <mat-icon>
-      search
-    </mat-icon>
-    Keresés
-  </h1>
+  <div class="search-dialog-heading">
+    <h1>Keresés</h1>
+    <button class="icon-btn search-close" type="button" aria-label="Kereső bezárása" (click)="dialogRef.close()">
+      <app-icon name="close"></app-icon>
+    </button>
+  </div>
 
-  <mat-form-field class="search-field" [style.width.%]="100">
-    <input matInput #message (input)="searchUpdated($event)">
-  </mat-form-field>
+  <label class="search-input-wrap">
+    <app-icon name="search"></app-icon>
+    <input class="search-input"
+           type="text"
+           role="searchbox"
+           enterkeyhint="search"
+           autocomplete="off"
+           spellcheck="false"
+           aria-label="Keresés a cikkek között"
+           placeholder="Pl. hormonkezelés, műtét, névváltoztatás"
+           (input)="searchUpdated($event)">
+  </label>
 
-  @if (searchResults && searchResults.length) {
-    <div class="floating">
+  @if (searching) {
+    <p class="search-message" aria-live="polite">Találatok keresése...</p>
+  } @else if (searchError) {
+    <p class="search-message search-message-error" role="alert">
+      Most nem sikerült keresni. Próbáld újra néhány pillanat múlva.
+    </p>
+  } @else if (searchResults && searchResults.length) {
+    <div class="search-results" aria-live="polite">
       @for (res of searchResults; track res) {
         <a class="search-result-item"
           routerLink="/entry"
           (click)="onClick()"
           [queryParams]="{ id: res.fileName }"
           >
-          <div class="title">{{ res.title }}</div>
-          {{ res.contextBefore }}<b>{{ res.match }}</b>{{ res.contextAfter }}...
+          <div class="result-text">
+            <span class="result-title">{{ res.title }}</span>
+            @if (res.match) {
+              <span class="result-context">{{ res.contextBefore }}<b>{{ res.match }}</b>{{ res.contextAfter }}...</span>
+            }
+          </div>
+          <app-icon name="chevron_right"></app-icon>
         </a>
       }
     </div>
+  } @else if (searchAttempted) {
+    <p class="search-message" aria-live="polite">
+      Erre a kifejezésre nincs találat. Próbálj rövidebb vagy általánosabb szót.
+    </p>
+  } @else {
+    <p class="search-message">Írj be legalább három karaktert.</p>
   }
 </div>

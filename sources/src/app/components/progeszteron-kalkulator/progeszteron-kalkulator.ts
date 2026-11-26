@@ -1,5 +1,5 @@
 import {Component, HostListener, Inject, OnInit, Renderer2, ViewChild, ElementRef, AfterViewInit, ChangeDetectionStrategy} from '@angular/core';
-import {MatDialog, MatDialogRef, MAT_DIALOG_DATA} from '@angular/material/dialog';
+import {DialogService} from '@services/dialog';
 import {fadeInUpOnEnterAnimation} from "angular-animations";
 import {TranslateService} from "@ngx-translate/core";
 import {DialogElementsExampleDialog} from '@components/entry/entry';
@@ -34,7 +34,7 @@ export class ProgeszteronKalkulatorComponent implements OnInit, AfterViewInit {
   @ViewChild('leftInput', { static: false }) leftInputRef!: ElementRef;
 
 
-  constructor(public dialog: MatDialog,
+  constructor(public dialog: DialogService,
               private translate: TranslateService,
               private renderer: Renderer2) { }
 
@@ -94,7 +94,6 @@ export class ProgeszteronKalkulatorComponent implements OnInit, AfterViewInit {
 
   openShareDialog(): void {
     this.dialog.open(DialogElementsExampleDialog, {
-      width: this.innerWidth <= 600 ? '90vw' : '50vw',
       data: {
         link: location.origin + '/#/progeszteron-kalkulator'
       }

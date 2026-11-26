@@ -1,7 +1,7 @@
-<h2 mat-dialog-title>{{ 'entry.share' | translate }}</h2>
-<div mat-dialog-content>
-  <input matInput readonly onfocus="this.select()" value="{{data.link}}"/>
-</div>
-<div class="close-button-container">
-  <button class="close-button" mat-button (click)="onClick()">{{ 'general.close' | translate }}</button>
+<div class="dialog-panel">
+  <h2>{{ 'entry.share' | translate }}</h2>
+  <input class="dialog-input" readonly aria-label="A cikk megosztási címe" onfocus="this.select()" [value]="data.link"/>
+  <div class="dialog-actions">
+    <button class="btn btn-secondary" type="button" (click)="onClick()">{{ 'general.close' | translate }}</button>
+  </div>
 </div>

@@ -14,14 +14,10 @@
         </div>
         @for (subcategory of category.children; track subcategory) {
           <a [routerLink]="[subcategory.id ? subcategory.id : '/entry']"
-            [queryParams]="{ id: subcategory.id ? '' : subcategory.entryId}"
+            [queryParams]="subcategory.id ? null : { id: subcategory.entryId }"
             (click)="linkClicked()"
             class="sidebar-item">
-            <button>
-              <div class="text">
-                {{subcategory.title}}
-              </div>
-            </button>
+            <span class="text">{{subcategory.title}}</span>
           </a>
         }
       </div>

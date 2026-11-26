@@ -1,5 +1,5 @@
 import { Component, HostListener, OnInit, ChangeDetectionStrategy } from '@angular/core';
-import {MatDialog, MatDialogRef, MAT_DIALOG_DATA} from '@angular/material/dialog';
+import {DialogService} from '@services/dialog';
 import {DialogElementsExampleDialog} from '@components/entry/entry';
 import {fadeInUpOnEnterAnimation} from "angular-animations";
 import {TranslateService} from "@ngx-translate/core";
@@ -37,7 +37,7 @@ export class HighamHiszterektomiaVervesztesegKalkulatorComponent implements OnIn
   bleedingTillHisterectomy: number = 0;
   bleedingTillMenopause: number = 0;
 
-  constructor(public dialog: MatDialog,
+  constructor(public dialog: DialogService,
               private translate: TranslateService) { }
 
   ngOnInit(): void {
@@ -135,7 +135,6 @@ export class HighamHiszterektomiaVervesztesegKalkulatorComponent implements OnIn
 
   openShareDialog(): void {
     this.dialog.open(DialogElementsExampleDialog, {
-      width: this.innerWidth <= 600 ? '90vw' : '50vw',
       data: {
         link: location.origin + '/#/higham-hiszterektomia-verveszteseg-kalkulator'
       }

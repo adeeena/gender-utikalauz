@@ -1,30 +1,27 @@
-@if (!isOpened) {
-  <button class="toolbar" matMiniFab
-    color="primary" (click)="toggleSidenav()">
-    <mat-icon>menu</mat-icon>
-  </button>
-}
+<a class="skip-link" href="#main-content" (click)="focusMainContent($event)">Ugrás a tartalomhoz</a>
 
-@if (isOpened) {
-  <button class="toolbar" matMiniFab
-    color="accent" (click)="toggleSidenav()">
-    <mat-icon>close</mat-icon>
-  </button>
-}
-
-<button class="bottombar" matFab (click)="toggleSearch()">
-  <mat-icon>search</mat-icon>
+<button class="fab fab-mini toolbar" type="button"
+  [attr.aria-label]="isOpened ? 'Menü bezárása' : 'Menü megnyitása'"
+  aria-controls="document-menu" [attr.aria-expanded]="isOpened"
+  (click)="toggleSidenav()">
+  <app-icon [name]="isOpened ? 'close' : 'menu'"></app-icon>
 </button>
 
-<mat-sidenav-container disableClose (backdropClick)="closeSidenav()" fullscreen>
-  <mat-sidenav #sidenav mode="over" [opened]="isOpened">
+<button class="fab bottombar" type="button" aria-label="Kereső megnyitása" (click)="toggleSearch()">
+  <app-icon name="search"></app-icon>
+</button>
+
+<div class="shell">
+  <aside id="document-menu" class="drawer" [class.open]="isOpened"
+    [attr.inert]="isOpened ? null : ''" aria-label="Dokumentumtár">
     <app-sidebar (closing)="closeSidenav()"></app-sidebar>
-  </mat-sidenav>
-  <mat-sidenav-content #mainContent>
+  </aside>
+  <div class="drawer-backdrop" [class.visible]="isOpened" (click)="closeSidenav()" aria-hidden="true"></div>
+  <div id="main-content" #mainContent class="page" role="main" tabindex="-1">
     @if (isHeaderVisible) {
       <app-header></app-header>
     }
     <router-outlet></router-outlet>
     <app-footer></app-footer>
-  </mat-sidenav-content>
-</mat-sidenav-container>
+  </div>
+</div>

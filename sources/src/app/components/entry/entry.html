@@ -1,25 +1,31 @@
 <div class="content">
   @if (entry) {
     <div class="entry-content">
-      <div class="entry-markdown" [@enter1] [innerHTML]="entry | utf8EmojisToImages:'apple':16"></div>
-      <div class="entry-actions" [@enter3]>
+      <div class="entry-markdown" [innerHTML]="entry | utf8EmojisToImages:'apple':16"></div>
+      <div class="entry-actions">
         <div class="back-to-home">
           <a [routerLink]="['/']">
             {{ 'general.backToHome' | translate }}
           </a>
         </div>
         <div class="actions">
-          <button mat-icon-button (click)="openShareDialog()">
-            <mat-icon>share</mat-icon>
+          <button class="icon-btn" type="button" aria-label="Cikk megosztása" (click)="openShareDialog()">
+            <app-icon name="share"></app-icon>
           </button>
         </div>
       </div>
-      <div class="disclaimer" [@enter4]>
+      <div class="disclaimer">
         <b>{{ 'entry.foundErrorTitle' | translate }} </b>
         <span [innerHTML]="'entry.foundErrorText' | translate"></span>
       </div>
-      <div class="disclaimer" [@enter4]>
+      <div class="disclaimer">
       </div>
+    </div>
+  } @else if (entryLoading) {
+    <div class="entry-state">Cikk betöltése...</div>
+  } @else if (entryError) {
+    <div class="entry-state entry-state-error" role="alert">
+      A cikket most nem sikerült betölteni. Próbáld újra néhány pillanat múlva.
     </div>
   }
 </div>

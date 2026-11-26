@@ -35,7 +35,7 @@
     </div>
 
     <div class="wiki-content">
-     <h2>Ösztrogén pg/ml - pmol/l váltó</h2>
+     <h1>Ösztrogén pg/ml - pmol/l váltó</h1>
 
      <p>
       Ez a kalkulátor lehetővé teszi az ösztradiol szintek konvertálását pg/ml-ből pmol/l-be és pmol/l-ból pg/ml-be.
@@ -60,19 +60,19 @@
   <br />
   
   <div class="calculator-container">
-    <mat-form-field>
-      <mat-label>pmol/l</mat-label>
-      <input matInput #leftInput type="text" [(ngModel)]="leftValue"
-      (input)="onLeftInputChange()" placeholder="pmol/l">
-    </mat-form-field>
+    <label class="field">
+      <span class="field-label">pmol/l</span>
+      <input class="field-input" #leftInput type="text" [(ngModel)]="leftValue"
+      (input)="onLeftInputChange()">
+    </label>
     
     <span class="equal-sign">=</span>
 
-    <mat-form-field>
-      <mat-label>pg/ml</mat-label>
-      <input matInput type="text"
-      [(ngModel)]="rightValue" (input)="onRightInputChange()" placeholder="pg/ml">
-    </mat-form-field>
+    <label class="field">
+      <span class="field-label">pg/ml</span>
+      <input class="field-input" type="text"
+      [(ngModel)]="rightValue" (input)="onRightInputChange()">
+    </label>
   </div>
 
   <div class="entry-actions" [@enter3]>
@@ -83,8 +83,8 @@
     </div>
 
     <div class="actions">
-      <button mat-icon-button (click)="openShareDialog()">
-        <mat-icon>share</mat-icon>
+      <button class="icon-btn" type="button" aria-label="Oldal megosztása" (click)="openShareDialog()">
+        <app-icon name="share"></app-icon>
       </button>
     </div>
   </div>

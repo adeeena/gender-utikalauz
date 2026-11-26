@@ -1,94 +1,80 @@
-@use '@angular/material' as mat;
-@use "sass:map";
-@use '../../../styles';
+@use '../../../tokens' as styles;
 
 .explain-card-content {
-  border-top: 4px solid styles.$pink-color;
-  display: flex;
-  flex-direction: column;
-  height: 100%;
-  justify-content: center;
+  color: white;
+  padding: 4.5rem max(6vw, calc((100vw - 1180px) / 2));
 
   h3 {
-    color: white;
-    font-size: 1.7rem;
-    margin-bottom: 1rem;
-  }
-
-  a {
-    color: map.get(mat.$m2-gray-palette, 600);
+    font-size: clamp(2rem, 4vw, 3.2rem);
+    letter-spacing: -.04em;
+    margin: 0 0 2rem;
   }
 
   .recommendation-items {
+    display: grid;
     gap: 1rem;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
 
-    a {
+    > a {
+      color: inherit;
       display: flex;
     }
+  }
 
-    .item {
-      width: 100%;
-      padding: 1rem;
+  .item {
+    background: rgba(255, 255, 255, .055);
+    border: 1px solid rgba(255, 255, 255, .13);
+    border-radius: .85rem;
+    display: flex;
+    flex-direction: column;
+    min-height: 130px;
+    padding: 1.35rem;
+    transition: background 160ms ease, border-color 160ms ease, transform 160ms ease;
+    width: 100%;
 
-      h4 {
-        font-size: 1.3rem;
-        font-weight: 500;
-        margin-bottom: .5rem;
-      }
+    &:hover {
+      background: rgba(255, 255, 255, .09);
+      border-color: rgba(159, 213, 255, .55);
+      transform: translateY(-2px);
     }
 
-    .recommendation-item {
-      border: 2px solid styles.$pink-color;
-      box-shadow: 5px 5px styles.$pink-light-color; //#FFCADE;
-      background: white;
-      
-
-      h4 {
-        color: #262929;
-      }
+    h4 {
+      color: white;
+      font-size: 1.12rem;
+      font-weight: 600;
+      line-height: 1.3;
+      margin: 0 0 .65rem;
     }
 
-    .etpc {
-      border: 2px solid #A4DCF1;
-      box-shadow: 5px 5px #495F8C;
-      background: #1A1626;
+    span {
+      color: #b9c5cd;
+      font-size: .9rem;
+      line-height: 1.5;
+    }
+  }
 
-      h4 {
-        color: #A4DCF1;
-      }
+  .etpc {
+    background: #172c3d;
+    border-color: #427b9f;
+  }
+}
+
+@media (max-width: 900px) {
+  .explain-card-content {
+    padding: 3.5rem 6vw;
+
+    .recommendation-items {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
     }
   }
 }
 
 @media (max-width: 600px) {
   .explain-card-content {
-    padding: 1rem;
+    padding: 3rem 1.25rem;
 
     .recommendation-items {
-      display: grid;
-      grid-template-columns: repeat(1, 1fr);
-    }
-  }
-}
-
-@media (min-width: 601px) and (max-width: 900px) {
-  .explain-card-content {
-    padding: 1rem;
-
-      .recommendation-items {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-    }
-  }
-}
-
-@media (min-width: 901px) {
-  .explain-card-content {
-    padding: 4vh 10vw 4vh;
-
-    .recommendation-items {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
+      grid-template-columns: 1fr;
     }
   }
 }

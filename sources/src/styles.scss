@@ -1,20 +1,8 @@
-@use "sass:map";
 /* You can add global styles to this file, and also import other style files */
-@use '@angular/material' as mat;
+@use 'tokens' as *;
 @use '@ctrl/ngx-emoji-mart/picker';
-@import '@angular/cdk/overlay-prebuilt.css';
 
-$my-primary: mat.m2-define-palette(mat.$m2-blue-palette, 600);
-$my-accent: mat.m2-define-palette(mat.$m2-blue-palette, A200, A100, A400);
-
-$my-theme: mat.m2-define-light-theme((
-  color: (
-    primary: $my-primary,
-    accent: $my-accent,
-  )
-));
-
-.mat-drawer-content::-webkit-scrollbar {
+.page::-webkit-scrollbar {
   display: none;
 }
 
@@ -37,20 +25,65 @@ $my-theme: mat.m2-define-light-theme((
   background-color: #a8bbbf;
 }
 
-html, body { height: 100%; }
-body { margin: 0; }
+html, body {
+  height: 100%;
+  max-width: 100dvw;
+  overflow-x: clip;
+}
+body { line-height: 1.5; margin: 0; }
 button, body {
-  font-family: 'Fira Sans', "Helvetica Neue", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif;
 }
 
-$yellow-color: map.get(mat.$m2-amber-palette, 400);
-$blue-color: map.get(mat.$m2-blue-palette, 400);
-$pink-color: map.get(mat.$m2-pink-palette, 400);
-$pink-light-color: map.get(mat.$m2-pink-palette, 100);
+:root {
+  --surface-page: #f5f7fa;
+  --surface-raised: #ffffff;
+  --surface-tint: #edf6fc;
+  --text-primary: #162331;
+  --text-secondary: #586b7b;
+  --accent: #176da8;
+  --focus-ring: #0d74bd;
+}
+
+:focus-visible {
+  outline: 3px solid var(--focus-ring);
+  outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    scroll-behavior: auto !important;
+    animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: .01ms !important;
+  }
+}
+
+.typography h1, .typography h2, .typography h3, .typography h4 {
+  letter-spacing: normal;
+  margin: 0 0 16px;
+}
+
+.typography h5, .typography h6 {
+  margin: 0 0 12px;
+}
+
+.typography p {
+  margin: 0 0 12px;
+}
+
+button {
+  font: inherit;
+}
 
 a {
-  color: $pink-color;
+  color: #a71950;
   text-decoration: none;
+}
+
+.disclaimer a {
+  text-decoration: underline;
+  text-underline-offset: .14em;
 }
 
 .gray-box, .black-box {
@@ -95,7 +128,7 @@ a {
   }
 
   .normal {
-    background: map.get(mat.$m2-blue-palette, 800);
+    background: #1565c0;
     font-size: 3rem;
     line-height: 3rem;
 
@@ -118,7 +151,7 @@ a {
   }
 
   .normal {
-    background: map.get(mat.$m2-blue-palette, 800);
+    background: #1565c0;
     font-size: 1.3rem;
     line-height: 1.3rem;
 
@@ -132,7 +165,228 @@ a {
   font-weight: bold;
 }
 
-.mat-drawer-inner-container {
-  background: map.get(mat.$m2-gray-palette, 900);
-  height: 100vh !important;
+.btn {
+  align-items: center;
+  border: 1px solid transparent;
+  border-radius: .55rem;
+  cursor: pointer;
+  display: inline-flex;
+  font-weight: 600;
+  height: 48px;
+  justify-content: center;
+  line-height: 1;
+  padding: 0 20px;
+  text-decoration: none;
+  transition: background 160ms ease, border-color 160ms ease, transform 160ms ease;
+
+  &:hover {
+    transform: translateY(-1px);
+  }
+}
+
+.btn-primary {
+  background: #123a5c;
+  border-color: #123a5c;
+  color: #fff;
+
+  &:hover {
+    background: #0a2c47;
+    border-color: #0a2c47;
+  }
+}
+
+.btn-secondary {
+  background: rgba(255, 255, 255, .7);
+  border-color: rgba(18, 58, 92, .28);
+  color: #123a5c;
+
+  &:hover {
+    background: #fff;
+    border-color: #123a5c;
+  }
+}
+
+.icon-btn {
+  align-items: center;
+  background: transparent;
+  border: 0;
+  border-radius: 50%;
+  color: inherit;
+  cursor: pointer;
+  display: inline-flex;
+  height: 44px;
+  justify-content: center;
+  transition: background 160ms ease;
+  width: 44px;
+
+  &:hover {
+    background: rgba(18, 58, 92, .1);
+  }
+}
+
+.fab {
+  align-items: center;
+  backdrop-filter: blur(18px);
+  background: rgba(18, 58, 92, .9);
+  border: 1px solid rgba(255, 255, 255, .2);
+  border-radius: 50%;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, .22);
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  height: 56px;
+  justify-content: center;
+  padding: 0;
+  transition: background 160ms ease;
+  width: 56px;
+
+  &:hover {
+    background: #123a5c;
+  }
+}
+
+.fab-mini {
+  height: 44px;
+  width: 44px;
+}
+
+.field {
+  color: #123a5c;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.field-block {
+  display: flex;
+  margin-bottom: 16px;
+}
+
+.field-label {
+  font-size: .875rem;
+  font-weight: 600;
+}
+
+.field-input {
+  background: #fff;
+  border: 1px solid #b7c6d2;
+  border-radius: 8px;
+  color: #123a5c;
+  font: inherit;
+  height: 48px;
+  min-width: 0;
+  padding: 0 12px;
+
+  &:focus {
+    border-color: #123a5c;
+    outline: 2px solid #123a5c;
+    outline-offset: 0;
+  }
+}
+
+.field-input-cell {
+  height: 36px;
+  padding: 0 4px;
+  text-align: center;
+  width: 48px;
+}
+
+dialog.app-dialog {
+  background: #fff;
+  border: 0;
+  border-radius: 16px;
+  box-shadow: 0 24px 64px rgba(8, 30, 48, .32);
+  color: #123a5c;
+  max-height: calc(100dvh - 48px);
+  max-width: calc(100vw - 24px);
+  overflow: auto;
+  padding: 0;
+  width: min(520px, calc(100vw - 24px));
+
+  &::backdrop {
+    background: rgba(8, 30, 48, .55);
+  }
+
+  &.search-dialog-panel {
+    width: min(680px, calc(100vw - 24px));
+  }
+}
+
+.dialog-panel {
+  display: block;
+  padding: 24px;
+
+  h2 {
+    font-size: 1.5rem;
+    letter-spacing: -.02em;
+    margin: 0 0 16px;
+  }
+
+  p {
+    margin: 0;
+  }
+}
+
+.dialog-input {
+  border: 1px solid #b7c6d2;
+  border-radius: 12px;
+  box-sizing: border-box;
+  color: #123a5c;
+  font: inherit;
+  height: 48px;
+  padding: 0 16px;
+  width: 100%;
+}
+
+.dialog-actions {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 24px;
+}
+
+.drawer {
+  background: #0c2a42;
+  bottom: 0;
+  left: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+  position: fixed;
+  top: 0;
+  transform: translateX(-100%);
+  transition: transform 240ms ease, visibility 0s linear 240ms;
+  visibility: hidden;
+  width: min(25rem, 88vw);
+  z-index: 10;
+
+  &.open {
+    transform: none;
+    transition-delay: 0s;
+    visibility: visible;
+  }
+}
+
+.drawer-backdrop {
+  background: rgba(8, 30, 48, .5);
+  inset: 0;
+  opacity: 0;
+  pointer-events: none;
+  position: fixed;
+  transition: opacity 240ms ease;
+  z-index: 9;
+
+  &.visible {
+    opacity: 1;
+    pointer-events: auto;
+  }
+}
+
+.shell {
+  inset: 0;
+  position: fixed;
+}
+
+.page {
+  height: 100%;
+  overflow-x: clip;
+  overflow-y: auto;
 }

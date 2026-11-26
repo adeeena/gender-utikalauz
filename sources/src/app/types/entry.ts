@@ -3,3 +3,10 @@ export interface Entry {
   title: string;
   description: string;
 }
+
+export interface RecentEntry {
+  slug: string;
+  title: string;
+  description: string;
+  dateModified: string;
+}

@@ -34,32 +34,32 @@
       </div>
 
       <div class="wiki-content">
-        <h2>Várható vérveszteség hiszterektómiáig / Higham kalkulátor</h2>
+        <h1>Várható vérveszteség hiszterektómiáig / Higham kalkulátor</h1>
 
         <p>
-          Ez a kalkulátor néhány bemeneti adat alapján kiszámolja, hogy körülbelül hány liter vérveszteség történt az elsõ menstruációd óta. Ugyanitt, ha már megvan a hiszterektómia-mûtéted idõpontja, az alapján közelítõ értéket ad arra vonatkozóan, mennyi vérveszteség várható addig.
+          Ez a kalkulátor néhány bemeneti adat alapján kiszámolja, hogy körülbelül hány liter vérveszteség történt az első menstruációd óta. Ugyanitt, ha már megvan a hiszterektómia-műtéted időpontja, az alapján közelítő értéket ad arra vonatkozóan, mennyi vérveszteség várható addig.
         </p>
 
         <div class="podcast-episode">
           <h5>✅ Megadott adatok nem kerülnek rögzítésre.</h5>
 
-          Az itt megadott adatokat bizalmasan kezeljük, nem rögzítjük, nem adjuk tovább senkinek. A weboldal forráskódja elérhetõ a <a href="https://github.com/adeeena/gender-utikalauz">projekt GitHub-oldalán</a>.<br />
+          Az itt megadott adatokat bizalmasan kezeljük, nem rögzítjük, nem adjuk tovább senkinek. A weboldal forráskódja elérhető a <a href="https://github.com/adeeena/gender-utikalauz">projekt GitHub-oldalán</a>.<br />
           <!-- <a href="#">Ugyanakkor az alábbi kalkulátor elérheto letöltheto, offline Excel-fájlként itt.</a>-->
         </div>
 
         <br />
 
         <div>
-          <h3>Hogyan mûködik?</h3>
+          <h3>Hogyan működik?</h3>
           <p>
-            A számolás a következõkön alapul:
+            A számolás a következőkön alapul:
           </p>
 
           <ul>
-            <li>Higham-érték alapján kiértékelõdik, hány ml vért vesztesz a menstruációd során.</li>
+            <li>Higham-érték alapján kiértékelődik, hány ml vért vesztesz a menstruációd során.</li>
             <li>A menstruációs ciklusod gyakorisága alapján meghatározza a kalkulátor, hogy egy évben hányszor menstruálsz.</li>
-            <li>Az alapján, hogy mikor kezdtél menstruálni és hány éves vagy most, kiértékelõdik, hogy hány liter vért vesztettél idáig életed során csak menstruálással.</li>
-            <li><i>(opcionális)</i> Az alapján, hogy mikor tervezed (vagy mikor volt) a hiszterektómiád, kiértékelõdik, hogy mennyi vért fogsz még veszteni (ha az idõpont a jövõben lesz) / mennyi vérveszteségtõl mentesültél (ha az idõpont a múltban volt).
+            <li>Az alapján, hogy mikor kezdtél menstruálni és hány éves vagy most, kiértékelődik, hogy hány liter vért vesztettél idáig életed során csak menstruálással.</li>
+            <li><i>(opcionális)</i> Az alapján, hogy mikor tervezed (vagy mikor volt) a hiszterektómiád, kiértékelődik, hogy mennyi vért fogsz még veszteni (ha az időpont a jövőben lesz) / mennyi vérveszteségtől mentesültél (ha az időpont a múltban volt).
           </ul>
         </div>
 
@@ -84,10 +84,9 @@
                   <td>{{ row | translate }}</td>
                   @for (day of days; track day; let colIndex = $index) {
                     <td>
-                      <mat-form-field>
-                        <input matInput type="text" [(ngModel)]="dataSource[rowIndex][colIndex]"
-                          (input)="onLeftInputChange()">
-                        </mat-form-field>
+                      <input class="field-input field-input-cell" type="text" [(ngModel)]="dataSource[rowIndex][colIndex]"
+                        [attr.aria-label]="(row | translate) + ', ' + day + '. nap'"
+                        (input)="onLeftInputChange()">
                       </td>
                     }
                     <td>
@@ -113,7 +112,7 @@
 
             @if (totalSum > 0) {
               <div class="podcast-episode">
-                Megadott adatok alapján a Higham-érték <b>{{totalSum}} pont</b>, azaz megközelítõleg
+                Megadott adatok alapján a Higham-érték <b>{{totalSum}} pont</b>, azaz megközelítőleg
                 <div class="intense">
                   {{ totalSum * 0.8 | number:'1.0-0' }} ml
                 </div>
@@ -125,41 +124,41 @@
           <div class="personal-info">
             <h3>Személyes adatok</h3>
 
-            <mat-form-field>
-              <mat-label>Menstruációs ciklus hossza (napban)</mat-label>
-              <input matInput type="text" [(ngModel)]="cycleLength"
+            <label class="field field-block">
+              <span class="field-label">Menstruációs ciklus hossza (napban)</span>
+              <input class="field-input" type="text" [(ngModel)]="cycleLength"
                 (input)="onLeftInputChange()" placeholder="Ciklus hossza">
-              </mat-form-field>
+            </label>
 
-              <mat-form-field>
-                <mat-label>Életkor elsõ menstruációkor</mat-label>
-                <input matInput type="text" [(ngModel)]="firstBleeding"
-                  (input)="onLeftInputChange()" placeholder="Életkor (pl. 14 év)">
-                </mat-form-field>
+            <label class="field field-block">
+              <span class="field-label">Életkor első menstruációkor</span>
+              <input class="field-input" type="text" [(ngModel)]="firstBleeding"
+                (input)="onLeftInputChange()" placeholder="Életkor (pl. 14 év)">
+            </label>
 
-                <mat-form-field>
-                  <mat-label>Jelenlegi életkor</mat-label>
-                  <input matInput type="text" [(ngModel)]="age"
-                    (input)="onLeftInputChange()" placeholder="Életkor (pl. 26 év)">
-                  </mat-form-field>
+            <label class="field field-block">
+              <span class="field-label">Jelenlegi életkor</span>
+              <input class="field-input" type="text" [(ngModel)]="age"
+                (input)="onLeftInputChange()" placeholder="Életkor (pl. 26 év)">
+            </label>
 
-                  <mat-form-field>
-                    <mat-label>Életkor a hiszterektómia pillanatában</mat-label>
-                    <input matInput type="text" [(ngModel)]="histerectomyAge"
-                      (input)="onLeftInputChange()" placeholder="Életkor (pl. 28 év)">
-                    </mat-form-field>
+            <label class="field field-block">
+              <span class="field-label">Életkor a hiszterektómia pillanatában</span>
+              <input class="field-input" type="text" [(ngModel)]="histerectomyAge"
+                (input)="onLeftInputChange()" placeholder="Életkor (pl. 28 év)">
+            </label>
                   </div>
 
                   @if (bleedingSoFar) {
                     <div class="podcast-episode">
-                      Megadott adatok alapján a idáig megközelítõleg
+                      Megadott adatok alapján eddig megközelítőleg
                       <div class="intense">
                         {{ (bleedingSoFar * 0.8) / 1000 | number:'1.0-2' }} l
                       </div>
                       vért vesztettél menstruálással.
                       @if (bleedingTillHisterectomy && bleedingTillHisterectomy > 0) {
                         <div>
-                          Hiszterektómia tervezett napjáig megközelítõleg még
+                          Hiszterektómia tervezett napjáig megközelítőleg még
                         </div>
                       }
                       @if (bleedingTillHisterectomy && bleedingTillHisterectomy < 0) {
@@ -184,7 +183,7 @@
                       }
                       @if (bleedingTillHisterectomy && bleedingTillHisterectomy < 0) {
                         <span>
-                          vérveszteségtõl mentesültél.
+                          vérveszteségtől mentesültél.
                         </span>
                       }
                       @if (bleedingTillMenopause) {
@@ -204,7 +203,7 @@
                       }
                       @if (bleedingTillHisterectomy) {
                         <span>
-                          vérveszteséggtõl mentesülsz.
+                          vérveszteségtől mentesülsz.
                         </span>
                       }
                     </div>
@@ -218,8 +217,8 @@
                     </div>
 
                     <div class="actions">
-                      <button mat-icon-button (click)="openShareDialog()">
-                        <mat-icon>share</mat-icon>
+                      <button class="icon-btn" type="button" aria-label="Oldal megosztása" (click)="openShareDialog()">
+                        <app-icon name="share"></app-icon>
                       </button>
                     </div>
                   </div>

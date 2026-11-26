@@ -1,8 +1,7 @@
-import {Component, HostListener, Inject, OnInit, ChangeDetectionStrategy} from '@angular/core';
+import {Component, Inject, OnInit, ChangeDetectionStrategy} from '@angular/core';
 import {ActivatedRoute} from "@angular/router";
 import {EntryService} from "@services/entry";
-import {MatDialog, MatDialogRef, MAT_DIALOG_DATA} from '@angular/material/dialog';
-import {fadeInUpOnEnterAnimation} from "angular-animations";
+import {DIALOG_DATA, DialogRef, DialogService} from "@services/dialog";
 import {Meta, Title} from "@angular/platform-browser";
 import {TranslateService} from "@ngx-translate/core";
 import {MarkdownService} from "ngx-markdown";
@@ -11,17 +10,72 @@ export interface DialogData {
   link: string;
 }
 
+export interface EntryDocument {
+  title: string;
+  description: string;
+  html: string;
+}
+
+export async function renderEntryDocument(
+  raw: string,
+  parseMarkdown: (markdown: string, options: { disableSanitizer: boolean }) => Promise<string | Promise<string>>
+): Promise<EntryDocument> {
+  const document = raw.match(/^---\s*\n([\s\S]*?)\n---\s*\n([\s\S]*)$/);
+  if (!document) {
+    throw new Error('A cikk metaadatai nem olvashatók.');
+  }
+
+  const metadata = new Map<string, string>();
+  document[1].split('\n').forEach((line) => {
+    const separator = line.indexOf(':');
+    if (separator > -1) {
+      metadata.set(
+        line.slice(0, separator).trim(),
+        line.slice(separator + 1).trim().replace(/^['"]+|['"]+$/g, '')
+      );
+    }
+  });
+
+  const rendered = await parseMarkdown(document[2], { disableSanitizer: true });
+  let html = rendered
+    .replaceAll('<a href="https://', '<a target="_blank" href="https://')
+    .replaceAll('<a href="http://', '<a target="_blank" href="http://');
+
+  const content = window.document.createElement('div');
+  content.innerHTML = html;
+  content.querySelectorAll<HTMLImageElement>('img:not([alt])').forEach((image) => {
+    if (image.src.includes('/undraw_')) {
+      image.alt = '';
+      return;
+    }
+
+    const imageContainer = image.parentElement;
+    const caption = imageContainer?.querySelector('span')?.textContent?.trim();
+    let heading = image.closest('.wiki-content')?.querySelector('h1, h2, h3, h4')?.textContent?.trim();
+    if (!heading) {
+      const previousHeading = imageContainer?.previousElementSibling;
+      heading = previousHeading?.matches('h1, h2, h3, h4')
+        ? previousHeading.textContent?.trim()
+        : undefined;
+    }
+    image.alt = caption || (heading ? `Ábra: ${heading}` : 'A cikkhez kapcsolódó illusztráció');
+  });
+  content.querySelectorAll<HTMLAnchorElement>('a[target="_blank"]').forEach((link) => {
+    link.rel = 'noopener';
+  });
+  html = content.innerHTML;
+
+  return {
+    title: metadata.get('title') || 'Cikk',
+    description: metadata.get('description') || '',
+    html
+  };
+}
+
 @Component({
     selector: 'app-entry',
     templateUrl: './entry.html',
     styleUrl: './entry.scss',
-    animations: [
-        fadeInUpOnEnterAnimation({ anchor: 'enter1', duration: 1000, delay: 100, translate: '30px' }),
-        fadeInUpOnEnterAnimation({ anchor: 'enter2', duration: 1000, delay: 300, translate: '30px' }),
-        fadeInUpOnEnterAnimation({ anchor: 'enter3', duration: 1000, delay: 500, translate: '30px' }),
-        fadeInUpOnEnterAnimation({ anchor: 'enter4', duration: 1000, delay: 800, translate: '30px' }),
-        fadeInUpOnEnterAnimation({ anchor: 'enter5', duration: 1000, delay: 1500, translate: '30px' }),
-    ],
     changeDetection: ChangeDetectionStrategy.Eager,
     standalone: false
 })
@@ -29,14 +83,15 @@ export class EntryComponent implements OnInit {
   public entryId: string = '';
   public metadata: any;
   public entry: any;
-  private innerWidth: number = 0;
+  public entryLoading = false;
+  public entryError = false;
 
   constructor(private route: ActivatedRoute,
               private entryService: EntryService,
               private titleService: Title,
               private meta: Meta,
               private translate: TranslateService,
-              public dialog: MatDialog,
+              public dialog: DialogService,
               private markdownService: MarkdownService) { }
 
   ngOnInit(): void {
@@ -44,48 +99,40 @@ export class EntryComponent implements OnInit {
       this.entryId = (params as any).params.id;
 
       if (this.entryId) {
-        this.entryService.getById(this.entryId)
-          .subscribe((data: any) => {
-            const values = data.split('---');
-            this.metadata = values[1].split('\n');
-            let title = this.metadata
-              .filter(
-                (q:string) => q.startsWith('title'))
-              [0].split(': ')[1]
-              .replace(/['"]+/g, '');
-            let description = this.metadata
-              .filter(
-                (q:string) => q.startsWith('description'))
-              [0].split(': ')[1]
-              .replace(/['"]+/g, '');
+        this.entry = null;
+        this.entryError = false;
+        this.entryLoading = true;
+        this.entryService.getById(this.entryId).subscribe({
+          next: async (data) => {
+            try {
+              const document = await renderEntryDocument(
+                data,
+                (markdown, options) => this.markdownService.parse(markdown, options)
+              );
 
-            this.entry = this.markdownService.parse(values[2], { disableSanitizer: true });
-
-            while (this.entry.indexOf('<a href="https://') > -1) {
-              this.entry = this.entry.replace('<a href="https://', '<a target="_blank" href="https://');
+              this.entry = document.html;
+              this.titleService.setTitle(
+                document.title + ' | ' + this.translate.instant('general.title'));
+              this.meta.updateTag({ name: 'description', content: document.description });
+            } catch (error) {
+              console.error('A cikk megjelenítése sikertelen.', error);
+              this.entryError = true;
+            } finally {
+              this.entryLoading = false;
             }
-
-            while (this.entry.indexOf('<a href="http://') > -1) {
-              this.entry = this.entry.replace('<a href="http://', '<a target="_blank" href="http://');
-            }
-
-            this.titleService.setTitle(
-              title + ' | ' + this.translate.instant('general.title'));
-
-            this.meta.updateTag({ name: 'description', content: description });
-          });
+          },
+          error: (error) => {
+            console.error('A cikk betöltése sikertelen.', error);
+            this.entryError = true;
+            this.entryLoading = false;
+          }
+        });
       }
     });
   }
 
-  @HostListener('window:resize', ['$event'])
-  onResize(event: any) {
-    this.innerWidth = window.innerWidth;
-  }
-
   openShareDialog(): void {
     this.dialog.open(DialogElementsExampleDialog, {
-      width: this.innerWidth <= 600 ? '90vw' : '50vw',
       data: {
         link: location.origin + '/#/entry?id=' + this.entryId
       }
@@ -95,14 +142,13 @@ export class EntryComponent implements OnInit {
 
 @Component({
     selector: 'share-dialog',
-    styleUrl: './entry.scss',
     templateUrl: 'entry-dialog.html',
     changeDetection: ChangeDetectionStrategy.Eager,
     standalone: false
 })
 export class DialogElementsExampleDialog {
-  constructor(public dialogRef: MatDialogRef<DialogElementsExampleDialog>,
-              @Inject(MAT_DIALOG_DATA) public data: DialogData,
+  constructor(public dialogRef: DialogRef,
+              @Inject(DIALOG_DATA) public data: DialogData,
   ) {}
 
   onClick(): void {

@@ -37,8 +37,6 @@
               "src/assets"
             ],
             "styles": [
-              "src/material-prebuilt-wo-font.scss",
-              "src/material-icons.scss",
               "src/fonts.scss",
               "src/styles.scss"
             ],

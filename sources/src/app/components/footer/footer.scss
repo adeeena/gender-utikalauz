@@ -1,11 +1,19 @@
-@use '@angular/material' as mat;
-@use "sass:map";
-@use '../../../styles';
+@use '../../../tokens' as styles;
 
 .content {
   border-top: .3rem solid styles.$blue-color;
   color: white;
   min-height: 10rem;
+
+  a {
+    color: #8fd2ff;
+    text-decoration: underline;
+    text-underline-offset: .14em;
+
+    &:hover {
+      color: white;
+    }
+  }
 
   .footer-content {
     color: white;
@@ -35,7 +43,7 @@
         display: flex;
 
         a {
-          background: map.get(mat.$m2-blue-palette, 400);
+          background: #42a5f5;
           border-radius: 50px;
           justify-content: center;
           display: flex;

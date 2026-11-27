@@ -38,22 +38,22 @@
      <h1>Progeszteron ng/ml - ng/dl - nmol/l váltó</h1>
 
      <p>
-      Ez a kalkulátor lehetővé teszi a progeszteron szintek konvertálását ng/ml - ng/dl - nmol/l mértékegységek között.
+      Ez a kalkulátor lehetővé teszi a progeszteronszintek átváltását ng/ml, ng/dl és nmol/l mértékegységek között.
     </p>
 
     <ul>
       <li>
-        ng/ml-ből nmol/l-be történő konvertáláshoz 3,18-tel kell szorozni.
+        ng/ml-ből nmol/l-be történő átváltáshoz 3,18-cal kell szorozni.
       </li>
       <li>
-        nmol/l-ből ng/ml-be történő konvertáláshoz 0,3145-tel kell szorozni.
+        nmol/l-ből ng/ml-be történő átváltáshoz 0,3145-tel kell szorozni.
       </li>
 
       <li>
-        ng/dl-ből nmol/l-be történő konvertáláshoz 0,0318-tel kell szorozni.
+        ng/dl-ből nmol/l-be történő átváltáshoz 0,0318-cal kell szorozni.
       </li>
       <li>
-        nmol/l-ből ng/dl-be történő konvertáláshoz 31,446-tal kell szorozni.
+        nmol/l-ből ng/dl-be történő átváltáshoz 31,446-tal kell szorozni.
       </li>
     </ul>
 
@@ -90,7 +90,7 @@
     </label>
   </div>
 
-  <div class="entry-actions" [@enter3]>
+  <div class="entry-actions">
     <div class="back-to-home">
       <a [routerLink]="['/']">
         {{ 'general.backToHome' | translate }}
@@ -104,12 +104,9 @@
     </div>
   </div>
 
-  <div class="disclaimer" [@enter4]>
+  <div class="disclaimer">
     <b>{{ 'entry.foundErrorTitle' | translate }} </b>
     <span [innerHTML]="'entry.foundErrorText' | translate"></span>
-  </div>
-
-  <div class="disclaimer" [@enter4]>
   </div>
 </div>
 </div>

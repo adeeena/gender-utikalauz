@@ -3,7 +3,6 @@ import { BrowserModule } from '@angular/platform-browser';
 import { CommonModule } from '@angular/common';
 import { AppRoutingModule } from '@app/app-routing';
 import { AppComponent } from '@app/app';
-import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HomeComponent } from '@components/home/home';
 import { FooterComponent } from '@components/footer/footer';
 import { SidebarComponent } from '@components/sidebar/sidebar';
@@ -31,6 +30,7 @@ import { TesztoszteronKalkulatorComponent } from '@components/tesztoszteron-kalk
 import { ProgeszteronKalkulatorComponent } from '@components/progeszteron-kalkulator/progeszteron-kalkulator';
 import { HighamHiszterektomiaVervesztesegKalkulatorComponent } from '@components/higham-hiszterektomia-verveszteseg-kalkulator/higham-hiszterektomia-verveszteseg-kalkulator';
 import { IconComponent } from '@components/icon/icon';
+import { RevealDirective, CountUpDirective } from '@lib/motion-directives';
 
 export function HttpLoaderFactory(http: HttpClient): TranslationLoader {
   return new TranslationLoader(http);
@@ -53,6 +53,8 @@ export function initConfig(appConfig: AppConfigService) {
         IntroComponent,
         HeaderComponent,
         IconComponent,
+        RevealDirective,
+        CountUpDirective,
         LexikonComponent,
         SzovetsegesekComponent,
         GaleryComponent,
@@ -64,7 +66,6 @@ export function initConfig(appConfig: AppConfigService) {
     bootstrap: [AppComponent], imports: [BrowserModule,
         CommonModule,
         AppRoutingModule,
-        BrowserAnimationsModule,
         FontAwesomeModule,
         FormsModule,
         PickerModule,

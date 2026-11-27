@@ -1,4 +1,5 @@
-<div class="intro-container">
+<div class="intro-container" appReveal
+     appRevealChildren=".dictionary-container > .title, .dictionary-container .block, .transex-or-transgender-container > *, .to-avoid-container .prelude, .to-avoid-container .title, .sentence-block, .to-avoid-container .explain, .to-avoid-container .sub-explain, .dysphoria-container .block, .detransition-container .block, .detransition-container .content, .remains-visible-container .block, .remains-visible-container .content, .brochures-container .title, .brochures-container .subtitle, .recommendation-item">
   <div class="pink-container blue-color intro-base-container">
     <div class="prelude">
       A
@@ -15,7 +16,7 @@
     </div>
 
     <p class="bold">
-    A transzneműek aránya nyugat-európai tarsadalmakban 0,3 és 1,6% között van. Mindig is létezett, minden időben és
+    A transzneműek aránya nyugat-európai társadalmakban 0,3 és 1,6% között van. Mindig is létezett, minden időben és
     minden kultúrában.
     </p>
 
@@ -25,13 +26,13 @@
     </p>
 
     <p>
-    A transz emberek bármely életkorban, bármilyen társadalmi környezetben elkezdhetik az tranzíciót. Különösen az
+    A transz emberek bármely életkorban, bármilyen társadalmi környezetben elkezdhetik a tranzíciót. Különösen az
       útjuk első hónapjaiban és éveiben van szükségük a támogatás(od)ra.
     </p>
   </div>
 
   <div class="lightgray-container blue-color dictionary-container">
-    <div class="title">Ismered a fogalmakat?</div>
+    <h2 class="title">Ismered a fogalmakat?</h2>
 
     <div class="block">
       <div class="image-container">
@@ -145,14 +146,14 @@
   </div>
 
   <div class="lightblue-container blue-color transex-or-transgender-container">
-    <div class="title">
+    <h2 class="title">
       Transz<u>nemű</u> vagy transz<u>szexuális</u>?
-    </div>
+    </h2>
 
-    <div class="subtitle">
+    <h3 class="subtitle">
       <span [innerHTML]="'👉' | utf8EmojisToImages:'apple':20"></span>
       Inkább csak a "transz".
-    </div>
+    </h3>
 
     <p>
       Egyesek számára a transznemű és a transzszexuális közötti különbséget az jelenti, hogy nemváltoztató műtéten
@@ -167,22 +168,22 @@
     <b>Tiszteld a kifejezést, de csak olyan emberekre használd, akik magukra is használják.</b>
     </p>
 
-    <div class="subtitle margin-top">
-      Használd a megfelelő keresztnevet es névmásokat
-    </div>
+    <h3 class="subtitle margin-top">
+      Használd a megfelelő keresztnevet és névmásokat
+    </h3>
 
-    <p>Például: egy transznőről hímneműkent beszélni.
+    <p>Például: egy transznőről hímneműként beszélni.
     </p><p>
       Még ha triviálisnak is gondolod, ez erőszakos támadás a transz személy legitimitása ellen. Korrigáld magad még
-    akkor is, ha ez véletlenul történik.
+    akkor is, ha ez véletlenül történik.
   </p><p>
       Hasonlóképpen fájdalmat okozhat egy transz személynek, ha hallja a születési nevét. Jogod van hibázni. Ha
     hibáztál: javítsd ki magad mihamarabb, és próbálj meg odafigyelni a következőkben.
   </p>
 
-    <div class="subtitle margin-top">
-      Használd akkor is a megfelelő keresztnevet es névmásokat, ha a múltrol beszélsz
-    </div>
+    <h3 class="subtitle margin-top">
+      Használd akkor is a megfelelő keresztnevet és névmásokat, ha a múltról beszélsz
+    </h3>
 
     <p>
       Amikor egy transz személy gyermekkoráról beszélsz, a megfelelő keresztnevet használd, még akkor is, ha olyan
@@ -199,8 +200,8 @@
     <div class="pink-text-color prelude">
       Egy kis gyűjtemény, amit
     </div>
-    <div class="pink-text-color title" [innerHTML]="'illik elkerülni 🙊' | utf8EmojisToImages:'apple':40">
-    </div>
+    <h2 class="pink-text-color title" [innerHTML]="'illik elkerülni 🙊' | utf8EmojisToImages:'apple':40">
+    </h2>
 
     <div class="sentence-container">
       <div class="sentence-block">
@@ -276,8 +277,8 @@
 
     <div class="explain">
       <p>
-      Hibákat fogsz elkövetni: minden ember, bármilyen jóindulatú is, elkövethet hibákat, különösen az ha friss
-        információ ez neki.
+      Hibákat fogsz elkövetni: minden ember, bármilyen jóindulatú is, elkövethet hibákat, különösen akkor, ha friss
+        információ ez számára.
       </p><p>
       Kérj bocsánatot, javítsd ki magad, és mindenekelőtt ne sértődj meg, ha kijavítanak.
     </p>
@@ -296,16 +297,16 @@
         <img src="assets/images/undraw_thoughts.svg" alt="" />
       </div>
       <div class="block-text">
-        <div class="title">
+        <h2 class="title">
           Mi az a nemi diszfória?
-        </div>
+        </h2>
       <p>
       A nemi diszfória (szemben a nemi eufóriával) megnyilvánulhat olyan személyes érzésként, hogy eltérés van a:
       </p>
       <ul>
         <li>a születéskor kijelölt nem;</li>
         <li>a személy társadalom által érzékelt neme; és</li>
-        <li>és a saját identitás érzékelése között.</li>
+        <li>a saját identitás érzékelése között.</li>
       </ul>
       <p>
         Ezek az eltérések az <b>önképpel való disszociációhoz vezethetnek</b>, ami mindennapos kellemetlenségekhez vezethet.
@@ -328,15 +329,15 @@
         <img src="assets/images/undraw_having_fun.svg" alt="" />
       </div>
       <div class="block-text">
-        <div class="title">
+        <h2 class="title">
           "Ez majd elmúlik." <span [innerHTML]="'👉' | utf8EmojisToImages"></span> Hamis
-        </div>
+        </h2>
 
         <div class="subtitle pink">
           A transz emberek
         </div>
 
-        <div class="number pink">
+        <div class="number pink" appCountUp>
           99.6%-a
         </div>
 
@@ -347,7 +348,7 @@
     </div>
     <div class="content">
       <p>
-        Egy 2015-ben az Egyesült Államokban 3000, minden korosztályból származó transznemű ember körében végzett vizsgálat során az átváltozók 0,4%-a jött rá utólag, hogy nem is transznemű (3000 emberből 12).
+        Egy 2015-ös, az Egyesült Államokban 3000, minden korosztályból származó transznemű ember körében végzett vizsgálat során az átmenetet megkezdők 0,4%-a jött rá utólag, hogy nem is transznemű (3000 emberből 12).
       </p><p>
       <b>Az eredmények azt mutatják, hogy azok a transzneműek, akik elég magabiztosak ahhoz, hogy kibújjanak, idővel
         túlnyomórészt felelősséget vállalnak ezért a döntésükért.</b>
@@ -367,15 +368,15 @@
   <div class="lightblue-container remains-visible-container">
     <div class="block">
       <div class="block-text">
-        <div class="title">
+        <h2 class="title">
           "Évek múlva is látszani fog, hogy transz vagy." <span [innerHTML]="'👉' | utf8EmojisToImages"></span> Hamis
-        </div>
+        </h2>
 
         <div class="subtitle blue">
           A transz emberek
         </div>
 
-        <div class="number blue">
+        <div class="number blue" appCountUp>
           88%-a
         </div>
 
@@ -402,9 +403,9 @@
   </div>
 
   <div class="black-box brochures-container">
-    <div class="title">
+    <h2 class="title">
       Töltsd le brosúráinkat
-    </div>
+    </h2>
 
     <div class="subtitle">
       Nyomtatásra tervezték,<br />
@@ -415,7 +416,7 @@
       <a [routerLink]="'/entry'"
          [queryParams]="{ id: 'brosura-10-tevhit-a-transzidentitasrol'}">
         <div class="recommendation-item">
-          <h4>❌ 10 tévhit a transzidentitásról</h4>
+          <h3>10 tévhit a transzidentitásról</h3>
           <span>Bevezető a transzidentitásról, transz fiatalok szülei számára.</span>
         </div>
       </a>
@@ -423,7 +424,7 @@
       <a [routerLink]="'/entry'"
          [queryParams]="{ id: 'brosura-hormonok-kitoltheto-utmutato'}">
         <div class="recommendation-item">
-          <h4>💊 Hormonok</h4>
+          <h3>Hormonok</h3>
           <span>Bővebben a kitölthető útmutatókról + Letöltés</span>
         </div>
       </a>
@@ -431,8 +432,7 @@
       <a [routerLink]="'/entry'"
          [queryParams]="{ id: 'brosurak'}">
         <div class="recommendation-item">
-          <h4>📚 További brosúrák, kiadványok</h4>
-          <span></span>
+          <h3>További brosúrák, kiadványok</h3>
         </div>
       </a>
     </div>

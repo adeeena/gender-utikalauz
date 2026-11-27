@@ -1,16 +1,12 @@
-<div class="content">
-  <div class="header">
-    <img src="assets/images/undraw_having_fun.svg" alt="" />
-  </div>
-
+<div class="content" appReveal appRevealChildren=".inner > *, .header">
   <div class="inner">
     <h1 class="title">Mindent a szövetségesekért</h1>
-    <div class="description">Ez a tartalom neked szól, aki a transz emberek jobb támogatóivá akar válni!</div>
+    <div class="description">Ez a tartalom neked szól, aki a transz emberek jobb támogatóivá szeretnél válni!</div>
 
-    <a [routerLink]="['/intro']">
-    <div class="button">
-      Felfedezem az alapokat
-    </div>
-    </a>
+    <a class="btn btn-primary" [routerLink]="['/intro']">Felfedezem az alapokat</a>
+  </div>
+
+  <div class="header">
+    <img src="assets/images/undraw_having_fun.svg" alt="" />
   </div>
 </div>

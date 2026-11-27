@@ -1,7 +1,8 @@
+<div class="read-progress" aria-hidden="true"></div>
 <div class="content">
   @if (entry) {
-    <div class="entry-content">
-      <div class="entry-markdown" [innerHTML]="entry | utf8EmojisToImages:'apple':16"></div>
+    <div class="entry-content" animate.enter="enter-fade">
+      <div class="entry-markdown" (click)="onContentClick($event)" [innerHTML]="entry | utf8EmojisToImages:'apple':16"></div>
       <div class="entry-actions">
         <div class="back-to-home">
           <a [routerLink]="['/']">
@@ -17,8 +18,6 @@
       <div class="disclaimer">
         <b>{{ 'entry.foundErrorTitle' | translate }} </b>
         <span [innerHTML]="'entry.foundErrorText' | translate"></span>
-      </div>
-      <div class="disclaimer">
       </div>
     </div>
   } @else if (entryLoading) {

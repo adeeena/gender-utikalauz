@@ -1,59 +1,64 @@
-<div class="content">
-  <div class="trans-background header-card">
-    <div class="header-card-content">
+<section class="hero">
+  <div class="hero-flag">
+    <img src="assets/images/home/pride-1920.webp"
+         srcset="assets/images/home/pride-960.webp 960w, assets/images/home/pride-1280.webp 1280w, assets/images/home/pride-1920.webp 1920w"
+         sizes="100vw"
+         fetchpriority="high"
+         alt="Transz zászló és szivárványzászló a felvonulók feje fölött egy pride-menetben">
+  </div>
 
-      <div class="home-box">
-        <div class="home-box-line-welcome"
-             [innerHTML]="'general.lineWelcome' | translate | utf8EmojisToImages:'apple':16"></div>
-        <h1 class="home-box-title">{{ 'general.title' | translate }}</h1>
-        <div class="home-box-explain">
-          {{ 'general.lineExplain' | translate }}
-        </div>
+  <div class="wrap hero-wrap">
+    <div class="hero-box">
+      <h1 class="hero-title">{{ 'general.title' | translate }}</h1>
+      <p class="hero-lead">{{ 'general.lineExplain' | translate }}</p>
 
-        <div class="buttons">
-          <button class="btn btn-primary" type="button" routerLink="/intro">
-            {{ 'general.intro' | translate }}
-          </button>
-          <button class="btn btn-secondary" type="button" (click)="sidenavToggle()">
-            {{ 'general.allArticle' | translate }}
-          </button>
-        </div>
+      <div class="buttons">
+        <button class="btn btn-primary" type="button" routerLink="/intro">
+          {{ 'general.intro' | translate }}
+        </button>
+        <button class="btn btn-secondary" type="button" (click)="sidenavToggle()">
+          {{ 'general.allArticle' | translate }}
+        </button>
       </div>
-    </div>
-  </div>
-</div>
 
-<section class="recent-section" aria-labelledby="recent-heading">
-  <div class="section-heading">
-    <h2 id="recent-heading">Új és megújult cikkek</h2>
-  </div>
-
-  @if (recentEntriesLoading) {
-    <p class="recent-state">Friss cikkek betöltése...</p>
-  } @else if (recentEntriesError) {
-    <p class="recent-state">A friss cikkeket most nem sikerült betölteni. Próbáld újra később.</p>
-  } @else if (recentEntries.length) {
-    <div class="recent-grid">
-      @for (entry of recentEntries; track entry.slug) {
-        <a class="recent-card"
-           [routerLink]="'/entry'"
-           [queryParams]="{ id: entry.slug }">
-          <div class="recent-copy">
-            <h3>{{ entry.title }}</h3>
-            @if (entry.description) {
-              <p>{{ entry.description }}</p>
-            }
-          </div>
-          <div class="recent-meta">
-            <span class="recent-date">{{ formatDate(entry.dateModified) }}</span>
-            <span class="recent-arrow" aria-hidden="true">Tovább <b>&gt;</b></span>
-          </div>
-        </a>
+      @if (guideCount) {
+        <p class="hero-facts">{{ 'home.facts' | translate: { count: guideCount } }}</p>
       }
     </div>
-  } @else {
-    <p class="recent-state">Az elmúlt 120 napban nem frissítettünk cikket.</p>
-  }
+  </div>
+</section>
+
+<section class="recent-section" aria-labelledby="recent-heading">
+  <div class="wrap">
+    <h2 id="recent-heading" class="section-title" appReveal>Új és megújult cikkek</h2>
+
+    @if (recentEntriesLoading) {
+      <p class="recent-state">Friss cikkek betöltése...</p>
+    } @else if (recentEntriesError) {
+      <p class="recent-state">A friss cikkeket most nem sikerült betölteni. Próbáld újra később.</p>
+    } @else if (recentEntries.length) {
+      <ul class="recent-list">
+        @for (entry of recentEntries; track entry.slug; let i = $index) {
+          <li appReveal [appRevealDistance]="16" [appRevealDelay]="i * 0.04">
+            <a class="recent-row"
+               [routerLink]="'/entry'"
+               [queryParams]="{ id: entry.slug }">
+              <span class="recent-date">{{ formatDate(entry.dateModified) }}</span>
+              <span class="recent-copy">
+                <span class="recent-title">{{ entry.title }}</span>
+                @if (entry.description) {
+                  <span class="recent-desc">{{ entry.description }}</span>
+                }
+              </span>
+              <span class="recent-more" aria-hidden="true">Tovább <b>&gt;</b></span>
+            </a>
+          </li>
+        }
+      </ul>
+    } @else {
+      <p class="recent-state">Az elmúlt 120 napban nem frissítettünk cikket.</p>
+    }
+  </div>
 </section>
 
 <div class="black-box explain-card">

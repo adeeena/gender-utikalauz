@@ -38,15 +38,15 @@
      <h1>Ösztrogén pg/ml - pmol/l váltó</h1>
 
      <p>
-      Ez a kalkulátor lehetővé teszi az ösztradiol szintek konvertálását pg/ml-ből pmol/l-be és pmol/l-ból pg/ml-be.
+      Ez a kalkulátor lehetővé teszi az ösztradiolszintek átváltását pg/ml-ből pmol/l-be és pmol/l-ből pg/ml-be.
     </p>
 
     <ul>
       <li>
-        pmol/l-ból pg/ml-be történő konvertáláshoz 3,67-tel kell szorozni.
+        pg/ml-ből pmol/l-be történő átváltáshoz 3,67-tel kell szorozni.
       </li>
       <li>
-        pg/ml-ből pmol/l-be történő konvertáláshoz 0,27237-tel kell szorozni.
+        pmol/l-ből pg/ml-be történő átváltáshoz 0,27237-tel kell szorozni.
       </li>
     </ul>
 
@@ -75,7 +75,7 @@
     </label>
   </div>
 
-  <div class="entry-actions" [@enter3]>
+  <div class="entry-actions">
     <div class="back-to-home">
       <a [routerLink]="['/']">
         {{ 'general.backToHome' | translate }}
@@ -89,12 +89,9 @@
     </div>
   </div>
 
-  <div class="disclaimer" [@enter4]>
+  <div class="disclaimer">
     <b>{{ 'entry.foundErrorTitle' | translate }} </b>
     <span [innerHTML]="'entry.foundErrorText' | translate"></span>
-  </div>
-
-  <div class="disclaimer" [@enter4]>
   </div>
 </div>
 </div>

@@ -19,7 +19,7 @@ export class LexikonComponent implements OnInit {
         'entries': [
           {
             'title': 'Acefóbia',
-            'subtitle': '– (Acephobie)',
+            'subtitle': '– (acephobia)',
             'explain': 'Ellenségesség, elutasítás és erőszak az aszexuális emberekkel szemben. A szexualitás valós vagy vélt hiánya miatti megbélyegzés.'
           },
           {
@@ -41,8 +41,8 @@ export class LexikonComponent implements OnInit {
             'title': 'Androgün',
             'subtitle': 'Androgynous',
             'explain': 'Aki ránézésre és testi adottságai alapján hagyományosan férfi és női nemi jegyekként' +
-              ' elkönyvelt adottságokkal is bír; vagy ennek szöges ellentéte: aki sem férfi, sem női meni jegyként' +
-              ' elkönyvelt adottsággal sem bír'
+              ' elkönyvelt adottságokkal is bír; vagy ennek szöges ellentéte: aki sem férfi,               sem női nemi jegyként' +
+                            ' elkönyvelt adottsággal sem bír.'
           },
           {
             'title': 'Arcfeminizációs műtét',
@@ -58,11 +58,6 @@ export class LexikonComponent implements OnInit {
             'title': 'Aromantikus',
             'subtitle': '– aro, aromantic',
             'explain': 'Olyan személy, aki nem vagy alig érez romantikus vonzalmat bárki iránt.'
-          },
-          {
-            'title': 'Aszexuális',
-            'subtitle': '– ász/ace, asexual',
-            'explain': 'Olyan személy, akinek kevés vagy egyáltalán nincs szexuális vonzódása senkihez.'
           },
           {
             'title': 'Aszexuális',
@@ -112,7 +107,7 @@ export class LexikonComponent implements OnInit {
           {
             'title': 'Biszexuális',
             'subtitle': '– (bisexual)',
-            'explain': 'Olyan személy, aki szexuális vagy romantikus vonzalmat érezhet egynél több nemhez.' +
+            'explain': 'Olyan személy, aki szexuális vagy romantikus vonzalmat érezhet             egynél több nemhez. ' +
               'A pánszexuális kifejezés szinonimaként használható.'
           },
           {
@@ -156,7 +151,7 @@ export class LexikonComponent implements OnInit {
           },
           {
             'title': 'Crossdresser',
-            'explain': 'olyasvalaki, aki nem a neméhez illőnek tartott öltözékben szeret járni. A crosdresser' +
+            'explain': 'Olyasvalaki, aki nem a neméhez illőnek tartott öltözékben szeret járni. A crossdresser' +
               ' öndefiníciója alapján nem transzgender, csak szeret a másik nem ruháiban járni. Idejétmúlt kifejezéssel: transzvesztita 🚫.'
           },
         ]
@@ -235,18 +230,18 @@ export class LexikonComponent implements OnInit {
           {
             'title': 'Felső műtét',
             'subtitle': '– (top surgery)',
-            'explain': 'a felsőtesten végrehajtott kozmetikai beavatkozás, melynek célja a külső illesztése a' +
+            'explain': 'A felsőtesten végrehajtott kozmetikai beavatkozás, melynek célja a külső illesztése a' +
               ' nemi identitáshoz.'
           },
           {
-            'title': 'Femis / Ladyck',
+            'title': 'Femis / Ladydick',
             'explain': 'A hormonkezelés következtében megváltozott pénisz. Néhány transz nő és nem bináris személy,' +
               ' akár hormonkezelés alatt vannak, akár nem, szintén ezt a kifejezést használja a péniszére.'
           },
           {
             'title': 'FtM / Ft* / FtX',
             'subtitle': '– (female-to-male, female-to-nondetermined)',
-            'explain': 'female-to-male vagy female-t--*/X. Azokra az AFAB személyekre vonatkozik, akik más neművé' +
+            'explain': 'Female-to-male vagy female-to-*/X. Azokra az AFAB személyekre vonatkozik, akik más neművé' +
               ' válnak. Az FtM a transz férfi szinonimája lehet; az Ft* és FtX utalhat a nem bináris AFAB' +
               ' személyekre is, vagy általánosabban bármely transz AFAB személyre.'
           }
@@ -265,7 +260,7 @@ export class LexikonComponent implements OnInit {
           },
           {
             'title': 'Gender',
-            'explain': 'Társadalmi szerep, pl. férfi vagy nő, és azonosulás a szerepet játszó egyének osztályával. A társadalmi nem nem feltétlenül egyezik meg a születesi nemmel: egy AMAB személy azonosulhat a női szereppel, és így lehet nőnemű.\n' +
+            'explain': 'Társadalmi szerep, pl. férfi vagy nő, és azonosulás a szerepet játszó egyének osztályával. A társadalmi nem nem feltétlenül egyezik meg a születési nemmel: egy AMAB személy azonosulhat a női szereppel, és így lehet nőnemű.\n' +
               '\n' +
               'A férfi és a női nemek csak nagyon leegyszerűsítő kulturális konvenciók, amelyekkel a' +
               ' személyiségjegyek összetett csoportját címkézik. Minden embernek vannak nőiesnek és férfiasnak tekintett személyiségjegyei. Ezért a nemek sokasága létezik.'
@@ -283,7 +278,7 @@ export class LexikonComponent implements OnInit {
           {
             'title': 'Heteropatriarchia',
             'subtitle': '- heteropatriarchy',
-            'explain': 'Esszesszionalista elnyomó társadalmi rendszer, amelyet a heteroszexualitás magától' +
+            'explain': 'Esszencialista elnyomó társadalmi rendszer, amelyet a heteroszexualitás magától' +
               ' értetődőnek tekintése jellemez. A nők férfiak általi uralmával kapcsolatos. Ez a rendszer a szexizmusra, a rasszizmusra, a validizmusra és az LMBT+-fóbiákra támaszkodik.'
           },
           {
@@ -320,8 +315,8 @@ export class LexikonComponent implements OnInit {
           {
             'title': 'Interszexofóbia',
             'subtitle': '- intersexophobia',
-            'explain': 'Az interszexuális és interszexuális emberekkel szembeni ellenségesség, elutasítás. Az' +
-              ' interszexofób diskurzus hajlamos az interszexet abnormálsnak állítani, igazolva az' +
+            'explain':             'Az interszex emberekkel szembeni ellenségesség, elutasítás. Az' +
+                          ' interszexofób diskurzus hajlamos az interszexet abnormálisnak beállítani, igazolva az' +
               ' interszexuális gyermekeken végzett korai csonkítási műtéteket.'
           }
         ]
@@ -332,7 +327,7 @@ export class LexikonComponent implements OnInit {
           {
             'title': 'Kibújás',
             'subtitle': '- coming out',
-            'explain': 'Bejelentés egy vagy több embernek, hogy valaki  LMBT+-hoz tartozik. Egy transz személynek' +
+            'explain': 'Bejelentés egy vagy több embernek, hogy valaki LMBT+-hoz tartozik. Egy transz személynek' +
               ' életének különböző időszakaiban kell előbújnia, a családjától/barátaitól és a saját helyzetétől függően. Nem tévesztendő össze az "outing"-gal, amely egy személy magánéletének beleegyezése nélküli nyilvánosságra hozatala ismeretleneknek vagy mások számára.'
           }
         ]
@@ -347,7 +342,7 @@ export class LexikonComponent implements OnInit {
           },
           {
             'title': 'Labioplasztika',
-            'explain': 'Sebészeti, elsősorban esztétikai műtét, amelynek célja a (neo)vagina kisajkakjának felépítése olyan személynél, akin korábban hüvelyplasztikát végeztek. A labioplasztikát, amelyet a vaginoplasztikával egy időben vagy néha néhány hónappal később végeznek, a műtéti technikától függően, általában a Vénusz-hegy és a (neo)klitorisz főkötőjének építése kíséri.'
+            'explain': 'Sebészeti, elsősorban esztétikai műtét, amelynek célja a (neo)vagina kisajkainak felépítése olyan személynél, akin korábban hüvelyplasztikát végeztek. A labioplasztikát, amelyet a vaginoplasztikával egy időben vagy néha néhány hónappal később végeznek, a műtéti technikától függően, általában a Vénusz-hegy és a (neo)klitorisz főkötőjének építése kíséri.'
           },
           {
             'title': 'Lézeres szőrtelenítés',
@@ -358,11 +353,11 @@ export class LexikonComponent implements OnInit {
             'subtitle': '- LGBT+',
             'explain': 'Leszbikus, meleg, biszexuális, transz. A "+" jelzi, hogy a betűszó nem kimerítő, beleértve' +
               ' bármely marginalizált nemi identitást vagy orientációt, mint pl. a queer, interszexuális, aszexuális' +
-              ' / aromatikus embereket.'
+              ' / aromantikus embereket.'
           },
           {
             'title': 'Lopakodó mód',
-            'subtitle': '- shealth',
+            'subtitle': '- stealth',
             'explain': 'Egy transz személyt, aki ciszpassing, és nem fedezik fel, hogy transz, lopakodásnak nevezzük. Gyakran ez az egyetlen módja annak, hogy a transznemű személyek valamennyire békés életet éljenek, és kevésbé legyenek kitéve az erőszaknak.'
           }
         ]
@@ -378,14 +373,14 @@ export class LexikonComponent implements OnInit {
           {
             'title': 'Metaidoplasztika',
             'explain': 'Sebészeti műtét, amelynek lényege a dicklit felszabadítása és a függesztőszalag átvágása' +
-              ' annak érdekében, hogy az végeredmény közelebb álljon a cisz férfiak péniszéhez. A hüvely is' +
+              ' annak érdekében, hogy a végeredmény közelebb álljon a cisz férfiak péniszéhez. A hüvely is' +
               ' lezárható, a' +
               ' húgyvezeték is átépíthető, és a herezacskó is kialakítható, a páciens kívánságaitól függően.'
           },
           {
             'title': 'MtF / Mt* / MtX',
             'subtitle': '- (male-to-female, male-to-nondetermined)',
-            'explain': 'Férfiből-nő vagy férfiből-*/X. Azokra az AMAB emberekre vonatkozik, akik más neművé' +
+            'explain': 'Male-to-female vagy male-to-*/X. Azokra az AMAB emberekre vonatkozik, akik más neművé' +
               ' válnak. Az MtF a transz nő szinonimája lehet; az Mt* és MtX utalhat a nem bináris AMAB személyekre is, vagy általánosabban bármely transz AMAB személyre.'
           }
         ]
@@ -395,10 +390,10 @@ export class LexikonComponent implements OnInit {
         'entries': [
           {
             'title': 'Nemváltó műtét',
-            'subtitle': '- SRS, sexual reassignment surgery',
+            'subtitle': '- SRS, sex reassignment surgery',
             'explain': 'Általános kifejezés minden olyan műtétre, amelynek célja a külső nemi szervek' +
               ' megváltoztatása, hogy azok a "másik" nemre hasonlítsanak. Az AFAB embereknél falloplasztikára és' +
-              ' metaidoiplasztikára, az AMAB embereknél pedig vaginoplasztikára és vulvoplasztikára utal. Nemi' +
+              ' metaidoplasztikára, az AMAB embereknél pedig vaginoplasztikára és vulvoplasztikára utal. Nemi' +
               ' diszfória esetén végzik, de messze nem mindenkinél.'
           },
           {
@@ -466,7 +461,7 @@ export class LexikonComponent implements OnInit {
           },
           {
             'title': 'Passing',
-            'explain': 'A transz emberek számára ez azt jelenti, hogy a megfelelő nemi identitással rendelkezőnek tekintik őket, anélkül, hogy transz-identitásuk azonosítható lenne. \n' +
+            'explain': 'A transz emberek számára ez azt jelenti, hogy a megfelelő nemi identitással rendelkezőnek tekintik őket, anélkül, hogy transzidentitásuk azonosítható lenne. \n' +
               '\n' +
               'A passing lehetővé teszi egyes transz emberek számára, hogy enyhítsék a diszfória érzését, és' +
               ' hozzáférést biztosít bizonyos kiváltságokhoz, amelyek a ciszgender férfi (transz férfiak esetében)' +
@@ -485,7 +480,7 @@ export class LexikonComponent implements OnInit {
         'entries': [
           {
             'title': 'Queer',
-            'explain': 'Régi sértés (angolul "furcsa, eltorzult"), amelyet a hetero-cisz normákon kívüli politikai követeléseket megfogalmazó emberek sajátítottak ki. Ez a kifejezés ma már tágabb értelemben az LMBT+ közösségre vonatkozik. Az LMBT+ emberek használhatják, akik nem kívánják magukat egy szűkebb kategóriában meghatározni. '
+            'explain': 'Régi sértés (angolul "furcsa, eltorzult"), amelyet a hetero-cisz normákon kívüli politikai követeléseket megfogalmazó emberek sajátítottak ki. Ez a kifejezés ma már tágabb értelemben az LMBT+ közösségre vonatkozik. Az LMBT+ emberek közül használhatják azok, akik nem kívánják magukat egy szűkebb kategóriában meghatározni.'
           }
         ]
       },
@@ -503,7 +498,7 @@ export class LexikonComponent implements OnInit {
         'letter': 'Sz',
         'entries': [
           {
-            'title': 'Szivárvány zászló',
+            'title': 'Szivárványzászló',
             'subtitle': '- rainbow flag',
             'explain': 'Az 1978-ban létrehozott szivárványszínű zászló neve, amely az LMBTQIA+ büszkeséget szimbolizálja. A zászlónak azóta más, inkluzívabb változatai is készültek.'
           },
@@ -522,7 +517,7 @@ export class LexikonComponent implements OnInit {
         'entries': [
           {
             'title': 'TERF',
-            'subtitle': '- trans exclusionnary radical feminist',
+            'subtitle': '- trans exclusionary radical feminist',
             'explain': 'Azokra az emberekre utal, akik a feminizmust arra használják, hogy a transzneműek jogai ellen harcoljanak. Tévesen a transzfób emberekre általánosságban használt kifejezés.'
           },
           {
@@ -532,7 +527,7 @@ export class LexikonComponent implements OnInit {
           },
           {
             'title': 'Transz / transznemű / transzszexuális',
-            'subtitle': '- trans, transgender, transexual',
+            'subtitle': '- trans, transgender, transsexual',
             'explain': 'Olyan személyre utaló melléknév, aki nem azonosul a születésekor neki rendelt nemmel. A transz, transznemű és transzszexuális kifejezések nagyjából szinonimák, bár az utolsó szót kerülni kell.'
           },
           {
@@ -570,6 +565,12 @@ export class LexikonComponent implements OnInit {
       }
 
     ];
+
+    this.entries.forEach(category => category.entries.forEach((e: any) => {
+      if (e.subtitle) {
+        e.subtitle = e.subtitle.replace(/^[-\u2013]\s*/, '');
+      }
+    }));
   }
 
 }

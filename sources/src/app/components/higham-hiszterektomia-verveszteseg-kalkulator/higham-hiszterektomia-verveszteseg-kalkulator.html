@@ -37,14 +37,14 @@
         <h1>Várható vérveszteség hiszterektómiáig / Higham kalkulátor</h1>
 
         <p>
-          Ez a kalkulátor néhány bemeneti adat alapján kiszámolja, hogy körülbelül hány liter vérveszteség történt az első menstruációd óta. Ugyanitt, ha már megvan a hiszterektómia-műtéted időpontja, az alapján közelítő értéket ad arra vonatkozóan, mennyi vérveszteség várható addig.
+          Ez a kalkulátor néhány bemeneti adat alapján kiszámolja, hogy körülbelül hány liter vért vesztettél az első menstruációd óta. Ugyanitt, ha már megvan a hiszterektómia-műtéted időpontja, az alapján közelítő értéket ad arra vonatkozóan, mennyi vérveszteség várható addig.
         </p>
 
         <div class="podcast-episode">
-          <h5>✅ Megadott adatok nem kerülnek rögzítésre.</h5>
+          <h2>✅ A megadott adatok nem kerülnek rögzítésre.</h2>
 
-          Az itt megadott adatokat bizalmasan kezeljük, nem rögzítjük, nem adjuk tovább senkinek. A weboldal forráskódja elérhető a <a href="https://github.com/adeeena/gender-utikalauz">projekt GitHub-oldalán</a>.<br />
-          <!-- <a href="#">Ugyanakkor az alábbi kalkulátor elérheto letöltheto, offline Excel-fájlként itt.</a>-->
+          Az itt megadott adatokat bizalmasan kezeljük, nem rögzítjük, és nem adjuk tovább senkinek. A weboldal forráskódja elérhető a <a href="https://github.com/adeeena/gender-utikalauz">projekt GitHub-oldalán</a>.<br />
+          <!-- <a href="#">Ugyanakkor az alábbi kalkulátor elérhető letölthető, offline Excel-fájlként itt.</a>-->
         </div>
 
         <br />
@@ -56,10 +56,10 @@
           </p>
 
           <ul>
-            <li>Higham-érték alapján kiértékelődik, hány ml vért vesztesz a menstruációd során.</li>
-            <li>A menstruációs ciklusod gyakorisága alapján meghatározza a kalkulátor, hogy egy évben hányszor menstruálsz.</li>
-            <li>Az alapján, hogy mikor kezdtél menstruálni és hány éves vagy most, kiértékelődik, hogy hány liter vért vesztettél idáig életed során csak menstruálással.</li>
-            <li><i>(opcionális)</i> Az alapján, hogy mikor tervezed (vagy mikor volt) a hiszterektómiád, kiértékelődik, hogy mennyi vért fogsz még veszteni (ha az időpont a jövőben lesz) / mennyi vérveszteségtől mentesültél (ha az időpont a múltban volt).
+            <li>A Higham-érték alapján kiértékelődik, hány ml vért vesztesz a menstruációd során.</li>
+            <li>A menstruációs ciklusod gyakorisága alapján a kalkulátor meghatározza, hogy egy évben hányszor menstruálsz.</li>
+            <li>Az alapján, hogy mikor kezdtél menstruálni és hány éves vagy most, kiértékelődik, hogy életed során eddig hány liter vért vesztettél kizárólag menstruációval.</li>
+            <li><i>(opcionális)</i> Az alapján, hogy mikor tervezed (vagy mikor volt) a hiszterektómiádat, kiértékelődik, hogy mennyi vért fogsz még veszíteni (ha az időpont a jövőben lesz), illetve mennyi vérveszteségtől mentesültél (ha az időpont a múltban volt).</li>
           </ul>
         </div>
 
@@ -68,6 +68,7 @@
           <p>
             A Higham-érték egy objektív pontozási rendszer a menstruációs vérzés mennyiségének értékelésére. A pontozási rendszer használatával a páciensek és az egészségügyi szakemberek is jobban meg tudják ítélni a vérzés mennyiségét és annak változásait a különböző kezelések hatására. A Higham-érték használatakor a menstruációs termékek (például betétek, tamponok) telítettségét értékelik, és ennek alapján pontokat adnak. Az összpontszám alapján ítélik meg a vérzés mértékét.
           </p>
+          <div class="table-scroll" tabindex="0" role="region" aria-label="Higham-érték táblázat">
           <table>
             <thead>
               <tr>
@@ -107,6 +108,7 @@
                 </tr>
               </tbody>
             </table>
+          </div>
 
             <br />
 
@@ -209,7 +211,7 @@
                     </div>
                   }
 
-                  <div class="entry-actions" [@enter3]>
+                  <div class="entry-actions">
                     <div class="back-to-home">
                       <a [routerLink]="['/']">
                         {{ 'general.backToHome' | translate }}
@@ -223,12 +225,9 @@
                     </div>
                   </div>
 
-                  <div class="disclaimer" [@enter4]>
+                  <div class="disclaimer">
                     <b>{{ 'entry.foundErrorTitle' | translate }} </b>
                     <span [innerHTML]="'entry.foundErrorText' | translate"></span>
-                  </div>
-
-                  <div class="disclaimer" [@enter4]>
                   </div>
                 </div>
               </div>

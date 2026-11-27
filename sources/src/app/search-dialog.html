@@ -27,8 +27,10 @@
     </p>
   } @else if (searchResults && searchResults.length) {
     <div class="search-results" aria-live="polite">
-      @for (res of searchResults; track res) {
+      @for (res of searchResults; track res; let i = $index) {
         <a class="search-result-item"
+          animate.enter="enter-fade"
+          [style.animation-delay.ms]="i * 30"
           routerLink="/entry"
           (click)="onClick()"
           [queryParams]="{ id: res.fileName }"

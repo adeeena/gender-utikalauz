@@ -7,6 +7,7 @@ import { filter } from 'rxjs/operators';
 import {SidenavService} from "@services/sidenav";
 import {DIALOG_DATA, DialogRef, DialogService} from "@services/dialog";
 import {SearchService} from "@services/search";
+import {MotionService} from "@services/motion";
 
 export interface CookieDialogData {
   message: string;
@@ -34,11 +35,15 @@ export class AppComponent implements OnInit {
               private title: Title,
               private router: Router,
               private dialog: DialogService,
-              private sidenavService: SidenavService) {
+              private sidenavService: SidenavService,
+              private motion: MotionService) {
     translate.setDefaultLang(appConfigService.getConfig().languageCode);
 
     this.sidenavService.isOpen$.subscribe((isOpen) => {
       this.isOpened = isOpen;
+      if (isOpen) {
+        this.animateDrawer();
+      }
     });
 
     this.router.events.pipe(filter((event: any) => {
@@ -47,7 +52,31 @@ export class AppComponent implements OnInit {
         this.isHeaderVisible = event.urlAfterRedirects !== '/';
         this.resetPagePosition();
         this.trackPageView(event.urlAfterRedirects || this.router.url);
+        setTimeout(() => this.motion.ScrollTrigger.refresh(), 400);
       });
+  }
+
+  // Az új oldal tartalma finoman úszik be az útvonalváltáskor
+  onRouteActivate(): void {
+    if (this.motion.reduced) {
+      return;
+    }
+    const routed = document.querySelector('.page router-outlet + *');
+    if (routed) {
+      this.motion.gsap.fromTo(routed, { opacity: 0, y: 8 },
+        { opacity: 1, y: 0, duration: 0.55, ease: this.motion.ease, clearProps: 'opacity,transform' });
+    }
+  }
+
+  private animateDrawer(): void {
+    if (this.motion.reduced) {
+      return;
+    }
+    requestAnimationFrame(() => {
+      this.motion.gsap.fromTo('.drawer .sidebar-title, .drawer .back-to-home, .drawer .category',
+        { opacity: 0, x: -14 },
+        { opacity: 1, x: 0, duration: 0.55, ease: this.motion.ease, stagger: 0.035, delay: 0.08, clearProps: 'opacity,transform' });
+    });
   }
 
   private resetPagePosition(): void {

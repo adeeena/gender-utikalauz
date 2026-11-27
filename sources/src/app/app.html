@@ -21,7 +21,7 @@
     @if (isHeaderVisible) {
       <app-header></app-header>
     }
-    <router-outlet></router-outlet>
+    <router-outlet (activate)="onRouteActivate()"></router-outlet>
     <app-footer></app-footer>
   </div>
 </div>

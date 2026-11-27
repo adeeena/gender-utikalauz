@@ -1,19 +1,19 @@
 <div class="galery-container">
-  <div class="galery-top">
+  <div class="galery-top" appReveal appRevealChildren="h1, .left-side p, .right-side" [appRevealDistance]="20">
     <div class="left-side">
       <h1>Galéria</h1>
 
       <p>
-        A transznemű emberek láthatóságának hiánya és negatív képe miatt gyakran sztereotípiáknak esnek áldozatul.
+        A transznemű emberek láthatóságának hiánya és negatív képe miatt gyakran sztereotípiák áldozatává válnak.
       </p>
       <p>
-        Ezekben a pillanatokban fontos látni, hogy olyan <b>transznemű emberek léteztek mielőttünk is, akik már elkezdték a tranzíciójukat és sikeresen boldogultak az életben</b>, ráadásul nyilvános területen is (írók, ügyvédek, képviselők, újságírók, üzletemberek stb.).
+        Ezekben a pillanatokban fontos látni, hogy olyan <b>transznemű emberek léteztek előttünk is, akik már elkezdték a tranzíciójukat, és sikeresen boldogultak az életben</b>, ráadásul nyilvános területen is (írók, ügyvédek, képviselők, újságírók, üzletemberek stb.).
       </p>
       <p>
-        Ez az oldal tiszteletet fejez ki irántuk, és lehetővé teszi számodra, hogy lássad: <b>igen, lehetséges transzneműnek lenni és pozitívan tekinteni a jövődre</b>.
+        Ez az oldal tiszteletet fejez ki irántuk, és lehetővé teszi számodra, hogy lásd: <b>igen, lehetséges transzneműnek lenni és pozitívan tekinteni a jövődre</b>.
       </p>
       <p>
-        <b>A fotókra kattintva több infót tudhatsz meg!</b>.
+        <b>A fotókra kattintva több információt tudhatsz meg!</b>
       </p>
       <p>
         Még több embert találhatsz a <a href="https://w.wiki/YR2" target="_blank">nemzetközi Wikipédián</a>,
@@ -27,13 +27,13 @@
   </div>
 
   <div class="galery-items">
-    @for (item of galery; track item) {
-      <div class="galery-item">
+    @for (item of galery; track item; let i = $index) {
+      <div class="galery-item" appReveal [appRevealDelay]="(i % 4) * 0.08">
 			<a href="{{ item.link }}" target="_blank" rel="noopener" [attr.aria-label]="'További információ: ' + item.name" [ngStyle]="{
 				'background-image': 'url(' + baseUrl + '/images/' + item.image + ')'
 			}">
         </a>
-        <h5>{{item.name}}</h5>
+        <h2>{{item.name}}</h2>
         <div class="gender">
           {{item.gender}}
         </div>

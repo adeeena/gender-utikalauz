@@ -47,21 +47,30 @@
 
     .sidebar-item {
       display: flex;
-      min-height: 32px;
+      min-height: 36px;
       text-decoration: none;
       width: 100%;
 
       .text {
         align-self: center;
-        color: white;
-        font-size: .8rem;
-        padding: .35rem .5rem;
-        transition: background-color 160ms ease;
+        border-left: 3px solid transparent;
+        color: #e6f0f7;
+        font-size: .9375rem;
+        line-height: 1.35;
+        padding: .45rem .75rem .45rem .5rem;
+        transition: background-color 160ms ease, border-color 160ms ease, color 160ms ease;
         width: 100%;
 
         &:hover {
           background: #1d567f;
         }
+      }
+
+      &.active .text {
+        background: rgba(143, 210, 255, .14);
+        border-left-color: #f5a9b8;
+        color: #fff;
+        font-weight: 600;
       }
     }
   }

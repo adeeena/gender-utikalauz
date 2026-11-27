@@ -1,163 +1,25 @@
-@use '../../../tokens' as styles;
+@use '../../../calc-page';
 
-.content {
-  background: #f5f5f5;
-  min-height: 90vh;
-
-  a {
-    color: #4054b2;
-    font-weight: bold;
-    text-decoration: underline;
-  }
-
-  .entry-content {
-    .podcast-episode {
-      background: #fde9f0;
-      border: 2px solid styles.$pink-color;
-      padding: 1rem;
-      margin-bottom: 2rem;
-
-      h5 {
-        font-size: 1rem;
-        font-weight: 500;
-        margin: 0 0 .5rem;
-      }
-    }
-
-    .wiki-content {
-      .intense {
-        text-align: center;
-        font-size: 2rem;
-        font-weight: bold;
-        color: styles.$pink-color;
-      }
-
-      .personal-info {
-        .field-block {
-          display: flex;
-        }
-      }
-    }
-
-    .entry-title {
-      //font-family: Merriweather;
-      font-size: 2rem;
-      line-height: 3rem;
-    }
-
-    .calculator-container {
-      background: #fde9f0;
-      border: 2px solid styles.$pink-color;
-      padding: 1rem;
-      margin-bottom: 2rem;
-      display: flex;
-      justify-content: center;
-
-      span {
-        font-weight: bold;
-        display: block;
-
-        &.equal-sign {
-          font-size: 2rem;
-          margin: 0 1rem;
-        }
-      }
-    }
-
-    .entry-actions {
-      display: flex;
-      justify-content: space-between;
-      margin-bottom: 1vh;
-
-      .back-to-home {
-        align-self: center;
-      }
-
-      a, button {
-        color: #616161;
-      }
-    }
-
-    .disclaimer {
-      color: #616161;
-      margin: 2rem 0;
-
-      a {
-        color: #616161;
-      }
-    }
-
-    .might-interest-you {
-      margin: 2rem auto 0;
-
-      .might-interest-you-result-set {
-        display: flex;
-        flex-wrap: wrap;
-      }
-    }
-  }
+.personal-info .field-block {
+  flex-direction: column;
+  margin-bottom: 20px;
+  max-width: 420px;
 }
 
-@media (min-width: 601px) {
-  ::ng-deep {
-    .floating-columns {
-      display: flex;
+.table-scroll {
+  margin-bottom: 32px;
+  overflow-x: auto;
 
-      .floating-bar {
-        margin-right: 1rem;
-        width: 15rem;
-      }
-
-      .wiki-content {
-        width: 100%;
-      }
-    }
+  table {
+    margin: 0;
+    min-width: 720px;
   }
 
-  .entry-content {
-    padding: 5rem;
+  th, td {
+    text-align: center;
+  }
 
-    .calculator-container {
-      flex-direction: row;
-    }
-
-    .entry-title, .entry-categories, .separator {
-      margin-bottom: 2rem;
-    }
+  th:first-child, td:first-child {
+    text-align: left;
   }
 }
-
-@media (max-width: 600px) {
-  ::ng-deep {
-    .floating-columns {
-      display: flex;
-      flex-direction: column;
-
-      .floating-bar {
-        order: 2;
-      }
-
-      .wiki-content {
-        order: 1;
-      }
-    }
-  }
-
-  .entry-content {
-    padding: 1rem;
-
-    .calculator-container {
-      flex-direction: column;
-
-      span {
-        text-align: center;
-      }
-    }
-
-    .entry-title, .entry-categories, .separator {
-      margin-bottom: 1.5rem;
-    }
-  }
-}
-
-

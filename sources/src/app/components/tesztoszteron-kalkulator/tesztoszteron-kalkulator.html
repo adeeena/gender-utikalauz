@@ -33,15 +33,15 @@
 			<h1>Tesztoszteron ng/dl - nmol/l váltó</h1>
 
 			<p>
-				Ez a kalkulátor lehetővé teszi a tesztoszteron szintek konvertálását ng/dl-ből nmol/l-be és nmol/l-ból ng/dl-be.
+				Ez a kalkulátor lehetővé teszi a tesztoszteronszintek átváltását ng/dl-ből nmol/l-be és nmol/l-ből ng/dl-be.
 			</p>
 
 			<ul>
 				<li>
-					nmol/l-ból ng/dl-be történő konvertáláshoz 28,842-tel kell szorozni.
+					nmol/l-ből ng/dl-be történő átváltáshoz 28,842-vel kell szorozni.
 				</li>
 				<li>
-					ng/dl-ből nmol/l-be történő konvertáláshoz 0,0347-tel kell szorozni.
+					ng/dl-ből nmol/l-be történő átváltáshoz 0,0347-tel kell szorozni.
 				</li>
 			</ul>
 
@@ -70,7 +70,7 @@
 			</label>
 		</div>
 
-		<div class="entry-actions" [@enter3]>
+		<div class="entry-actions">
 			<div class="back-to-home">
 				<a [routerLink]="['/']">
 					{{ 'general.backToHome' | translate }}
@@ -84,12 +84,9 @@
 			</div>
 		</div>
 
-		<div class="disclaimer" [@enter4]>
+		<div class="disclaimer">
 			<b>{{ 'entry.foundErrorTitle' | translate }} </b>
 			<span [innerHTML]="'entry.foundErrorText' | translate"></span>
-		</div>
-
-		<div class="disclaimer" [@enter4]>
 		</div>
 	</div>
 </div>

@@ -1,6 +1,5 @@
 import {Component, HostListener, Inject, OnInit, Renderer2, ViewChild, ElementRef, AfterViewInit, ChangeDetectionStrategy} from '@angular/core';
 import {DialogService} from '@services/dialog';
-import {fadeInUpOnEnterAnimation} from "angular-animations";
 import {TranslateService} from "@ngx-translate/core";
 import {DialogElementsExampleDialog} from '@components/entry/entry';
 
@@ -12,13 +11,6 @@ export interface DialogData {
     selector: 'app-progeszteron-kalkulator',
     templateUrl: './progeszteron-kalkulator.html',
     styleUrl: './progeszteron-kalkulator.scss',
-    animations: [
-        fadeInUpOnEnterAnimation({ anchor: 'enter1', duration: 1000, delay: 100, translate: '30px' }),
-        fadeInUpOnEnterAnimation({ anchor: 'enter2', duration: 1000, delay: 300, translate: '30px' }),
-        fadeInUpOnEnterAnimation({ anchor: 'enter3', duration: 1000, delay: 500, translate: '30px' }),
-        fadeInUpOnEnterAnimation({ anchor: 'enter4', duration: 1000, delay: 800, translate: '30px' }),
-        fadeInUpOnEnterAnimation({ anchor: 'enter5', duration: 1000, delay: 1500, translate: '30px' }),
-    ],
     changeDetection: ChangeDetectionStrategy.Eager,
     standalone: false
 })
@@ -95,7 +87,7 @@ export class ProgeszteronKalkulatorComponent implements OnInit, AfterViewInit {
   openShareDialog(): void {
     this.dialog.open(DialogElementsExampleDialog, {
       data: {
-        link: location.origin + '/#/progeszteron-kalkulator'
+        link: location.origin + '/progeszteron-kalkulator'
       }
     });
   }

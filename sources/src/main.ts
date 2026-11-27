@@ -8,5 +8,10 @@ if (environment.production) {
   enableProdMode();
 }
 
+// A korábbi, #-os hivatkozások (pl. /#/entry?id=slug) átirányítása a tiszta útvonalra
+if (location.hash.startsWith('#/')) {
+  history.replaceState(null, '', location.hash.slice(1));
+}
+
 platformBrowserDynamic().bootstrapModule(AppModule, { applicationProviders: [provideZoneChangeDetection()], })
   .catch(err => console.error(err));

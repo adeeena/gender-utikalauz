@@ -1,41 +1,34 @@
-<div class="explain-card-content">
-  <h3>{{ 'home.recommendations' | translate }}</h3>
+<div class="wrap explain-card-content">
+  <h2 class="explain-title" appReveal>{{ 'home.recommendations' | translate }}</h2>
 
-  <div class="recommendation-items">
-    <a routerLink="/galery">
-      <div class="recommendation-item item">
-        <h4>📷 Galéria</h4>
-        <span>Híres transz és nem-bináris emberekről</span>
-      </div>
+  <div class="recommendation-items" appReveal appRevealChildren=".item">
+    <a class="item item-wide" routerLink="/galery">
+      <h3>Galéria</h3>
+      <span>Híres transz és nem-bináris emberekről</span>
     </a>
 
-    <a [routerLink]="'/entry'"
-         [queryParams]="{ id: 'brosura-10-tevhit-a-transzidentitasrol'}">
-      <div class="recommendation-item item">
-        <h4>❌ 10 tévhit a transz&shy;i&shy;den&shy;ti&shy;tás&shy;ról</h4>
-        <span>Bevezető a transzidentitásról, transz fiatalok szülei számára.</span>
-      </div>
+    <a class="item item-wide"
+       [routerLink]="'/entry'"
+       [queryParams]="{ id: 'brosura-10-tevhit-a-transzidentitasrol'}">
+      <h3>10 tévhit a transz&shy;i&shy;den&shy;ti&shy;tás&shy;ról</h3>
+      <span>Bevezető a transzidentitásról, transz fiatalok szülei számára.</span>
     </a>
 
-    <a [routerLink]="'/entry'"
+    <a class="item"
+       [routerLink]="'/entry'"
        [queryParams]="{ id: 'brosura-hormonok-kitoltheto-utmutato'}">
-      <div class="recommendation-item item">
-        <h4>💊 Hormonok</h4>
-        <span>Bővebben a kitölthető útmutatókról és letöltésük.</span>
-      </div>
+      <h3>Hormonok</h3>
+      <span>Bővebben a kitölthető útmutatókról és letöltésük.</span>
     </a>
 
-    <a href="https://genderutikalauz.hu/public/muteti-hegmasszazs.pdf">
-      <div class="recommendation-item item">
-        <h4>💆 Műtéti hegmasszázs</h4>
-        <span>Ismertető arról, hogyan kell a műtéti hegeket megmasszírozni.</span>
-      </div>
+    <a class="item" href="https://genderutikalauz.hu/public/muteti-hegmasszazs.pdf">
+      <h3>Műtéti hegmasszázs</h3>
+      <span>Ismertető arról, hogyan kell a műtéti hegeket megmasszírozni.</span>
     </a>
 
-    <a href="https://1tpc.hu">
-      <div class="etpc item">
-        <h4>🔊 Egy Transz Podcast</h4>
-      </div>
+    <a class="item" href="https://1tpc.hu">
+      <h3>Egy Transz Podcast</h3>
+      <span>Hallgasd meg az epizódokat.</span>
     </a>
   </div>
 </div>
